@@ -573,7 +573,13 @@ class CachingClient:
         )
 
     def _write_fixture(self, url: str, fetched: Fetched) -> None:
-        write_fixture(self.fixture_root, self.profile or "", url, fetched)
+        # A recording with no profile cannot be written anywhere meaningful:
+        # tests use `mode="record"` purely to drive an in-memory PlaybackClient,
+        # and writing those to the default fixture root used to litter
+        # tests/fixtures/t/ with whatever URL a stub happened to serve.
+        if not self.profile:
+            return
+        write_fixture(self.fixture_root, self.profile, url, fetched)
 
     # -- introspection ------------------------------------------------------
 

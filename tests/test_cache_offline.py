@@ -152,7 +152,7 @@ def test_budget_buckets_are_separate():
     assert len({core, search, code}) == 3
 
 
-def test_spending_a_search_does_not_exhaust_core(cache):
+def test_spending_a_search_does_not_exhaust_core(cache, tmp_path):
     """The regression: code-search spender must not block repo lookups."""
     from deadledger.http import PlaybackClient, CachingClient
 
@@ -165,7 +165,8 @@ def test_spending_a_search_does_not_exhaust_core(cache):
         ),
         cache,
         mode="record",
-        profile="t",
+        profile="unit",
+        fixture_root=tmp_path,
     )
     client.rate_limits = {
         "github": {"remaining": 5000, "reset": 0},
@@ -245,7 +246,7 @@ def test_only_github_has_budgets():
     assert _budget_for("https://crates.io/api/v1/crates/serde") is None
 
 
-def test_a_pypi_error_does_not_disable_pypi(cache):
+def test_a_pypi_error_does_not_disable_pypi(cache, tmp_path):
     """One 4xx from a registry must not end the registry for the whole run."""
     from deadledger.http import CachingClient, PlaybackClient
 
@@ -258,7 +259,8 @@ def test_a_pypi_error_does_not_disable_pypi(cache):
         ),
         cache,
         mode="record",
-        profile="t",
+        profile="unit",
+        fixture_root=tmp_path,
     )
     # A response that reports "0 remaining" -- PyPI's rate headers are not a
     # budget we track, so this must be ignored rather than latched.
@@ -270,13 +272,13 @@ def test_a_pypi_error_does_not_disable_pypi(cache):
     assert client.get_json("https://pypi.org/pypi/alive/json").payload["info"]["name"] == "alive"
 
 
-def test_learned_budgets_are_keyed_by_bucket_not_profile(cache):
+def test_learned_budgets_are_keyed_by_bucket_not_profile(cache, tmp_path):
     """`learn` writes what `budget` reads; they used different keys."""
     from datetime import datetime, timezone
 
     from deadledger.http import CachingClient, Fetched, PlaybackClient
 
-    client = CachingClient(PlaybackClient({}), cache, mode="record", profile="t")
+    client = CachingClient(PlaybackClient({}), cache, mode="record", profile="unit", fixture_root=tmp_path)
     client._learn_rate_limit(
         "github",
         Fetched(
