@@ -1,0 +1,15 @@
+{
+ "body": {
+  "archived": false,
+  "default_branch": "master",
+  "full_name": "jshttp/accepts",
+  "html_url": "https://github.com/jshttp/accepts",
+  "open_issues_count": 11,
+  "pushed_at": "2026-04-02T16:03:36Z",
+  "stargazers_count": 266
+ },
+ "recorded_at": "2026-11-16T18:12:21Z",
+ "recorded_with": "deadledger 0.1.0",
+ "status": 200,
+ "url": "https://api.github.com/repos/jshttp/accepts"
+}

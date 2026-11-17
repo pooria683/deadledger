@@ -1,0 +1,15 @@
+{
+ "body": {
+  "archived": false,
+  "default_branch": "main",
+  "full_name": "encode/django-rest-framework",
+  "html_url": "https://github.com/encode/django-rest-framework",
+  "open_issues_count": 62,
+  "pushed_at": "2026-11-16T15:59:11Z",
+  "stargazers_count": 30242
+ },
+ "recorded_at": "2026-11-16T18:38:46Z",
+ "recorded_with": "deadledger 0.1.0",
+ "status": 200,
+ "url": "https://api.github.com/repos/encode/django-rest-framework"
+}

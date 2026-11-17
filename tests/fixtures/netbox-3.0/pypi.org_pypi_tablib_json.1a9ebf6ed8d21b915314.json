@@ -1,0 +1,585 @@
+{
+ "body": {
+  "info": {
+   "bugtrack_url": null,
+   "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Natural Language :: English",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Programming Language :: Python :: 3.15"
+   ],
+   "home_page": null,
+   "license": "MIT License",
+   "license_expression": null,
+   "name": "tablib",
+   "project_url": "https://pypi.org/project/tablib/",
+   "project_urls": {
+    "changelog": "https://github.com/jazzband/tablib/blob/master/HISTORY.md",
+    "documentation": "https://tablib.readthedocs.io",
+    "homepage": "https://tablib.readthedocs.io",
+    "repository": "https://github.com/jazzband/tablib"
+   },
+   "summary": "Format agnostic tabular data library (XLS, JSON, YAML, CSV, etc.)",
+   "version": "3.10.0",
+   "yanked": false,
+   "yanked_reason": null
+  },
+  "ownership": {
+   "organization": null,
+   "roles": [
+    {
+     "role": "Owner",
+     "user": "kennethreitz"
+    },
+    {
+     "role": "Owner",
+     "user": "tuxtimo"
+    },
+    {
+     "role": "Maintainer",
+     "user": "iurisilvio"
+    },
+    {
+     "role": "Maintainer",
+     "user": "jazzband"
+    }
+   ]
+  },
+  "releases": {
+   "0.0.1": [],
+   "0.10.0": [
+    {
+     "packagetype": "bdist_wheel",
+     "upload_time": "2014-05-27T16:51:08",
+     "upload_time_iso_8601": "2014-05-27T16:51:08.646051Z",
+     "yanked": false
+    },
+    {
+     "packagetype": "sdist",
+     "upload_time": "2014-05-27T16:51:05",
+     "upload_time_iso_8601": "2014-05-27T16:51:05.362570Z",
+     "yanked": false
+    }
+   ],
+   "0.11.0": [
+    {
+     "packagetype": "sdist",
+     "upload_time": "2016-02-07T15:57:18",
+     "upload_time_iso_8601": "2016-02-07T15:57:18.253995Z",
+     "yanked": false
+    }
+   ],
+   "0.11.1": [
+    {
+     "packagetype": "sdist",
+     "upload_time": "2016-02-07T18:41:12",
+     "upload_time_iso_8601": "2016-02-07T18:41:12.106156Z",
+     "yanked": false
+    }
+   ],
+   "0.11.2": [
+    {
+     "packagetype": "bdist_wheel",
+     "upload_time": "2016-02-16T13:28:42",
+     "upload_time_iso_8601": "2016-02-16T13:28:42.286151Z",
+     "yanked": false
+    },
+    {
+     "packagetype": "sdist",
+     "upload_time": "2016-02-16T13:28:27",
+     "upload_time_iso_8601": "2016-02-16T13:28:27.798361Z",
+     "yanked": false
+    }
+   ],
+   "0.11.3": [
+    {
+     "packagetype": "sdist",
+     "upload_time": "2016-12-05T21:47:05",
+     "upload_time_iso_8601": "2016-12-05T21:47:05.837198Z",
+     "yanked": false
+    }
+   ],
+   "0.11.4": [
+    {
+     "packagetype": "sdist",
+     "upload_time": "2017-01-23T21:12:57",
+     "upload_time_iso_8601": "2017-01-23T21:12:57.158160Z",
+     "yanked": false
+    }
+   ],
+   "0.11.5": [
+    {
+     "packagetype": "sdist",
+     "upload_time": "2017-06-13T16:31:57",
+     "upload_time_iso_8601": "2017-06-13T16:31:57.651963Z",
+     "yanked": false
+    }
+   ],
+   "0.12.0": [
+    {
+     "packagetype": "sdist",
+     "upload_time": "2017-08-27T07:45:34",
+     "upload_time_iso_8601": "2017-08-27T07:45:34.778259Z",
+     "yanked": false
+    }
+   ],
+   "0.12.1": [
+    {
+     "packagetype": "sdist",
+     "upload_time": "2017-09-01T19:37:31",
+     "upload_time_iso_8601": "2017-09-01T19:37:31.387330Z",
+     "yanked": false
+    }
+   ],
+   "0.13.0": [
+    {
+     "packagetype": "bdist_wheel",
+     "upload_time": "2019-03-08T12:17:37",
+     "upload_time_iso_8601": "2019-03-08T12:17:37.291097Z",
+     "yanked": false
+    },
+    {
+     "packagetype": "sdist",
+     "upload_time": "2019-03-08T12:17:39",
+     "upload_time_iso_8601": "2019-03-08T12:17:39.342088Z",
+     "yanked": false
+    }
+   ],
+   "0.14.0": [
+    {
+     "packagetype": "bdist_wheel",
+     "upload_time": "2019-10-19T10:45:24",
+     "upload_time_iso_8601": "2019-10-19T10:45:24.233859Z",
+     "yanked": false
+    },
+    {
+     "packagetype": "sdist",
+     "upload_time": "2019-10-19T10:46:54",
+     "upload_time_iso_8601": "2019-10-19T10:46:54.141455Z",
+     "yanked": false
+    }
+   ],
+   "0.6.1": [
+    {
+     "packagetype": "sdist",
+     "upload_time": "2011-05-11T02:25:36",
+     "upload_time_iso_8601": "2011-05-11T02:25:36.395258Z",
+     "yanked": false
+    }
+   ],
+   "0.6.2": [
+    {
+     "packagetype": "sdist",
+     "upload_time": "2011-05-11T02:25:56",
+     "upload_time_iso_8601": "2011-05-11T02:25:56.158279Z",
+     "yanked": false
+    }
+   ],
+   "0.6.3": [
+    {
+     "packagetype": "sdist",
+     "upload_time": "2011-05-11T02:26:58",
+     "upload_time_iso_8601": "2011-05-11T02:26:58.482327Z",
+     "yanked": false
+    }
+   ],
+   "0.6.4": [
+    {
+     "packagetype": "sdist",
+     "upload_time": "2011-05-11T02:27:06",
+     "upload_time_iso_8601": "2011-05-11T02:27:06.814047Z",
+     "yanked": false
+    }
+   ],
+   "0.7.0": [
+    {
+     "packagetype": "sdist",
+     "upload_time": "2011-05-11T02:27:48",
+     "upload_time_iso_8601": "2011-05-11T02:27:48.542451Z",
+     "yanked": false
+    }
+   ],
+   "0.7.1": [
+    {
+     "packagetype": "sdist",
+     "upload_time": "2011-05-11T02:27:56",
+     "upload_time_iso_8601": "2011-05-11T02:27:56.031080Z",
+     "yanked": false
+    }
+   ],
+   "0.8.0": [
+    {
+     "packagetype": "sdist",
+     "upload_time": "2011-05-11T02:28:09",
+     "upload_time_iso_8601": "2011-05-11T02:28:09.097556Z",
+     "yanked": false
+    }
+   ],
+   "0.8.1": [
+    {
+     "packagetype": "sdist",
+     "upload_time": "2011-05-11T02:28:16",
+     "upload_time_iso_8601": "2011-05-11T02:28:16.880254Z",
+     "yanked": false
+    }
+   ],
+   "0.8.2": [
+    {
+     "packagetype": "sdist",
+     "upload_time": "2011-05-11T02:28:22",
+     "upload_time_iso_8601": "2011-05-11T02:28:22.837454Z",
+     "yanked": false
+    }
+   ],
+   "0.8.3": [
+    {
+     "packagetype": "sdist",
+     "upload_time": "2011-05-11T02:28:28",
+     "upload_time_iso_8601": "2011-05-11T02:28:28.725252Z",
+     "yanked": false
+    }
+   ],
+   "0.8.4": [
+    {
+     "packagetype": "sdist",
+     "upload_time": "2011-05-11T02:28:34",
+     "upload_time_iso_8601": "2011-05-11T02:28:34.405444Z",
+     "yanked": false
+    }
+   ],
+   "0.9.0": [
+    {
+     "packagetype": "sdist",
+     "upload_time": "2011-05-11T02:29:00",
+     "upload_time_iso_8601": "2011-05-11T02:29:00.985733Z",
+     "yanked": false
+    }
+   ],
+   "0.9.1": [
+    {
+     "packagetype": "sdist",
+     "upload_time": "2011-05-11T02:29:08",
+     "upload_time_iso_8601": "2011-05-11T02:29:08.169819Z",
+     "yanked": false
+    }
+   ],
+   "0.9.10": [
+    {
+     "packagetype": "sdist",
+     "upload_time": "2011-06-23T12:47:07",
+     "upload_time_iso_8601": "2011-06-23T12:47:07.734966Z",
+     "yanked": false
+    }
+   ],
+   "0.9.11": [
+    {
+     "packagetype": "sdist",
+     "upload_time": "2011-06-30T22:29:51",
+     "upload_time_iso_8601": "2011-06-30T22:29:51.826539Z",
+     "yanked": false
+    }
+   ],
+   "0.9.2": [
+    {
+     "packagetype": "sdist",
+     "upload_time": "2011-05-11T02:29:15",
+     "upload_time_iso_8601": "2011-05-11T02:29:15.104238Z",
+     "yanked": false
+    }
+   ],
+   "0.9.3": [
+    {
+     "packagetype": "sdist",
+     "upload_time": "2011-05-11T02:29:22",
+     "upload_time_iso_8601": "2011-05-11T02:29:22.966810Z",
+     "yanked": false
+    }
+   ],
+   "0.9.4": [
+    {
+     "packagetype": "sdist",
+     "upload_time": "2011-05-11T02:29:30",
+     "upload_time_iso_8601": "2011-05-11T02:29:30.614039Z",
+     "yanked": false
+    }
+   ],
+   "0.9.5": [
+    {
+     "packagetype": "sdist",
+     "upload_time": "2011-05-11T02:29:37",
+     "upload_time_iso_8601": "2011-05-11T02:29:37.946789Z",
+     "yanked": false
+    }
+   ],
+   "0.9.6": [
+    {
+     "packagetype": "sdist",
+     "upload_time": "2011-05-12T08:54:29",
+     "upload_time_iso_8601": "2011-05-12T08:54:29.237330Z",
+     "yanked": false
+    }
+   ],
+   "0.9.7": [
+    {
+     "packagetype": "sdist",
+     "upload_time": "2011-05-13T07:26:43",
+     "upload_time_iso_8601": "2011-05-13T07:26:43.828663Z",
+     "yanked": false
+    }
+   ],
+   "0.9.8": [
+    {
+     "packagetype": "sdist",
+     "upload_time": "2011-05-23T17:28:55",
+     "upload_time_iso_8601": "2011-05-23T17:28:55.510149Z",
+     "yanked": false
+    }
+   ],
+   "0.9.9": [
+    {
+     "packagetype": "sdist",
+     "upload_time": "2011-06-22T05:02:50",
+     "upload_time_iso_8601": "2011-06-22T05:02:50.260834Z",
+     "yanked": false
+    }
+   ],
+   "1.0.0": [
+    {
+     "packagetype": "bdist_wheel",
+     "upload_time": "2020-01-13T18:22:40",
+     "upload_time_iso_8601": "2020-01-13T18:22:40.007457Z",
+     "yanked": false
+    },
+    {
+     "packagetype": "sdist",
+     "upload_time": "2020-01-13T18:21:29",
+     "upload_time_iso_8601": "2020-01-13T18:21:29.981740Z",
+     "yanked": false
+    }
+   ],
+   "1.1.0": [
+    {
+     "packagetype": "bdist_wheel",
+     "upload_time": "2020-02-13T18:03:10",
+     "upload_time_iso_8601": "2020-02-13T18:03:10.854428Z",
+     "yanked": false
+    },
+    {
+     "packagetype": "sdist",
+     "upload_time": "2020-02-13T18:02:47",
+     "upload_time_iso_8601": "2020-02-13T18:02:47.955813Z",
+     "yanked": false
+    }
+   ],
+   "2.0.0": [
+    {
+     "packagetype": "bdist_wheel",
+     "upload_time": "2020-05-16T12:15:01",
+     "upload_time_iso_8601": "2020-05-16T12:15:01.957140Z",
+     "yanked": false
+    },
+    {
+     "packagetype": "sdist",
+     "upload_time": "2020-05-16T12:15:38",
+     "upload_time_iso_8601": "2020-05-16T12:15:38.909079Z",
+     "yanked": false
+    }
+   ],
+   "3.0.0": [
+    {
+     "packagetype": "bdist_wheel",
+     "upload_time": "2020-12-05T14:56:28",
+     "upload_time_iso_8601": "2020-12-05T14:56:28.816249Z",
+     "yanked": false
+    },
+    {
+     "packagetype": "sdist",
+     "upload_time": "2020-12-05T14:56:15",
+     "upload_time_iso_8601": "2020-12-05T14:56:15.806840Z",
+     "yanked": false
+    }
+   ],
+   "3.1.0": [
+    {
+     "packagetype": "bdist_wheel",
+     "upload_time": "2021-10-26T12:43:46",
+     "upload_time_iso_8601": "2021-10-26T12:43:46.373272Z",
+     "yanked": false
+    },
+    {
+     "packagetype": "sdist",
+     "upload_time": "2021-10-26T12:43:33",
+     "upload_time_iso_8601": "2021-10-26T12:43:33.246745Z",
+     "yanked": false
+    }
+   ],
+   "3.10.0": [
+    {
+     "packagetype": "bdist_wheel",
+     "upload_time": "2026-07-31T17:30:04",
+     "upload_time_iso_8601": "2026-07-31T17:30:04.925642Z",
+     "yanked": false
+    },
+    {
+     "packagetype": "sdist",
+     "upload_time": "2026-07-31T17:30:15",
+     "upload_time_iso_8601": "2026-07-31T17:30:15.577376Z",
+     "yanked": false
+    }
+   ],
+   "3.2.0": [
+    {
+     "packagetype": "bdist_wheel",
+     "upload_time": "2022-01-27T16:29:34",
+     "upload_time_iso_8601": "2022-01-27T16:29:34.771145Z",
+     "yanked": false
+    },
+    {
+     "packagetype": "sdist",
+     "upload_time": "2022-01-27T16:29:46",
+     "upload_time_iso_8601": "2022-01-27T16:29:46.520760Z",
+     "yanked": false
+    }
+   ],
+   "3.2.1": [
+    {
+     "packagetype": "bdist_wheel",
+     "upload_time": "2022-04-09T14:18:50",
+     "upload_time_iso_8601": "2022-04-09T14:18:50.394477Z",
+     "yanked": false
+    },
+    {
+     "packagetype": "sdist",
+     "upload_time": "2022-04-09T14:18:59",
+     "upload_time_iso_8601": "2022-04-09T14:18:59.854224Z",
+     "yanked": false
+    }
+   ],
+   "3.3.0": [
+    {
+     "packagetype": "bdist_wheel",
+     "upload_time": "2022-12-10T14:06:20",
+     "upload_time_iso_8601": "2022-12-10T14:06:20.044058Z",
+     "yanked": false
+    },
+    {
+     "packagetype": "sdist",
+     "upload_time": "2022-12-10T14:07:00",
+     "upload_time_iso_8601": "2022-12-10T14:07:00.377998Z",
+     "yanked": false
+    }
+   ],
+   "3.4.0": [
+    {
+     "packagetype": "bdist_wheel",
+     "upload_time": "2023-03-24T12:13:46",
+     "upload_time_iso_8601": "2023-03-24T12:13:46.127985Z",
+     "yanked": false
+    },
+    {
+     "packagetype": "sdist",
+     "upload_time": "2023-03-24T12:14:23",
+     "upload_time_iso_8601": "2023-03-24T12:14:23.329126Z",
+     "yanked": false
+    }
+   ],
+   "3.5.0": [
+    {
+     "packagetype": "bdist_wheel",
+     "upload_time": "2023-06-11T17:08:43",
+     "upload_time_iso_8601": "2023-06-11T17:08:43.883026Z",
+     "yanked": false
+    },
+    {
+     "packagetype": "sdist",
+     "upload_time": "2023-06-11T17:09:35",
+     "upload_time_iso_8601": "2023-06-11T17:09:35.956517Z",
+     "yanked": false
+    }
+   ],
+   "3.6.0": [
+    {
+     "packagetype": "bdist_wheel",
+     "upload_time": "2024-03-23T11:12:01",
+     "upload_time_iso_8601": "2024-03-23T11:12:01.502462Z",
+     "yanked": false
+    },
+    {
+     "packagetype": "sdist",
+     "upload_time": "2024-03-23T11:11:23",
+     "upload_time_iso_8601": "2024-03-23T11:11:23.490781Z",
+     "yanked": false
+    }
+   ],
+   "3.6.1": [
+    {
+     "packagetype": "bdist_wheel",
+     "upload_time": "2024-04-04T13:55:31",
+     "upload_time_iso_8601": "2024-04-04T13:55:31.484416Z",
+     "yanked": false
+    },
+    {
+     "packagetype": "sdist",
+     "upload_time": "2024-04-04T13:56:02",
+     "upload_time_iso_8601": "2024-04-04T13:56:02.678154Z",
+     "yanked": false
+    }
+   ],
+   "3.7.0": [
+    {
+     "packagetype": "bdist_wheel",
+     "upload_time": "2024-10-08T13:14:20",
+     "upload_time_iso_8601": "2024-10-08T13:14:20.556491Z",
+     "yanked": false
+    },
+    {
+     "packagetype": "sdist",
+     "upload_time": "2024-10-08T13:14:43",
+     "upload_time_iso_8601": "2024-10-08T13:14:43.900538Z",
+     "yanked": false
+    }
+   ],
+   "3.8.0": [
+    {
+     "packagetype": "bdist_wheel",
+     "upload_time": "2025-01-22T15:28:44",
+     "upload_time_iso_8601": "2025-01-22T15:28:44.499560Z",
+     "yanked": false
+    },
+    {
+     "packagetype": "sdist",
+     "upload_time": "2025-01-22T15:29:27",
+     "upload_time_iso_8601": "2025-01-22T15:29:27.276493Z",
+     "yanked": false
+    }
+   ],
+   "3.9.0": [
+    {
+     "packagetype": "bdist_wheel",
+     "upload_time": "2025-10-15T18:21:44",
+     "upload_time_iso_8601": "2025-10-15T18:21:44.185245Z",
+     "yanked": false
+    },
+    {
+     "packagetype": "sdist",
+     "upload_time": "2025-10-15T18:21:56",
+     "upload_time_iso_8601": "2025-10-15T18:21:56.263761Z",
+     "yanked": false
+    }
+   ]
+  }
+ },
+ "recorded_at": "2026-11-16T18:38:46Z",
+ "recorded_with": "deadledger 0.1.0",
+ "status": 200,
+ "url": "https://pypi.org/pypi/tablib/json"
+}

@@ -1,0 +1,101 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    name: test (python ${{ matrix.python }})
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        python: ["3.11", "3.12", "3.13"]
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python }}
+          cache: pip
+
+      - name: Install
+        run: |
+          python -m pip install --upgrade pip
+          pip install -e '.[dev]'
+
+      # The suite must pass with no network. If a test ever starts reaching for
+      # a registry, this is the job that tells us.
+      - name: Tests (offline)
+        run: pytest -q --cov=deadledger --cov-report=term-missing
+
+      # Our own CI should be honest about its own dependencies.
+      - name: Map lint
+        run: deadledger map lint
+
+      - name: Docs contract
+        run: pytest tests/test_docs.py -q
+
+  dogfood:
+    name: audit this project
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -e '.[dev]'
+
+      # This repository audits itself (requirements.txt is its own pinned
+      # dependency list). The first run baselines the ledger and never fails;
+      # after that it fails only on NEW critical mortality.
+      #
+      # `|| status=$?` is deliberate: the report and the step summary must be
+      # written even when the gate fails, otherwise a red build tells you that
+      # something died but not what.
+      # Restore the ledger. Keyed on the branch, never on the lockfile: a
+      # ledger keyed on the lockfile re-baselines whenever a dependency is
+      # added, and a baseline cannot fail -- which would forgive the exact
+      # event this check exists to catch.
+      - name: Restore ledger
+        uses: actions/cache@v4
+        with:
+          path: .deadledger
+          key: deadledger-ledger-${{ github.ref_name }}
+          restore-keys: deadledger-ledger-
+
+      # A hard outer timeout as well as the tool's own network deadline: a CI
+      # job that hangs forever is worse than one that fails, because nothing
+      # ever tells you it failed.
+      - name: Environment
+        run: |
+          deadledger --version
+          deadledger doctor || true
+          deadledger cache info || true
+
+      - name: Mortality check
+        timeout-minutes: 8
+        run: |
+          mkdir -p .deadledger
+          set +e
+          deadledger ci --report mortality.md --fail-on critical --format text
+          status=$?
+          set -e
+          echo "--- exit status: $status"
+          if [ -f mortality.md ]; then cat mortality.md >> "$GITHUB_STEP_SUMMARY"; fi
+          exit $status
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: mortality-report
+          path: mortality.md
+          if-no-files-found: ignore

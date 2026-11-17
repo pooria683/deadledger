@@ -1,0 +1,2473 @@
+{
+ "body": [
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/16805946?v=4",
+    "events_url": "https://api.github.com/users/edgarrmondragon/events{/privacy}",
+    "followers_url": "https://api.github.com/users/edgarrmondragon/followers",
+    "following_url": "https://api.github.com/users/edgarrmondragon/following{/other_user}",
+    "gists_url": "https://api.github.com/users/edgarrmondragon/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/edgarrmondragon",
+    "id": 16805946,
+    "login": "edgarrmondragon",
+    "node_id": "MDQ6VXNlcjE2ODA1OTQ2",
+    "organizations_url": "https://api.github.com/users/edgarrmondragon/orgs",
+    "received_events_url": "https://api.github.com/users/edgarrmondragon/received_events",
+    "repos_url": "https://api.github.com/users/edgarrmondragon/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/edgarrmondragon/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/edgarrmondragon/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/edgarrmondragon",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/psycopg/psycopg2/commits/7d0375492ec3707b82b89f632c9654b400466d86/comments",
+   "commit": {
+    "author": {
+     "date": "2026-09-23T14:47:57Z",
+     "email": "16805946+edgarrmondragon@users.noreply.github.com",
+     "name": "Edgar Ramírez Mondragón"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-09-23T14:47:57Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "chore: Get rid of Tox\n\nSigned-off-by: Edgar Ramírez Mondragón <edgarrm358@gmail.com>\n\nSee #1849",
+    "tree": {
+     "sha": "65a29e6a9b2fb6fe26809502e165609a5e3a6054",
+     "url": "https://api.github.com/repos/psycopg/psycopg2/git/trees/65a29e6a9b2fb6fe26809502e165609a5e3a6054"
+    },
+    "url": "https://api.github.com/repos/psycopg/psycopg2/git/commits/7d0375492ec3707b82b89f632c9654b400466d86",
+    "verification": {
+     "payload": "tree 65a29e6a9b2fb6fe26809502e165609a5e3a6054\nparent f650e7afed0c94f596594e8328a0c7fa65a9d0e5\nauthor Edgar Ramírez Mondragón <16805946+edgarrmondragon@users.noreply.github.com> 1790174877 -0600\ncommitter GitHub <noreply@github.com> 1790174877 +0100\n\nchore: Get rid of Tox\n\nSigned-off-by: Edgar Ramírez Mondragón <edgarrm358@gmail.com>\n\nSee #1849",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqs+aeCRC1aQ7uu5UhlAAAjpIQAKWmPkPl91+bKDS0d0oA4nY7\nEqcVXLS/vckHLOw3l2qj6vBWoWigO4JFgNB6lWRB5WO+A0MYUkXmyY7a9QTgejCa\nFn6f1ZA90blmEdZ3WKqqWyY5WBWzjTT6nBanjhFNvINQjryY+V37vY/r3mtFk5WV\nyDDBraA+Dkpjo1NoBV1kSnbB8KYcHiopMQRmWaecQ3oINMk7ul8zXAdzrpkcF/Fj\nZ9mLyQxYyPbtI8ec5R0TVHByv1NH9spqHo1MxjWZ+o5T5HgTQM9TnR6E8wVyoDKW\nZ7Rk68EX5p5EiFZ/DFSYa7qpzQISpyXDFOpLTUqWI+onfaGGZD4IxK2aNwItu5wW\nADxxkvbIVX+vWpm7CSO0xzU/au5+hIWpoo2i1lDoI9H3eeyA3qHZOoSDlrpTI7bA\nquOm5IFM3c6nFPKBTV7uPGeZpseMzrez+AZFEVbrxlJMAicEGfG2srbykp1A7y5s\n4L933rCCKan1hEb4dGuCAmKRXyLMZH7epgGgXU/jSl+eCKkv5OnmWxSqcxdQZhce\nDGnD9N0PrZAitBnAJ2qQQOD6TvrJaPmVaa/c4qrlxEX7Psl2GE2s8HNQ1WVH0ivL\nUK5TvJGlmHXTKLJebO1VGhbBqG2JJ4U5ypN/Ozju3o7Tr3X3DU+zsoVyCiNQ8K+u\n4VWZW4rcS91FnjCVrAdg\n=XOa/\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-09-23T14:47:58Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/psycopg/psycopg2/commit/7d0375492ec3707b82b89f632c9654b400466d86",
+   "node_id": "C_kwDOAHX2jdoAKDdkMDM3NTQ5MmVjMzcwN2I4MmI4OWY2MzJjOTY1NGI0MDA0NjZkODY",
+   "parents": [
+    {
+     "html_url": "https://github.com/psycopg/psycopg2/commit/f650e7afed0c94f596594e8328a0c7fa65a9d0e5",
+     "sha": "f650e7afed0c94f596594e8328a0c7fa65a9d0e5",
+     "url": "https://api.github.com/repos/psycopg/psycopg2/commits/f650e7afed0c94f596594e8328a0c7fa65a9d0e5"
+    }
+   ],
+   "sha": "7d0375492ec3707b82b89f632c9654b400466d86",
+   "url": "https://api.github.com/repos/psycopg/psycopg2/commits/7d0375492ec3707b82b89f632c9654b400466d86"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/199429?v=4",
+    "events_url": "https://api.github.com/users/dvarrazzo/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dvarrazzo/followers",
+    "following_url": "https://api.github.com/users/dvarrazzo/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dvarrazzo/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/dvarrazzo",
+    "id": 199429,
+    "login": "dvarrazzo",
+    "node_id": "MDQ6VXNlcjE5OTQyOQ==",
+    "organizations_url": "https://api.github.com/users/dvarrazzo/orgs",
+    "received_events_url": "https://api.github.com/users/dvarrazzo/received_events",
+    "repos_url": "https://api.github.com/users/dvarrazzo/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dvarrazzo/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dvarrazzo/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/dvarrazzo",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/psycopg/psycopg2/commits/f650e7afed0c94f596594e8328a0c7fa65a9d0e5/comments",
+   "commit": {
+    "author": {
+     "date": "2026-09-09T21:13:28Z",
+     "email": "daniele.varrazzo@gmail.com",
+     "name": "Daniele Varrazzo"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-09-09T21:35:50Z",
+     "email": "daniele.varrazzo@gmail.com",
+     "name": "Daniele Varrazzo"
+    },
+    "message": "chore: bump to release 2.9.13",
+    "tree": {
+     "sha": "a7eb45e053cbd9865eaa9b9acec53e18dbf37e9c",
+     "url": "https://api.github.com/repos/psycopg/psycopg2/git/trees/a7eb45e053cbd9865eaa9b9acec53e18dbf37e9c"
+    },
+    "url": "https://api.github.com/repos/psycopg/psycopg2/git/commits/f650e7afed0c94f596594e8328a0c7fa65a9d0e5",
+    "verification": {
+     "payload": null,
+     "reason": "unsigned",
+     "signature": null,
+     "verified": false,
+     "verified_at": null
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/199429?v=4",
+    "events_url": "https://api.github.com/users/dvarrazzo/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dvarrazzo/followers",
+    "following_url": "https://api.github.com/users/dvarrazzo/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dvarrazzo/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/dvarrazzo",
+    "id": 199429,
+    "login": "dvarrazzo",
+    "node_id": "MDQ6VXNlcjE5OTQyOQ==",
+    "organizations_url": "https://api.github.com/users/dvarrazzo/orgs",
+    "received_events_url": "https://api.github.com/users/dvarrazzo/received_events",
+    "repos_url": "https://api.github.com/users/dvarrazzo/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dvarrazzo/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dvarrazzo/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/dvarrazzo",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/psycopg/psycopg2/commit/f650e7afed0c94f596594e8328a0c7fa65a9d0e5",
+   "node_id": "C_kwDOAHX2jdoAKGY2NTBlN2FmZWQwYzk0ZjU5NjU5NGU4MzI4YTBjN2ZhNjVhOWQwZTU",
+   "parents": [
+    {
+     "html_url": "https://github.com/psycopg/psycopg2/commit/368c8a1ca6d80088703a693ce64b68ad7d346698",
+     "sha": "368c8a1ca6d80088703a693ce64b68ad7d346698",
+     "url": "https://api.github.com/repos/psycopg/psycopg2/commits/368c8a1ca6d80088703a693ce64b68ad7d346698"
+    }
+   ],
+   "sha": "f650e7afed0c94f596594e8328a0c7fa65a9d0e5",
+   "url": "https://api.github.com/repos/psycopg/psycopg2/commits/f650e7afed0c94f596594e8328a0c7fa65a9d0e5"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/199429?v=4",
+    "events_url": "https://api.github.com/users/dvarrazzo/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dvarrazzo/followers",
+    "following_url": "https://api.github.com/users/dvarrazzo/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dvarrazzo/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/dvarrazzo",
+    "id": 199429,
+    "login": "dvarrazzo",
+    "node_id": "MDQ6VXNlcjE5OTQyOQ==",
+    "organizations_url": "https://api.github.com/users/dvarrazzo/orgs",
+    "received_events_url": "https://api.github.com/users/dvarrazzo/received_events",
+    "repos_url": "https://api.github.com/users/dvarrazzo/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dvarrazzo/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dvarrazzo/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/dvarrazzo",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/psycopg/psycopg2/commits/368c8a1ca6d80088703a693ce64b68ad7d346698/comments",
+   "commit": {
+    "author": {
+     "date": "2026-09-09T21:29:06Z",
+     "email": "daniele.varrazzo@gmail.com",
+     "name": "Daniele Varrazzo"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-09-09T21:35:50Z",
+     "email": "daniele.varrazzo@gmail.com",
+     "name": "Daniele Varrazzo"
+    },
+    "message": "chore!: drop support for Python 3.9",
+    "tree": {
+     "sha": "359aaca0dbe8cda53f83e0789dd5bd246b0ebb49",
+     "url": "https://api.github.com/repos/psycopg/psycopg2/git/trees/359aaca0dbe8cda53f83e0789dd5bd246b0ebb49"
+    },
+    "url": "https://api.github.com/repos/psycopg/psycopg2/git/commits/368c8a1ca6d80088703a693ce64b68ad7d346698",
+    "verification": {
+     "payload": null,
+     "reason": "unsigned",
+     "signature": null,
+     "verified": false,
+     "verified_at": null
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/199429?v=4",
+    "events_url": "https://api.github.com/users/dvarrazzo/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dvarrazzo/followers",
+    "following_url": "https://api.github.com/users/dvarrazzo/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dvarrazzo/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/dvarrazzo",
+    "id": 199429,
+    "login": "dvarrazzo",
+    "node_id": "MDQ6VXNlcjE5OTQyOQ==",
+    "organizations_url": "https://api.github.com/users/dvarrazzo/orgs",
+    "received_events_url": "https://api.github.com/users/dvarrazzo/received_events",
+    "repos_url": "https://api.github.com/users/dvarrazzo/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dvarrazzo/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dvarrazzo/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/dvarrazzo",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/psycopg/psycopg2/commit/368c8a1ca6d80088703a693ce64b68ad7d346698",
+   "node_id": "C_kwDOAHX2jdoAKDM2OGM4YTFjYTZkODAwODg3MDNhNjkzY2U2NGI2OGFkN2QzNDY2OTg",
+   "parents": [
+    {
+     "html_url": "https://github.com/psycopg/psycopg2/commit/9b39e65ab232f0a267a278cdaef1bd9975d88c65",
+     "sha": "9b39e65ab232f0a267a278cdaef1bd9975d88c65",
+     "url": "https://api.github.com/repos/psycopg/psycopg2/commits/9b39e65ab232f0a267a278cdaef1bd9975d88c65"
+    }
+   ],
+   "sha": "368c8a1ca6d80088703a693ce64b68ad7d346698",
+   "url": "https://api.github.com/repos/psycopg/psycopg2/commits/368c8a1ca6d80088703a693ce64b68ad7d346698"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/199429?v=4",
+    "events_url": "https://api.github.com/users/dvarrazzo/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dvarrazzo/followers",
+    "following_url": "https://api.github.com/users/dvarrazzo/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dvarrazzo/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/dvarrazzo",
+    "id": 199429,
+    "login": "dvarrazzo",
+    "node_id": "MDQ6VXNlcjE5OTQyOQ==",
+    "organizations_url": "https://api.github.com/users/dvarrazzo/orgs",
+    "received_events_url": "https://api.github.com/users/dvarrazzo/received_events",
+    "repos_url": "https://api.github.com/users/dvarrazzo/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dvarrazzo/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dvarrazzo/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/dvarrazzo",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/psycopg/psycopg2/commits/9b39e65ab232f0a267a278cdaef1bd9975d88c65/comments",
+   "commit": {
+    "author": {
+     "date": "2026-09-09T21:21:39Z",
+     "email": "daniele.varrazzo@gmail.com",
+     "name": "Daniele Varrazzo"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-09-09T21:35:50Z",
+     "email": "daniele.varrazzo@gmail.com",
+     "name": "Daniele Varrazzo"
+    },
+    "message": "chore: drop scaleway build support\n\nWe are now building arm64 packages on Github Action runners",
+    "tree": {
+     "sha": "e9fbb067735dd2e2aefa18ab63942c32b4f37255",
+     "url": "https://api.github.com/repos/psycopg/psycopg2/git/trees/e9fbb067735dd2e2aefa18ab63942c32b4f37255"
+    },
+    "url": "https://api.github.com/repos/psycopg/psycopg2/git/commits/9b39e65ab232f0a267a278cdaef1bd9975d88c65",
+    "verification": {
+     "payload": null,
+     "reason": "unsigned",
+     "signature": null,
+     "verified": false,
+     "verified_at": null
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/199429?v=4",
+    "events_url": "https://api.github.com/users/dvarrazzo/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dvarrazzo/followers",
+    "following_url": "https://api.github.com/users/dvarrazzo/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dvarrazzo/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/dvarrazzo",
+    "id": 199429,
+    "login": "dvarrazzo",
+    "node_id": "MDQ6VXNlcjE5OTQyOQ==",
+    "organizations_url": "https://api.github.com/users/dvarrazzo/orgs",
+    "received_events_url": "https://api.github.com/users/dvarrazzo/received_events",
+    "repos_url": "https://api.github.com/users/dvarrazzo/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dvarrazzo/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dvarrazzo/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/dvarrazzo",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/psycopg/psycopg2/commit/9b39e65ab232f0a267a278cdaef1bd9975d88c65",
+   "node_id": "C_kwDOAHX2jdoAKDliMzllNjVhYjIzMmYwYTI2N2EyNzhjZGFlZjFiZDk5NzVkODhjNjU",
+   "parents": [
+    {
+     "html_url": "https://github.com/psycopg/psycopg2/commit/2ca70416be6d4d3d8170ec439876c0b3569af718",
+     "sha": "2ca70416be6d4d3d8170ec439876c0b3569af718",
+     "url": "https://api.github.com/repos/psycopg/psycopg2/commits/2ca70416be6d4d3d8170ec439876c0b3569af718"
+    }
+   ],
+   "sha": "9b39e65ab232f0a267a278cdaef1bd9975d88c65",
+   "url": "https://api.github.com/repos/psycopg/psycopg2/commits/9b39e65ab232f0a267a278cdaef1bd9975d88c65"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/199429?v=4",
+    "events_url": "https://api.github.com/users/dvarrazzo/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dvarrazzo/followers",
+    "following_url": "https://api.github.com/users/dvarrazzo/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dvarrazzo/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/dvarrazzo",
+    "id": 199429,
+    "login": "dvarrazzo",
+    "node_id": "MDQ6VXNlcjE5OTQyOQ==",
+    "organizations_url": "https://api.github.com/users/dvarrazzo/orgs",
+    "received_events_url": "https://api.github.com/users/dvarrazzo/received_events",
+    "repos_url": "https://api.github.com/users/dvarrazzo/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dvarrazzo/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dvarrazzo/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/dvarrazzo",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/psycopg/psycopg2/commits/2ca70416be6d4d3d8170ec439876c0b3569af718/comments",
+   "commit": {
+    "author": {
+     "date": "2026-09-09T21:34:40Z",
+     "email": "daniele.varrazzo@gmail.com",
+     "name": "Daniele Varrazzo"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-09-09T21:35:50Z",
+     "email": "daniele.varrazzo@gmail.com",
+     "name": "Daniele Varrazzo"
+    },
+    "message": "fix: fix handling of PostgreSQL 18 exceptions",
+    "tree": {
+     "sha": "64cc6795d54e28fd4f80b402d561be0ec2d0e458",
+     "url": "https://api.github.com/repos/psycopg/psycopg2/git/trees/64cc6795d54e28fd4f80b402d561be0ec2d0e458"
+    },
+    "url": "https://api.github.com/repos/psycopg/psycopg2/git/commits/2ca70416be6d4d3d8170ec439876c0b3569af718",
+    "verification": {
+     "payload": null,
+     "reason": "unsigned",
+     "signature": null,
+     "verified": false,
+     "verified_at": null
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/199429?v=4",
+    "events_url": "https://api.github.com/users/dvarrazzo/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dvarrazzo/followers",
+    "following_url": "https://api.github.com/users/dvarrazzo/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dvarrazzo/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/dvarrazzo",
+    "id": 199429,
+    "login": "dvarrazzo",
+    "node_id": "MDQ6VXNlcjE5OTQyOQ==",
+    "organizations_url": "https://api.github.com/users/dvarrazzo/orgs",
+    "received_events_url": "https://api.github.com/users/dvarrazzo/received_events",
+    "repos_url": "https://api.github.com/users/dvarrazzo/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dvarrazzo/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dvarrazzo/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/dvarrazzo",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/psycopg/psycopg2/commit/2ca70416be6d4d3d8170ec439876c0b3569af718",
+   "node_id": "C_kwDOAHX2jdoAKDJjYTcwNDE2YmU2ZDRkM2Q4MTcwZWM0Mzk4NzZjMGIzNTY5YWY3MTg",
+   "parents": [
+    {
+     "html_url": "https://github.com/psycopg/psycopg2/commit/5385c027ef62ce14e57a7379e0375868507d6746",
+     "sha": "5385c027ef62ce14e57a7379e0375868507d6746",
+     "url": "https://api.github.com/repos/psycopg/psycopg2/commits/5385c027ef62ce14e57a7379e0375868507d6746"
+    }
+   ],
+   "sha": "2ca70416be6d4d3d8170ec439876c0b3569af718",
+   "url": "https://api.github.com/repos/psycopg/psycopg2/commits/2ca70416be6d4d3d8170ec439876c0b3569af718"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/16805946?v=4",
+    "events_url": "https://api.github.com/users/edgarrmondragon/events{/privacy}",
+    "followers_url": "https://api.github.com/users/edgarrmondragon/followers",
+    "following_url": "https://api.github.com/users/edgarrmondragon/following{/other_user}",
+    "gists_url": "https://api.github.com/users/edgarrmondragon/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/edgarrmondragon",
+    "id": 16805946,
+    "login": "edgarrmondragon",
+    "node_id": "MDQ6VXNlcjE2ODA1OTQ2",
+    "organizations_url": "https://api.github.com/users/edgarrmondragon/orgs",
+    "received_events_url": "https://api.github.com/users/edgarrmondragon/received_events",
+    "repos_url": "https://api.github.com/users/edgarrmondragon/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/edgarrmondragon/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/edgarrmondragon/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/edgarrmondragon",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/psycopg/psycopg2/commits/5385c027ef62ce14e57a7379e0375868507d6746/comments",
+   "commit": {
+    "author": {
+     "date": "2026-08-30T18:13:50Z",
+     "email": "edgarrm358@gmail.com",
+     "name": "Edgar Ramírez Mondragón"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-09-09T20:23:48Z",
+     "email": "daniele.varrazzo@gmail.com",
+     "name": "Daniele Varrazzo"
+    },
+    "message": "Build CPython 3.15 wheels\n\nSigned-off-by: Edgar Ramírez Mondragón <edgarrm358@gmail.com>",
+    "tree": {
+     "sha": "173ca920363e470adbe416f91a20f8327e90d4ca",
+     "url": "https://api.github.com/repos/psycopg/psycopg2/git/trees/173ca920363e470adbe416f91a20f8327e90d4ca"
+    },
+    "url": "https://api.github.com/repos/psycopg/psycopg2/git/commits/5385c027ef62ce14e57a7379e0375868507d6746",
+    "verification": {
+     "payload": null,
+     "reason": "unsigned",
+     "signature": null,
+     "verified": false,
+     "verified_at": null
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/199429?v=4",
+    "events_url": "https://api.github.com/users/dvarrazzo/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dvarrazzo/followers",
+    "following_url": "https://api.github.com/users/dvarrazzo/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dvarrazzo/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/dvarrazzo",
+    "id": 199429,
+    "login": "dvarrazzo",
+    "node_id": "MDQ6VXNlcjE5OTQyOQ==",
+    "organizations_url": "https://api.github.com/users/dvarrazzo/orgs",
+    "received_events_url": "https://api.github.com/users/dvarrazzo/received_events",
+    "repos_url": "https://api.github.com/users/dvarrazzo/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dvarrazzo/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dvarrazzo/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/dvarrazzo",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/psycopg/psycopg2/commit/5385c027ef62ce14e57a7379e0375868507d6746",
+   "node_id": "C_kwDOAHX2jdoAKDUzODVjMDI3ZWY2MmNlMTRlNTdhNzM3OWUwMzc1ODY4NTA3ZDY3NDY",
+   "parents": [
+    {
+     "html_url": "https://github.com/psycopg/psycopg2/commit/1d32e1f6678ffa8ab8897ca81826bf4dde6354cd",
+     "sha": "1d32e1f6678ffa8ab8897ca81826bf4dde6354cd",
+     "url": "https://api.github.com/repos/psycopg/psycopg2/commits/1d32e1f6678ffa8ab8897ca81826bf4dde6354cd"
+    }
+   ],
+   "sha": "5385c027ef62ce14e57a7379e0375868507d6746",
+   "url": "https://api.github.com/repos/psycopg/psycopg2/commits/5385c027ef62ce14e57a7379e0375868507d6746"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/199429?v=4",
+    "events_url": "https://api.github.com/users/dvarrazzo/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dvarrazzo/followers",
+    "following_url": "https://api.github.com/users/dvarrazzo/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dvarrazzo/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/dvarrazzo",
+    "id": 199429,
+    "login": "dvarrazzo",
+    "node_id": "MDQ6VXNlcjE5OTQyOQ==",
+    "organizations_url": "https://api.github.com/users/dvarrazzo/orgs",
+    "received_events_url": "https://api.github.com/users/dvarrazzo/received_events",
+    "repos_url": "https://api.github.com/users/dvarrazzo/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dvarrazzo/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dvarrazzo/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/dvarrazzo",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/psycopg/psycopg2/commits/1d32e1f6678ffa8ab8897ca81826bf4dde6354cd/comments",
+   "commit": {
+    "author": {
+     "date": "2026-09-09T19:39:46Z",
+     "email": "daniele.varrazzo@gmail.com",
+     "name": "Daniele Varrazzo"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-09-09T19:39:46Z",
+     "email": "daniele.varrazzo@gmail.com",
+     "name": "Daniele Varrazzo"
+    },
+    "message": "ci: only attempt triggering documentation refresh when pushing on main repo",
+    "tree": {
+     "sha": "3ffa76bf314ad6107cce3b902bd2fe6de58e6c37",
+     "url": "https://api.github.com/repos/psycopg/psycopg2/git/trees/3ffa76bf314ad6107cce3b902bd2fe6de58e6c37"
+    },
+    "url": "https://api.github.com/repos/psycopg/psycopg2/git/commits/1d32e1f6678ffa8ab8897ca81826bf4dde6354cd",
+    "verification": {
+     "payload": null,
+     "reason": "unsigned",
+     "signature": null,
+     "verified": false,
+     "verified_at": null
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/199429?v=4",
+    "events_url": "https://api.github.com/users/dvarrazzo/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dvarrazzo/followers",
+    "following_url": "https://api.github.com/users/dvarrazzo/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dvarrazzo/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/dvarrazzo",
+    "id": 199429,
+    "login": "dvarrazzo",
+    "node_id": "MDQ6VXNlcjE5OTQyOQ==",
+    "organizations_url": "https://api.github.com/users/dvarrazzo/orgs",
+    "received_events_url": "https://api.github.com/users/dvarrazzo/received_events",
+    "repos_url": "https://api.github.com/users/dvarrazzo/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dvarrazzo/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dvarrazzo/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/dvarrazzo",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/psycopg/psycopg2/commit/1d32e1f6678ffa8ab8897ca81826bf4dde6354cd",
+   "node_id": "C_kwDOAHX2jdoAKDFkMzJlMWY2Njc4ZmZhOGFiODg5N2NhODE4MjZiZjRkZGU2MzU0Y2Q",
+   "parents": [
+    {
+     "html_url": "https://github.com/psycopg/psycopg2/commit/433e7b77a7b700fbb1cdc6e9dca6b5948d07fc23",
+     "sha": "433e7b77a7b700fbb1cdc6e9dca6b5948d07fc23",
+     "url": "https://api.github.com/repos/psycopg/psycopg2/commits/433e7b77a7b700fbb1cdc6e9dca6b5948d07fc23"
+    }
+   ],
+   "sha": "1d32e1f6678ffa8ab8897ca81826bf4dde6354cd",
+   "url": "https://api.github.com/repos/psycopg/psycopg2/commits/1d32e1f6678ffa8ab8897ca81826bf4dde6354cd"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/199429?v=4",
+    "events_url": "https://api.github.com/users/dvarrazzo/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dvarrazzo/followers",
+    "following_url": "https://api.github.com/users/dvarrazzo/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dvarrazzo/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/dvarrazzo",
+    "id": 199429,
+    "login": "dvarrazzo",
+    "node_id": "MDQ6VXNlcjE5OTQyOQ==",
+    "organizations_url": "https://api.github.com/users/dvarrazzo/orgs",
+    "received_events_url": "https://api.github.com/users/dvarrazzo/received_events",
+    "repos_url": "https://api.github.com/users/dvarrazzo/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dvarrazzo/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dvarrazzo/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/dvarrazzo",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/psycopg/psycopg2/commits/433e7b77a7b700fbb1cdc6e9dca6b5948d07fc23/comments",
+   "commit": {
+    "author": {
+     "date": "2026-09-08T23:04:14Z",
+     "email": "daniele.varrazzo@gmail.com",
+     "name": "Daniele Varrazzo"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-09-09T13:21:27Z",
+     "email": "daniele.varrazzo@gmail.com",
+     "name": "Daniele Varrazzo"
+    },
+    "message": "chore: add pyproject.toml file to declare a PEP 517 build backend\n\nClose #1788",
+    "tree": {
+     "sha": "a8366b66825a366df0a1468f1487dcdd21e3e977",
+     "url": "https://api.github.com/repos/psycopg/psycopg2/git/trees/a8366b66825a366df0a1468f1487dcdd21e3e977"
+    },
+    "url": "https://api.github.com/repos/psycopg/psycopg2/git/commits/433e7b77a7b700fbb1cdc6e9dca6b5948d07fc23",
+    "verification": {
+     "payload": null,
+     "reason": "unsigned",
+     "signature": null,
+     "verified": false,
+     "verified_at": null
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/199429?v=4",
+    "events_url": "https://api.github.com/users/dvarrazzo/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dvarrazzo/followers",
+    "following_url": "https://api.github.com/users/dvarrazzo/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dvarrazzo/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/dvarrazzo",
+    "id": 199429,
+    "login": "dvarrazzo",
+    "node_id": "MDQ6VXNlcjE5OTQyOQ==",
+    "organizations_url": "https://api.github.com/users/dvarrazzo/orgs",
+    "received_events_url": "https://api.github.com/users/dvarrazzo/received_events",
+    "repos_url": "https://api.github.com/users/dvarrazzo/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dvarrazzo/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dvarrazzo/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/dvarrazzo",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/psycopg/psycopg2/commit/433e7b77a7b700fbb1cdc6e9dca6b5948d07fc23",
+   "node_id": "C_kwDOAHX2jdoAKDQzM2U3Yjc3YTdiNzAwZmJiMWNkYzZlOWRjYTZiNTk0OGQwN2ZjMjM",
+   "parents": [
+    {
+     "html_url": "https://github.com/psycopg/psycopg2/commit/8fb80bc3b2c358f4e3c54e33a37326d3f8b3ff6a",
+     "sha": "8fb80bc3b2c358f4e3c54e33a37326d3f8b3ff6a",
+     "url": "https://api.github.com/repos/psycopg/psycopg2/commits/8fb80bc3b2c358f4e3c54e33a37326d3f8b3ff6a"
+    }
+   ],
+   "sha": "433e7b77a7b700fbb1cdc6e9dca6b5948d07fc23",
+   "url": "https://api.github.com/repos/psycopg/psycopg2/commits/433e7b77a7b700fbb1cdc6e9dca6b5948d07fc23"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/199429?v=4",
+    "events_url": "https://api.github.com/users/dvarrazzo/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dvarrazzo/followers",
+    "following_url": "https://api.github.com/users/dvarrazzo/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dvarrazzo/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/dvarrazzo",
+    "id": 199429,
+    "login": "dvarrazzo",
+    "node_id": "MDQ6VXNlcjE5OTQyOQ==",
+    "organizations_url": "https://api.github.com/users/dvarrazzo/orgs",
+    "received_events_url": "https://api.github.com/users/dvarrazzo/received_events",
+    "repos_url": "https://api.github.com/users/dvarrazzo/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dvarrazzo/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dvarrazzo/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/dvarrazzo",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/psycopg/psycopg2/commits/8fb80bc3b2c358f4e3c54e33a37326d3f8b3ff6a/comments",
+   "commit": {
+    "author": {
+     "date": "2026-09-08T18:43:54Z",
+     "email": "daniele.varrazzo@gmail.com",
+     "name": "Daniele Varrazzo"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-09-09T13:21:27Z",
+     "email": "daniele.varrazzo@gmail.com",
+     "name": "Daniele Varrazzo"
+    },
+    "message": "fix: fix parsing of malformed int64 input in arrays\n\nThe error might have been used for something cheeky, but it requires\ncontrol of a malicious PostgreSQL server.\n\nReport provided by Yonatan Drori from Tenzai.",
+    "tree": {
+     "sha": "cdcb3df0a87eaaccf24edd3df74a14fa007c15a2",
+     "url": "https://api.github.com/repos/psycopg/psycopg2/git/trees/cdcb3df0a87eaaccf24edd3df74a14fa007c15a2"
+    },
+    "url": "https://api.github.com/repos/psycopg/psycopg2/git/commits/8fb80bc3b2c358f4e3c54e33a37326d3f8b3ff6a",
+    "verification": {
+     "payload": null,
+     "reason": "unsigned",
+     "signature": null,
+     "verified": false,
+     "verified_at": null
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/199429?v=4",
+    "events_url": "https://api.github.com/users/dvarrazzo/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dvarrazzo/followers",
+    "following_url": "https://api.github.com/users/dvarrazzo/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dvarrazzo/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/dvarrazzo",
+    "id": 199429,
+    "login": "dvarrazzo",
+    "node_id": "MDQ6VXNlcjE5OTQyOQ==",
+    "organizations_url": "https://api.github.com/users/dvarrazzo/orgs",
+    "received_events_url": "https://api.github.com/users/dvarrazzo/received_events",
+    "repos_url": "https://api.github.com/users/dvarrazzo/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dvarrazzo/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dvarrazzo/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/dvarrazzo",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/psycopg/psycopg2/commit/8fb80bc3b2c358f4e3c54e33a37326d3f8b3ff6a",
+   "node_id": "C_kwDOAHX2jdoAKDhmYjgwYmMzYjJjMzU4ZjRlM2M1NGUzM2EzNzMyNmQzZjhiM2ZmNmE",
+   "parents": [
+    {
+     "html_url": "https://github.com/psycopg/psycopg2/commit/f98014a46a1e34f024ebd6134d1d87b77490c500",
+     "sha": "f98014a46a1e34f024ebd6134d1d87b77490c500",
+     "url": "https://api.github.com/repos/psycopg/psycopg2/commits/f98014a46a1e34f024ebd6134d1d87b77490c500"
+    }
+   ],
+   "sha": "8fb80bc3b2c358f4e3c54e33a37326d3f8b3ff6a",
+   "url": "https://api.github.com/repos/psycopg/psycopg2/commits/8fb80bc3b2c358f4e3c54e33a37326d3f8b3ff6a"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/199429?v=4",
+    "events_url": "https://api.github.com/users/dvarrazzo/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dvarrazzo/followers",
+    "following_url": "https://api.github.com/users/dvarrazzo/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dvarrazzo/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/dvarrazzo",
+    "id": 199429,
+    "login": "dvarrazzo",
+    "node_id": "MDQ6VXNlcjE5OTQyOQ==",
+    "organizations_url": "https://api.github.com/users/dvarrazzo/orgs",
+    "received_events_url": "https://api.github.com/users/dvarrazzo/received_events",
+    "repos_url": "https://api.github.com/users/dvarrazzo/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dvarrazzo/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dvarrazzo/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/dvarrazzo",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/psycopg/psycopg2/commits/f98014a46a1e34f024ebd6134d1d87b77490c500/comments",
+   "commit": {
+    "author": {
+     "date": "2026-09-01T08:58:45Z",
+     "email": "daniele.varrazzo@gmail.com",
+     "name": "Daniele Varrazzo"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-09-09T13:21:27Z",
+     "email": "daniele.varrazzo@gmail.com",
+     "name": "Daniele Varrazzo"
+    },
+    "message": "fix: fix parsing of malformed bytea input\n\nThe error might have been used for something cheeky, but it requires\ncontrol of a malicious PostgreSQL server.\n\nReport provided by Yonatan Drori from Tenzai.",
+    "tree": {
+     "sha": "b7b88ebc9c8122cdc32ad36dfe49f7d11eb609d0",
+     "url": "https://api.github.com/repos/psycopg/psycopg2/git/trees/b7b88ebc9c8122cdc32ad36dfe49f7d11eb609d0"
+    },
+    "url": "https://api.github.com/repos/psycopg/psycopg2/git/commits/f98014a46a1e34f024ebd6134d1d87b77490c500",
+    "verification": {
+     "payload": null,
+     "reason": "unsigned",
+     "signature": null,
+     "verified": false,
+     "verified_at": null
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/199429?v=4",
+    "events_url": "https://api.github.com/users/dvarrazzo/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dvarrazzo/followers",
+    "following_url": "https://api.github.com/users/dvarrazzo/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dvarrazzo/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/dvarrazzo",
+    "id": 199429,
+    "login": "dvarrazzo",
+    "node_id": "MDQ6VXNlcjE5OTQyOQ==",
+    "organizations_url": "https://api.github.com/users/dvarrazzo/orgs",
+    "received_events_url": "https://api.github.com/users/dvarrazzo/received_events",
+    "repos_url": "https://api.github.com/users/dvarrazzo/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dvarrazzo/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dvarrazzo/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/dvarrazzo",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/psycopg/psycopg2/commit/f98014a46a1e34f024ebd6134d1d87b77490c500",
+   "node_id": "C_kwDOAHX2jdoAKGY5ODAxNGE0NmExZTM0ZjAyNGViZDYxMzRkMWQ4N2I3NzQ5MGM1MDA",
+   "parents": [
+    {
+     "html_url": "https://github.com/psycopg/psycopg2/commit/822b79cfe12ca0a04482acd382cae669a16aa789",
+     "sha": "822b79cfe12ca0a04482acd382cae669a16aa789",
+     "url": "https://api.github.com/repos/psycopg/psycopg2/commits/822b79cfe12ca0a04482acd382cae669a16aa789"
+    }
+   ],
+   "sha": "f98014a46a1e34f024ebd6134d1d87b77490c500",
+   "url": "https://api.github.com/repos/psycopg/psycopg2/commits/f98014a46a1e34f024ebd6134d1d87b77490c500"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/199429?v=4",
+    "events_url": "https://api.github.com/users/dvarrazzo/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dvarrazzo/followers",
+    "following_url": "https://api.github.com/users/dvarrazzo/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dvarrazzo/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/dvarrazzo",
+    "id": 199429,
+    "login": "dvarrazzo",
+    "node_id": "MDQ6VXNlcjE5OTQyOQ==",
+    "organizations_url": "https://api.github.com/users/dvarrazzo/orgs",
+    "received_events_url": "https://api.github.com/users/dvarrazzo/received_events",
+    "repos_url": "https://api.github.com/users/dvarrazzo/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dvarrazzo/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dvarrazzo/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/dvarrazzo",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/psycopg/psycopg2/commits/822b79cfe12ca0a04482acd382cae669a16aa789/comments",
+   "commit": {
+    "author": {
+     "date": "2026-08-31T19:46:26Z",
+     "email": "daniele.varrazzo@gmail.com",
+     "name": "Daniele Varrazzo"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-09-09T13:21:27Z",
+     "email": "daniele.varrazzo@gmail.com",
+     "name": "Daniele Varrazzo"
+    },
+    "message": "chore: bump dependencies in binary package",
+    "tree": {
+     "sha": "af0e8483ec90f1aa29b0fc7058b560fc2ef15139",
+     "url": "https://api.github.com/repos/psycopg/psycopg2/git/trees/af0e8483ec90f1aa29b0fc7058b560fc2ef15139"
+    },
+    "url": "https://api.github.com/repos/psycopg/psycopg2/git/commits/822b79cfe12ca0a04482acd382cae669a16aa789",
+    "verification": {
+     "payload": null,
+     "reason": "unsigned",
+     "signature": null,
+     "verified": false,
+     "verified_at": null
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/199429?v=4",
+    "events_url": "https://api.github.com/users/dvarrazzo/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dvarrazzo/followers",
+    "following_url": "https://api.github.com/users/dvarrazzo/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dvarrazzo/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/dvarrazzo",
+    "id": 199429,
+    "login": "dvarrazzo",
+    "node_id": "MDQ6VXNlcjE5OTQyOQ==",
+    "organizations_url": "https://api.github.com/users/dvarrazzo/orgs",
+    "received_events_url": "https://api.github.com/users/dvarrazzo/received_events",
+    "repos_url": "https://api.github.com/users/dvarrazzo/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dvarrazzo/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dvarrazzo/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/dvarrazzo",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/psycopg/psycopg2/commit/822b79cfe12ca0a04482acd382cae669a16aa789",
+   "node_id": "C_kwDOAHX2jdoAKDgyMmI3OWNmZTEyY2EwYTA0NDgyYWNkMzgyY2FlNjY5YTE2YWE3ODk",
+   "parents": [
+    {
+     "html_url": "https://github.com/psycopg/psycopg2/commit/251d8810196d5933ee69dee84d66047c3fc47a26",
+     "sha": "251d8810196d5933ee69dee84d66047c3fc47a26",
+     "url": "https://api.github.com/repos/psycopg/psycopg2/commits/251d8810196d5933ee69dee84d66047c3fc47a26"
+    }
+   ],
+   "sha": "822b79cfe12ca0a04482acd382cae669a16aa789",
+   "url": "https://api.github.com/repos/psycopg/psycopg2/commits/822b79cfe12ca0a04482acd382cae669a16aa789"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/199429?v=4",
+    "events_url": "https://api.github.com/users/dvarrazzo/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dvarrazzo/followers",
+    "following_url": "https://api.github.com/users/dvarrazzo/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dvarrazzo/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/dvarrazzo",
+    "id": 199429,
+    "login": "dvarrazzo",
+    "node_id": "MDQ6VXNlcjE5OTQyOQ==",
+    "organizations_url": "https://api.github.com/users/dvarrazzo/orgs",
+    "received_events_url": "https://api.github.com/users/dvarrazzo/received_events",
+    "repos_url": "https://api.github.com/users/dvarrazzo/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dvarrazzo/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dvarrazzo/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/dvarrazzo",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/psycopg/psycopg2/commits/251d8810196d5933ee69dee84d66047c3fc47a26/comments",
+   "commit": {
+    "author": {
+     "date": "2026-08-31T19:41:45Z",
+     "email": "daniele.varrazzo@gmail.com",
+     "name": "Daniele Varrazzo"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-09-09T13:21:27Z",
+     "email": "daniele.varrazzo@gmail.com",
+     "name": "Daniele Varrazzo"
+    },
+    "message": "chore: bump to next dev release",
+    "tree": {
+     "sha": "c357504b8cadc1826c982234aa08ce280eb4a3b5",
+     "url": "https://api.github.com/repos/psycopg/psycopg2/git/trees/c357504b8cadc1826c982234aa08ce280eb4a3b5"
+    },
+    "url": "https://api.github.com/repos/psycopg/psycopg2/git/commits/251d8810196d5933ee69dee84d66047c3fc47a26",
+    "verification": {
+     "payload": null,
+     "reason": "unsigned",
+     "signature": null,
+     "verified": false,
+     "verified_at": null
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/199429?v=4",
+    "events_url": "https://api.github.com/users/dvarrazzo/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dvarrazzo/followers",
+    "following_url": "https://api.github.com/users/dvarrazzo/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dvarrazzo/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/dvarrazzo",
+    "id": 199429,
+    "login": "dvarrazzo",
+    "node_id": "MDQ6VXNlcjE5OTQyOQ==",
+    "organizations_url": "https://api.github.com/users/dvarrazzo/orgs",
+    "received_events_url": "https://api.github.com/users/dvarrazzo/received_events",
+    "repos_url": "https://api.github.com/users/dvarrazzo/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dvarrazzo/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dvarrazzo/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/dvarrazzo",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/psycopg/psycopg2/commit/251d8810196d5933ee69dee84d66047c3fc47a26",
+   "node_id": "C_kwDOAHX2jdoAKDI1MWQ4ODEwMTk2ZDU5MzNlZTY5ZGVlODRkNjYwNDdjM2ZjNDdhMjY",
+   "parents": [
+    {
+     "html_url": "https://github.com/psycopg/psycopg2/commit/f97f3581c7ca4b8d5aff40b4a9afa4ffd48155e6",
+     "sha": "f97f3581c7ca4b8d5aff40b4a9afa4ffd48155e6",
+     "url": "https://api.github.com/repos/psycopg/psycopg2/commits/f97f3581c7ca4b8d5aff40b4a9afa4ffd48155e6"
+    }
+   ],
+   "sha": "251d8810196d5933ee69dee84d66047c3fc47a26",
+   "url": "https://api.github.com/repos/psycopg/psycopg2/commits/251d8810196d5933ee69dee84d66047c3fc47a26"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+    "events_url": "https://api.github.com/users/dependabot%5Bbot%5D/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dependabot%5Bbot%5D/followers",
+    "following_url": "https://api.github.com/users/dependabot%5Bbot%5D/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dependabot%5Bbot%5D/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/apps/dependabot",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "node_id": "MDM6Qm90NDk2OTkzMzM=",
+    "organizations_url": "https://api.github.com/users/dependabot%5Bbot%5D/orgs",
+    "received_events_url": "https://api.github.com/users/dependabot%5Bbot%5D/received_events",
+    "repos_url": "https://api.github.com/users/dependabot%5Bbot%5D/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dependabot%5Bbot%5D/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dependabot%5Bbot%5D/subscriptions",
+    "type": "Bot",
+    "url": "https://api.github.com/users/dependabot%5Bbot%5D",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/psycopg/psycopg2/commits/f97f3581c7ca4b8d5aff40b4a9afa4ffd48155e6/comments",
+   "commit": {
+    "author": {
+     "date": "2026-05-02T03:03:52Z",
+     "email": "49699333+dependabot[bot]@users.noreply.github.com",
+     "name": "dependabot[bot]"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-09-08T23:12:04Z",
+     "email": "daniele.varrazzo@gmail.com",
+     "name": "Daniele Varrazzo"
+    },
+    "message": "build(deps): bump pypa/cibuildwheel from 3.4.0 to 3.4.1\n\nBumps [pypa/cibuildwheel](https://github.com/pypa/cibuildwheel) from 3.4.0 to 3.4.1.\n- [Release notes](https://github.com/pypa/cibuildwheel/releases)\n- [Changelog](https://github.com/pypa/cibuildwheel/blob/main/docs/changelog.md)\n- [Commits](https://github.com/pypa/cibuildwheel/compare/v3.4.0...v3.4.1)\n\n---\nupdated-dependencies:\n- dependency-name: pypa/cibuildwheel\n  dependency-version: 3.4.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>",
+    "tree": {
+     "sha": "83e603246bc616cea36156a2d452830f37034068",
+     "url": "https://api.github.com/repos/psycopg/psycopg2/git/trees/83e603246bc616cea36156a2d452830f37034068"
+    },
+    "url": "https://api.github.com/repos/psycopg/psycopg2/git/commits/f97f3581c7ca4b8d5aff40b4a9afa4ffd48155e6",
+    "verification": {
+     "payload": null,
+     "reason": "unsigned",
+     "signature": null,
+     "verified": false,
+     "verified_at": null
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/199429?v=4",
+    "events_url": "https://api.github.com/users/dvarrazzo/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dvarrazzo/followers",
+    "following_url": "https://api.github.com/users/dvarrazzo/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dvarrazzo/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/dvarrazzo",
+    "id": 199429,
+    "login": "dvarrazzo",
+    "node_id": "MDQ6VXNlcjE5OTQyOQ==",
+    "organizations_url": "https://api.github.com/users/dvarrazzo/orgs",
+    "received_events_url": "https://api.github.com/users/dvarrazzo/received_events",
+    "repos_url": "https://api.github.com/users/dvarrazzo/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dvarrazzo/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dvarrazzo/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/dvarrazzo",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/psycopg/psycopg2/commit/f97f3581c7ca4b8d5aff40b4a9afa4ffd48155e6",
+   "node_id": "C_kwDOAHX2jdoAKGY5N2YzNTgxYzdjYTRiOGQ1YWZmNDBiNGE5YWZhNGZmZDQ4MTU1ZTY",
+   "parents": [
+    {
+     "html_url": "https://github.com/psycopg/psycopg2/commit/79e1d59f6a3d1a624e62c4c5504868fd8bf2fed8",
+     "sha": "79e1d59f6a3d1a624e62c4c5504868fd8bf2fed8",
+     "url": "https://api.github.com/repos/psycopg/psycopg2/commits/79e1d59f6a3d1a624e62c4c5504868fd8bf2fed8"
+    }
+   ],
+   "sha": "f97f3581c7ca4b8d5aff40b4a9afa4ffd48155e6",
+   "url": "https://api.github.com/repos/psycopg/psycopg2/commits/f97f3581c7ca4b8d5aff40b4a9afa4ffd48155e6"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+    "events_url": "https://api.github.com/users/dependabot%5Bbot%5D/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dependabot%5Bbot%5D/followers",
+    "following_url": "https://api.github.com/users/dependabot%5Bbot%5D/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dependabot%5Bbot%5D/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/apps/dependabot",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "node_id": "MDM6Qm90NDk2OTkzMzM=",
+    "organizations_url": "https://api.github.com/users/dependabot%5Bbot%5D/orgs",
+    "received_events_url": "https://api.github.com/users/dependabot%5Bbot%5D/received_events",
+    "repos_url": "https://api.github.com/users/dependabot%5Bbot%5D/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dependabot%5Bbot%5D/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dependabot%5Bbot%5D/subscriptions",
+    "type": "Bot",
+    "url": "https://api.github.com/users/dependabot%5Bbot%5D",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/psycopg/psycopg2/commits/79e1d59f6a3d1a624e62c4c5504868fd8bf2fed8/comments",
+   "commit": {
+    "author": {
+     "date": "2026-05-02T03:03:55Z",
+     "email": "49699333+dependabot[bot]@users.noreply.github.com",
+     "name": "dependabot[bot]"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-09-08T23:11:15Z",
+     "email": "daniele.varrazzo@gmail.com",
+     "name": "Daniele Varrazzo"
+    },
+    "message": "build(deps): bump actions/github-script from 8 to 9\n\nBumps [actions/github-script](https://github.com/actions/github-script) from 8 to 9.\n- [Release notes](https://github.com/actions/github-script/releases)\n- [Commits](https://github.com/actions/github-script/compare/v8...v9)\n\n---\nupdated-dependencies:\n- dependency-name: actions/github-script\n  dependency-version: '9'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>",
+    "tree": {
+     "sha": "71f4029861cddfe31b13ee9f8b7da818fd805a5a",
+     "url": "https://api.github.com/repos/psycopg/psycopg2/git/trees/71f4029861cddfe31b13ee9f8b7da818fd805a5a"
+    },
+    "url": "https://api.github.com/repos/psycopg/psycopg2/git/commits/79e1d59f6a3d1a624e62c4c5504868fd8bf2fed8",
+    "verification": {
+     "payload": null,
+     "reason": "unsigned",
+     "signature": null,
+     "verified": false,
+     "verified_at": null
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/199429?v=4",
+    "events_url": "https://api.github.com/users/dvarrazzo/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dvarrazzo/followers",
+    "following_url": "https://api.github.com/users/dvarrazzo/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dvarrazzo/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/dvarrazzo",
+    "id": 199429,
+    "login": "dvarrazzo",
+    "node_id": "MDQ6VXNlcjE5OTQyOQ==",
+    "organizations_url": "https://api.github.com/users/dvarrazzo/orgs",
+    "received_events_url": "https://api.github.com/users/dvarrazzo/received_events",
+    "repos_url": "https://api.github.com/users/dvarrazzo/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dvarrazzo/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dvarrazzo/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/dvarrazzo",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/psycopg/psycopg2/commit/79e1d59f6a3d1a624e62c4c5504868fd8bf2fed8",
+   "node_id": "C_kwDOAHX2jdoAKDc5ZTFkNTlmNmEzZDFhNjI0ZTYyYzRjNTUwNDg2OGZkOGJmMmZlZDg",
+   "parents": [
+    {
+     "html_url": "https://github.com/psycopg/psycopg2/commit/3a6d9d6ddc6b53eaa80b712f5fa6b23abbdc38db",
+     "sha": "3a6d9d6ddc6b53eaa80b712f5fa6b23abbdc38db",
+     "url": "https://api.github.com/repos/psycopg/psycopg2/commits/3a6d9d6ddc6b53eaa80b712f5fa6b23abbdc38db"
+    }
+   ],
+   "sha": "79e1d59f6a3d1a624e62c4c5504868fd8bf2fed8",
+   "url": "https://api.github.com/repos/psycopg/psycopg2/commits/79e1d59f6a3d1a624e62c4c5504868fd8bf2fed8"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/199429?v=4",
+    "events_url": "https://api.github.com/users/dvarrazzo/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dvarrazzo/followers",
+    "following_url": "https://api.github.com/users/dvarrazzo/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dvarrazzo/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/dvarrazzo",
+    "id": 199429,
+    "login": "dvarrazzo",
+    "node_id": "MDQ6VXNlcjE5OTQyOQ==",
+    "organizations_url": "https://api.github.com/users/dvarrazzo/orgs",
+    "received_events_url": "https://api.github.com/users/dvarrazzo/received_events",
+    "repos_url": "https://api.github.com/users/dvarrazzo/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dvarrazzo/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dvarrazzo/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/dvarrazzo",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/psycopg/psycopg2/commits/3a6d9d6ddc6b53eaa80b712f5fa6b23abbdc38db/comments",
+   "commit": {
+    "author": {
+     "date": "2026-04-20T22:39:44Z",
+     "email": "daniele.varrazzo@gmail.com",
+     "name": "Daniele Varrazzo"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-04-20T22:39:44Z",
+     "email": "daniele.varrazzo@gmail.com",
+     "name": "Daniele Varrazzo"
+    },
+    "message": "ci: include almalinux in whieel building",
+    "tree": {
+     "sha": "cf99eaf7f30476138b0d25f7f9f102f83a0e5049",
+     "url": "https://api.github.com/repos/psycopg/psycopg2/git/trees/cf99eaf7f30476138b0d25f7f9f102f83a0e5049"
+    },
+    "url": "https://api.github.com/repos/psycopg/psycopg2/git/commits/3a6d9d6ddc6b53eaa80b712f5fa6b23abbdc38db",
+    "verification": {
+     "payload": null,
+     "reason": "unsigned",
+     "signature": null,
+     "verified": false,
+     "verified_at": null
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/199429?v=4",
+    "events_url": "https://api.github.com/users/dvarrazzo/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dvarrazzo/followers",
+    "following_url": "https://api.github.com/users/dvarrazzo/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dvarrazzo/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/dvarrazzo",
+    "id": 199429,
+    "login": "dvarrazzo",
+    "node_id": "MDQ6VXNlcjE5OTQyOQ==",
+    "organizations_url": "https://api.github.com/users/dvarrazzo/orgs",
+    "received_events_url": "https://api.github.com/users/dvarrazzo/received_events",
+    "repos_url": "https://api.github.com/users/dvarrazzo/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dvarrazzo/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dvarrazzo/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/dvarrazzo",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/psycopg/psycopg2/commit/3a6d9d6ddc6b53eaa80b712f5fa6b23abbdc38db",
+   "node_id": "C_kwDOAHX2jdoAKDNhNmQ5ZDZkZGM2YjUzZWFhODBiNzEyZjVmYTZiMjNhYmJkYzM4ZGI",
+   "parents": [
+    {
+     "html_url": "https://github.com/psycopg/psycopg2/commit/ebca6bf0f86bc6cbdc86de1eb3a53eaf49966d86",
+     "sha": "ebca6bf0f86bc6cbdc86de1eb3a53eaf49966d86",
+     "url": "https://api.github.com/repos/psycopg/psycopg2/commits/ebca6bf0f86bc6cbdc86de1eb3a53eaf49966d86"
+    }
+   ],
+   "sha": "3a6d9d6ddc6b53eaa80b712f5fa6b23abbdc38db",
+   "url": "https://api.github.com/repos/psycopg/psycopg2/commits/3a6d9d6ddc6b53eaa80b712f5fa6b23abbdc38db"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/199429?v=4",
+    "events_url": "https://api.github.com/users/dvarrazzo/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dvarrazzo/followers",
+    "following_url": "https://api.github.com/users/dvarrazzo/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dvarrazzo/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/dvarrazzo",
+    "id": 199429,
+    "login": "dvarrazzo",
+    "node_id": "MDQ6VXNlcjE5OTQyOQ==",
+    "organizations_url": "https://api.github.com/users/dvarrazzo/orgs",
+    "received_events_url": "https://api.github.com/users/dvarrazzo/received_events",
+    "repos_url": "https://api.github.com/users/dvarrazzo/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dvarrazzo/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dvarrazzo/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/dvarrazzo",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/psycopg/psycopg2/commits/ebca6bf0f86bc6cbdc86de1eb3a53eaf49966d86/comments",
+   "commit": {
+    "author": {
+     "date": "2026-04-19T20:03:47Z",
+     "email": "daniele.varrazzo@gmail.com",
+     "name": "Daniele Varrazzo"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-04-19T20:03:47Z",
+     "email": "daniele.varrazzo@gmail.com",
+     "name": "Daniele Varrazzo"
+    },
+    "message": "chore: bump to version 3.9.12",
+    "tree": {
+     "sha": "11d7e0d456bde930b65be25995f24afed3359a53",
+     "url": "https://api.github.com/repos/psycopg/psycopg2/git/trees/11d7e0d456bde930b65be25995f24afed3359a53"
+    },
+    "url": "https://api.github.com/repos/psycopg/psycopg2/git/commits/ebca6bf0f86bc6cbdc86de1eb3a53eaf49966d86",
+    "verification": {
+     "payload": null,
+     "reason": "unsigned",
+     "signature": null,
+     "verified": false,
+     "verified_at": null
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/199429?v=4",
+    "events_url": "https://api.github.com/users/dvarrazzo/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dvarrazzo/followers",
+    "following_url": "https://api.github.com/users/dvarrazzo/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dvarrazzo/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/dvarrazzo",
+    "id": 199429,
+    "login": "dvarrazzo",
+    "node_id": "MDQ6VXNlcjE5OTQyOQ==",
+    "organizations_url": "https://api.github.com/users/dvarrazzo/orgs",
+    "received_events_url": "https://api.github.com/users/dvarrazzo/received_events",
+    "repos_url": "https://api.github.com/users/dvarrazzo/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dvarrazzo/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dvarrazzo/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/dvarrazzo",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/psycopg/psycopg2/commit/ebca6bf0f86bc6cbdc86de1eb3a53eaf49966d86",
+   "node_id": "C_kwDOAHX2jdoAKGViY2E2YmYwZjg2YmM2Y2JkYzg2ZGUxZWIzYTUzZWFmNDk5NjZkODY",
+   "parents": [
+    {
+     "html_url": "https://github.com/psycopg/psycopg2/commit/0196f02cc9512df8de3c941f87d27bda98f9f7af",
+     "sha": "0196f02cc9512df8de3c941f87d27bda98f9f7af",
+     "url": "https://api.github.com/repos/psycopg/psycopg2/commits/0196f02cc9512df8de3c941f87d27bda98f9f7af"
+    }
+   ],
+   "sha": "ebca6bf0f86bc6cbdc86de1eb3a53eaf49966d86",
+   "url": "https://api.github.com/repos/psycopg/psycopg2/commits/ebca6bf0f86bc6cbdc86de1eb3a53eaf49966d86"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+    "events_url": "https://api.github.com/users/dependabot%5Bbot%5D/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dependabot%5Bbot%5D/followers",
+    "following_url": "https://api.github.com/users/dependabot%5Bbot%5D/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dependabot%5Bbot%5D/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/apps/dependabot",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "node_id": "MDM6Qm90NDk2OTkzMzM=",
+    "organizations_url": "https://api.github.com/users/dependabot%5Bbot%5D/orgs",
+    "received_events_url": "https://api.github.com/users/dependabot%5Bbot%5D/received_events",
+    "repos_url": "https://api.github.com/users/dependabot%5Bbot%5D/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dependabot%5Bbot%5D/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dependabot%5Bbot%5D/subscriptions",
+    "type": "Bot",
+    "url": "https://api.github.com/users/dependabot%5Bbot%5D",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/psycopg/psycopg2/commits/0196f02cc9512df8de3c941f87d27bda98f9f7af/comments",
+   "commit": {
+    "author": {
+     "date": "2026-04-02T04:02:45Z",
+     "email": "49699333+dependabot[bot]@users.noreply.github.com",
+     "name": "dependabot[bot]"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-04-19T00:03:33Z",
+     "email": "daniele.varrazzo@gmail.com",
+     "name": "Daniele Varrazzo"
+    },
+    "message": "build(deps): bump pypa/cibuildwheel from 3.3.1 to 3.4.0\n\nBumps [pypa/cibuildwheel](https://github.com/pypa/cibuildwheel) from 3.3.1 to 3.4.0.\n- [Release notes](https://github.com/pypa/cibuildwheel/releases)\n- [Changelog](https://github.com/pypa/cibuildwheel/blob/main/docs/changelog.md)\n- [Commits](https://github.com/pypa/cibuildwheel/compare/v3.3.1...v3.4.0)\n\n---\nupdated-dependencies:\n- dependency-name: pypa/cibuildwheel\n  dependency-version: 3.4.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>",
+    "tree": {
+     "sha": "3648b30cd06e14236361ba26575a03c22d212738",
+     "url": "https://api.github.com/repos/psycopg/psycopg2/git/trees/3648b30cd06e14236361ba26575a03c22d212738"
+    },
+    "url": "https://api.github.com/repos/psycopg/psycopg2/git/commits/0196f02cc9512df8de3c941f87d27bda98f9f7af",
+    "verification": {
+     "payload": null,
+     "reason": "unsigned",
+     "signature": null,
+     "verified": false,
+     "verified_at": null
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/199429?v=4",
+    "events_url": "https://api.github.com/users/dvarrazzo/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dvarrazzo/followers",
+    "following_url": "https://api.github.com/users/dvarrazzo/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dvarrazzo/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/dvarrazzo",
+    "id": 199429,
+    "login": "dvarrazzo",
+    "node_id": "MDQ6VXNlcjE5OTQyOQ==",
+    "organizations_url": "https://api.github.com/users/dvarrazzo/orgs",
+    "received_events_url": "https://api.github.com/users/dvarrazzo/received_events",
+    "repos_url": "https://api.github.com/users/dvarrazzo/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dvarrazzo/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dvarrazzo/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/dvarrazzo",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/psycopg/psycopg2/commit/0196f02cc9512df8de3c941f87d27bda98f9f7af",
+   "node_id": "C_kwDOAHX2jdoAKDAxOTZmMDJjYzk1MTJkZjhkZTNjOTQxZjg3ZDI3YmRhOThmOWY3YWY",
+   "parents": [
+    {
+     "html_url": "https://github.com/psycopg/psycopg2/commit/d157bdc2235a42dc1742936dbb0f5cfc8e4d2eb7",
+     "sha": "d157bdc2235a42dc1742936dbb0f5cfc8e4d2eb7",
+     "url": "https://api.github.com/repos/psycopg/psycopg2/commits/d157bdc2235a42dc1742936dbb0f5cfc8e4d2eb7"
+    }
+   ],
+   "sha": "0196f02cc9512df8de3c941f87d27bda98f9f7af",
+   "url": "https://api.github.com/repos/psycopg/psycopg2/commits/0196f02cc9512df8de3c941f87d27bda98f9f7af"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+    "events_url": "https://api.github.com/users/dependabot%5Bbot%5D/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dependabot%5Bbot%5D/followers",
+    "following_url": "https://api.github.com/users/dependabot%5Bbot%5D/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dependabot%5Bbot%5D/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/apps/dependabot",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "node_id": "MDM6Qm90NDk2OTkzMzM=",
+    "organizations_url": "https://api.github.com/users/dependabot%5Bbot%5D/orgs",
+    "received_events_url": "https://api.github.com/users/dependabot%5Bbot%5D/received_events",
+    "repos_url": "https://api.github.com/users/dependabot%5Bbot%5D/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dependabot%5Bbot%5D/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dependabot%5Bbot%5D/subscriptions",
+    "type": "Bot",
+    "url": "https://api.github.com/users/dependabot%5Bbot%5D",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/psycopg/psycopg2/commits/d157bdc2235a42dc1742936dbb0f5cfc8e4d2eb7/comments",
+   "commit": {
+    "author": {
+     "date": "2026-04-02T04:02:40Z",
+     "email": "49699333+dependabot[bot]@users.noreply.github.com",
+     "name": "dependabot[bot]"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-04-19T00:03:33Z",
+     "email": "daniele.varrazzo@gmail.com",
+     "name": "Daniele Varrazzo"
+    },
+    "message": "build(deps): bump docker/setup-qemu-action from 3 to 4\n\nBumps [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) from 3 to 4.\n- [Release notes](https://github.com/docker/setup-qemu-action/releases)\n- [Commits](https://github.com/docker/setup-qemu-action/compare/v3...v4)\n\n---\nupdated-dependencies:\n- dependency-name: docker/setup-qemu-action\n  dependency-version: '4'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>",
+    "tree": {
+     "sha": "eba002cb40f4f27869876ec4c1c211a3099842ab",
+     "url": "https://api.github.com/repos/psycopg/psycopg2/git/trees/eba002cb40f4f27869876ec4c1c211a3099842ab"
+    },
+    "url": "https://api.github.com/repos/psycopg/psycopg2/git/commits/d157bdc2235a42dc1742936dbb0f5cfc8e4d2eb7",
+    "verification": {
+     "payload": null,
+     "reason": "unsigned",
+     "signature": null,
+     "verified": false,
+     "verified_at": null
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/199429?v=4",
+    "events_url": "https://api.github.com/users/dvarrazzo/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dvarrazzo/followers",
+    "following_url": "https://api.github.com/users/dvarrazzo/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dvarrazzo/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/dvarrazzo",
+    "id": 199429,
+    "login": "dvarrazzo",
+    "node_id": "MDQ6VXNlcjE5OTQyOQ==",
+    "organizations_url": "https://api.github.com/users/dvarrazzo/orgs",
+    "received_events_url": "https://api.github.com/users/dvarrazzo/received_events",
+    "repos_url": "https://api.github.com/users/dvarrazzo/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dvarrazzo/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dvarrazzo/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/dvarrazzo",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/psycopg/psycopg2/commit/d157bdc2235a42dc1742936dbb0f5cfc8e4d2eb7",
+   "node_id": "C_kwDOAHX2jdoAKGQxNTdiZGMyMjM1YTQyZGMxNzQyOTM2ZGJiMGY1Y2ZjOGU0ZDJlYjc",
+   "parents": [
+    {
+     "html_url": "https://github.com/psycopg/psycopg2/commit/7fccc0f5066a40dea530512abbf02621f4182b81",
+     "sha": "7fccc0f5066a40dea530512abbf02621f4182b81",
+     "url": "https://api.github.com/repos/psycopg/psycopg2/commits/7fccc0f5066a40dea530512abbf02621f4182b81"
+    }
+   ],
+   "sha": "d157bdc2235a42dc1742936dbb0f5cfc8e4d2eb7",
+   "url": "https://api.github.com/repos/psycopg/psycopg2/commits/d157bdc2235a42dc1742936dbb0f5cfc8e4d2eb7"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+    "events_url": "https://api.github.com/users/dependabot%5Bbot%5D/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dependabot%5Bbot%5D/followers",
+    "following_url": "https://api.github.com/users/dependabot%5Bbot%5D/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dependabot%5Bbot%5D/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/apps/dependabot",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "node_id": "MDM6Qm90NDk2OTkzMzM=",
+    "organizations_url": "https://api.github.com/users/dependabot%5Bbot%5D/orgs",
+    "received_events_url": "https://api.github.com/users/dependabot%5Bbot%5D/received_events",
+    "repos_url": "https://api.github.com/users/dependabot%5Bbot%5D/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dependabot%5Bbot%5D/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dependabot%5Bbot%5D/subscriptions",
+    "type": "Bot",
+    "url": "https://api.github.com/users/dependabot%5Bbot%5D",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/psycopg/psycopg2/commits/7fccc0f5066a40dea530512abbf02621f4182b81/comments",
+   "commit": {
+    "author": {
+     "date": "2026-03-01T23:42:48Z",
+     "email": "49699333+dependabot[bot]@users.noreply.github.com",
+     "name": "dependabot[bot]"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-04-19T00:03:33Z",
+     "email": "daniele.varrazzo@gmail.com",
+     "name": "Daniele Varrazzo"
+    },
+    "message": "build(deps): bump actions/upload-artifact from 6 to 7\n\nBumps [actions/upload-artifact](https://github.com/actions/upload-artifact) from 6 to 7.\n- [Release notes](https://github.com/actions/upload-artifact/releases)\n- [Commits](https://github.com/actions/upload-artifact/compare/v6...v7)\n\n---\nupdated-dependencies:\n- dependency-name: actions/upload-artifact\n  dependency-version: '7'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>",
+    "tree": {
+     "sha": "8e908bb330cb93e43acedfe4cab36aebc7e84584",
+     "url": "https://api.github.com/repos/psycopg/psycopg2/git/trees/8e908bb330cb93e43acedfe4cab36aebc7e84584"
+    },
+    "url": "https://api.github.com/repos/psycopg/psycopg2/git/commits/7fccc0f5066a40dea530512abbf02621f4182b81",
+    "verification": {
+     "payload": null,
+     "reason": "unsigned",
+     "signature": null,
+     "verified": false,
+     "verified_at": null
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/199429?v=4",
+    "events_url": "https://api.github.com/users/dvarrazzo/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dvarrazzo/followers",
+    "following_url": "https://api.github.com/users/dvarrazzo/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dvarrazzo/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/dvarrazzo",
+    "id": 199429,
+    "login": "dvarrazzo",
+    "node_id": "MDQ6VXNlcjE5OTQyOQ==",
+    "organizations_url": "https://api.github.com/users/dvarrazzo/orgs",
+    "received_events_url": "https://api.github.com/users/dvarrazzo/received_events",
+    "repos_url": "https://api.github.com/users/dvarrazzo/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dvarrazzo/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dvarrazzo/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/dvarrazzo",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/psycopg/psycopg2/commit/7fccc0f5066a40dea530512abbf02621f4182b81",
+   "node_id": "C_kwDOAHX2jdoAKDdmY2NjMGY1MDY2YTQwZGVhNTMwNTEyYWJiZjAyNjIxZjQxODJiODE",
+   "parents": [
+    {
+     "html_url": "https://github.com/psycopg/psycopg2/commit/d52a61eb2e6095fc1b9891bfcca44ebfac509e55",
+     "sha": "d52a61eb2e6095fc1b9891bfcca44ebfac509e55",
+     "url": "https://api.github.com/repos/psycopg/psycopg2/commits/d52a61eb2e6095fc1b9891bfcca44ebfac509e55"
+    }
+   ],
+   "sha": "7fccc0f5066a40dea530512abbf02621f4182b81",
+   "url": "https://api.github.com/repos/psycopg/psycopg2/commits/7fccc0f5066a40dea530512abbf02621f4182b81"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/199429?v=4",
+    "events_url": "https://api.github.com/users/dvarrazzo/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dvarrazzo/followers",
+    "following_url": "https://api.github.com/users/dvarrazzo/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dvarrazzo/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/dvarrazzo",
+    "id": 199429,
+    "login": "dvarrazzo",
+    "node_id": "MDQ6VXNlcjE5OTQyOQ==",
+    "organizations_url": "https://api.github.com/users/dvarrazzo/orgs",
+    "received_events_url": "https://api.github.com/users/dvarrazzo/received_events",
+    "repos_url": "https://api.github.com/users/dvarrazzo/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dvarrazzo/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dvarrazzo/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/dvarrazzo",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/psycopg/psycopg2/commits/d52a61eb2e6095fc1b9891bfcca44ebfac509e55/comments",
+   "commit": {
+    "author": {
+     "date": "2026-04-18T11:20:44Z",
+     "email": "daniele.varrazzo@gmail.com",
+     "name": "Daniele Varrazzo"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-04-19T00:03:33Z",
+     "email": "daniele.varrazzo@gmail.com",
+     "name": "Daniele Varrazzo"
+    },
+    "message": "chore: bump dependency libraries",
+    "tree": {
+     "sha": "25575e257b3822afbf3364a0c8555f5eb6cb1107",
+     "url": "https://api.github.com/repos/psycopg/psycopg2/git/trees/25575e257b3822afbf3364a0c8555f5eb6cb1107"
+    },
+    "url": "https://api.github.com/repos/psycopg/psycopg2/git/commits/d52a61eb2e6095fc1b9891bfcca44ebfac509e55",
+    "verification": {
+     "payload": null,
+     "reason": "unsigned",
+     "signature": null,
+     "verified": false,
+     "verified_at": null
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/199429?v=4",
+    "events_url": "https://api.github.com/users/dvarrazzo/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dvarrazzo/followers",
+    "following_url": "https://api.github.com/users/dvarrazzo/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dvarrazzo/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/dvarrazzo",
+    "id": 199429,
+    "login": "dvarrazzo",
+    "node_id": "MDQ6VXNlcjE5OTQyOQ==",
+    "organizations_url": "https://api.github.com/users/dvarrazzo/orgs",
+    "received_events_url": "https://api.github.com/users/dvarrazzo/received_events",
+    "repos_url": "https://api.github.com/users/dvarrazzo/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dvarrazzo/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dvarrazzo/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/dvarrazzo",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/psycopg/psycopg2/commit/d52a61eb2e6095fc1b9891bfcca44ebfac509e55",
+   "node_id": "C_kwDOAHX2jdoAKGQ1MmE2MWViMmU2MDk1ZmMxYjk4OTFiZmNjYTQ0ZWJmYWM1MDllNTU",
+   "parents": [
+    {
+     "html_url": "https://github.com/psycopg/psycopg2/commit/b231d726a01d55e07ec3620b2b82f4a2da37ba62",
+     "sha": "b231d726a01d55e07ec3620b2b82f4a2da37ba62",
+     "url": "https://api.github.com/repos/psycopg/psycopg2/commits/b231d726a01d55e07ec3620b2b82f4a2da37ba62"
+    }
+   ],
+   "sha": "d52a61eb2e6095fc1b9891bfcca44ebfac509e55",
+   "url": "https://api.github.com/repos/psycopg/psycopg2/commits/d52a61eb2e6095fc1b9891bfcca44ebfac509e55"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/199429?v=4",
+    "events_url": "https://api.github.com/users/dvarrazzo/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dvarrazzo/followers",
+    "following_url": "https://api.github.com/users/dvarrazzo/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dvarrazzo/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/dvarrazzo",
+    "id": 199429,
+    "login": "dvarrazzo",
+    "node_id": "MDQ6VXNlcjE5OTQyOQ==",
+    "organizations_url": "https://api.github.com/users/dvarrazzo/orgs",
+    "received_events_url": "https://api.github.com/users/dvarrazzo/received_events",
+    "repos_url": "https://api.github.com/users/dvarrazzo/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dvarrazzo/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dvarrazzo/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/dvarrazzo",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/psycopg/psycopg2/commits/b231d726a01d55e07ec3620b2b82f4a2da37ba62/comments",
+   "commit": {
+    "author": {
+     "date": "2026-04-18T23:38:10Z",
+     "email": "daniele.varrazzo@gmail.com",
+     "name": "Daniele Varrazzo"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-04-19T00:03:33Z",
+     "email": "daniele.varrazzo@gmail.com",
+     "name": "Daniele Varrazzo"
+    },
+    "message": "chore: fix building binary images\n\nlibsasl can't be compiled anymore. Support AlmaLinux too.",
+    "tree": {
+     "sha": "20c615e39f5231c92ef62fb44f0d5b01df5403a7",
+     "url": "https://api.github.com/repos/psycopg/psycopg2/git/trees/20c615e39f5231c92ef62fb44f0d5b01df5403a7"
+    },
+    "url": "https://api.github.com/repos/psycopg/psycopg2/git/commits/b231d726a01d55e07ec3620b2b82f4a2da37ba62",
+    "verification": {
+     "payload": null,
+     "reason": "unsigned",
+     "signature": null,
+     "verified": false,
+     "verified_at": null
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/199429?v=4",
+    "events_url": "https://api.github.com/users/dvarrazzo/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dvarrazzo/followers",
+    "following_url": "https://api.github.com/users/dvarrazzo/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dvarrazzo/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/dvarrazzo",
+    "id": 199429,
+    "login": "dvarrazzo",
+    "node_id": "MDQ6VXNlcjE5OTQyOQ==",
+    "organizations_url": "https://api.github.com/users/dvarrazzo/orgs",
+    "received_events_url": "https://api.github.com/users/dvarrazzo/received_events",
+    "repos_url": "https://api.github.com/users/dvarrazzo/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dvarrazzo/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dvarrazzo/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/dvarrazzo",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/psycopg/psycopg2/commit/b231d726a01d55e07ec3620b2b82f4a2da37ba62",
+   "node_id": "C_kwDOAHX2jdoAKGIyMzFkNzI2YTAxZDU1ZTA3ZWMzNjIwYjJiODJmNGEyZGEzN2JhNjI",
+   "parents": [
+    {
+     "html_url": "https://github.com/psycopg/psycopg2/commit/6d76e8479f0f522c2e07ce0e2701030d8fd63785",
+     "sha": "6d76e8479f0f522c2e07ce0e2701030d8fd63785",
+     "url": "https://api.github.com/repos/psycopg/psycopg2/commits/6d76e8479f0f522c2e07ce0e2701030d8fd63785"
+    }
+   ],
+   "sha": "b231d726a01d55e07ec3620b2b82f4a2da37ba62",
+   "url": "https://api.github.com/repos/psycopg/psycopg2/commits/b231d726a01d55e07ec3620b2b82f4a2da37ba62"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/199429?v=4",
+    "events_url": "https://api.github.com/users/dvarrazzo/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dvarrazzo/followers",
+    "following_url": "https://api.github.com/users/dvarrazzo/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dvarrazzo/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/dvarrazzo",
+    "id": 199429,
+    "login": "dvarrazzo",
+    "node_id": "MDQ6VXNlcjE5OTQyOQ==",
+    "organizations_url": "https://api.github.com/users/dvarrazzo/orgs",
+    "received_events_url": "https://api.github.com/users/dvarrazzo/received_events",
+    "repos_url": "https://api.github.com/users/dvarrazzo/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dvarrazzo/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dvarrazzo/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/dvarrazzo",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/psycopg/psycopg2/commits/6d76e8479f0f522c2e07ce0e2701030d8fd63785/comments",
+   "commit": {
+    "author": {
+     "date": "2026-04-18T11:08:12Z",
+     "email": "daniele.varrazzo@gmail.com",
+     "name": "Daniele Varrazzo"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-04-18T11:08:12Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Merge pull request #1836 from psycopg/fix-1835\n\nfix: overflow in malformed interval",
+    "tree": {
+     "sha": "d3422d4253e9d63dd48c5b76541cbe33cb69b6b0",
+     "url": "https://api.github.com/repos/psycopg/psycopg2/git/trees/d3422d4253e9d63dd48c5b76541cbe33cb69b6b0"
+    },
+    "url": "https://api.github.com/repos/psycopg/psycopg2/git/commits/6d76e8479f0f522c2e07ce0e2701030d8fd63785",
+    "verification": {
+     "payload": "tree d3422d4253e9d63dd48c5b76541cbe33cb69b6b0\nparent eb905c124b75f2a5183d22177b85af20914b0f17\nparent f7e314c7ab418ab9b9956e694956089a49c5c3b9\nauthor Daniele Varrazzo <daniele.varrazzo@gmail.com> 1776510492 +0200\ncommitter GitHub <noreply@github.com> 1776510492 +0200\n\nMerge pull request #1836 from psycopg/fix-1835\n\nfix: overflow in malformed interval",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJp42YcCRC1aQ7uu5UhlAAAzeEQAJmuRU7oGKVpuIf7rE8Gii8x\nWaA0aGyAaww6+SyFj5M9vMSWYwUNJsyVgu5vxLzEaR45Z5wDb3vhD2ij2BW6+sHc\nVvs5syj8AEZDdx0sNiE4j9XcuPZ67sENvxaiUsoZ1LZCJ/iJW+nxcvHUBt1UVhKr\nxvyAbrmLgbSlw9EGE7VS5i73y+qXm5PFqMK/wSEVXTnZCRQKom/QQ9p91XPQpqAd\n4YcKcSO21WfrRAYTMlTIZhJXz+f5Bd70kCFkiM3tLSkOnCgEbbKqquAvz+JRu0KL\nyPz8UD++p8sRzrGF+D5BCz0WES4RV7x+BwEiqAuZcyEB94I6MhcuAd9iILKHb+vR\nUpSjK3qL0aTUTphiM0DcB1qQeyzURQnDzeQSiRXZeNTducIWNUVcOX7RXQJjWTe3\nMAw/GUcyNH+Ji7ZqpsrPWdgkptAJrue/njNAAiozbFzZjA4VqF0IzKo+m3QVQ9tI\nQ05eg/ScEQR61U0ygkzZFNtDEay0fKWp+YoeEXYhTOcOTOjSVtIKHyoKVjrKJA5i\niqbcgoBWiRcxaRyIwTlrbS2NylVd1N/EQON4LzhlNkJGuL+84nKAjhbcqK7M1Key\n/JKj1poAS7jLDZcpIdernxUY1oVSX9x0J4ukDaMhnht1aidnMZZJeiU++fPNCu/K\nPIAayt/CDpPTqhV3Fenm\n=Qq1S\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-04-18T11:08:12Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/psycopg/psycopg2/commit/6d76e8479f0f522c2e07ce0e2701030d8fd63785",
+   "node_id": "C_kwDOAHX2jdoAKDZkNzZlODQ3OWYwZjUyMmMyZTA3Y2UwZTI3MDEwMzBkOGZkNjM3ODU",
+   "parents": [
+    {
+     "html_url": "https://github.com/psycopg/psycopg2/commit/eb905c124b75f2a5183d22177b85af20914b0f17",
+     "sha": "eb905c124b75f2a5183d22177b85af20914b0f17",
+     "url": "https://api.github.com/repos/psycopg/psycopg2/commits/eb905c124b75f2a5183d22177b85af20914b0f17"
+    },
+    {
+     "html_url": "https://github.com/psycopg/psycopg2/commit/f7e314c7ab418ab9b9956e694956089a49c5c3b9",
+     "sha": "f7e314c7ab418ab9b9956e694956089a49c5c3b9",
+     "url": "https://api.github.com/repos/psycopg/psycopg2/commits/f7e314c7ab418ab9b9956e694956089a49c5c3b9"
+    }
+   ],
+   "sha": "6d76e8479f0f522c2e07ce0e2701030d8fd63785",
+   "url": "https://api.github.com/repos/psycopg/psycopg2/commits/6d76e8479f0f522c2e07ce0e2701030d8fd63785"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/199429?v=4",
+    "events_url": "https://api.github.com/users/dvarrazzo/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dvarrazzo/followers",
+    "following_url": "https://api.github.com/users/dvarrazzo/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dvarrazzo/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/dvarrazzo",
+    "id": 199429,
+    "login": "dvarrazzo",
+    "node_id": "MDQ6VXNlcjE5OTQyOQ==",
+    "organizations_url": "https://api.github.com/users/dvarrazzo/orgs",
+    "received_events_url": "https://api.github.com/users/dvarrazzo/received_events",
+    "repos_url": "https://api.github.com/users/dvarrazzo/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dvarrazzo/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dvarrazzo/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/dvarrazzo",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/psycopg/psycopg2/commits/f7e314c7ab418ab9b9956e694956089a49c5c3b9/comments",
+   "commit": {
+    "author": {
+     "date": "2026-04-16T13:40:34Z",
+     "email": "daniele.varrazzo@gmail.com",
+     "name": "Daniele Varrazzo"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-04-18T10:51:54Z",
+     "email": "daniele.varrazzo@gmail.com",
+     "name": "Daniele Varrazzo"
+    },
+    "message": "fix: overflow in malformed interval\n\nClose #1835\n\nThank you very much Michael Knap for reporting the bug and making sure\nthat the solution is correct.",
+    "tree": {
+     "sha": "d3422d4253e9d63dd48c5b76541cbe33cb69b6b0",
+     "url": "https://api.github.com/repos/psycopg/psycopg2/git/trees/d3422d4253e9d63dd48c5b76541cbe33cb69b6b0"
+    },
+    "url": "https://api.github.com/repos/psycopg/psycopg2/git/commits/f7e314c7ab418ab9b9956e694956089a49c5c3b9",
+    "verification": {
+     "payload": null,
+     "reason": "unsigned",
+     "signature": null,
+     "verified": false,
+     "verified_at": null
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/199429?v=4",
+    "events_url": "https://api.github.com/users/dvarrazzo/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dvarrazzo/followers",
+    "following_url": "https://api.github.com/users/dvarrazzo/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dvarrazzo/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/dvarrazzo",
+    "id": 199429,
+    "login": "dvarrazzo",
+    "node_id": "MDQ6VXNlcjE5OTQyOQ==",
+    "organizations_url": "https://api.github.com/users/dvarrazzo/orgs",
+    "received_events_url": "https://api.github.com/users/dvarrazzo/received_events",
+    "repos_url": "https://api.github.com/users/dvarrazzo/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dvarrazzo/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dvarrazzo/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/dvarrazzo",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/psycopg/psycopg2/commit/f7e314c7ab418ab9b9956e694956089a49c5c3b9",
+   "node_id": "C_kwDOAHX2jdoAKGY3ZTMxNGM3YWI0MThhYjliOTk1NmU2OTQ5NTYwODlhNDljNWMzYjk",
+   "parents": [
+    {
+     "html_url": "https://github.com/psycopg/psycopg2/commit/eb905c124b75f2a5183d22177b85af20914b0f17",
+     "sha": "eb905c124b75f2a5183d22177b85af20914b0f17",
+     "url": "https://api.github.com/repos/psycopg/psycopg2/commits/eb905c124b75f2a5183d22177b85af20914b0f17"
+    }
+   ],
+   "sha": "f7e314c7ab418ab9b9956e694956089a49c5c3b9",
+   "url": "https://api.github.com/repos/psycopg/psycopg2/commits/f7e314c7ab418ab9b9956e694956089a49c5c3b9"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/167664334?v=4",
+    "events_url": "https://api.github.com/users/haosenwang1018/events{/privacy}",
+    "followers_url": "https://api.github.com/users/haosenwang1018/followers",
+    "following_url": "https://api.github.com/users/haosenwang1018/following{/other_user}",
+    "gists_url": "https://api.github.com/users/haosenwang1018/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/haosenwang1018",
+    "id": 167664334,
+    "login": "haosenwang1018",
+    "node_id": "U_kgDOCf5azg",
+    "organizations_url": "https://api.github.com/users/haosenwang1018/orgs",
+    "received_events_url": "https://api.github.com/users/haosenwang1018/received_events",
+    "repos_url": "https://api.github.com/users/haosenwang1018/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/haosenwang1018/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/haosenwang1018/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/haosenwang1018",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/psycopg/psycopg2/commits/eb905c124b75f2a5183d22177b85af20914b0f17/comments",
+   "commit": {
+    "author": {
+     "date": "2026-02-26T09:09:24Z",
+     "email": "167664334+haosenwang1018@users.noreply.github.com",
+     "name": "Sense_wang"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-02-26T09:09:24Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "docs: replace bare except clause with except Exception",
+    "tree": {
+     "sha": "58c8216524510c2bb7e2da33ed80f0f1f9b7dc16",
+     "url": "https://api.github.com/repos/psycopg/psycopg2/git/trees/58c8216524510c2bb7e2da33ed80f0f1f9b7dc16"
+    },
+    "url": "https://api.github.com/repos/psycopg/psycopg2/git/commits/eb905c124b75f2a5183d22177b85af20914b0f17",
+    "verification": {
+     "payload": "tree 58c8216524510c2bb7e2da33ed80f0f1f9b7dc16\nparent 507d2eee4dda7fa8b289f149551a3f59d4dbb089\nauthor Sense_wang <167664334+haosenwang1018@users.noreply.github.com> 1772096964 +0800\ncommitter GitHub <noreply@github.com> 1772096964 +0000\n\ndocs: replace bare except clause with except Exception\n\n",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJpoA3ECRC1aQ7uu5UhlAAAY7kQAGGbIyNSC+tdqWO1nTru7z3B\n3rx6GkNEk+MsQHQ0TQXfvzMHNAuFoNYUefV0CWRi/4fqIgdynJyBCIGJN0Xe2T8o\n+QzE7VFctQnttMGttkGSsoqDiWAdwHaK0nCrKjLVjw9EZKuPLFcZI54Ig2mTQpNe\nhyhgNF6aKbkteyhUaN2SjUdNeYUNfXrf/d0O1icvZ3xvJpQm4+XrhdnBN4qafNxS\nQicvKncd8Axf/DW6Z1yxHpAGv0qLPw9QpGO7fMAABISUcyV07AbB2fjgF1qg2mSX\n65WAxP9+/F+W8oOXvekkYK7LnWMpn2Tpjoy9Xp9BEetFQzMmBRyHvL/r7VtMzBSp\nlBKJCrUtkkNs1995p1WJYIW0DqYEu+iQBpYZy4C4zAXEP9V5GHfXbRVbF1+exDow\nUJj9H1nceX7TwD9AJfVymii53fW2JfPKmXdOK8d0hl40c8QgCYEuaoJ1IGBZ+DBJ\nfTmNN+VuRKJsVqLFUFMkjL+N6Mi1tFqLybyxBRYdzK4PsE7ToTtZ6peJFBdN4lA/\n304vtJuV36HQi0NvyRhtaFbhmOB2S1RlvaRupAw0jPMiLdxSaTZJioOQ24CvH1ZA\nRh7ochpXYFWx7aBxzbZYfve6CCOlCU+H0Zv2vu50Fzoaye8yD81EYx1B5P2y/jqK\nC3dKVv7GQxe9rxqpbwXH\n=PLo1\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-02-26T09:09:25Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/psycopg/psycopg2/commit/eb905c124b75f2a5183d22177b85af20914b0f17",
+   "node_id": "C_kwDOAHX2jdoAKGViOTA1YzEyNGI3NWYyYTUxODNkMjIxNzdiODVhZjIwOTE0YjBmMTc",
+   "parents": [
+    {
+     "html_url": "https://github.com/psycopg/psycopg2/commit/507d2eee4dda7fa8b289f149551a3f59d4dbb089",
+     "sha": "507d2eee4dda7fa8b289f149551a3f59d4dbb089",
+     "url": "https://api.github.com/repos/psycopg/psycopg2/commits/507d2eee4dda7fa8b289f149551a3f59d4dbb089"
+    }
+   ],
+   "sha": "eb905c124b75f2a5183d22177b85af20914b0f17",
+   "url": "https://api.github.com/repos/psycopg/psycopg2/commits/eb905c124b75f2a5183d22177b85af20914b0f17"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+    "events_url": "https://api.github.com/users/dependabot%5Bbot%5D/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dependabot%5Bbot%5D/followers",
+    "following_url": "https://api.github.com/users/dependabot%5Bbot%5D/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dependabot%5Bbot%5D/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/apps/dependabot",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "node_id": "MDM6Qm90NDk2OTkzMzM=",
+    "organizations_url": "https://api.github.com/users/dependabot%5Bbot%5D/orgs",
+    "received_events_url": "https://api.github.com/users/dependabot%5Bbot%5D/received_events",
+    "repos_url": "https://api.github.com/users/dependabot%5Bbot%5D/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dependabot%5Bbot%5D/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dependabot%5Bbot%5D/subscriptions",
+    "type": "Bot",
+    "url": "https://api.github.com/users/dependabot%5Bbot%5D",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/psycopg/psycopg2/commits/507d2eee4dda7fa8b289f149551a3f59d4dbb089/comments",
+   "commit": {
+    "author": {
+     "date": "2026-02-01T23:42:54Z",
+     "email": "49699333+dependabot[bot]@users.noreply.github.com",
+     "name": "dependabot[bot]"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-02-02T12:30:46Z",
+     "email": "daniele.varrazzo@gmail.com",
+     "name": "Daniele Varrazzo"
+    },
+    "message": "build(deps): bump pypa/cibuildwheel from 3.3.0 to 3.3.1\n\nBumps [pypa/cibuildwheel](https://github.com/pypa/cibuildwheel) from 3.3.0 to 3.3.1.\n- [Release notes](https://github.com/pypa/cibuildwheel/releases)\n- [Changelog](https://github.com/pypa/cibuildwheel/blob/main/docs/changelog.md)\n- [Commits](https://github.com/pypa/cibuildwheel/compare/v3.3.0...v3.3.1)\n\n---\nupdated-dependencies:\n- dependency-name: pypa/cibuildwheel\n  dependency-version: 3.3.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>",
+    "tree": {
+     "sha": "477d80260dd44a4dc8e20029f2c57ee64ef9e701",
+     "url": "https://api.github.com/repos/psycopg/psycopg2/git/trees/477d80260dd44a4dc8e20029f2c57ee64ef9e701"
+    },
+    "url": "https://api.github.com/repos/psycopg/psycopg2/git/commits/507d2eee4dda7fa8b289f149551a3f59d4dbb089",
+    "verification": {
+     "payload": null,
+     "reason": "unsigned",
+     "signature": null,
+     "verified": false,
+     "verified_at": null
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/199429?v=4",
+    "events_url": "https://api.github.com/users/dvarrazzo/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dvarrazzo/followers",
+    "following_url": "https://api.github.com/users/dvarrazzo/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dvarrazzo/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/dvarrazzo",
+    "id": 199429,
+    "login": "dvarrazzo",
+    "node_id": "MDQ6VXNlcjE5OTQyOQ==",
+    "organizations_url": "https://api.github.com/users/dvarrazzo/orgs",
+    "received_events_url": "https://api.github.com/users/dvarrazzo/received_events",
+    "repos_url": "https://api.github.com/users/dvarrazzo/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dvarrazzo/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dvarrazzo/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/dvarrazzo",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/psycopg/psycopg2/commit/507d2eee4dda7fa8b289f149551a3f59d4dbb089",
+   "node_id": "C_kwDOAHX2jdoAKDUwN2QyZWVlNGRkYTdmYThiMjg5ZjE0OTU1MWEzZjU5ZDRkYmIwODk",
+   "parents": [
+    {
+     "html_url": "https://github.com/psycopg/psycopg2/commit/8860f37da5950c0ac8de975c6c220312caf9efcf",
+     "sha": "8860f37da5950c0ac8de975c6c220312caf9efcf",
+     "url": "https://api.github.com/repos/psycopg/psycopg2/commits/8860f37da5950c0ac8de975c6c220312caf9efcf"
+    }
+   ],
+   "sha": "507d2eee4dda7fa8b289f149551a3f59d4dbb089",
+   "url": "https://api.github.com/repos/psycopg/psycopg2/commits/507d2eee4dda7fa8b289f149551a3f59d4dbb089"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+    "events_url": "https://api.github.com/users/dependabot%5Bbot%5D/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dependabot%5Bbot%5D/followers",
+    "following_url": "https://api.github.com/users/dependabot%5Bbot%5D/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dependabot%5Bbot%5D/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/apps/dependabot",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "node_id": "MDM6Qm90NDk2OTkzMzM=",
+    "organizations_url": "https://api.github.com/users/dependabot%5Bbot%5D/orgs",
+    "received_events_url": "https://api.github.com/users/dependabot%5Bbot%5D/received_events",
+    "repos_url": "https://api.github.com/users/dependabot%5Bbot%5D/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dependabot%5Bbot%5D/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dependabot%5Bbot%5D/subscriptions",
+    "type": "Bot",
+    "url": "https://api.github.com/users/dependabot%5Bbot%5D",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/psycopg/psycopg2/commits/8860f37da5950c0ac8de975c6c220312caf9efcf/comments",
+   "commit": {
+    "author": {
+     "date": "2026-01-01T23:02:44Z",
+     "email": "49699333+dependabot[bot]@users.noreply.github.com",
+     "name": "dependabot[bot]"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-01-02T10:10:32Z",
+     "email": "daniele.varrazzo@gmail.com",
+     "name": "Daniele Varrazzo"
+    },
+    "message": "build(deps): bump actions/upload-artifact from 5 to 6\n\nBumps [actions/upload-artifact](https://github.com/actions/upload-artifact) from 5 to 6.\n- [Release notes](https://github.com/actions/upload-artifact/releases)\n- [Commits](https://github.com/actions/upload-artifact/compare/v5...v6)\n\n---\nupdated-dependencies:\n- dependency-name: actions/upload-artifact\n  dependency-version: '6'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>",
+    "tree": {
+     "sha": "c6d6bcec5ddef5077b2bda746a2c451b2d399084",
+     "url": "https://api.github.com/repos/psycopg/psycopg2/git/trees/c6d6bcec5ddef5077b2bda746a2c451b2d399084"
+    },
+    "url": "https://api.github.com/repos/psycopg/psycopg2/git/commits/8860f37da5950c0ac8de975c6c220312caf9efcf",
+    "verification": {
+     "payload": null,
+     "reason": "unsigned",
+     "signature": null,
+     "verified": false,
+     "verified_at": null
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/199429?v=4",
+    "events_url": "https://api.github.com/users/dvarrazzo/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dvarrazzo/followers",
+    "following_url": "https://api.github.com/users/dvarrazzo/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dvarrazzo/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/dvarrazzo",
+    "id": 199429,
+    "login": "dvarrazzo",
+    "node_id": "MDQ6VXNlcjE5OTQyOQ==",
+    "organizations_url": "https://api.github.com/users/dvarrazzo/orgs",
+    "received_events_url": "https://api.github.com/users/dvarrazzo/received_events",
+    "repos_url": "https://api.github.com/users/dvarrazzo/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dvarrazzo/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dvarrazzo/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/dvarrazzo",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/psycopg/psycopg2/commit/8860f37da5950c0ac8de975c6c220312caf9efcf",
+   "node_id": "C_kwDOAHX2jdoAKDg4NjBmMzdkYTU5NTBjMGFjOGRlOTc1YzZjMjIwMzEyY2FmOWVmY2Y",
+   "parents": [
+    {
+     "html_url": "https://github.com/psycopg/psycopg2/commit/e7f2f12d5ac68d9b6afca6cdf65cef54e2dad568",
+     "sha": "e7f2f12d5ac68d9b6afca6cdf65cef54e2dad568",
+     "url": "https://api.github.com/repos/psycopg/psycopg2/commits/e7f2f12d5ac68d9b6afca6cdf65cef54e2dad568"
+    }
+   ],
+   "sha": "8860f37da5950c0ac8de975c6c220312caf9efcf",
+   "url": "https://api.github.com/repos/psycopg/psycopg2/commits/8860f37da5950c0ac8de975c6c220312caf9efcf"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+    "events_url": "https://api.github.com/users/dependabot%5Bbot%5D/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dependabot%5Bbot%5D/followers",
+    "following_url": "https://api.github.com/users/dependabot%5Bbot%5D/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dependabot%5Bbot%5D/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/apps/dependabot",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "node_id": "MDM6Qm90NDk2OTkzMzM=",
+    "organizations_url": "https://api.github.com/users/dependabot%5Bbot%5D/orgs",
+    "received_events_url": "https://api.github.com/users/dependabot%5Bbot%5D/received_events",
+    "repos_url": "https://api.github.com/users/dependabot%5Bbot%5D/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dependabot%5Bbot%5D/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dependabot%5Bbot%5D/subscriptions",
+    "type": "Bot",
+    "url": "https://api.github.com/users/dependabot%5Bbot%5D",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/psycopg/psycopg2/commits/e7f2f12d5ac68d9b6afca6cdf65cef54e2dad568/comments",
+   "commit": {
+    "author": {
+     "date": "2026-01-01T23:02:40Z",
+     "email": "49699333+dependabot[bot]@users.noreply.github.com",
+     "name": "dependabot[bot]"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-01-02T10:10:07Z",
+     "email": "daniele.varrazzo@gmail.com",
+     "name": "Daniele Varrazzo"
+    },
+    "message": "build(deps): bump actions/cache from 4 to 5\n\nBumps [actions/cache](https://github.com/actions/cache) from 4 to 5.\n- [Release notes](https://github.com/actions/cache/releases)\n- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)\n- [Commits](https://github.com/actions/cache/compare/v4...v5)\n\n---\nupdated-dependencies:\n- dependency-name: actions/cache\n  dependency-version: '5'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>",
+    "tree": {
+     "sha": "0d4d3171ab4ea17d6939fdec695e64adfb24fe57",
+     "url": "https://api.github.com/repos/psycopg/psycopg2/git/trees/0d4d3171ab4ea17d6939fdec695e64adfb24fe57"
+    },
+    "url": "https://api.github.com/repos/psycopg/psycopg2/git/commits/e7f2f12d5ac68d9b6afca6cdf65cef54e2dad568",
+    "verification": {
+     "payload": null,
+     "reason": "unsigned",
+     "signature": null,
+     "verified": false,
+     "verified_at": null
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/199429?v=4",
+    "events_url": "https://api.github.com/users/dvarrazzo/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dvarrazzo/followers",
+    "following_url": "https://api.github.com/users/dvarrazzo/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dvarrazzo/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/dvarrazzo",
+    "id": 199429,
+    "login": "dvarrazzo",
+    "node_id": "MDQ6VXNlcjE5OTQyOQ==",
+    "organizations_url": "https://api.github.com/users/dvarrazzo/orgs",
+    "received_events_url": "https://api.github.com/users/dvarrazzo/received_events",
+    "repos_url": "https://api.github.com/users/dvarrazzo/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dvarrazzo/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dvarrazzo/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/dvarrazzo",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/psycopg/psycopg2/commit/e7f2f12d5ac68d9b6afca6cdf65cef54e2dad568",
+   "node_id": "C_kwDOAHX2jdoAKGU3ZjJmMTJkNWFjNjhkOWI2YWZjYTZjZGY2NWNlZjU0ZTJkYWQ1Njg",
+   "parents": [
+    {
+     "html_url": "https://github.com/psycopg/psycopg2/commit/7ef58cf9c9de7b11558cb3a8ef869d5c610a4cb1",
+     "sha": "7ef58cf9c9de7b11558cb3a8ef869d5c610a4cb1",
+     "url": "https://api.github.com/repos/psycopg/psycopg2/commits/7ef58cf9c9de7b11558cb3a8ef869d5c610a4cb1"
+    }
+   ],
+   "sha": "e7f2f12d5ac68d9b6afca6cdf65cef54e2dad568",
+   "url": "https://api.github.com/repos/psycopg/psycopg2/commits/e7f2f12d5ac68d9b6afca6cdf65cef54e2dad568"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+    "events_url": "https://api.github.com/users/dependabot%5Bbot%5D/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dependabot%5Bbot%5D/followers",
+    "following_url": "https://api.github.com/users/dependabot%5Bbot%5D/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dependabot%5Bbot%5D/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/apps/dependabot",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "node_id": "MDM6Qm90NDk2OTkzMzM=",
+    "organizations_url": "https://api.github.com/users/dependabot%5Bbot%5D/orgs",
+    "received_events_url": "https://api.github.com/users/dependabot%5Bbot%5D/received_events",
+    "repos_url": "https://api.github.com/users/dependabot%5Bbot%5D/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dependabot%5Bbot%5D/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dependabot%5Bbot%5D/subscriptions",
+    "type": "Bot",
+    "url": "https://api.github.com/users/dependabot%5Bbot%5D",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/psycopg/psycopg2/commits/7ef58cf9c9de7b11558cb3a8ef869d5c610a4cb1/comments",
+   "commit": {
+    "author": {
+     "date": "2025-11-01T23:02:37Z",
+     "email": "49699333+dependabot[bot]@users.noreply.github.com",
+     "name": "dependabot[bot]"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2025-12-06T17:50:44Z",
+     "email": "daniele.varrazzo@gmail.com",
+     "name": "Daniele Varrazzo"
+    },
+    "message": "build(deps): bump actions/upload-artifact from 4 to 5\n\nBumps [actions/upload-artifact](https://github.com/actions/upload-artifact) from 4 to 5.\n- [Release notes](https://github.com/actions/upload-artifact/releases)\n- [Commits](https://github.com/actions/upload-artifact/compare/v4...v5)\n\n---\nupdated-dependencies:\n- dependency-name: actions/upload-artifact\n  dependency-version: '5'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>",
+    "tree": {
+     "sha": "67c4162ba891a9294b6f6cfa60601c0bc32a25f6",
+     "url": "https://api.github.com/repos/psycopg/psycopg2/git/trees/67c4162ba891a9294b6f6cfa60601c0bc32a25f6"
+    },
+    "url": "https://api.github.com/repos/psycopg/psycopg2/git/commits/7ef58cf9c9de7b11558cb3a8ef869d5c610a4cb1",
+    "verification": {
+     "payload": null,
+     "reason": "unsigned",
+     "signature": null,
+     "verified": false,
+     "verified_at": null
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/199429?v=4",
+    "events_url": "https://api.github.com/users/dvarrazzo/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dvarrazzo/followers",
+    "following_url": "https://api.github.com/users/dvarrazzo/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dvarrazzo/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/dvarrazzo",
+    "id": 199429,
+    "login": "dvarrazzo",
+    "node_id": "MDQ6VXNlcjE5OTQyOQ==",
+    "organizations_url": "https://api.github.com/users/dvarrazzo/orgs",
+    "received_events_url": "https://api.github.com/users/dvarrazzo/received_events",
+    "repos_url": "https://api.github.com/users/dvarrazzo/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dvarrazzo/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dvarrazzo/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/dvarrazzo",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/psycopg/psycopg2/commit/7ef58cf9c9de7b11558cb3a8ef869d5c610a4cb1",
+   "node_id": "C_kwDOAHX2jdoAKDdlZjU4Y2Y5YzlkZTdiMTE1NThjYjNhOGVmODY5ZDVjNjEwYTRjYjE",
+   "parents": [
+    {
+     "html_url": "https://github.com/psycopg/psycopg2/commit/9da6fd1fcd38e46f7fdec257d4ea580b5f7e472a",
+     "sha": "9da6fd1fcd38e46f7fdec257d4ea580b5f7e472a",
+     "url": "https://api.github.com/repos/psycopg/psycopg2/commits/9da6fd1fcd38e46f7fdec257d4ea580b5f7e472a"
+    }
+   ],
+   "sha": "7ef58cf9c9de7b11558cb3a8ef869d5c610a4cb1",
+   "url": "https://api.github.com/repos/psycopg/psycopg2/commits/7ef58cf9c9de7b11558cb3a8ef869d5c610a4cb1"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+    "events_url": "https://api.github.com/users/dependabot%5Bbot%5D/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dependabot%5Bbot%5D/followers",
+    "following_url": "https://api.github.com/users/dependabot%5Bbot%5D/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dependabot%5Bbot%5D/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/apps/dependabot",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "node_id": "MDM6Qm90NDk2OTkzMzM=",
+    "organizations_url": "https://api.github.com/users/dependabot%5Bbot%5D/orgs",
+    "received_events_url": "https://api.github.com/users/dependabot%5Bbot%5D/received_events",
+    "repos_url": "https://api.github.com/users/dependabot%5Bbot%5D/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dependabot%5Bbot%5D/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dependabot%5Bbot%5D/subscriptions",
+    "type": "Bot",
+    "url": "https://api.github.com/users/dependabot%5Bbot%5D",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/psycopg/psycopg2/commits/9da6fd1fcd38e46f7fdec257d4ea580b5f7e472a/comments",
+   "commit": {
+    "author": {
+     "date": "2025-12-02T01:58:11Z",
+     "email": "49699333+dependabot[bot]@users.noreply.github.com",
+     "name": "dependabot[bot]"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2025-12-06T17:50:26Z",
+     "email": "daniele.varrazzo@gmail.com",
+     "name": "Daniele Varrazzo"
+    },
+    "message": "build(deps): bump actions/checkout from 5 to 6\n\nBumps [actions/checkout](https://github.com/actions/checkout) from 5 to 6.\n- [Release notes](https://github.com/actions/checkout/releases)\n- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/actions/checkout/compare/v5...v6)\n\n---\nupdated-dependencies:\n- dependency-name: actions/checkout\n  dependency-version: '6'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>",
+    "tree": {
+     "sha": "6e59254730a6591d7f48293d972ace5e5c5989d8",
+     "url": "https://api.github.com/repos/psycopg/psycopg2/git/trees/6e59254730a6591d7f48293d972ace5e5c5989d8"
+    },
+    "url": "https://api.github.com/repos/psycopg/psycopg2/git/commits/9da6fd1fcd38e46f7fdec257d4ea580b5f7e472a",
+    "verification": {
+     "payload": null,
+     "reason": "unsigned",
+     "signature": null,
+     "verified": false,
+     "verified_at": null
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/199429?v=4",
+    "events_url": "https://api.github.com/users/dvarrazzo/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dvarrazzo/followers",
+    "following_url": "https://api.github.com/users/dvarrazzo/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dvarrazzo/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/dvarrazzo",
+    "id": 199429,
+    "login": "dvarrazzo",
+    "node_id": "MDQ6VXNlcjE5OTQyOQ==",
+    "organizations_url": "https://api.github.com/users/dvarrazzo/orgs",
+    "received_events_url": "https://api.github.com/users/dvarrazzo/received_events",
+    "repos_url": "https://api.github.com/users/dvarrazzo/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dvarrazzo/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dvarrazzo/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/dvarrazzo",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/psycopg/psycopg2/commit/9da6fd1fcd38e46f7fdec257d4ea580b5f7e472a",
+   "node_id": "C_kwDOAHX2jdoAKDlkYTZmZDFmY2QzOGU0NmY3ZmRlYzI1N2Q0ZWE1ODBiNWY3ZTQ3MmE",
+   "parents": [
+    {
+     "html_url": "https://github.com/psycopg/psycopg2/commit/85f8d047dda4e75b09b1bf0a7ea1f6714eaefead",
+     "sha": "85f8d047dda4e75b09b1bf0a7ea1f6714eaefead",
+     "url": "https://api.github.com/repos/psycopg/psycopg2/commits/85f8d047dda4e75b09b1bf0a7ea1f6714eaefead"
+    }
+   ],
+   "sha": "9da6fd1fcd38e46f7fdec257d4ea580b5f7e472a",
+   "url": "https://api.github.com/repos/psycopg/psycopg2/commits/9da6fd1fcd38e46f7fdec257d4ea580b5f7e472a"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+    "events_url": "https://api.github.com/users/dependabot%5Bbot%5D/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dependabot%5Bbot%5D/followers",
+    "following_url": "https://api.github.com/users/dependabot%5Bbot%5D/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dependabot%5Bbot%5D/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/apps/dependabot",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "node_id": "MDM6Qm90NDk2OTkzMzM=",
+    "organizations_url": "https://api.github.com/users/dependabot%5Bbot%5D/orgs",
+    "received_events_url": "https://api.github.com/users/dependabot%5Bbot%5D/received_events",
+    "repos_url": "https://api.github.com/users/dependabot%5Bbot%5D/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dependabot%5Bbot%5D/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dependabot%5Bbot%5D/subscriptions",
+    "type": "Bot",
+    "url": "https://api.github.com/users/dependabot%5Bbot%5D",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/psycopg/psycopg2/commits/85f8d047dda4e75b09b1bf0a7ea1f6714eaefead/comments",
+   "commit": {
+    "author": {
+     "date": "2025-12-02T01:58:25Z",
+     "email": "49699333+dependabot[bot]@users.noreply.github.com",
+     "name": "dependabot[bot]"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2025-12-06T17:50:12Z",
+     "email": "daniele.varrazzo@gmail.com",
+     "name": "Daniele Varrazzo"
+    },
+    "message": "build(deps): bump pypa/cibuildwheel from 3.2.0 to 3.3.0\n\nBumps [pypa/cibuildwheel](https://github.com/pypa/cibuildwheel) from 3.2.0 to 3.3.0.\n- [Release notes](https://github.com/pypa/cibuildwheel/releases)\n- [Changelog](https://github.com/pypa/cibuildwheel/blob/main/docs/changelog.md)\n- [Commits](https://github.com/pypa/cibuildwheel/compare/v3.2.0...v3.3.0)\n\n---\nupdated-dependencies:\n- dependency-name: pypa/cibuildwheel\n  dependency-version: 3.3.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>",
+    "tree": {
+     "sha": "9fa27ea091af2bd58881cba418f2e48f365efe01",
+     "url": "https://api.github.com/repos/psycopg/psycopg2/git/trees/9fa27ea091af2bd58881cba418f2e48f365efe01"
+    },
+    "url": "https://api.github.com/repos/psycopg/psycopg2/git/commits/85f8d047dda4e75b09b1bf0a7ea1f6714eaefead",
+    "verification": {
+     "payload": null,
+     "reason": "unsigned",
+     "signature": null,
+     "verified": false,
+     "verified_at": null
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/199429?v=4",
+    "events_url": "https://api.github.com/users/dvarrazzo/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dvarrazzo/followers",
+    "following_url": "https://api.github.com/users/dvarrazzo/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dvarrazzo/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/dvarrazzo",
+    "id": 199429,
+    "login": "dvarrazzo",
+    "node_id": "MDQ6VXNlcjE5OTQyOQ==",
+    "organizations_url": "https://api.github.com/users/dvarrazzo/orgs",
+    "received_events_url": "https://api.github.com/users/dvarrazzo/received_events",
+    "repos_url": "https://api.github.com/users/dvarrazzo/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dvarrazzo/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dvarrazzo/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/dvarrazzo",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/psycopg/psycopg2/commit/85f8d047dda4e75b09b1bf0a7ea1f6714eaefead",
+   "node_id": "C_kwDOAHX2jdoAKDg1ZjhkMDQ3ZGRhNGU3NWIwOWIxYmYwYTdlYTFmNjcxNGVhZWZlYWQ",
+   "parents": [
+    {
+     "html_url": "https://github.com/psycopg/psycopg2/commit/f8362a52615d070e8b426508aee4d01bc596052c",
+     "sha": "f8362a52615d070e8b426508aee4d01bc596052c",
+     "url": "https://api.github.com/repos/psycopg/psycopg2/commits/f8362a52615d070e8b426508aee4d01bc596052c"
+    }
+   ],
+   "sha": "85f8d047dda4e75b09b1bf0a7ea1f6714eaefead",
+   "url": "https://api.github.com/repos/psycopg/psycopg2/commits/85f8d047dda4e75b09b1bf0a7ea1f6714eaefead"
+  }
+ ],
+ "recorded_at": "2026-11-16T18:38:46Z",
+ "recorded_with": "deadledger 0.1.0",
+ "status": 200,
+ "url": "https://api.github.com/repos/psycopg/psycopg2/commits?since=<window>&per_page=100"
+}

@@ -1,0 +1,15 @@
+{
+ "body": {
+  "archived": false,
+  "default_branch": "master",
+  "full_name": "expressjs/express",
+  "html_url": "https://github.com/expressjs/express",
+  "open_issues_count": 261,
+  "pushed_at": "2026-11-02T20:15:26Z",
+  "stargazers_count": 69636
+ },
+ "recorded_at": "2026-11-16T18:12:21Z",
+ "recorded_with": "deadledger 0.1.0",
+ "status": 200,
+ "url": "https://api.github.com/repos/expressjs/express"
+}

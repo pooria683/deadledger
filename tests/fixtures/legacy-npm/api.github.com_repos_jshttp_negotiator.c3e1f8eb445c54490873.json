@@ -1,0 +1,15 @@
+{
+ "body": {
+  "archived": false,
+  "default_branch": "master",
+  "full_name": "jshttp/negotiator",
+  "html_url": "https://github.com/jshttp/negotiator",
+  "open_issues_count": 17,
+  "pushed_at": "2026-08-20T16:44:00Z",
+  "stargazers_count": 386
+ },
+ "recorded_at": "2026-11-16T18:12:21Z",
+ "recorded_with": "deadledger 0.1.0",
+ "status": 200,
+ "url": "https://api.github.com/repos/jshttp/negotiator"
+}

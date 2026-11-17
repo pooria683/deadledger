@@ -1,0 +1,15 @@
+{
+ "body": {
+  "archived": false,
+  "default_branch": "master",
+  "full_name": "jazzband/tablib",
+  "html_url": "https://github.com/jazzband/tablib",
+  "open_issues_count": 84,
+  "pushed_at": "2026-11-11T04:19:57Z",
+  "stargazers_count": 4760
+ },
+ "recorded_at": "2026-11-16T18:38:46Z",
+ "recorded_with": "deadledger 0.1.0",
+ "status": 200,
+ "url": "https://api.github.com/repos/jazzband/tablib"
+}

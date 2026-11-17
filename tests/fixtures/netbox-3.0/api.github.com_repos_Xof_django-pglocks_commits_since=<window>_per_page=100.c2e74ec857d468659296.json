@@ -1,0 +1,910 @@
+{
+ "body": [
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/145915?v=4",
+    "events_url": "https://api.github.com/users/Xof/events{/privacy}",
+    "followers_url": "https://api.github.com/users/Xof/followers",
+    "following_url": "https://api.github.com/users/Xof/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Xof/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/Xof",
+    "id": 145915,
+    "login": "Xof",
+    "node_id": "MDQ6VXNlcjE0NTkxNQ==",
+    "organizations_url": "https://api.github.com/users/Xof/orgs",
+    "received_events_url": "https://api.github.com/users/Xof/received_events",
+    "repos_url": "https://api.github.com/users/Xof/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/Xof/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Xof/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/Xof",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/Xof/django-pglocks/commits/48cdd525039b52cb5a20d56491311fa46a96db8d/comments",
+   "commit": {
+    "author": {
+     "date": "2026-06-21T07:43:16Z",
+     "email": "cpettus@pgexperts.com",
+     "name": "Christophe Pettus"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-06-21T07:43:16Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "ci: slim CI to lint+build for the deprecation shim (#35)\n\nThe 2.1.0 shim deleted its test suite, but CI still ran a PostgreSQL/Django\npytest matrix (every job failed) and the lint job tripped E402 on the\nre-export sitting after the deprecation warning.\n\n- Move the re-export to module top (fixes ruff E402); the warning still fires.\n- Drop the test-pr/test-full matrix from ci.yml — nothing to exercise here.\n- Remove the dangling pytest config (pointed at the deleted tests.django_settings)\n  and the now-unused pytest dev dependencies.\n\nCI is now lint (ruff + mypy) + build, right-sized for a frozen shim.",
+    "tree": {
+     "sha": "c2669efad258abd89dc4cd6972550bc93aa647a5",
+     "url": "https://api.github.com/repos/Xof/django-pglocks/git/trees/c2669efad258abd89dc4cd6972550bc93aa647a5"
+    },
+    "url": "https://api.github.com/repos/Xof/django-pglocks/git/commits/48cdd525039b52cb5a20d56491311fa46a96db8d",
+    "verification": {
+     "payload": "tree c2669efad258abd89dc4cd6972550bc93aa647a5\nparent 9d3014bda1ab414d74a4d5e4ccaf70d8808f81a0\nauthor Christophe Pettus <cpettus@pgexperts.com> 1782027796 -0700\ncommitter GitHub <noreply@github.com> 1782027796 -0700\n\nci: slim CI to lint+build for the deprecation shim (#35)\n\nThe 2.1.0 shim deleted its test suite, but CI still ran a PostgreSQL/Django\npytest matrix (every job failed) and the lint job tripped E402 on the\nre-export sitting after the deprecation warning.\n\n- Move the re-export to module top (fixes ruff E402); the warning still fires.\n- Drop the test-pr/test-full matrix from ci.yml — nothing to exercise here.\n- Remove the dangling pytest config (pointed at the deleted tests.django_settings)\n  and the now-unused pytest dev dependencies.\n\nCI is now lint (ruff + mypy) + build, right-sized for a frozen shim.",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqN5YUCRC1aQ7uu5UhlAAAfFMQADhErqC0qBeCq+M9UFHw5/mK\nfhIpaIDR4TeL6eLPKqbtqvXKhQaJRiu2D2K/6/OQAG2JFsTYbgNVYwnUapHYinvV\nNgErcROUOPsOrJ4GjrlaLGrj/1p3hXM2aKAXShgV5VLTMwc7XPeIJZay8Aetg8n2\nWTJi8OcPe4ipli9UFeKpQrMWtZpTS4bMGMwLU9h6O+fvdU2DXU/O0ZTMji2FCzhB\nhnj4JLaZ+bI3LH6zYJknzhIkhLEuyzCtJ4im93EhGfq8x9QnlBCsze+2KqcZWffn\nftOfsw5x+39RWgMrVKFW4VRmMvu7q1LTGHNRLNOxHTK2T9PYK4bc46eOnaGJO5aQ\nrovEqjehsEPIbZINVfpQT8qgECGqtCCnyM4NGjY2p4s373bWG0iVsZ/Dchjv3bW+\nSz+3QJluGoR96EsCmWJoCqtR9S2GmTAdnZa0r5Hkhz3rNsITGHfVzFr9U/sNQC6Z\nHpBo9v8FgYNH3vdLpmLqHjkQjAOkJN5F3ullYO0UB571t4gXavsmONfu0hi9fMrC\nhZJrjUhvw2ji+J6YDfARkAMff6eWzi3lhIOWuWvCxUZGsISrB1c7OfNOIOsS8BA7\npgrSCPN03T15G7pjlPOtcVTK8nEdNxg5McW1d+WoT//laQO86xdaRWTEa0fdlaLN\ndn2NkuvcUEeo1brMdIwc\n=ezl1\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-06-21T07:43:17Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/Xof/django-pglocks/commit/48cdd525039b52cb5a20d56491311fa46a96db8d",
+   "node_id": "C_kwDOAKm8y9oAKDQ4Y2RkNTI1MDM5YjUyY2I1YTIwZDU2NDkxMzExZmE0NmE5NmRiOGQ",
+   "parents": [
+    {
+     "html_url": "https://github.com/Xof/django-pglocks/commit/9d3014bda1ab414d74a4d5e4ccaf70d8808f81a0",
+     "sha": "9d3014bda1ab414d74a4d5e4ccaf70d8808f81a0",
+     "url": "https://api.github.com/repos/Xof/django-pglocks/commits/9d3014bda1ab414d74a4d5e4ccaf70d8808f81a0"
+    }
+   ],
+   "sha": "48cdd525039b52cb5a20d56491311fa46a96db8d",
+   "url": "https://api.github.com/repos/Xof/django-pglocks/commits/48cdd525039b52cb5a20d56491311fa46a96db8d"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/145915?v=4",
+    "events_url": "https://api.github.com/users/Xof/events{/privacy}",
+    "followers_url": "https://api.github.com/users/Xof/followers",
+    "following_url": "https://api.github.com/users/Xof/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Xof/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/Xof",
+    "id": 145915,
+    "login": "Xof",
+    "node_id": "MDQ6VXNlcjE0NTkxNQ==",
+    "organizations_url": "https://api.github.com/users/Xof/orgs",
+    "received_events_url": "https://api.github.com/users/Xof/received_events",
+    "repos_url": "https://api.github.com/users/Xof/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/Xof/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Xof/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/Xof",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/Xof/django-pglocks/commits/9d3014bda1ab414d74a4d5e4ccaf70d8808f81a0/comments",
+   "commit": {
+    "author": {
+     "date": "2026-06-21T07:40:39Z",
+     "email": "cpettus@pgexperts.com",
+     "name": "Christophe Pettus"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-06-21T07:40:39Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "ci: drop the broken TestPyPI publish job (#36)\n\nThe django-pglocks name on TestPyPI is held by an unrelated account, so the\ntrusted-publishing token exchange always fails (invalid-publisher) and the\njob red-Xed on every tag push. Remove it; build + publish-pypi (on release)\nremain. Pre-release validation is done locally (uv build + twine check).",
+    "tree": {
+     "sha": "f79c4c71a5c2bffaf2f1626e6d385f949bafbb56",
+     "url": "https://api.github.com/repos/Xof/django-pglocks/git/trees/f79c4c71a5c2bffaf2f1626e6d385f949bafbb56"
+    },
+    "url": "https://api.github.com/repos/Xof/django-pglocks/git/commits/9d3014bda1ab414d74a4d5e4ccaf70d8808f81a0",
+    "verification": {
+     "payload": "tree f79c4c71a5c2bffaf2f1626e6d385f949bafbb56\nparent 2cc5d093dfc9a3f539d33b60189aac025684b275\nauthor Christophe Pettus <cpettus@pgexperts.com> 1782027639 -0700\ncommitter GitHub <noreply@github.com> 1782027639 -0700\n\nci: drop the broken TestPyPI publish job (#36)\n\nThe django-pglocks name on TestPyPI is held by an unrelated account, so the\ntrusted-publishing token exchange always fails (invalid-publisher) and the\njob red-Xed on every tag push. Remove it; build + publish-pypi (on release)\nremain. Pre-release validation is done locally (uv build + twine check).",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqN5V3CRC1aQ7uu5UhlAAAypwQAJXf+mY2VOpwOU3B4GgpIYxK\n9hyE9gSTx83mI92Gjb9/JEmi6OJRZBDRfdL26DyepoThoJze3JrixxEs0GrrlPaH\njs4X2GXtK9kR1g/cTb+Ik2B9oCSpYdEQJOkRFAO4dAYRPPSZn5Umy22dTO3E6X1t\nwvFP7h+JeYmfwamG9jqxznjoxEOBbq5a/qm/KCB40/py9MMtXts/ir7KV5Edyjeg\nnzriW+orJInOJeAxpB76Co55QYZ3eCDBdFsnPkSe1SjtabQKInZN77/AkP7mE1ym\ntoMulnq3SQcBV7fbL/vH2xuPIizZqDwmTpHiJxkfdHXoh8cuLP751EgN2AKhiebB\nOK+L1PytLaP9+gvfpzQY6XaYxP9X34wb8MTVuLY6d1CMdHeJIYBXAuX3Pp2qO73N\n6P39mKyH6fXfgiYpbzjl4B9sb0UAsZBcFTS/MQPNxKoqB9bod/iVBEp4OqD1Fqan\nOTw0ZkVJZHD+fV3fws/0BZfCPVEtiBF/fHaUTy2Tws65bYVaFAbKgzDUcknQ/Tl1\nQ0WH6FOvqVe9/UPBU35wKtIISCL7gKEKjuzvCQFycwkskTuMV04aVUNHsPcvmcNX\n0FpqNjVJcF3Tu/VvEbhAVANut5hPD81boyofITtQokfn0tfUmlU8gdpF+gZD1D2d\ndbz0bHdtsB/RhN/K3+dT\n=7ZNz\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-06-21T07:40:40Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/Xof/django-pglocks/commit/9d3014bda1ab414d74a4d5e4ccaf70d8808f81a0",
+   "node_id": "C_kwDOAKm8y9oAKDlkMzAxNGJkYTFhYjQxNGQ3NGE0ZDVlNGNjYWY3MGQ4ODA4ZjgxYTA",
+   "parents": [
+    {
+     "html_url": "https://github.com/Xof/django-pglocks/commit/2cc5d093dfc9a3f539d33b60189aac025684b275",
+     "sha": "2cc5d093dfc9a3f539d33b60189aac025684b275",
+     "url": "https://api.github.com/repos/Xof/django-pglocks/commits/2cc5d093dfc9a3f539d33b60189aac025684b275"
+    }
+   ],
+   "sha": "9d3014bda1ab414d74a4d5e4ccaf70d8808f81a0",
+   "url": "https://api.github.com/repos/Xof/django-pglocks/commits/9d3014bda1ab414d74a4d5e4ccaf70d8808f81a0"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/145915?v=4",
+    "events_url": "https://api.github.com/users/Xof/events{/privacy}",
+    "followers_url": "https://api.github.com/users/Xof/followers",
+    "following_url": "https://api.github.com/users/Xof/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Xof/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/Xof",
+    "id": 145915,
+    "login": "Xof",
+    "node_id": "MDQ6VXNlcjE0NTkxNQ==",
+    "organizations_url": "https://api.github.com/users/Xof/orgs",
+    "received_events_url": "https://api.github.com/users/Xof/received_events",
+    "repos_url": "https://api.github.com/users/Xof/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/Xof/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Xof/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/Xof",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/Xof/django-pglocks/commits/2cc5d093dfc9a3f539d33b60189aac025684b275/comments",
+   "commit": {
+    "author": {
+     "date": "2026-06-21T07:15:12Z",
+     "email": "cpettus@pgexperts.com",
+     "name": "Christophe Pettus"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-06-21T07:15:12Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "docs: add 2.1.0 release notes for GitHub Release / PyPI (#34)\n\nStandalone notes file consumed by 'gh release create --notes-file' when\npublishing 2.1.0 to PyPI.",
+    "tree": {
+     "sha": "1a47e77d88bf53e67f811904a348f3f3cf0de143",
+     "url": "https://api.github.com/repos/Xof/django-pglocks/git/trees/1a47e77d88bf53e67f811904a348f3f3cf0de143"
+    },
+    "url": "https://api.github.com/repos/Xof/django-pglocks/git/commits/2cc5d093dfc9a3f539d33b60189aac025684b275",
+    "verification": {
+     "payload": "tree 1a47e77d88bf53e67f811904a348f3f3cf0de143\nparent 3f330e13440e2fd23c1105e51a26838fcd82a268\nauthor Christophe Pettus <cpettus@pgexperts.com> 1782026112 -0700\ncommitter GitHub <noreply@github.com> 1782026112 -0700\n\ndocs: add 2.1.0 release notes for GitHub Release / PyPI (#34)\n\nStandalone notes file consumed by 'gh release create --notes-file' when\npublishing 2.1.0 to PyPI.",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqN4+ACRC1aQ7uu5UhlAAACpsQAJAbzHFms8c5hebNfUVPATv7\nUt+EveiPF5ZU02i+l0Dbi068Vf0t6UJvFF8xAjYqV4hLBWlffvNdsYIi82/2qN4u\naDONP7llLinIcsTubsPBl1/jA5jkhZ3yWKj2WCRBReyyFW68on5Z+ofU2cx7PNa7\njDYg08I6JnY5SDJvrTJTL9bfKUWmx6Jqk2L6ejjf0Qgr6lRVbCVMYSqF/r3vNcMn\nH36azu0XykV0stOTVnhHAVrTfBcStcmFHkO7MA/938zvSVKH8GFDVyj4vc6FVCtV\n+B59eMXcNy7rJGl7XdHIjQ9R6d9dAVibP/P9obFypffWBTSOzGNn596ttGtSrfXb\nKUGIMO9cGtxDcH4ga4csKIU0jA3zucWvWzcjyebZ4KEpN6yaX3D6ybsPa4LrS+nj\nGMRh5QT8NsLmGjqN8qOV5W7shwBh04pdFWAx47bq99FtmgMg8VooMZ3n1Z8tikZ3\nqViEHBajwHeuVrQn/5ddwuQMQUCHNPWU3c8l3diI4k+jn9mAyECX6UM1beSNrffX\n64kfKTmI8BuLjYzAKCYD7Kkuina8Hp+JW+5rNy4wAVBoLxAxgVL881cOaerdFMZ8\n1O7KZNYzryrswbTUZTn3XykM7Y9rq0C4yIr9fjp57DpibX4t8vkVRrXSr5OAJ82x\nARW9U7Xhahz0NNaO2vjk\n=2d3h\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-06-21T07:15:12Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/Xof/django-pglocks/commit/2cc5d093dfc9a3f539d33b60189aac025684b275",
+   "node_id": "C_kwDOAKm8y9oAKDJjYzVkMDkzZGZjOWEzZjUzOWQzM2I2MDE4OWFhYzAyNTY4NGIyNzU",
+   "parents": [
+    {
+     "html_url": "https://github.com/Xof/django-pglocks/commit/3f330e13440e2fd23c1105e51a26838fcd82a268",
+     "sha": "3f330e13440e2fd23c1105e51a26838fcd82a268",
+     "url": "https://api.github.com/repos/Xof/django-pglocks/commits/3f330e13440e2fd23c1105e51a26838fcd82a268"
+    }
+   ],
+   "sha": "2cc5d093dfc9a3f539d33b60189aac025684b275",
+   "url": "https://api.github.com/repos/Xof/django-pglocks/commits/2cc5d093dfc9a3f539d33b60189aac025684b275"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/145915?v=4",
+    "events_url": "https://api.github.com/users/Xof/events{/privacy}",
+    "followers_url": "https://api.github.com/users/Xof/followers",
+    "following_url": "https://api.github.com/users/Xof/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Xof/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/Xof",
+    "id": 145915,
+    "login": "Xof",
+    "node_id": "MDQ6VXNlcjE0NTkxNQ==",
+    "organizations_url": "https://api.github.com/users/Xof/orgs",
+    "received_events_url": "https://api.github.com/users/Xof/received_events",
+    "repos_url": "https://api.github.com/users/Xof/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/Xof/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Xof/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/Xof",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/Xof/django-pglocks/commits/3f330e13440e2fd23c1105e51a26838fcd82a268/comments",
+   "commit": {
+    "author": {
+     "date": "2026-06-21T07:02:01Z",
+     "email": "cpettus@pgexperts.com",
+     "name": "Christophe Pettus"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-06-21T07:02:01Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "fix: retarget 2.1.0 deprecation to django-pgware (was django-pg-utils) (#33)\n\nThe 2.1.0 final/shim release pointed at django-pg-utils, but the actual\nsuccessor on PyPI is django-pgware 1.0.0. Correct the dependency, the\nDeprecationWarning, the README, and the CHANGELOG to point at django-pgware,\nand surface the deprecation in the PyPI-visible Summary field.\n\nThe import path (django_pg_utils.locks) is unchanged: django-pgware installs\nunder that distribution name but ships the django_pg_utils module.",
+    "tree": {
+     "sha": "0729f108c2e33d84cd852e2571bb0aebd8808dd4",
+     "url": "https://api.github.com/repos/Xof/django-pglocks/git/trees/0729f108c2e33d84cd852e2571bb0aebd8808dd4"
+    },
+    "url": "https://api.github.com/repos/Xof/django-pglocks/git/commits/3f330e13440e2fd23c1105e51a26838fcd82a268",
+    "verification": {
+     "payload": "tree 0729f108c2e33d84cd852e2571bb0aebd8808dd4\nparent c9dc740871b72e103cca99afb152105f47a15fcb\nauthor Christophe Pettus <cpettus@pgexperts.com> 1782025321 -0700\ncommitter GitHub <noreply@github.com> 1782025321 -0700\n\nfix: retarget 2.1.0 deprecation to django-pgware (was django-pg-utils) (#33)\n\nThe 2.1.0 final/shim release pointed at django-pg-utils, but the actual\nsuccessor on PyPI is django-pgware 1.0.0. Correct the dependency, the\nDeprecationWarning, the README, and the CHANGELOG to point at django-pgware,\nand surface the deprecation in the PyPI-visible Summary field.\n\nThe import path (django_pg_utils.locks) is unchanged: django-pgware installs\nunder that distribution name but ships the django_pg_utils module.",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqN4xpCRC1aQ7uu5UhlAAA/+YQAKPjmcwxpivu5XilLwCJRJa7\nNs/q88TENJvm8q6cWrFzqf8/s1WlSsU2mcmNME6mMk+g2XHqxcvF1arjkIjYB6bz\n+G3Yn+ZcIx3MgUUeVAUAFbYfz0UCUrzR6VewniEbFvubzQLl+p57tqzG3nxd1ySk\nPLAHaCDGcB6YNLOF2hYRKGhcaTWG+Ljdatoc4blYgDqBJYWf0fv2ht4x1KoWJPgz\nIXyNzzzLeSImjtxKXRdM4rNjqtDLI1s2gDgHF7eeXeWY3odP9JbIc5UAMatXURkB\n3cBvqJcH+TWSTRtl3ec7SvqZdDr8GnOPY86RV4Q6pWrWG53DdfkttE/FtALfX6CO\ncZNq9ltseprJtgg/JzvTEH3pRZ84ak+0XDtXnbki7mn1ew6uqSrpd2GnwS1UlRcX\nNCLEw3ElmlmuPTHFRVHA7HDYaq3W+U+bVaHDKlBTFS57RyuAnRPJz8UU1zClHBwF\nXNAIGu8bdbJFhpFeuZ9N4pXc+7dUFVUG3x0P3fGWwkDHvFbdM8AUi3mktH5WydOL\nWEnvi62aNUdTo9y26zNnHs6DRSrCNKOS+InuGkqRpo4k+wcyOaJ61HezOtUGm/DM\nWileQoyl40gTPuFnVgmj0oo6eMUe+PINOnq0Xz/Y4Lv9IM5+Y5kYR4ClrLjdn3x5\noCqV4v9aH+NTxMzQ9uvM\n=M8sW\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-06-21T07:02:02Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/Xof/django-pglocks/commit/3f330e13440e2fd23c1105e51a26838fcd82a268",
+   "node_id": "C_kwDOAKm8y9oAKDNmMzMwZTEzNDQwZTJmZDIzYzExMDVlNTFhMjY4MzhmY2Q4MmEyNjg",
+   "parents": [
+    {
+     "html_url": "https://github.com/Xof/django-pglocks/commit/c9dc740871b72e103cca99afb152105f47a15fcb",
+     "sha": "c9dc740871b72e103cca99afb152105f47a15fcb",
+     "url": "https://api.github.com/repos/Xof/django-pglocks/commits/c9dc740871b72e103cca99afb152105f47a15fcb"
+    }
+   ],
+   "sha": "3f330e13440e2fd23c1105e51a26838fcd82a268",
+   "url": "https://api.github.com/repos/Xof/django-pglocks/commits/3f330e13440e2fd23c1105e51a26838fcd82a268"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/145915?v=4",
+    "events_url": "https://api.github.com/users/Xof/events{/privacy}",
+    "followers_url": "https://api.github.com/users/Xof/followers",
+    "following_url": "https://api.github.com/users/Xof/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Xof/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/Xof",
+    "id": 145915,
+    "login": "Xof",
+    "node_id": "MDQ6VXNlcjE0NTkxNQ==",
+    "organizations_url": "https://api.github.com/users/Xof/orgs",
+    "received_events_url": "https://api.github.com/users/Xof/received_events",
+    "repos_url": "https://api.github.com/users/Xof/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/Xof/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Xof/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/Xof",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/Xof/django-pglocks/commits/c9dc740871b72e103cca99afb152105f47a15fcb/comments",
+   "commit": {
+    "author": {
+     "date": "2026-04-05T01:37:09Z",
+     "email": "cpettus@pgexperts.com",
+     "name": "Christophe Pettus"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-04-05T01:37:09Z",
+     "email": "cpettus@pgexperts.com",
+     "name": "Christophe Pettus"
+    },
+    "message": "feat: 2.1.0 deprecation release — consolidated into django-pg-utils",
+    "tree": {
+     "sha": "0234ec3d93f68fcf82c4f50e004a715c5ebe0b37",
+     "url": "https://api.github.com/repos/Xof/django-pglocks/git/trees/0234ec3d93f68fcf82c4f50e004a715c5ebe0b37"
+    },
+    "url": "https://api.github.com/repos/Xof/django-pglocks/git/commits/c9dc740871b72e103cca99afb152105f47a15fcb",
+    "verification": {
+     "payload": null,
+     "reason": "unsigned",
+     "signature": null,
+     "verified": false,
+     "verified_at": null
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/145915?v=4",
+    "events_url": "https://api.github.com/users/Xof/events{/privacy}",
+    "followers_url": "https://api.github.com/users/Xof/followers",
+    "following_url": "https://api.github.com/users/Xof/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Xof/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/Xof",
+    "id": 145915,
+    "login": "Xof",
+    "node_id": "MDQ6VXNlcjE0NTkxNQ==",
+    "organizations_url": "https://api.github.com/users/Xof/orgs",
+    "received_events_url": "https://api.github.com/users/Xof/received_events",
+    "repos_url": "https://api.github.com/users/Xof/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/Xof/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Xof/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/Xof",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/Xof/django-pglocks/commit/c9dc740871b72e103cca99afb152105f47a15fcb",
+   "node_id": "C_kwDOAKm8y9oAKGM5ZGM3NDA4NzFiNzJlMTAzY2NhOTlhZmIxNTIxMDVmNDdhMTVmY2I",
+   "parents": [
+    {
+     "html_url": "https://github.com/Xof/django-pglocks/commit/99bf6b4017941313e51dc9127923f70abd837c41",
+     "sha": "99bf6b4017941313e51dc9127923f70abd837c41",
+     "url": "https://api.github.com/repos/Xof/django-pglocks/commits/99bf6b4017941313e51dc9127923f70abd837c41"
+    }
+   ],
+   "sha": "c9dc740871b72e103cca99afb152105f47a15fcb",
+   "url": "https://api.github.com/repos/Xof/django-pglocks/commits/c9dc740871b72e103cca99afb152105f47a15fcb"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/145915?v=4",
+    "events_url": "https://api.github.com/users/Xof/events{/privacy}",
+    "followers_url": "https://api.github.com/users/Xof/followers",
+    "following_url": "https://api.github.com/users/Xof/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Xof/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/Xof",
+    "id": 145915,
+    "login": "Xof",
+    "node_id": "MDQ6VXNlcjE0NTkxNQ==",
+    "organizations_url": "https://api.github.com/users/Xof/orgs",
+    "received_events_url": "https://api.github.com/users/Xof/received_events",
+    "repos_url": "https://api.github.com/users/Xof/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/Xof/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Xof/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/Xof",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/Xof/django-pglocks/commits/99bf6b4017941313e51dc9127923f70abd837c41/comments",
+   "commit": {
+    "author": {
+     "date": "2026-04-03T05:29:58Z",
+     "email": "cpettus@pgexperts.com",
+     "name": "Christophe Pettus"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-04-03T05:29:58Z",
+     "email": "cpettus@pgexperts.com",
+     "name": "Christophe Pettus"
+    },
+    "message": "Standardize CI infrastructure across Django projects\n\nUnify CI conventions: add PG 18 to matrix, add publish workflow,\nswitch to POSTGRES_* env vars, add explicit psycopg driver uninstall,\nadd custom job names, parameterize docker-compose PG version.\n\nCo-Authored-By: Claude Opus 4.6 (1M context) <noreply@anthropic.com>",
+    "tree": {
+     "sha": "df271a0caa1557b3e7499290d00eaa0dc166c238",
+     "url": "https://api.github.com/repos/Xof/django-pglocks/git/trees/df271a0caa1557b3e7499290d00eaa0dc166c238"
+    },
+    "url": "https://api.github.com/repos/Xof/django-pglocks/git/commits/99bf6b4017941313e51dc9127923f70abd837c41",
+    "verification": {
+     "payload": null,
+     "reason": "unsigned",
+     "signature": null,
+     "verified": false,
+     "verified_at": null
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/145915?v=4",
+    "events_url": "https://api.github.com/users/Xof/events{/privacy}",
+    "followers_url": "https://api.github.com/users/Xof/followers",
+    "following_url": "https://api.github.com/users/Xof/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Xof/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/Xof",
+    "id": 145915,
+    "login": "Xof",
+    "node_id": "MDQ6VXNlcjE0NTkxNQ==",
+    "organizations_url": "https://api.github.com/users/Xof/orgs",
+    "received_events_url": "https://api.github.com/users/Xof/received_events",
+    "repos_url": "https://api.github.com/users/Xof/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/Xof/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Xof/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/Xof",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/Xof/django-pglocks/commit/99bf6b4017941313e51dc9127923f70abd837c41",
+   "node_id": "C_kwDOAKm8y9oAKDk5YmY2YjQwMTc5NDEzMTNlNTFkYzkxMjc5MjNmNzBhYmQ4MzdjNDE",
+   "parents": [
+    {
+     "html_url": "https://github.com/Xof/django-pglocks/commit/e0498a15e5b5d56bb0cbe053cc662628e541c3a2",
+     "sha": "e0498a15e5b5d56bb0cbe053cc662628e541c3a2",
+     "url": "https://api.github.com/repos/Xof/django-pglocks/commits/e0498a15e5b5d56bb0cbe053cc662628e541c3a2"
+    }
+   ],
+   "sha": "99bf6b4017941313e51dc9127923f70abd837c41",
+   "url": "https://api.github.com/repos/Xof/django-pglocks/commits/99bf6b4017941313e51dc9127923f70abd837c41"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/145915?v=4",
+    "events_url": "https://api.github.com/users/Xof/events{/privacy}",
+    "followers_url": "https://api.github.com/users/Xof/followers",
+    "following_url": "https://api.github.com/users/Xof/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Xof/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/Xof",
+    "id": 145915,
+    "login": "Xof",
+    "node_id": "MDQ6VXNlcjE0NTkxNQ==",
+    "organizations_url": "https://api.github.com/users/Xof/orgs",
+    "received_events_url": "https://api.github.com/users/Xof/received_events",
+    "repos_url": "https://api.github.com/users/Xof/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/Xof/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Xof/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/Xof",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/Xof/django-pglocks/commits/e0498a15e5b5d56bb0cbe053cc662628e541c3a2/comments",
+   "commit": {
+    "author": {
+     "date": "2026-04-02T17:17:59Z",
+     "email": "cpettus@pgexperts.com",
+     "name": "Christophe Pettus"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-04-02T17:17:59Z",
+     "email": "cpettus@pgexperts.com",
+     "name": "Christophe Pettus"
+    },
+    "message": "Set release date for 2.0.0 in CHANGELOG\n\nCo-Authored-By: Claude Opus 4.6 (1M context) <noreply@anthropic.com>",
+    "tree": {
+     "sha": "3424bcc7049c55f38fb3a1d2a2a0b2369f7e5fb6",
+     "url": "https://api.github.com/repos/Xof/django-pglocks/git/trees/3424bcc7049c55f38fb3a1d2a2a0b2369f7e5fb6"
+    },
+    "url": "https://api.github.com/repos/Xof/django-pglocks/git/commits/e0498a15e5b5d56bb0cbe053cc662628e541c3a2",
+    "verification": {
+     "payload": null,
+     "reason": "unsigned",
+     "signature": null,
+     "verified": false,
+     "verified_at": null
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/145915?v=4",
+    "events_url": "https://api.github.com/users/Xof/events{/privacy}",
+    "followers_url": "https://api.github.com/users/Xof/followers",
+    "following_url": "https://api.github.com/users/Xof/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Xof/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/Xof",
+    "id": 145915,
+    "login": "Xof",
+    "node_id": "MDQ6VXNlcjE0NTkxNQ==",
+    "organizations_url": "https://api.github.com/users/Xof/orgs",
+    "received_events_url": "https://api.github.com/users/Xof/received_events",
+    "repos_url": "https://api.github.com/users/Xof/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/Xof/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Xof/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/Xof",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/Xof/django-pglocks/commit/e0498a15e5b5d56bb0cbe053cc662628e541c3a2",
+   "node_id": "C_kwDOAKm8y9oAKGUwNDk4YTE1ZTViNWQ1NmJiMGNiZTA1M2NjNjYyNjI4ZTU0MWMzYTI",
+   "parents": [
+    {
+     "html_url": "https://github.com/Xof/django-pglocks/commit/31b46d3bd97e945f502812038c7d97afe3748f03",
+     "sha": "31b46d3bd97e945f502812038c7d97afe3748f03",
+     "url": "https://api.github.com/repos/Xof/django-pglocks/commits/31b46d3bd97e945f502812038c7d97afe3748f03"
+    }
+   ],
+   "sha": "e0498a15e5b5d56bb0cbe053cc662628e541c3a2",
+   "url": "https://api.github.com/repos/Xof/django-pglocks/commits/e0498a15e5b5d56bb0cbe053cc662628e541c3a2"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/145915?v=4",
+    "events_url": "https://api.github.com/users/Xof/events{/privacy}",
+    "followers_url": "https://api.github.com/users/Xof/followers",
+    "following_url": "https://api.github.com/users/Xof/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Xof/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/Xof",
+    "id": 145915,
+    "login": "Xof",
+    "node_id": "MDQ6VXNlcjE0NTkxNQ==",
+    "organizations_url": "https://api.github.com/users/Xof/orgs",
+    "received_events_url": "https://api.github.com/users/Xof/received_events",
+    "repos_url": "https://api.github.com/users/Xof/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/Xof/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Xof/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/Xof",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/Xof/django-pglocks/commits/31b46d3bd97e945f502812038c7d97afe3748f03/comments",
+   "commit": {
+    "author": {
+     "date": "2026-04-02T17:15:59Z",
+     "email": "cpettus@pgexperts.com",
+     "name": "Christophe Pettus"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-04-02T17:15:59Z",
+     "email": "cpettus@pgexperts.com",
+     "name": "Christophe Pettus"
+    },
+    "message": "Clarify non-API status of hashing algorithm.",
+    "tree": {
+     "sha": "02d999c57cc2a3b4e0bbcd178f9e497c3d173050",
+     "url": "https://api.github.com/repos/Xof/django-pglocks/git/trees/02d999c57cc2a3b4e0bbcd178f9e497c3d173050"
+    },
+    "url": "https://api.github.com/repos/Xof/django-pglocks/git/commits/31b46d3bd97e945f502812038c7d97afe3748f03",
+    "verification": {
+     "payload": null,
+     "reason": "unsigned",
+     "signature": null,
+     "verified": false,
+     "verified_at": null
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/145915?v=4",
+    "events_url": "https://api.github.com/users/Xof/events{/privacy}",
+    "followers_url": "https://api.github.com/users/Xof/followers",
+    "following_url": "https://api.github.com/users/Xof/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Xof/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/Xof",
+    "id": 145915,
+    "login": "Xof",
+    "node_id": "MDQ6VXNlcjE0NTkxNQ==",
+    "organizations_url": "https://api.github.com/users/Xof/orgs",
+    "received_events_url": "https://api.github.com/users/Xof/received_events",
+    "repos_url": "https://api.github.com/users/Xof/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/Xof/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Xof/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/Xof",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/Xof/django-pglocks/commit/31b46d3bd97e945f502812038c7d97afe3748f03",
+   "node_id": "C_kwDOAKm8y9oAKDMxYjQ2ZDNiZDk3ZTk0NWY1MDI4MTIwMzhjN2Q5N2FmZTM3NDhmMDM",
+   "parents": [
+    {
+     "html_url": "https://github.com/Xof/django-pglocks/commit/e90869b2ee09b49339a53202e397af6b11f78450",
+     "sha": "e90869b2ee09b49339a53202e397af6b11f78450",
+     "url": "https://api.github.com/repos/Xof/django-pglocks/commits/e90869b2ee09b49339a53202e397af6b11f78450"
+    }
+   ],
+   "sha": "31b46d3bd97e945f502812038c7d97afe3748f03",
+   "url": "https://api.github.com/repos/Xof/django-pglocks/commits/31b46d3bd97e945f502812038c7d97afe3748f03"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/145915?v=4",
+    "events_url": "https://api.github.com/users/Xof/events{/privacy}",
+    "followers_url": "https://api.github.com/users/Xof/followers",
+    "following_url": "https://api.github.com/users/Xof/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Xof/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/Xof",
+    "id": 145915,
+    "login": "Xof",
+    "node_id": "MDQ6VXNlcjE0NTkxNQ==",
+    "organizations_url": "https://api.github.com/users/Xof/orgs",
+    "received_events_url": "https://api.github.com/users/Xof/received_events",
+    "repos_url": "https://api.github.com/users/Xof/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/Xof/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Xof/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/Xof",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/Xof/django-pglocks/commits/e90869b2ee09b49339a53202e397af6b11f78450/comments",
+   "commit": {
+    "author": {
+     "date": "2026-04-02T17:13:53Z",
+     "email": "cpettus@pgexperts.com",
+     "name": "Christophe Pettus"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-04-02T17:13:53Z",
+     "email": "cpettus@pgexperts.com",
+     "name": "Christophe Pettus"
+    },
+    "message": "Update docs: convert README to Markdown, revise CHANGELOG, clean up dependencies\n\n- Convert README.rst to README.md\n- Rename LICENSE.txt to LICENSE.md\n- Remove psycopg2-binary from runtime dependencies (user-supplied)\n- Add psycopg2-binary to dev dependencies for testing\n- Expand README with keyword-only docs, parameter details, upgrade guide\n- More accurate CHANGELOG (sync_to_async, test counts, CI details)\n\nCo-Authored-By: Claude Opus 4.6 (1M context) <noreply@anthropic.com>",
+    "tree": {
+     "sha": "3d4f0d9a4bf1ad10ea41c0aa09505e9ffe867d00",
+     "url": "https://api.github.com/repos/Xof/django-pglocks/git/trees/3d4f0d9a4bf1ad10ea41c0aa09505e9ffe867d00"
+    },
+    "url": "https://api.github.com/repos/Xof/django-pglocks/git/commits/e90869b2ee09b49339a53202e397af6b11f78450",
+    "verification": {
+     "payload": null,
+     "reason": "unsigned",
+     "signature": null,
+     "verified": false,
+     "verified_at": null
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/145915?v=4",
+    "events_url": "https://api.github.com/users/Xof/events{/privacy}",
+    "followers_url": "https://api.github.com/users/Xof/followers",
+    "following_url": "https://api.github.com/users/Xof/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Xof/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/Xof",
+    "id": 145915,
+    "login": "Xof",
+    "node_id": "MDQ6VXNlcjE0NTkxNQ==",
+    "organizations_url": "https://api.github.com/users/Xof/orgs",
+    "received_events_url": "https://api.github.com/users/Xof/received_events",
+    "repos_url": "https://api.github.com/users/Xof/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/Xof/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Xof/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/Xof",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/Xof/django-pglocks/commit/e90869b2ee09b49339a53202e397af6b11f78450",
+   "node_id": "C_kwDOAKm8y9oAKGU5MDg2OWIyZWUwOWI0OTMzOWE1MzIwMmUzOTdhZjZiMTFmNzg0NTA",
+   "parents": [
+    {
+     "html_url": "https://github.com/Xof/django-pglocks/commit/ced61833befbab4afe026b209ad9e602cec057a4",
+     "sha": "ced61833befbab4afe026b209ad9e602cec057a4",
+     "url": "https://api.github.com/repos/Xof/django-pglocks/commits/ced61833befbab4afe026b209ad9e602cec057a4"
+    }
+   ],
+   "sha": "e90869b2ee09b49339a53202e397af6b11f78450",
+   "url": "https://api.github.com/repos/Xof/django-pglocks/commits/e90869b2ee09b49339a53202e397af6b11f78450"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/145915?v=4",
+    "events_url": "https://api.github.com/users/Xof/events{/privacy}",
+    "followers_url": "https://api.github.com/users/Xof/followers",
+    "following_url": "https://api.github.com/users/Xof/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Xof/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/Xof",
+    "id": 145915,
+    "login": "Xof",
+    "node_id": "MDQ6VXNlcjE0NTkxNQ==",
+    "organizations_url": "https://api.github.com/users/Xof/orgs",
+    "received_events_url": "https://api.github.com/users/Xof/received_events",
+    "repos_url": "https://api.github.com/users/Xof/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/Xof/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Xof/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/Xof",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/Xof/django-pglocks/commits/ced61833befbab4afe026b209ad9e602cec057a4/comments",
+   "commit": {
+    "author": {
+     "date": "2026-04-02T17:04:21Z",
+     "email": "cpettus@pgexperts.com",
+     "name": "Christophe Pettus"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-04-02T17:04:21Z",
+     "email": "cpettus@pgexperts.com",
+     "name": "Christophe Pettus"
+    },
+    "message": "Rename default branch from master to main\n\nUpdate CI workflow branch triggers to match.\n\nCo-Authored-By: Claude Opus 4.6 (1M context) <noreply@anthropic.com>",
+    "tree": {
+     "sha": "ed8b75574a08431acde502f438a17fb5740bbbe4",
+     "url": "https://api.github.com/repos/Xof/django-pglocks/git/trees/ed8b75574a08431acde502f438a17fb5740bbbe4"
+    },
+    "url": "https://api.github.com/repos/Xof/django-pglocks/git/commits/ced61833befbab4afe026b209ad9e602cec057a4",
+    "verification": {
+     "payload": null,
+     "reason": "unsigned",
+     "signature": null,
+     "verified": false,
+     "verified_at": null
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/145915?v=4",
+    "events_url": "https://api.github.com/users/Xof/events{/privacy}",
+    "followers_url": "https://api.github.com/users/Xof/followers",
+    "following_url": "https://api.github.com/users/Xof/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Xof/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/Xof",
+    "id": 145915,
+    "login": "Xof",
+    "node_id": "MDQ6VXNlcjE0NTkxNQ==",
+    "organizations_url": "https://api.github.com/users/Xof/orgs",
+    "received_events_url": "https://api.github.com/users/Xof/received_events",
+    "repos_url": "https://api.github.com/users/Xof/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/Xof/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Xof/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/Xof",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/Xof/django-pglocks/commit/ced61833befbab4afe026b209ad9e602cec057a4",
+   "node_id": "C_kwDOAKm8y9oAKGNlZDYxODMzYmVmYmFiNGFmZTAyNmIyMDlhZDllNjAyY2VjMDU3YTQ",
+   "parents": [
+    {
+     "html_url": "https://github.com/Xof/django-pglocks/commit/bf5564af80548697aaea108ee1a29d7625977f73",
+     "sha": "bf5564af80548697aaea108ee1a29d7625977f73",
+     "url": "https://api.github.com/repos/Xof/django-pglocks/commits/bf5564af80548697aaea108ee1a29d7625977f73"
+    }
+   ],
+   "sha": "ced61833befbab4afe026b209ad9e602cec057a4",
+   "url": "https://api.github.com/repos/Xof/django-pglocks/commits/ced61833befbab4afe026b209ad9e602cec057a4"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/145915?v=4",
+    "events_url": "https://api.github.com/users/Xof/events{/privacy}",
+    "followers_url": "https://api.github.com/users/Xof/followers",
+    "following_url": "https://api.github.com/users/Xof/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Xof/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/Xof",
+    "id": 145915,
+    "login": "Xof",
+    "node_id": "MDQ6VXNlcjE0NTkxNQ==",
+    "organizations_url": "https://api.github.com/users/Xof/orgs",
+    "received_events_url": "https://api.github.com/users/Xof/received_events",
+    "repos_url": "https://api.github.com/users/Xof/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/Xof/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Xof/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/Xof",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/Xof/django-pglocks/commits/bf5564af80548697aaea108ee1a29d7625977f73/comments",
+   "commit": {
+    "author": {
+     "date": "2026-04-02T16:56:42Z",
+     "email": "cpettus@pgexperts.com",
+     "name": "Christophe Pettus"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-04-02T16:56:42Z",
+     "email": "cpettus@pgexperts.com",
+     "name": "Christophe Pettus"
+    },
+    "message": "Modernize django-pglocks to 2.0\n\n- Replace setup.py/distutils with pyproject.toml and hatchling build backend\n- Move to src/ layout with Python 3.10+ and Django 4.2+ minimum\n- Add async_advisory_lock context manager (sync_to_async-based)\n- Split internals into _lock.py (pure functions), _sync.py, _async.py\n- 64-bit SHA-256 string hashing (breaking change from 32-bit CRC32)\n- Keyword-only arguments for shared, wait, comment, using\n- Parameterized SQL queries instead of string formatting\n- Robust stack-walking for comment feature\n- Proper cursor lifecycle (try/finally)\n- Full test suite: 55 tests (pytest + pytest-django + pytest-asyncio)\n- GitHub Actions CI: lint/mypy/build + 128-combo matrix\n- Docker Compose for contributor setup\n- Type annotations throughout with py.typed (PEP 561)\n- Remove six dependency, Python 2 support, build artifacts\n\nCo-Authored-By: Claude Opus 4.6 (1M context) <noreply@anthropic.com>",
+    "tree": {
+     "sha": "d2f6c0623775faa96d1ecab6eca4090e1e89a94b",
+     "url": "https://api.github.com/repos/Xof/django-pglocks/git/trees/d2f6c0623775faa96d1ecab6eca4090e1e89a94b"
+    },
+    "url": "https://api.github.com/repos/Xof/django-pglocks/git/commits/bf5564af80548697aaea108ee1a29d7625977f73",
+    "verification": {
+     "payload": null,
+     "reason": "unsigned",
+     "signature": null,
+     "verified": false,
+     "verified_at": null
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/145915?v=4",
+    "events_url": "https://api.github.com/users/Xof/events{/privacy}",
+    "followers_url": "https://api.github.com/users/Xof/followers",
+    "following_url": "https://api.github.com/users/Xof/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Xof/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/Xof",
+    "id": 145915,
+    "login": "Xof",
+    "node_id": "MDQ6VXNlcjE0NTkxNQ==",
+    "organizations_url": "https://api.github.com/users/Xof/orgs",
+    "received_events_url": "https://api.github.com/users/Xof/received_events",
+    "repos_url": "https://api.github.com/users/Xof/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/Xof/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Xof/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/Xof",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/Xof/django-pglocks/commit/bf5564af80548697aaea108ee1a29d7625977f73",
+   "node_id": "C_kwDOAKm8y9oAKGJmNTU2NGFmODA1NDg2OTdhYWVhMTA4ZWUxYTI5ZDc2MjU5NzdmNzM",
+   "parents": [
+    {
+     "html_url": "https://github.com/Xof/django-pglocks/commit/e57b32cb5af229d589e889ad69dfbe87477493d2",
+     "sha": "e57b32cb5af229d589e889ad69dfbe87477493d2",
+     "url": "https://api.github.com/repos/Xof/django-pglocks/commits/e57b32cb5af229d589e889ad69dfbe87477493d2"
+    }
+   ],
+   "sha": "bf5564af80548697aaea108ee1a29d7625977f73",
+   "url": "https://api.github.com/repos/Xof/django-pglocks/commits/bf5564af80548697aaea108ee1a29d7625977f73"
+  }
+ ],
+ "recorded_at": "2026-11-16T18:38:46Z",
+ "recorded_with": "deadledger 0.1.0",
+ "status": 200,
+ "url": "https://api.github.com/repos/Xof/django-pglocks/commits?since=<window>&per_page=100"
+}

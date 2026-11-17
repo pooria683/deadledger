@@ -1,0 +1,172 @@
+{
+ "body": [
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/6775756?v=4",
+    "events_url": "https://api.github.com/users/nitzmahone/events{/privacy}",
+    "followers_url": "https://api.github.com/users/nitzmahone/followers",
+    "following_url": "https://api.github.com/users/nitzmahone/following{/other_user}",
+    "gists_url": "https://api.github.com/users/nitzmahone/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/nitzmahone",
+    "id": 6775756,
+    "login": "nitzmahone",
+    "node_id": "MDQ6VXNlcjY3NzU3NTY=",
+    "organizations_url": "https://api.github.com/users/nitzmahone/orgs",
+    "received_events_url": "https://api.github.com/users/nitzmahone/received_events",
+    "repos_url": "https://api.github.com/users/nitzmahone/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/nitzmahone/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/nitzmahone/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/nitzmahone",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/yaml/pyyaml/commits/f5e4504a92f169f65350a1047dccb23bc97028be/comments",
+   "commit": {
+    "author": {
+     "date": "2026-10-07T22:14:54Z",
+     "email": "6775756+nitzmahone@users.noreply.github.com",
+     "name": "Matt Davis"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-10-07T22:14:54Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Minimal CI refresh for 3.15 (#971)\n\n* CI update for 3.15(t) wheels, retire EoL 3.8-3.9\n\n* Cython abi3t support was deferred; continuing version-specific ABI wheel builds until available.\n* Fixed sdist artifact fetch issues.\n* Bump action/runner versions.\n\n* bump Windows runners/settings",
+    "tree": {
+     "sha": "fc3e14330905c06aa22bab41c080c3cab153a59b",
+     "url": "https://api.github.com/repos/yaml/pyyaml/git/trees/fc3e14330905c06aa22bab41c080c3cab153a59b"
+    },
+    "url": "https://api.github.com/repos/yaml/pyyaml/git/commits/f5e4504a92f169f65350a1047dccb23bc97028be",
+    "verification": {
+     "payload": "tree fc3e14330905c06aa22bab41c080c3cab153a59b\nparent 34a9bf82357f4952d8f194a5a31f1c39743652d0\nauthor Matt Davis <6775756+nitzmahone@users.noreply.github.com> 1791411294 -0700\ncommitter GitHub <noreply@github.com> 1791411294 -0700\n\nMinimal CI refresh for 3.15 (#971)\n\n* CI update for 3.15(t) wheels, retire EoL 3.8-3.9\n\n* Cython abi3t support was deferred; continuing version-specific ABI wheel builds until available.\n* Fixed sdist artifact fetch issues.\n* Bump action/runner versions.\n\n* bump Windows runners/settings",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqxsReCRC1aQ7uu5UhlAAAlisQADPMNjNYsF6rFjaaxlhJKJvO\nqgVev0QIDyu+c0XNPhQ9Sf8jC1kDsc/w4FK0dSmSVzA92XnI/mNuqLl7TI+RiQ0x\nQtSZu+nXt7TNKv6a34Nddg5kT39wEtEia5uJobzIbepTaO0U12zCKetrVchoTTJQ\n8HvRcor9JcQPSoNYg6EG+G1bVeyl4rTqwUyuoiKWuBct3Y3UJnx1NM2lnFF7jQ/S\nVwlcG+zqw4OrDnk/1+ecBzvJqPCH5i0xU3mjfP66XFRbATFnq5gysF8lBIxzyiQq\nyErHgJa4aVa4y1ufnnYQITNoCZ6ZQUgFLurlMjjqnCRc2klvdeOrwXqvyqSgp4/L\npBoUEl4eJY0DXRq+LGu3OBAOLIO2Nqgu8KR5gyPY6RnjwZX+3VWg8Q+Bsf8wot6k\n6SZba27V5k7/eLjq1SYOZKK35EmBHFyJ2RV5wSTuQ41pbAc3gdlPN9JO/TFX7Y39\nIFos4zU8YrTPUE1mANTWNFWzITnZvUr8+aa4oniyzGRR7yYxiVKaF9ITwXxj88fV\nO1Wr+fU1X2qmP/2aebLf9Xlhlx//uOr2RqnXdGatWFLQksHe9F9Z+bC7ONT0geTo\nUQ743c6j9HPQot8wQtIHxQ2qbNnFjhLxI+2wu+Yy9DMYIcJDGXeSSeSdn6cvNobj\nNsmd4qrsbNcosBzzhQZ3\n=Ia1S\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-10-07T22:14:55Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/yaml/pyyaml/commit/f5e4504a92f169f65350a1047dccb23bc97028be",
+   "node_id": "C_kwDOACkzc9oAKGY1ZTQ1MDRhOTJmMTY5ZjY1MzUwYTEwNDdkY2NiMjNiYzk3MDI4YmU",
+   "parents": [
+    {
+     "html_url": "https://github.com/yaml/pyyaml/commit/34a9bf82357f4952d8f194a5a31f1c39743652d0",
+     "sha": "34a9bf82357f4952d8f194a5a31f1c39743652d0",
+     "url": "https://api.github.com/repos/yaml/pyyaml/commits/34a9bf82357f4952d8f194a5a31f1c39743652d0"
+    }
+   ],
+   "sha": "f5e4504a92f169f65350a1047dccb23bc97028be",
+   "url": "https://api.github.com/repos/yaml/pyyaml/commits/f5e4504a92f169f65350a1047dccb23bc97028be"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/21826?v=4",
+    "events_url": "https://api.github.com/users/ingydotnet/events{/privacy}",
+    "followers_url": "https://api.github.com/users/ingydotnet/followers",
+    "following_url": "https://api.github.com/users/ingydotnet/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ingydotnet/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/ingydotnet",
+    "id": 21826,
+    "login": "ingydotnet",
+    "node_id": "MDQ6VXNlcjIxODI2",
+    "organizations_url": "https://api.github.com/users/ingydotnet/orgs",
+    "received_events_url": "https://api.github.com/users/ingydotnet/received_events",
+    "repos_url": "https://api.github.com/users/ingydotnet/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/ingydotnet/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ingydotnet/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/ingydotnet",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/yaml/pyyaml/commits/34a9bf82357f4952d8f194a5a31f1c39743652d0/comments",
+   "commit": {
+    "author": {
+     "date": "2026-06-17T22:15:29Z",
+     "email": "ingy@ingy.net",
+     "name": "Ingy döt Net"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-06-17T22:15:29Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Dos in merge key (#937)\n\n* Make local test targets self-contained\n\nMost developer machines do not have libyaml headers installed, so the\nold default test flow attempted to build the optional extension, failed\nto find yaml.h, and then only exercised the pure Python fallback. The\nextension target also required out-of-band system setup before it could\npass.\n\nSplit the Makefile test flow into explicit pure-Python and LibYAML\ntargets, and make the default test target run both. The pure-Python\ntarget now forces the extension off during build, while the LibYAML\ntarget builds a pinned local yaml/libyaml checkout and wires the\ninclude, library, and runtime paths into the extension build.\n\nDocument the new Makefile workflow in the README, including make test,\nthe individual test targets, the pinned LIBYAML-REF default, and the\nPYTHON-VERSION override for testing against a specific Python.\n\nThis makes both test modes pass from a clean checkout without requiring\ndevelopers to install libyaml development packages by hand.\n\n* Fix exponential expansion DoS via duplicate merge key aliases\n\n* Fix exponential expansion based DoS in merge key processing\n\nResolves #897\nSupercedes #916\n\n### Summary\nThe merge key (`<<`) constructor implementation in\n`SafeConstructor.flatten_mapping()` was vulnerable to an\nexponential time and memory complexity Denial of Service (DoS)\nvulnerability. When mapping/sequence nodes are merged using\nanchors/aliases, duplicate references to the same alias point\nto the same MappingNode instance in Python. During merge key\nprocessing, the node values are copied and extended in-place.\nIf the same node appears multiple times at different levels,\nthis causes exponential amplification of the elements list:\n`2^(n+1) - 1`.\n\nA small document under 1 KB can trigger millions of element\nlist extensions, exhausting CPU and memory during safe loading.\n\n### Hardened Fix\nThis commit resolves the vulnerability and hardens it against\nsecondary vectors:\n1. Tracks node identity using object ID (`id(node)`) in a single\n`seen` set scoped to the parent mapping's `flatten_mapping()`\nexecution.\n2. Checks and skips duplicate node references inside SequenceNode\nmerge keys (resolving PR-916).\n3. Checks and skips duplicate node references across separate,\nindependent MappingNode merge keys in the same mapping (e.g.,\nrepeating `<<: *anchor` multiple times).\n4. Ensures C-based loaders (e.g., `CSafeLoader`, `CLoader`) are\nalso protected since they inherit constructor logic from\n`SafeConstructor`.\n\n### Performance Impact\n- Sequence-nested merge duplicates: Loading a 22-level nested\ndocument drops from 3.76s to 0.0028s (O(N) linear complexity).\n- Mapping-level merge duplicates: Loading a 20-level nested\ndocument drops from 0.93s to 0.0026s.\n\n### Tests\n- Added regression tests to\n`tests/legacy_tests/data/construct-merge.data` and\n`tests/legacy_tests/data/construct-merge.code` covering both\nduplicate sequence merges and duplicate direct merges.\n\n* Fix CI toolchain drift failures\n\nThe PR was failing before it reached the PyYAML regression tests in two\nplaces: the cp38 wheel jobs installed latest cibuildwheel, whose 4.x\nseries no longer supports Python 3.8, and the Windows arm64 libyaml build\nused a newer CMake that rejects libyaml 0.2.5's old minimum policy version.\n\nPin the cp38 wheel jobs to cibuildwheel<4, and quote the matrix-provided\npip package spec so bash does not parse the '<4' constraint as input\nredirection. Pass CMAKE_POLICY_VERSION_MINIMUM=3.5 to the Windows libyaml\nconfigure step, and disable fail-fast for the Windows libyaml matrix so\none architecture does not hide the others.\n\n* Add merge key deduplication regression tests\n\n* Add time-bounded DoS prevention tests to verify fix\n\n* Strengthen merge key DoS timeout tests\n\n* Fix merge key fan-out expansion DoS\n\n* Use structural merge DoS regression tests\n\nReplace the timing-based merge DoS tests with deterministic checks of\nthe flattened mapping shape. Wall-clock thresholds are fragile on slow\nor emulated CI runners and do not directly prove that the expansion was\nprevented.\n\nThe fan-out regression case uses a small levels=4, width=4 payload from\nthe PR #916 shape. With the old behavior, flattening root expands to\n1024 repeated key/value pairs and the test fails immediately because the\nkey list contains 1020 extra entries. With the fix, duplicate merge pairs\nare collapsed during flattening and the same root mapping contains only\nk0, k1, k2, and k3.\n\nThis keeps the test fast even if the old bug returns: it observes the\nstructural amplification directly instead of waiting for a large\npathological input to time out.\n\n* Hybrid merge keys optimization\n\n* A hybrid combination of fixes proposed by frenzymadness and akshat-sj to prevent exponential compute while resolving nested anchor aliases.\n* Further optimization is possible with broader caching of anchor node graph, but would require careful design of invalidation policy.\n\n---------\n\nCo-authored-by: Akshat Singh Jaswal <sja.akshat@gmail.com>\nCo-authored-by: Aaron Bronow <abronow@gmail.com>\nCo-authored-by: Matt Davis <nitzmahone@redhat.com>",
+    "tree": {
+     "sha": "68d200790c86f417001438fadcfafc48e4cea85d",
+     "url": "https://api.github.com/repos/yaml/pyyaml/git/trees/68d200790c86f417001438fadcfafc48e4cea85d"
+    },
+    "url": "https://api.github.com/repos/yaml/pyyaml/git/commits/34a9bf82357f4952d8f194a5a31f1c39743652d0",
+    "verification": {
+     "payload": "tree 68d200790c86f417001438fadcfafc48e4cea85d\nparent d51d8a138f7230834fc6e95635ff09ebd329185f\nauthor Ingy döt Net <ingy@ingy.net> 1781734529 -0400\ncommitter GitHub <noreply@github.com> 1781734529 -0400\n\nDos in merge key (#937)\n\n* Make local test targets self-contained\n\nMost developer machines do not have libyaml headers installed, so the\nold default test flow attempted to build the optional extension, failed\nto find yaml.h, and then only exercised the pure Python fallback. The\nextension target also required out-of-band system setup before it could\npass.\n\nSplit the Makefile test flow into explicit pure-Python and LibYAML\ntargets, and make the default test target run both. The pure-Python\ntarget now forces the extension off during build, while the LibYAML\ntarget builds a pinned local yaml/libyaml checkout and wires the\ninclude, library, and runtime paths into the extension build.\n\nDocument the new Makefile workflow in the README, including make test,\nthe individual test targets, the pinned LIBYAML-REF default, and the\nPYTHON-VERSION override for testing against a specific Python.\n\nThis makes both test modes pass from a clean checkout without requiring\ndevelopers to install libyaml development packages by hand.\n\n* Fix exponential expansion DoS via duplicate merge key aliases\n\n* Fix exponential expansion based DoS in merge key processing\n\nResolves #897\nSupercedes #916\n\n### Summary\nThe merge key (`<<`) constructor implementation in\n`SafeConstructor.flatten_mapping()` was vulnerable to an\nexponential time and memory complexity Denial of Service (DoS)\nvulnerability. When mapping/sequence nodes are merged using\nanchors/aliases, duplicate references to the same alias point\nto the same MappingNode instance in Python. During merge key\nprocessing, the node values are copied and extended in-place.\nIf the same node appears multiple times at different levels,\nthis causes exponential amplification of the elements list:\n`2^(n+1) - 1`.\n\nA small document under 1 KB can trigger millions of element\nlist extensions, exhausting CPU and memory during safe loading.\n\n### Hardened Fix\nThis commit resolves the vulnerability and hardens it against\nsecondary vectors:\n1. Tracks node identity using object ID (`id(node)`) in a single\n`seen` set scoped to the parent mapping's `flatten_mapping()`\nexecution.\n2. Checks and skips duplicate node references inside SequenceNode\nmerge keys (resolving PR-916).\n3. Checks and skips duplicate node references across separate,\nindependent MappingNode merge keys in the same mapping (e.g.,\nrepeating `<<: *anchor` multiple times).\n4. Ensures C-based loaders (e.g., `CSafeLoader`, `CLoader`) are\nalso protected since they inherit constructor logic from\n`SafeConstructor`.\n\n### Performance Impact\n- Sequence-nested merge duplicates: Loading a 22-level nested\ndocument drops from 3.76s to 0.0028s (O(N) linear complexity).\n- Mapping-level merge duplicates: Loading a 20-level nested\ndocument drops from 0.93s to 0.0026s.\n\n### Tests\n- Added regression tests to\n`tests/legacy_tests/data/construct-merge.data` and\n`tests/legacy_tests/data/construct-merge.code` covering both\nduplicate sequence merges and duplicate direct merges.\n\n* Fix CI toolchain drift failures\n\nThe PR was failing before it reached the PyYAML regression tests in two\nplaces: the cp38 wheel jobs installed latest cibuildwheel, whose 4.x\nseries no longer supports Python 3.8, and the Windows arm64 libyaml build\nused a newer CMake that rejects libyaml 0.2.5's old minimum policy version.\n\nPin the cp38 wheel jobs to cibuildwheel<4, and quote the matrix-provided\npip package spec so bash does not parse the '<4' constraint as input\nredirection. Pass CMAKE_POLICY_VERSION_MINIMUM=3.5 to the Windows libyaml\nconfigure step, and disable fail-fast for the Windows libyaml matrix so\none architecture does not hide the others.\n\n* Add merge key deduplication regression tests\n\n* Add time-bounded DoS prevention tests to verify fix\n\n* Strengthen merge key DoS timeout tests\n\n* Fix merge key fan-out expansion DoS\n\n* Use structural merge DoS regression tests\n\nReplace the timing-based merge DoS tests with deterministic checks of\nthe flattened mapping shape. Wall-clock thresholds are fragile on slow\nor emulated CI runners and do not directly prove that the expansion was\nprevented.\n\nThe fan-out regression case uses a small levels=4, width=4 payload from\nthe PR #916 shape. With the old behavior, flattening root expands to\n1024 repeated key/value pairs and the test fails immediately because the\nkey list contains 1020 extra entries. With the fix, duplicate merge pairs\nare collapsed during flattening and the same root mapping contains only\nk0, k1, k2, and k3.\n\nThis keeps the test fast even if the old bug returns: it observes the\nstructural amplification directly instead of waiting for a large\npathological input to time out.\n\n* Hybrid merge keys optimization\n\n* A hybrid combination of fixes proposed by frenzymadness and akshat-sj to prevent exponential compute while resolving nested anchor aliases.\n* Further optimization is possible with broader caching of anchor node graph, but would require careful design of invalidation policy.\n\n---------\n\nCo-authored-by: Akshat Singh Jaswal <sja.akshat@gmail.com>\nCo-authored-by: Aaron Bronow <abronow@gmail.com>\nCo-authored-by: Matt Davis <nitzmahone@redhat.com>",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqMxyBCRC1aQ7uu5UhlAAAMZ0QAG/KsOiko/pKPPA6tJKVMx4y\naMgFZSTCrcwVyh0zg2pIryUWJ3l0YrLJ+iFtX4OUilsjGdoQT9i1Tum6/EEQ2NG3\n3KdOxn3odhd3RIEJgIVKnryH0/nlvVsCdbHDh4n7uN8ZrTibpa7CKYp/pNbujmoO\nI13Szod2I5XQk9fyV45IQT2D2DTyOsodwaDs6/QliQsw4aMxB9mcqiKQmfuX6dxn\nBTMw2kPlWW4wakNHvTQVkY/1yKOPVlF48PsmUWU1ddkoybgTcaUSL7+fRys4IUoT\n/5P1NgAoWVz0NR2NHkCHfBovNlWuswt0SAc7AOyty/wq5aV9eYJjej6eJY1mCf9N\ngDJ1751REkJBFEwPrC1xR8CjkioYGfM1XxMgpc1g+W8OQbw4EZWy5HhIYkU6fYCr\noTnu2fIk/xY4005Z4Dpz5jsGY+/v+PiaGqTJJCdwPcR2TwPAQXXnkiihkAgUP0Qo\n9o8S5yAQj4uqhW3GmJjwoS+dCdRyMQcQwNzvjILDu64s1NZ384MNmU7hpjG1nFh3\nivDnCsB1jT0xzKSe6kfbNlyn/MZQe+wjMp7Y7kWkshpDFaVaK3r2ApbH8W87Wf83\nH1Zjdig5GOyWs9W1yyAcmUaTPq6dBcquh98FXdWghAJo7lbpD8dDep6yhXHU9U9K\nyL2fbj8bYwtu5bQpe6yA\n=0bqn\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-06-17T22:15:30Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/yaml/pyyaml/commit/34a9bf82357f4952d8f194a5a31f1c39743652d0",
+   "node_id": "C_kwDOACkzc9oAKDM0YTliZjgyMzU3ZjQ5NTJkOGYxOTRhNWEzMWYxYzM5NzQzNjUyZDA",
+   "parents": [
+    {
+     "html_url": "https://github.com/yaml/pyyaml/commit/d51d8a138f7230834fc6e95635ff09ebd329185f",
+     "sha": "d51d8a138f7230834fc6e95635ff09ebd329185f",
+     "url": "https://api.github.com/repos/yaml/pyyaml/commits/d51d8a138f7230834fc6e95635ff09ebd329185f"
+    }
+   ],
+   "sha": "34a9bf82357f4952d8f194a5a31f1c39743652d0",
+   "url": "https://api.github.com/repos/yaml/pyyaml/commits/34a9bf82357f4952d8f194a5a31f1c39743652d0"
+  }
+ ],
+ "recorded_at": "2026-11-16T18:38:46Z",
+ "recorded_with": "deadledger 0.1.0",
+ "status": 200,
+ "url": "https://api.github.com/repos/yaml/pyyaml/commits?since=<window>&per_page=100"
+}

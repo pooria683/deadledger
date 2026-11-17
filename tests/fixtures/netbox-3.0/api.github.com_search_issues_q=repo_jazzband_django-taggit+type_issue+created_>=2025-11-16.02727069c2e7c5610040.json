@@ -1,0 +1,89 @@
+{
+ "body": {
+  "incomplete_results": false,
+  "items": [
+   {
+    "active_lock_reason": null,
+    "assignee": null,
+    "assignees": [],
+    "author_association": "NONE",
+    "body": "Hi team,\n\nI oversee the [InvenTree](https://inventree.org) project, which uses `django-taggit`. While investigating some API performance issues I discovered what I believe to be a bug in the implementation of the `TaggableMnanager`.\n\n## Problem Description\n\nWe have multiple API endpoints which point to models that have the following code:\n\n```python\ntags = TaggableManager()\n```\n\nThese models are serialized for the API using `django-rest-framework`. I have been profiling our API calls and discovered that a non-trivial overhead is caused by calling `taggit` code - even when it is not required.\n\nAn overview of the issue is here - https://github.com/inventree/InvenTree/issues/10996\n\nIn short, the `tags_for` method is called on each and every item fetched from the database, and does not make use of any prefetched tags. Further, this happens even when there are no \"tags\" fields in the serialized data.\n\nThe issue persists even when:\n\n- The \"tags\" field is not specified in the serializer fields\n- The \"tags\" field is explicitly deferred in the queryset with `queryset.defer('tags')`\n- The \"tags\" field is explicity prefetched with `queryset.prefetch_related('tags')`\n\nIf I replace the contents of `taggit/models.py/CommonGenericTaggedItemBase.tags_for` with:\n\n```python\n @classmethod\n    def tags_for(cls, model, instance=None, **extra_filters):\n        return cls.tag_model().objects.none()\n        #tag_relname = cls.tag_relname()\n        #model = model._meta.concrete_model\n        #kwargs = {\n        #    \"%s__content_type__app_label\" % tag_relname: model._meta.app_label,\n        #    \"%s__content_type__model\" % tag_relname: model._meta.model_name,\n        #}\n        #if instance is not None:\n        #    kwargs[\"%s__object_id\" % tag_relname] = instance.pk\n        #if extra_filters:\n        #    kwargs.update(extra_filters)\n        #return cls.tag_model().objects.filter(**kwargs).distinct()\n```\n\nthen I get about a 20% improvement in query speed.\n\n## Next Steps\n\nIs there something I am doing wrong, or is this potentially an issue in `django-taggit` itself? Happy to provide further context to work this out.",
+    "closed_at": "2025-12-16T01:29:30Z",
+    "comments": 1,
+    "comments_url": "https://api.github.com/repos/jazzband/django-taggit/issues/935/comments",
+    "created_at": "2025-12-13T03:42:19Z",
+    "events_url": "https://api.github.com/repos/jazzband/django-taggit/issues/935/events",
+    "html_url": "https://github.com/jazzband/django-taggit/issues/935",
+    "id": 3725436016,
+    "issue_dependencies_summary": {
+     "blocked_by": 0,
+     "blocking": 0,
+     "total_blocked_by": 0,
+     "total_blocking": 0
+    },
+    "issue_field_values": [],
+    "labels": [],
+    "labels_url": "https://api.github.com/repos/jazzband/django-taggit/issues/935/labels{/name}",
+    "locked": false,
+    "milestone": null,
+    "node_id": "I_kwDOAAY-Dc7eDaRw",
+    "number": 935,
+    "performed_via_github_app": null,
+    "pinned_comment": null,
+    "reactions": {
+     "+1": 0,
+     "-1": 0,
+     "confused": 0,
+     "eyes": 0,
+     "heart": 0,
+     "hooray": 0,
+     "laugh": 0,
+     "rocket": 0,
+     "total_count": 0,
+     "url": "https://api.github.com/repos/jazzband/django-taggit/issues/935/reactions"
+    },
+    "repository_url": "https://api.github.com/repos/jazzband/django-taggit",
+    "score": 1.0,
+    "state": "closed",
+    "state_reason": "completed",
+    "sub_issues_summary": {
+     "completed": 0,
+     "percent_completed": 0,
+     "total": 0
+    },
+    "timeline_url": "https://api.github.com/repos/jazzband/django-taggit/issues/935/timeline",
+    "title": "TaggableManager introduces signifant DRF overhead",
+    "type": null,
+    "updated_at": "2025-12-16T01:29:30Z",
+    "url": "https://api.github.com/repos/jazzband/django-taggit/issues/935",
+    "user": {
+     "avatar_url": "https://avatars.githubusercontent.com/u/10080325?v=4",
+     "events_url": "https://api.github.com/users/SchrodingersGat/events{/privacy}",
+     "followers_url": "https://api.github.com/users/SchrodingersGat/followers",
+     "following_url": "https://api.github.com/users/SchrodingersGat/following{/other_user}",
+     "gists_url": "https://api.github.com/users/SchrodingersGat/gists{/gist_id}",
+     "gravatar_id": "",
+     "html_url": "https://github.com/SchrodingersGat",
+     "id": 10080325,
+     "login": "SchrodingersGat",
+     "node_id": "MDQ6VXNlcjEwMDgwMzI1",
+     "organizations_url": "https://api.github.com/users/SchrodingersGat/orgs",
+     "received_events_url": "https://api.github.com/users/SchrodingersGat/received_events",
+     "repos_url": "https://api.github.com/users/SchrodingersGat/repos",
+     "site_admin": false,
+     "starred_url": "https://api.github.com/users/SchrodingersGat/starred{/owner}{/repo}",
+     "subscriptions_url": "https://api.github.com/users/SchrodingersGat/subscriptions",
+     "type": "User",
+     "url": "https://api.github.com/users/SchrodingersGat",
+     "user_view_type": "public"
+    }
+   }
+  ],
+  "search_type": "lexical",
+  "total_count": 1
+ },
+ "recorded_at": "2026-11-16T18:38:46Z",
+ "recorded_with": "deadledger 0.1.0",
+ "status": 200,
+ "url": "https://api.github.com/search/issues?q=repo:jazzband/django-taggit+type:issue+created:>=2025-11-16+is:closed"
+}

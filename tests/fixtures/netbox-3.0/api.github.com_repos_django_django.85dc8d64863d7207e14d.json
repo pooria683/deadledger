@@ -1,0 +1,15 @@
+{
+ "body": {
+  "archived": false,
+  "default_branch": "main",
+  "full_name": "django/django",
+  "html_url": "https://github.com/django/django",
+  "open_issues_count": 531,
+  "pushed_at": "2026-11-16T16:18:34Z",
+  "stargazers_count": 91758
+ },
+ "recorded_at": "2026-11-16T18:38:46Z",
+ "recorded_with": "deadledger 0.1.0",
+ "status": 200,
+ "url": "https://api.github.com/repos/django/django"
+}

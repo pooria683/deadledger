@@ -1,0 +1,664 @@
+{
+ "body": [
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/64686?v=4",
+    "events_url": "https://api.github.com/users/carltongibson/events{/privacy}",
+    "followers_url": "https://api.github.com/users/carltongibson/followers",
+    "following_url": "https://api.github.com/users/carltongibson/following{/other_user}",
+    "gists_url": "https://api.github.com/users/carltongibson/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/carltongibson",
+    "id": 64686,
+    "login": "carltongibson",
+    "node_id": "MDQ6VXNlcjY0Njg2",
+    "organizations_url": "https://api.github.com/users/carltongibson/orgs",
+    "received_events_url": "https://api.github.com/users/carltongibson/received_events",
+    "repos_url": "https://api.github.com/users/carltongibson/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/carltongibson/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/carltongibson/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/carltongibson",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/carltongibson/django-filter/commits/daddf7b65535a4f7c670793ff4a2df2f17e2e4ae/comments",
+   "commit": {
+    "author": {
+     "date": "2026-10-03T11:50:59Z",
+     "email": "carlton.gibson@noumenal.es",
+     "name": "Carlton Gibson"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-10-03T11:52:30Z",
+     "email": "carlton.gibson@noumenal.es",
+     "name": "Carlton Gibson"
+    },
+    "message": "Set date and bump version for 26.2 release.",
+    "tree": {
+     "sha": "e167a11ab040a757f70270662dcca289335ef50f",
+     "url": "https://api.github.com/repos/carltongibson/django-filter/git/trees/e167a11ab040a757f70270662dcca289335ef50f"
+    },
+    "url": "https://api.github.com/repos/carltongibson/django-filter/git/commits/daddf7b65535a4f7c670793ff4a2df2f17e2e4ae",
+    "verification": {
+     "payload": null,
+     "reason": "unsigned",
+     "signature": null,
+     "verified": false,
+     "verified_at": null
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/64686?v=4",
+    "events_url": "https://api.github.com/users/carltongibson/events{/privacy}",
+    "followers_url": "https://api.github.com/users/carltongibson/followers",
+    "following_url": "https://api.github.com/users/carltongibson/following{/other_user}",
+    "gists_url": "https://api.github.com/users/carltongibson/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/carltongibson",
+    "id": 64686,
+    "login": "carltongibson",
+    "node_id": "MDQ6VXNlcjY0Njg2",
+    "organizations_url": "https://api.github.com/users/carltongibson/orgs",
+    "received_events_url": "https://api.github.com/users/carltongibson/received_events",
+    "repos_url": "https://api.github.com/users/carltongibson/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/carltongibson/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/carltongibson/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/carltongibson",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/carltongibson/django-filter/commit/daddf7b65535a4f7c670793ff4a2df2f17e2e4ae",
+   "node_id": "C_kwDOAAHL7doAKGRhZGRmN2I2NTUzNWE0ZjdjNjcwNzkzZmY0YTJkZjJmMTdlMmU0YWU",
+   "parents": [
+    {
+     "html_url": "https://github.com/carltongibson/django-filter/commit/a3593ea8d7309490365cd971c3b1c30d1476bd82",
+     "sha": "a3593ea8d7309490365cd971c3b1c30d1476bd82",
+     "url": "https://api.github.com/repos/carltongibson/django-filter/commits/a3593ea8d7309490365cd971c3b1c30d1476bd82"
+    }
+   ],
+   "sha": "daddf7b65535a4f7c670793ff4a2df2f17e2e4ae",
+   "url": "https://api.github.com/repos/carltongibson/django-filter/commits/daddf7b65535a4f7c670793ff4a2df2f17e2e4ae"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/64686?v=4",
+    "events_url": "https://api.github.com/users/carltongibson/events{/privacy}",
+    "followers_url": "https://api.github.com/users/carltongibson/followers",
+    "following_url": "https://api.github.com/users/carltongibson/following{/other_user}",
+    "gists_url": "https://api.github.com/users/carltongibson/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/carltongibson",
+    "id": 64686,
+    "login": "carltongibson",
+    "node_id": "MDQ6VXNlcjY0Njg2",
+    "organizations_url": "https://api.github.com/users/carltongibson/orgs",
+    "received_events_url": "https://api.github.com/users/carltongibson/received_events",
+    "repos_url": "https://api.github.com/users/carltongibson/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/carltongibson/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/carltongibson/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/carltongibson",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/carltongibson/django-filter/commits/a3593ea8d7309490365cd971c3b1c30d1476bd82/comments",
+   "commit": {
+    "author": {
+     "date": "2026-10-03T11:45:04Z",
+     "email": "carlton.gibson@noumenal.es",
+     "name": "Carlton Gibson"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-10-03T11:52:30Z",
+     "email": "carlton.gibson@noumenal.es",
+     "name": "Carlton Gibson"
+    },
+    "message": "Escape LinkWidget values.\n\nFilter choices are under developer control, and applications\npopulating them from user-supplied values, including via\n``AllValuesFilter``, must filter those appropriately, as always.\nNonetheless, escaping labels by default serves as defense-in-depth\nhardening. Apply ``mark_safe()`` to labels intended to contain HTML.\n\nThanks to Sanjeev Kumar for the report.",
+    "tree": {
+     "sha": "f1443fce502d724459327b3cb4c11e70c384a8cb",
+     "url": "https://api.github.com/repos/carltongibson/django-filter/git/trees/f1443fce502d724459327b3cb4c11e70c384a8cb"
+    },
+    "url": "https://api.github.com/repos/carltongibson/django-filter/git/commits/a3593ea8d7309490365cd971c3b1c30d1476bd82",
+    "verification": {
+     "payload": null,
+     "reason": "unsigned",
+     "signature": null,
+     "verified": false,
+     "verified_at": null
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/64686?v=4",
+    "events_url": "https://api.github.com/users/carltongibson/events{/privacy}",
+    "followers_url": "https://api.github.com/users/carltongibson/followers",
+    "following_url": "https://api.github.com/users/carltongibson/following{/other_user}",
+    "gists_url": "https://api.github.com/users/carltongibson/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/carltongibson",
+    "id": 64686,
+    "login": "carltongibson",
+    "node_id": "MDQ6VXNlcjY0Njg2",
+    "organizations_url": "https://api.github.com/users/carltongibson/orgs",
+    "received_events_url": "https://api.github.com/users/carltongibson/received_events",
+    "repos_url": "https://api.github.com/users/carltongibson/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/carltongibson/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/carltongibson/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/carltongibson",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/carltongibson/django-filter/commit/a3593ea8d7309490365cd971c3b1c30d1476bd82",
+   "node_id": "C_kwDOAAHL7doAKGEzNTkzZWE4ZDczMDk0OTAzNjVjZDk3MWMzYjFjMzBkMTQ3NmJkODI",
+   "parents": [
+    {
+     "html_url": "https://github.com/carltongibson/django-filter/commit/29be8969060a9ac3a41bb4ea9d9e2d1cc96e6d2a",
+     "sha": "29be8969060a9ac3a41bb4ea9d9e2d1cc96e6d2a",
+     "url": "https://api.github.com/repos/carltongibson/django-filter/commits/29be8969060a9ac3a41bb4ea9d9e2d1cc96e6d2a"
+    }
+   ],
+   "sha": "a3593ea8d7309490365cd971c3b1c30d1476bd82",
+   "url": "https://api.github.com/repos/carltongibson/django-filter/commits/a3593ea8d7309490365cd971c3b1c30d1476bd82"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/64686?v=4",
+    "events_url": "https://api.github.com/users/carltongibson/events{/privacy}",
+    "followers_url": "https://api.github.com/users/carltongibson/followers",
+    "following_url": "https://api.github.com/users/carltongibson/following{/other_user}",
+    "gists_url": "https://api.github.com/users/carltongibson/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/carltongibson",
+    "id": 64686,
+    "login": "carltongibson",
+    "node_id": "MDQ6VXNlcjY0Njg2",
+    "organizations_url": "https://api.github.com/users/carltongibson/orgs",
+    "received_events_url": "https://api.github.com/users/carltongibson/received_events",
+    "repos_url": "https://api.github.com/users/carltongibson/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/carltongibson/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/carltongibson/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/carltongibson",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/carltongibson/django-filter/commits/29be8969060a9ac3a41bb4ea9d9e2d1cc96e6d2a/comments",
+   "commit": {
+    "author": {
+     "date": "2026-10-03T11:14:47Z",
+     "email": "carlton.gibson@noumenal.es",
+     "name": "Carlton Gibson"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-10-03T11:15:08Z",
+     "email": "carlton.gibson@noumenal.es",
+     "name": "Carlton Gibson"
+    },
+    "message": "Update testing to add Python 3.15 and drop 3.10.",
+    "tree": {
+     "sha": "af481b9689b17d7b371a0a74588f213daaecaf4a",
+     "url": "https://api.github.com/repos/carltongibson/django-filter/git/trees/af481b9689b17d7b371a0a74588f213daaecaf4a"
+    },
+    "url": "https://api.github.com/repos/carltongibson/django-filter/git/commits/29be8969060a9ac3a41bb4ea9d9e2d1cc96e6d2a",
+    "verification": {
+     "payload": null,
+     "reason": "unsigned",
+     "signature": null,
+     "verified": false,
+     "verified_at": null
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/64686?v=4",
+    "events_url": "https://api.github.com/users/carltongibson/events{/privacy}",
+    "followers_url": "https://api.github.com/users/carltongibson/followers",
+    "following_url": "https://api.github.com/users/carltongibson/following{/other_user}",
+    "gists_url": "https://api.github.com/users/carltongibson/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/carltongibson",
+    "id": 64686,
+    "login": "carltongibson",
+    "node_id": "MDQ6VXNlcjY0Njg2",
+    "organizations_url": "https://api.github.com/users/carltongibson/orgs",
+    "received_events_url": "https://api.github.com/users/carltongibson/received_events",
+    "repos_url": "https://api.github.com/users/carltongibson/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/carltongibson/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/carltongibson/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/carltongibson",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/carltongibson/django-filter/commit/29be8969060a9ac3a41bb4ea9d9e2d1cc96e6d2a",
+   "node_id": "C_kwDOAAHL7doAKDI5YmU4OTY5MDYwYTlhYzNhNDFiYjRlYTlkOWUyZDFjYzk2ZTZkMmE",
+   "parents": [
+    {
+     "html_url": "https://github.com/carltongibson/django-filter/commit/5128b8fde88b13a2f4e9a04bb0296756fa1cc848",
+     "sha": "5128b8fde88b13a2f4e9a04bb0296756fa1cc848",
+     "url": "https://api.github.com/repos/carltongibson/django-filter/commits/5128b8fde88b13a2f4e9a04bb0296756fa1cc848"
+    }
+   ],
+   "sha": "29be8969060a9ac3a41bb4ea9d9e2d1cc96e6d2a",
+   "url": "https://api.github.com/repos/carltongibson/django-filter/commits/29be8969060a9ac3a41bb4ea9d9e2d1cc96e6d2a"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/432519?v=4",
+    "events_url": "https://api.github.com/users/dvzrv/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dvzrv/followers",
+    "following_url": "https://api.github.com/users/dvzrv/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dvzrv/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/dvzrv",
+    "id": 432519,
+    "login": "dvzrv",
+    "node_id": "MDQ6VXNlcjQzMjUxOQ==",
+    "organizations_url": "https://api.github.com/users/dvzrv/orgs",
+    "received_events_url": "https://api.github.com/users/dvzrv/received_events",
+    "repos_url": "https://api.github.com/users/dvzrv/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dvzrv/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dvzrv/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/dvzrv",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/carltongibson/django-filter/commits/5128b8fde88b13a2f4e9a04bb0296756fa1cc848/comments",
+   "commit": {
+    "author": {
+     "date": "2026-07-15T09:51:08Z",
+     "email": "dave@sleepmap.de",
+     "name": "David Runge"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-07-15T14:52:44Z",
+     "email": "carlton@noumenal.es",
+     "name": "Carlton Gibson"
+    },
+    "message": "Increase the version upper limit for flit_core to 5\n\nSigned-off-by: David Runge <dave@sleepmap.de>",
+    "tree": {
+     "sha": "61b3a079546c3eb4073d143608ef6862f9160b1a",
+     "url": "https://api.github.com/repos/carltongibson/django-filter/git/trees/61b3a079546c3eb4073d143608ef6862f9160b1a"
+    },
+    "url": "https://api.github.com/repos/carltongibson/django-filter/git/commits/5128b8fde88b13a2f4e9a04bb0296756fa1cc848",
+    "verification": {
+     "payload": null,
+     "reason": "unsigned",
+     "signature": null,
+     "verified": false,
+     "verified_at": null
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/64686?v=4",
+    "events_url": "https://api.github.com/users/carltongibson/events{/privacy}",
+    "followers_url": "https://api.github.com/users/carltongibson/followers",
+    "following_url": "https://api.github.com/users/carltongibson/following{/other_user}",
+    "gists_url": "https://api.github.com/users/carltongibson/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/carltongibson",
+    "id": 64686,
+    "login": "carltongibson",
+    "node_id": "MDQ6VXNlcjY0Njg2",
+    "organizations_url": "https://api.github.com/users/carltongibson/orgs",
+    "received_events_url": "https://api.github.com/users/carltongibson/received_events",
+    "repos_url": "https://api.github.com/users/carltongibson/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/carltongibson/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/carltongibson/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/carltongibson",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/carltongibson/django-filter/commit/5128b8fde88b13a2f4e9a04bb0296756fa1cc848",
+   "node_id": "C_kwDOAAHL7doAKDUxMjhiOGZkZTg4YjEzYTJmNGU5YTA0YmIwMjk2NzU2ZmExY2M4NDg",
+   "parents": [
+    {
+     "html_url": "https://github.com/carltongibson/django-filter/commit/52c3c0f21ef8fe281982ec0e95a3675cd8402214",
+     "sha": "52c3c0f21ef8fe281982ec0e95a3675cd8402214",
+     "url": "https://api.github.com/repos/carltongibson/django-filter/commits/52c3c0f21ef8fe281982ec0e95a3675cd8402214"
+    }
+   ],
+   "sha": "5128b8fde88b13a2f4e9a04bb0296756fa1cc848",
+   "url": "https://api.github.com/repos/carltongibson/django-filter/commits/5128b8fde88b13a2f4e9a04bb0296756fa1cc848"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/64686?v=4",
+    "events_url": "https://api.github.com/users/carltongibson/events{/privacy}",
+    "followers_url": "https://api.github.com/users/carltongibson/followers",
+    "following_url": "https://api.github.com/users/carltongibson/following{/other_user}",
+    "gists_url": "https://api.github.com/users/carltongibson/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/carltongibson",
+    "id": 64686,
+    "login": "carltongibson",
+    "node_id": "MDQ6VXNlcjY0Njg2",
+    "organizations_url": "https://api.github.com/users/carltongibson/orgs",
+    "received_events_url": "https://api.github.com/users/carltongibson/received_events",
+    "repos_url": "https://api.github.com/users/carltongibson/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/carltongibson/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/carltongibson/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/carltongibson",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/carltongibson/django-filter/commits/52c3c0f21ef8fe281982ec0e95a3675cd8402214/comments",
+   "commit": {
+    "author": {
+     "date": "2026-07-11T09:26:17Z",
+     "email": "carlton.gibson@noumenal.es",
+     "name": "Carlton Gibson"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-07-11T09:26:17Z",
+     "email": "carlton.gibson@noumenal.es",
+     "name": "Carlton Gibson"
+    },
+    "message": "Set date and bump version for 26.1 release.",
+    "tree": {
+     "sha": "764dfd65afb3f357bfee37f964aea9b9e2acd9d2",
+     "url": "https://api.github.com/repos/carltongibson/django-filter/git/trees/764dfd65afb3f357bfee37f964aea9b9e2acd9d2"
+    },
+    "url": "https://api.github.com/repos/carltongibson/django-filter/git/commits/52c3c0f21ef8fe281982ec0e95a3675cd8402214",
+    "verification": {
+     "payload": null,
+     "reason": "unsigned",
+     "signature": null,
+     "verified": false,
+     "verified_at": null
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/64686?v=4",
+    "events_url": "https://api.github.com/users/carltongibson/events{/privacy}",
+    "followers_url": "https://api.github.com/users/carltongibson/followers",
+    "following_url": "https://api.github.com/users/carltongibson/following{/other_user}",
+    "gists_url": "https://api.github.com/users/carltongibson/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/carltongibson",
+    "id": 64686,
+    "login": "carltongibson",
+    "node_id": "MDQ6VXNlcjY0Njg2",
+    "organizations_url": "https://api.github.com/users/carltongibson/orgs",
+    "received_events_url": "https://api.github.com/users/carltongibson/received_events",
+    "repos_url": "https://api.github.com/users/carltongibson/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/carltongibson/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/carltongibson/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/carltongibson",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/carltongibson/django-filter/commit/52c3c0f21ef8fe281982ec0e95a3675cd8402214",
+   "node_id": "C_kwDOAAHL7doAKDUyYzNjMGYyMWVmOGZlMjgxOTgyZWMwZTk1YTM2NzVjZDg0MDIyMTQ",
+   "parents": [
+    {
+     "html_url": "https://github.com/carltongibson/django-filter/commit/6a3222aaf83170df0f967423444d5312b99a3d69",
+     "sha": "6a3222aaf83170df0f967423444d5312b99a3d69",
+     "url": "https://api.github.com/repos/carltongibson/django-filter/commits/6a3222aaf83170df0f967423444d5312b99a3d69"
+    }
+   ],
+   "sha": "52c3c0f21ef8fe281982ec0e95a3675cd8402214",
+   "url": "https://api.github.com/repos/carltongibson/django-filter/commits/52c3c0f21ef8fe281982ec0e95a3675cd8402214"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/64686?v=4",
+    "events_url": "https://api.github.com/users/carltongibson/events{/privacy}",
+    "followers_url": "https://api.github.com/users/carltongibson/followers",
+    "following_url": "https://api.github.com/users/carltongibson/following{/other_user}",
+    "gists_url": "https://api.github.com/users/carltongibson/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/carltongibson",
+    "id": 64686,
+    "login": "carltongibson",
+    "node_id": "MDQ6VXNlcjY0Njg2",
+    "organizations_url": "https://api.github.com/users/carltongibson/orgs",
+    "received_events_url": "https://api.github.com/users/carltongibson/received_events",
+    "repos_url": "https://api.github.com/users/carltongibson/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/carltongibson/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/carltongibson/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/carltongibson",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/carltongibson/django-filter/commits/6a3222aaf83170df0f967423444d5312b99a3d69/comments",
+   "commit": {
+    "author": {
+     "date": "2026-07-11T07:36:43Z",
+     "email": "carlton.gibson@noumenal.es",
+     "name": "Carlton Gibson"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-07-11T09:23:38Z",
+     "email": "carlton@noumenal.es",
+     "name": "Carlton Gibson"
+    },
+    "message": "Add testing for Python 3.14.\n\nCo-authored-by: Pravin Kamble <iampbkamble@gmail.com>",
+    "tree": {
+     "sha": "ba0902d0d0387033881747405ef068eb843690fd",
+     "url": "https://api.github.com/repos/carltongibson/django-filter/git/trees/ba0902d0d0387033881747405ef068eb843690fd"
+    },
+    "url": "https://api.github.com/repos/carltongibson/django-filter/git/commits/6a3222aaf83170df0f967423444d5312b99a3d69",
+    "verification": {
+     "payload": null,
+     "reason": "unsigned",
+     "signature": null,
+     "verified": false,
+     "verified_at": null
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/64686?v=4",
+    "events_url": "https://api.github.com/users/carltongibson/events{/privacy}",
+    "followers_url": "https://api.github.com/users/carltongibson/followers",
+    "following_url": "https://api.github.com/users/carltongibson/following{/other_user}",
+    "gists_url": "https://api.github.com/users/carltongibson/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/carltongibson",
+    "id": 64686,
+    "login": "carltongibson",
+    "node_id": "MDQ6VXNlcjY0Njg2",
+    "organizations_url": "https://api.github.com/users/carltongibson/orgs",
+    "received_events_url": "https://api.github.com/users/carltongibson/received_events",
+    "repos_url": "https://api.github.com/users/carltongibson/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/carltongibson/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/carltongibson/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/carltongibson",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/carltongibson/django-filter/commit/6a3222aaf83170df0f967423444d5312b99a3d69",
+   "node_id": "C_kwDOAAHL7doAKDZhMzIyMmFhZjgzMTcwZGYwZjk2NzQyMzQ0NGQ1MzEyYjk5YTNkNjk",
+   "parents": [
+    {
+     "html_url": "https://github.com/carltongibson/django-filter/commit/aa3bd8e87136d4730f4eb44b3386e52c218bcf66",
+     "sha": "aa3bd8e87136d4730f4eb44b3386e52c218bcf66",
+     "url": "https://api.github.com/repos/carltongibson/django-filter/commits/aa3bd8e87136d4730f4eb44b3386e52c218bcf66"
+    }
+   ],
+   "sha": "6a3222aaf83170df0f967423444d5312b99a3d69",
+   "url": "https://api.github.com/repos/carltongibson/django-filter/commits/6a3222aaf83170df0f967423444d5312b99a3d69"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/64686?v=4",
+    "events_url": "https://api.github.com/users/carltongibson/events{/privacy}",
+    "followers_url": "https://api.github.com/users/carltongibson/followers",
+    "following_url": "https://api.github.com/users/carltongibson/following{/other_user}",
+    "gists_url": "https://api.github.com/users/carltongibson/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/carltongibson",
+    "id": 64686,
+    "login": "carltongibson",
+    "node_id": "MDQ6VXNlcjY0Njg2",
+    "organizations_url": "https://api.github.com/users/carltongibson/orgs",
+    "received_events_url": "https://api.github.com/users/carltongibson/received_events",
+    "repos_url": "https://api.github.com/users/carltongibson/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/carltongibson/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/carltongibson/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/carltongibson",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/carltongibson/django-filter/commits/aa3bd8e87136d4730f4eb44b3386e52c218bcf66/comments",
+   "commit": {
+    "author": {
+     "date": "2026-07-11T07:32:29Z",
+     "email": "carlton.gibson@noumenal.es",
+     "name": "Carlton Gibson"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-07-11T09:23:38Z",
+     "email": "carlton@noumenal.es",
+     "name": "Carlton Gibson"
+    },
+    "message": "Added testing against Django 6.1",
+    "tree": {
+     "sha": "4290a6901d31640f747932331e969e245074e35a",
+     "url": "https://api.github.com/repos/carltongibson/django-filter/git/trees/4290a6901d31640f747932331e969e245074e35a"
+    },
+    "url": "https://api.github.com/repos/carltongibson/django-filter/git/commits/aa3bd8e87136d4730f4eb44b3386e52c218bcf66",
+    "verification": {
+     "payload": null,
+     "reason": "unsigned",
+     "signature": null,
+     "verified": false,
+     "verified_at": null
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/64686?v=4",
+    "events_url": "https://api.github.com/users/carltongibson/events{/privacy}",
+    "followers_url": "https://api.github.com/users/carltongibson/followers",
+    "following_url": "https://api.github.com/users/carltongibson/following{/other_user}",
+    "gists_url": "https://api.github.com/users/carltongibson/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/carltongibson",
+    "id": 64686,
+    "login": "carltongibson",
+    "node_id": "MDQ6VXNlcjY0Njg2",
+    "organizations_url": "https://api.github.com/users/carltongibson/orgs",
+    "received_events_url": "https://api.github.com/users/carltongibson/received_events",
+    "repos_url": "https://api.github.com/users/carltongibson/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/carltongibson/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/carltongibson/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/carltongibson",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/carltongibson/django-filter/commit/aa3bd8e87136d4730f4eb44b3386e52c218bcf66",
+   "node_id": "C_kwDOAAHL7doAKGFhM2JkOGU4NzEzNmQ0NzMwZjRlYjQ0YjMzODZlNTJjMjE4YmNmNjY",
+   "parents": [
+    {
+     "html_url": "https://github.com/carltongibson/django-filter/commit/ec717ea11378a4dc003cbe2f77b5211d8815a0b6",
+     "sha": "ec717ea11378a4dc003cbe2f77b5211d8815a0b6",
+     "url": "https://api.github.com/repos/carltongibson/django-filter/commits/ec717ea11378a4dc003cbe2f77b5211d8815a0b6"
+    }
+   ],
+   "sha": "aa3bd8e87136d4730f4eb44b3386e52c218bcf66",
+   "url": "https://api.github.com/repos/carltongibson/django-filter/commits/aa3bd8e87136d4730f4eb44b3386e52c218bcf66"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/9057434?v=4",
+    "events_url": "https://api.github.com/users/efe/events{/privacy}",
+    "followers_url": "https://api.github.com/users/efe/followers",
+    "following_url": "https://api.github.com/users/efe/following{/other_user}",
+    "gists_url": "https://api.github.com/users/efe/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/efe",
+    "id": 9057434,
+    "login": "efe",
+    "node_id": "MDQ6VXNlcjkwNTc0MzQ=",
+    "organizations_url": "https://api.github.com/users/efe/orgs",
+    "received_events_url": "https://api.github.com/users/efe/received_events",
+    "repos_url": "https://api.github.com/users/efe/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/efe/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/efe/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/efe",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/carltongibson/django-filter/commits/ec717ea11378a4dc003cbe2f77b5211d8815a0b6/comments",
+   "commit": {
+    "author": {
+     "date": "2026-05-11T07:02:27Z",
+     "email": "efe@users.noreply.github.com",
+     "name": "Efe Öge"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-05-11T07:02:27Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Correct Language header in Greek locale file (el) (#1751)",
+    "tree": {
+     "sha": "760c8b8788699b11c7c1c712b1ac6e66a9ab3c13",
+     "url": "https://api.github.com/repos/carltongibson/django-filter/git/trees/760c8b8788699b11c7c1c712b1ac6e66a9ab3c13"
+    },
+    "url": "https://api.github.com/repos/carltongibson/django-filter/git/commits/ec717ea11378a4dc003cbe2f77b5211d8815a0b6",
+    "verification": {
+     "payload": "tree 760c8b8788699b11c7c1c712b1ac6e66a9ab3c13\nparent 31b297ca2414218052476ba458c4d1eedc0a0f99\nauthor Efe Öge <efe@users.noreply.github.com> 1778482947 +0200\ncommitter GitHub <noreply@github.com> 1778482947 +0200\n\nCorrect Language header in Greek locale file (el) (#1751)",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqAX8DCRC1aQ7uu5UhlAAA+lcQAB2vMeA8E3KX0Di8sl7skxMa\nLcWQgkvw3DulehCU+dUPWLbBrP35xBnuVlMOkMOfKREq4TgSBSjCMVaQltucx4Ng\nUNEESOsqCdWWj+DuMPUckuKc2y5LABhKc5ZzmP8VyP35+COCLRvtxtI3XVWWPL8V\nvfQU99GgaRl7qSyK8nMIT/QpxZMx7WOF0lpZYXrPrh7vBA3kmZG6Lg4ldIcfYUEv\nd079D68L3C2du8QTFEt8p4uIfUXz18yu09BILPD2BpdayM0AuugoehFCSdiMLCRN\n71MhG9YUlcCvZIDShwzDfk55+3nCQZ7QvUzFKE22MXHnbintUxr7+Pem/jeHm2uD\nn97vRU2tTzCgr2+kLNm8tKOex+4drJBoWV7FRiVxeV4y2zhKBBjterb7eJ0K9OTF\nd/aAVHPpoFZGc+1Z23L/BRIqLnGTh84XJ0Ks8NhWmhc+j1jYHUMmOqarHyIEaT4X\n6aWNNXBP0l1UOOfBBn48fVLAghwekfO15sVsGtMpq+Kxdy3+CamdspwFPkSQPf0t\nl/tDyttDHbBtQM4Oh4hXrxCGGznPGxo4e3WRbIAsOEwktza8Irg9dYmkuzSXnm+R\nJyZxWcPWlZ5eHEmfZYlklrGKlYN1oshK7BMwKuwVk399a0G96DNQPyUmK8lg5V8e\nSW+NNx6GlCVZXbcgSHpb\n=Ye6k\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-05-11T07:02:28Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/carltongibson/django-filter/commit/ec717ea11378a4dc003cbe2f77b5211d8815a0b6",
+   "node_id": "C_kwDOAAHL7doAKGVjNzE3ZWExMTM3OGE0ZGMwMDNjYmUyZjc3YjUyMTFkODgxNWEwYjY",
+   "parents": [
+    {
+     "html_url": "https://github.com/carltongibson/django-filter/commit/31b297ca2414218052476ba458c4d1eedc0a0f99",
+     "sha": "31b297ca2414218052476ba458c4d1eedc0a0f99",
+     "url": "https://api.github.com/repos/carltongibson/django-filter/commits/31b297ca2414218052476ba458c4d1eedc0a0f99"
+    }
+   ],
+   "sha": "ec717ea11378a4dc003cbe2f77b5211d8815a0b6",
+   "url": "https://api.github.com/repos/carltongibson/django-filter/commits/ec717ea11378a4dc003cbe2f77b5211d8815a0b6"
+  }
+ ],
+ "recorded_at": "2026-11-16T18:38:46Z",
+ "recorded_with": "deadledger 0.1.0",
+ "status": 200,
+ "url": "https://api.github.com/repos/carltongibson/django-filter/commits?since=<window>&per_page=100"
+}

@@ -1,0 +1,14 @@
+# Legacy Rust service, circa 2018. Used as demo + fixture input.
+[package]
+name = "legacy-ingest"
+version = "0.9.1"
+edition = "2018"
+
+[dependencies]
+serde = "1.0"
+serde_json = "1.0"
+tempdir = "0.3"
+error-chain = "0.12"
+
+[dev-dependencies]
+rand = "0.6"

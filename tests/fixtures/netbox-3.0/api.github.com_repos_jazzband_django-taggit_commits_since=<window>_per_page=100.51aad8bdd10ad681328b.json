@@ -1,0 +1,2180 @@
+{
+ "body": [
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/in/68672?v=4",
+    "events_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/events{/privacy}",
+    "followers_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/followers",
+    "following_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/following{/other_user}",
+    "gists_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/apps/pre-commit-ci",
+    "id": 66853113,
+    "login": "pre-commit-ci[bot]",
+    "node_id": "MDM6Qm90NjY4NTMxMTM=",
+    "organizations_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/orgs",
+    "received_events_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/received_events",
+    "repos_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/subscriptions",
+    "type": "Bot",
+    "url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/django-taggit/commits/be6be1e6fcee12dd8b0bdee73f3871749c0ff3b4/comments",
+   "commit": {
+    "author": {
+     "date": "2026-11-02T18:02:43Z",
+     "email": "66853113+pre-commit-ci[bot]@users.noreply.github.com",
+     "name": "pre-commit-ci[bot]"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-11-03T19:54:54Z",
+     "email": "johannes@maron.family",
+     "name": "Johannes Maron"
+    },
+    "message": "[pre-commit.ci] pre-commit autoupdate\n\nupdates:\n- [github.com/psf/black-pre-commit-mirror: 26.3.1 → 26.10.1](https://github.com/psf/black-pre-commit-mirror/compare/26.3.1...26.10.1)\n- [github.com/PyCQA/flake8: 7.3.0 → 7.5.0](https://github.com/PyCQA/flake8/compare/7.3.0...7.5.0)\n- [github.com/asottile/pyupgrade: v3.21.2 → v3.22.0](https://github.com/asottile/pyupgrade/compare/v3.21.2...v3.22.0)\n- [github.com/adamchainz/django-upgrade: 1.30.0 → 1.33.0](https://github.com/adamchainz/django-upgrade/compare/1.30.0...1.33.0)",
+    "tree": {
+     "sha": "cfb4d0d2dc7cd7966a84ccee8142087c7248dd03",
+     "url": "https://api.github.com/repos/jazzband/django-taggit/git/trees/cfb4d0d2dc7cd7966a84ccee8142087c7248dd03"
+    },
+    "url": "https://api.github.com/repos/jazzband/django-taggit/git/commits/be6be1e6fcee12dd8b0bdee73f3871749c0ff3b4",
+    "verification": {
+     "payload": null,
+     "reason": "unsigned",
+     "signature": null,
+     "verified": false,
+     "verified_at": null
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1772890?v=4",
+    "events_url": "https://api.github.com/users/codingjoe/events{/privacy}",
+    "followers_url": "https://api.github.com/users/codingjoe/followers",
+    "following_url": "https://api.github.com/users/codingjoe/following{/other_user}",
+    "gists_url": "https://api.github.com/users/codingjoe/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/codingjoe",
+    "id": 1772890,
+    "login": "codingjoe",
+    "node_id": "MDQ6VXNlcjE3NzI4OTA=",
+    "organizations_url": "https://api.github.com/users/codingjoe/orgs",
+    "received_events_url": "https://api.github.com/users/codingjoe/received_events",
+    "repos_url": "https://api.github.com/users/codingjoe/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/codingjoe/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/codingjoe/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/codingjoe",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/django-taggit/commit/be6be1e6fcee12dd8b0bdee73f3871749c0ff3b4",
+   "node_id": "C_kwDOAAY-DdoAKGJlNmJlMWU2ZmNlZTEyZGQ4YjBiZGVlNzNmMzg3MTc0OWMwZmYzYjQ",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/django-taggit/commit/0530d358ad5cfbc1b065af5fc07081cc5ad3fe96",
+     "sha": "0530d358ad5cfbc1b065af5fc07081cc5ad3fe96",
+     "url": "https://api.github.com/repos/jazzband/django-taggit/commits/0530d358ad5cfbc1b065af5fc07081cc5ad3fe96"
+    }
+   ],
+   "sha": "be6be1e6fcee12dd8b0bdee73f3871749c0ff3b4",
+   "url": "https://api.github.com/repos/jazzband/django-taggit/commits/be6be1e6fcee12dd8b0bdee73f3871749c0ff3b4"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1408472?v=4",
+    "events_url": "https://api.github.com/users/rtpg/events{/privacy}",
+    "followers_url": "https://api.github.com/users/rtpg/followers",
+    "following_url": "https://api.github.com/users/rtpg/following{/other_user}",
+    "gists_url": "https://api.github.com/users/rtpg/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/rtpg",
+    "id": 1408472,
+    "login": "rtpg",
+    "node_id": "MDQ6VXNlcjE0MDg0NzI=",
+    "organizations_url": "https://api.github.com/users/rtpg/orgs",
+    "received_events_url": "https://api.github.com/users/rtpg/received_events",
+    "repos_url": "https://api.github.com/users/rtpg/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/rtpg/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/rtpg/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/rtpg",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/django-taggit/commits/0530d358ad5cfbc1b065af5fc07081cc5ad3fe96/comments",
+   "commit": {
+    "author": {
+     "date": "2026-11-02T11:20:53Z",
+     "email": "raphael@rtpg.co",
+     "name": "Raphael Gaschignard"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-11-02T11:21:28Z",
+     "email": "raphael@rtpg.co",
+     "name": "Raphael Gaschignard"
+    },
+    "message": "fix: use python 3.13 for releases\n\nYAML nonsense...",
+    "tree": {
+     "sha": "1ea2e4897e9bf4f67166e391539985f620041dfe",
+     "url": "https://api.github.com/repos/jazzband/django-taggit/git/trees/1ea2e4897e9bf4f67166e391539985f620041dfe"
+    },
+    "url": "https://api.github.com/repos/jazzband/django-taggit/git/commits/0530d358ad5cfbc1b065af5fc07081cc5ad3fe96",
+    "verification": {
+     "payload": null,
+     "reason": "unsigned",
+     "signature": null,
+     "verified": false,
+     "verified_at": null
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1408472?v=4",
+    "events_url": "https://api.github.com/users/rtpg/events{/privacy}",
+    "followers_url": "https://api.github.com/users/rtpg/followers",
+    "following_url": "https://api.github.com/users/rtpg/following{/other_user}",
+    "gists_url": "https://api.github.com/users/rtpg/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/rtpg",
+    "id": 1408472,
+    "login": "rtpg",
+    "node_id": "MDQ6VXNlcjE0MDg0NzI=",
+    "organizations_url": "https://api.github.com/users/rtpg/orgs",
+    "received_events_url": "https://api.github.com/users/rtpg/received_events",
+    "repos_url": "https://api.github.com/users/rtpg/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/rtpg/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/rtpg/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/rtpg",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/django-taggit/commit/0530d358ad5cfbc1b065af5fc07081cc5ad3fe96",
+   "node_id": "C_kwDOAAY-DdoAKDA1MzBkMzU4YWQ1Y2ZiYzFiMDY1YWY1ZmMwNzA4MWNjNWFkM2ZlOTY",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/django-taggit/commit/b746f06ced147e84c5fad9f5ee09ce4300b8c688",
+     "sha": "b746f06ced147e84c5fad9f5ee09ce4300b8c688",
+     "url": "https://api.github.com/repos/jazzband/django-taggit/commits/b746f06ced147e84c5fad9f5ee09ce4300b8c688"
+    }
+   ],
+   "sha": "0530d358ad5cfbc1b065af5fc07081cc5ad3fe96",
+   "url": "https://api.github.com/repos/jazzband/django-taggit/commits/0530d358ad5cfbc1b065af5fc07081cc5ad3fe96"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1408472?v=4",
+    "events_url": "https://api.github.com/users/rtpg/events{/privacy}",
+    "followers_url": "https://api.github.com/users/rtpg/followers",
+    "following_url": "https://api.github.com/users/rtpg/following{/other_user}",
+    "gists_url": "https://api.github.com/users/rtpg/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/rtpg",
+    "id": 1408472,
+    "login": "rtpg",
+    "node_id": "MDQ6VXNlcjE0MDg0NzI=",
+    "organizations_url": "https://api.github.com/users/rtpg/orgs",
+    "received_events_url": "https://api.github.com/users/rtpg/received_events",
+    "repos_url": "https://api.github.com/users/rtpg/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/rtpg/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/rtpg/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/rtpg",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/django-taggit/commits/b746f06ced147e84c5fad9f5ee09ce4300b8c688/comments",
+   "commit": {
+    "author": {
+     "date": "2026-11-02T11:16:50Z",
+     "email": "raphael@rtpg.co",
+     "name": "Raphael Gaschignard"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-11-02T11:16:50Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Merge pull request #958 from jazzband/prep-7.0.0\n\nprepare version 7.0.0",
+    "tree": {
+     "sha": "a9512860d9b2e90eca30bd9b55158c957d630738",
+     "url": "https://api.github.com/repos/jazzband/django-taggit/git/trees/a9512860d9b2e90eca30bd9b55158c957d630738"
+    },
+    "url": "https://api.github.com/repos/jazzband/django-taggit/git/commits/b746f06ced147e84c5fad9f5ee09ce4300b8c688",
+    "verification": {
+     "payload": "tree a9512860d9b2e90eca30bd9b55158c957d630738\nparent 3f5ee672a0ead7e28f8fd64b8c4b2bce71cf34a8\nparent 83027c2c05ce2cc38a69afd107180033fed99386\nauthor Raphael Gaschignard <raphael@rtpg.co> 1793618210 +1000\ncommitter GitHub <noreply@github.com> 1793618210 +1000\n\nMerge pull request #958 from jazzband/prep-7.0.0\n\nprepare version 7.0.0",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJq6HEiCRC1aQ7uu5UhlAAAHkIQAGD03PqP9jlGTMr9nhYBeYvo\n102Ho8OxB3BAWZb6r0uCVg5Q51By+ABMwU7aNHfpwr9fxWjOsqUVk2PLxepzF4vU\nw+INl0uAzOlKYKK1NrRDYBCRPOOREMryzVFJg6t39Q+XNlsso9C1Sz9mIEt0NATt\nQN+lJ3OuuWg4CFlC0rxzzMyKlbf0+f880zuRb8ae+4I3AKUh4ixz4qFxQMTOFtxa\n6ZLkgofCyUnas/uIqrBtnV/xd69NoYysERl9NANf+fEHgWUaFijxxS8SnoOavMAy\np4wAyibWrICPNc+CoIH56XKrM/ZVuQMMEQ+UrzFujC8MYrvgtrjlcNgWkFu0tJAx\n9xnDeClIxhvR+nXIC+UFUyp6/NBggsmDCqEwz0SHC84kLMqd9/3W0E9o0oVq6Gww\n8Xy2UEw8IVYY7qv/CbJ0h29GXH26BJdKxLoB552d1KYANLlmUhgrpUFndPCimhvG\n5NCcgxAc0lKSN/EsykFDAEqhO57slfUuepkqN18/y433J+EDtaRd59YWmMbJQMFv\nzIjNQgODdZMTGlocUAL6w/sdyyGI3GY8eTcrIG8WAORVipZHnFOwKtMOrP2zzCNM\nphAjszsDGZLwjBJHsBEUJOoYi9nsJ0XhEjeRfFQyMJqNPre+0rZ6rZw8/u6ciXFq\nOSHvUNcKGiGVIRcyNDhO\n=wDZq\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-11-02T11:16:50Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/django-taggit/commit/b746f06ced147e84c5fad9f5ee09ce4300b8c688",
+   "node_id": "C_kwDOAAY-DdoAKGI3NDZmMDZjZWQxNDdlODRjNWZhZDlmNWVlMDljZTQzMDBiOGM2ODg",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/django-taggit/commit/3f5ee672a0ead7e28f8fd64b8c4b2bce71cf34a8",
+     "sha": "3f5ee672a0ead7e28f8fd64b8c4b2bce71cf34a8",
+     "url": "https://api.github.com/repos/jazzband/django-taggit/commits/3f5ee672a0ead7e28f8fd64b8c4b2bce71cf34a8"
+    },
+    {
+     "html_url": "https://github.com/jazzband/django-taggit/commit/83027c2c05ce2cc38a69afd107180033fed99386",
+     "sha": "83027c2c05ce2cc38a69afd107180033fed99386",
+     "url": "https://api.github.com/repos/jazzband/django-taggit/commits/83027c2c05ce2cc38a69afd107180033fed99386"
+    }
+   ],
+   "sha": "b746f06ced147e84c5fad9f5ee09ce4300b8c688",
+   "url": "https://api.github.com/repos/jazzband/django-taggit/commits/b746f06ced147e84c5fad9f5ee09ce4300b8c688"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1408472?v=4",
+    "events_url": "https://api.github.com/users/rtpg/events{/privacy}",
+    "followers_url": "https://api.github.com/users/rtpg/followers",
+    "following_url": "https://api.github.com/users/rtpg/following{/other_user}",
+    "gists_url": "https://api.github.com/users/rtpg/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/rtpg",
+    "id": 1408472,
+    "login": "rtpg",
+    "node_id": "MDQ6VXNlcjE0MDg0NzI=",
+    "organizations_url": "https://api.github.com/users/rtpg/orgs",
+    "received_events_url": "https://api.github.com/users/rtpg/received_events",
+    "repos_url": "https://api.github.com/users/rtpg/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/rtpg/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/rtpg/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/rtpg",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/django-taggit/commits/83027c2c05ce2cc38a69afd107180033fed99386/comments",
+   "commit": {
+    "author": {
+     "date": "2026-11-02T11:04:44Z",
+     "email": "raphael@rtpg.co",
+     "name": "Raphael Gaschignard"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-11-02T11:08:08Z",
+     "email": "raphael@rtpg.co",
+     "name": "Raphael Gaschignard"
+    },
+    "message": "prepare version 7.0.0",
+    "tree": {
+     "sha": "a9512860d9b2e90eca30bd9b55158c957d630738",
+     "url": "https://api.github.com/repos/jazzband/django-taggit/git/trees/a9512860d9b2e90eca30bd9b55158c957d630738"
+    },
+    "url": "https://api.github.com/repos/jazzband/django-taggit/git/commits/83027c2c05ce2cc38a69afd107180033fed99386",
+    "verification": {
+     "payload": null,
+     "reason": "unsigned",
+     "signature": null,
+     "verified": false,
+     "verified_at": null
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1408472?v=4",
+    "events_url": "https://api.github.com/users/rtpg/events{/privacy}",
+    "followers_url": "https://api.github.com/users/rtpg/followers",
+    "following_url": "https://api.github.com/users/rtpg/following{/other_user}",
+    "gists_url": "https://api.github.com/users/rtpg/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/rtpg",
+    "id": 1408472,
+    "login": "rtpg",
+    "node_id": "MDQ6VXNlcjE0MDg0NzI=",
+    "organizations_url": "https://api.github.com/users/rtpg/orgs",
+    "received_events_url": "https://api.github.com/users/rtpg/received_events",
+    "repos_url": "https://api.github.com/users/rtpg/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/rtpg/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/rtpg/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/rtpg",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/django-taggit/commit/83027c2c05ce2cc38a69afd107180033fed99386",
+   "node_id": "C_kwDOAAY-DdoAKDgzMDI3YzJjMDVjZTJjYzM4YTY5YWZkMTA3MTgwMDMzZmVkOTkzODY",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/django-taggit/commit/3f5ee672a0ead7e28f8fd64b8c4b2bce71cf34a8",
+     "sha": "3f5ee672a0ead7e28f8fd64b8c4b2bce71cf34a8",
+     "url": "https://api.github.com/repos/jazzband/django-taggit/commits/3f5ee672a0ead7e28f8fd64b8c4b2bce71cf34a8"
+    }
+   ],
+   "sha": "83027c2c05ce2cc38a69afd107180033fed99386",
+   "url": "https://api.github.com/repos/jazzband/django-taggit/commits/83027c2c05ce2cc38a69afd107180033fed99386"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1408472?v=4",
+    "events_url": "https://api.github.com/users/rtpg/events{/privacy}",
+    "followers_url": "https://api.github.com/users/rtpg/followers",
+    "following_url": "https://api.github.com/users/rtpg/following{/other_user}",
+    "gists_url": "https://api.github.com/users/rtpg/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/rtpg",
+    "id": 1408472,
+    "login": "rtpg",
+    "node_id": "MDQ6VXNlcjE0MDg0NzI=",
+    "organizations_url": "https://api.github.com/users/rtpg/orgs",
+    "received_events_url": "https://api.github.com/users/rtpg/received_events",
+    "repos_url": "https://api.github.com/users/rtpg/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/rtpg/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/rtpg/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/rtpg",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/django-taggit/commits/3f5ee672a0ead7e28f8fd64b8c4b2bce71cf34a8/comments",
+   "commit": {
+    "author": {
+     "date": "2026-11-02T10:59:41Z",
+     "email": "raphael@rtpg.co",
+     "name": "Raphael Gaschignard"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-11-02T10:59:41Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Merge pull request #957 from toothywalrus/django-6.1\n\nAdd Django 6.1 support",
+    "tree": {
+     "sha": "2147ff3f2196a3152fe7940319ea23b980cbfdf8",
+     "url": "https://api.github.com/repos/jazzband/django-taggit/git/trees/2147ff3f2196a3152fe7940319ea23b980cbfdf8"
+    },
+    "url": "https://api.github.com/repos/jazzband/django-taggit/git/commits/3f5ee672a0ead7e28f8fd64b8c4b2bce71cf34a8",
+    "verification": {
+     "payload": "tree 2147ff3f2196a3152fe7940319ea23b980cbfdf8\nparent e7a53796c9ea5bf83dd29e6d13c8de3c7161b2f2\nparent 5ac4b21745c56947ea54908befa3906e5696876b\nauthor Raphael Gaschignard <raphael@rtpg.co> 1793617181 +1000\ncommitter GitHub <noreply@github.com> 1793617181 +1000\n\nMerge pull request #957 from toothywalrus/django-6.1\n\nAdd Django 6.1 support",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJq6G0dCRC1aQ7uu5UhlAAAz4MQAAqJau5gMkuiTUEDIGvrKqvI\nYJVP0xlkj/nj5Qy+DpBxQ9QhsikzpfZ66qALZfhUxAstyTWMb0gyq8uPHw+5eeFQ\n9BVaZ7qsgnfc40aLwotdCYfZNexonTT0TZPaE5Nfo3/Y7FUOJPsI0kMce8fUfa9k\nhmUk7GjWzvc9PzxyU8eZIZ9WyFi7rR/SDzPUvI3ypnlnMFce9SHNs2zwrYBIPFu8\nJ3RUFj/7qRvPagkL+zh0E/59rK5Lozb62O1/mlCq7bo62TKN7GQ2vjXKCTRiDXB8\nDi7m7TqQ0+sWxg9sp80Yx+4ITy/SHF0awR45eevkDxwXPiTNF0sBOJSGgKhaa6pV\nNK5ajWAFZfcXu6AbRr1Fg6foZ/BcngVv1ULi7BSegayiRzBqPf2h3Z6lJphThx8i\ntYM4pzBn0kYXhutIl/5KiSp5YJgM0UZNGPKr7gABi276HVBFkiXH9cOjtPHYJUA8\nvVK2omjc5vUtm/rde/lIM4CaXtT5N2qVtNbEqgPOtT1ZZXEiCQuHQLcCLV+OaYuS\n8d80mUMnyMytiooP5TB6KXd8mlCt8EuZLb8C62vdWthO1+lzvimXEMeTVbD2eOXq\nRfOdFOXiKGasgfqajIKLSiI71lPH8+zm5h53hF3T8sciakYqOptMHP/PbgbUbmEy\nOVFyv0Rq9pkBXlGnZHev\n=f6/m\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-11-02T10:59:41Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/django-taggit/commit/3f5ee672a0ead7e28f8fd64b8c4b2bce71cf34a8",
+   "node_id": "C_kwDOAAY-DdoAKDNmNWVlNjcyYTBlYWQ3ZTI4ZjhmZDY0YjhjNGIyYmNlNzFjZjM0YTg",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/django-taggit/commit/e7a53796c9ea5bf83dd29e6d13c8de3c7161b2f2",
+     "sha": "e7a53796c9ea5bf83dd29e6d13c8de3c7161b2f2",
+     "url": "https://api.github.com/repos/jazzband/django-taggit/commits/e7a53796c9ea5bf83dd29e6d13c8de3c7161b2f2"
+    },
+    {
+     "html_url": "https://github.com/jazzband/django-taggit/commit/5ac4b21745c56947ea54908befa3906e5696876b",
+     "sha": "5ac4b21745c56947ea54908befa3906e5696876b",
+     "url": "https://api.github.com/repos/jazzband/django-taggit/commits/5ac4b21745c56947ea54908befa3906e5696876b"
+    }
+   ],
+   "sha": "3f5ee672a0ead7e28f8fd64b8c4b2bce71cf34a8",
+   "url": "https://api.github.com/repos/jazzband/django-taggit/commits/3f5ee672a0ead7e28f8fd64b8c4b2bce71cf34a8"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/5265045?v=4",
+    "events_url": "https://api.github.com/users/toothywalrus/events{/privacy}",
+    "followers_url": "https://api.github.com/users/toothywalrus/followers",
+    "following_url": "https://api.github.com/users/toothywalrus/following{/other_user}",
+    "gists_url": "https://api.github.com/users/toothywalrus/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/toothywalrus",
+    "id": 5265045,
+    "login": "toothywalrus",
+    "node_id": "MDQ6VXNlcjUyNjUwNDU=",
+    "organizations_url": "https://api.github.com/users/toothywalrus/orgs",
+    "received_events_url": "https://api.github.com/users/toothywalrus/received_events",
+    "repos_url": "https://api.github.com/users/toothywalrus/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/toothywalrus/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/toothywalrus/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/toothywalrus",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/django-taggit/commits/5ac4b21745c56947ea54908befa3906e5696876b/comments",
+   "commit": {
+    "author": {
+     "date": "2026-10-26T01:16:57Z",
+     "email": "5265045+toothywalrus@users.noreply.github.com",
+     "name": "Pavlo Sukhanov"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-10-26T04:52:21Z",
+     "email": "5265045+toothywalrus@users.noreply.github.com",
+     "name": "Pavlo Sukhanov"
+    },
+    "message": "Use functools.cached_property\n\nDjango 6.2 deprecates django.utils.functional.cached_property.",
+    "tree": {
+     "sha": "2147ff3f2196a3152fe7940319ea23b980cbfdf8",
+     "url": "https://api.github.com/repos/jazzband/django-taggit/git/trees/2147ff3f2196a3152fe7940319ea23b980cbfdf8"
+    },
+    "url": "https://api.github.com/repos/jazzband/django-taggit/git/commits/5ac4b21745c56947ea54908befa3906e5696876b",
+    "verification": {
+     "payload": null,
+     "reason": "unsigned",
+     "signature": null,
+     "verified": false,
+     "verified_at": null
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/5265045?v=4",
+    "events_url": "https://api.github.com/users/toothywalrus/events{/privacy}",
+    "followers_url": "https://api.github.com/users/toothywalrus/followers",
+    "following_url": "https://api.github.com/users/toothywalrus/following{/other_user}",
+    "gists_url": "https://api.github.com/users/toothywalrus/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/toothywalrus",
+    "id": 5265045,
+    "login": "toothywalrus",
+    "node_id": "MDQ6VXNlcjUyNjUwNDU=",
+    "organizations_url": "https://api.github.com/users/toothywalrus/orgs",
+    "received_events_url": "https://api.github.com/users/toothywalrus/received_events",
+    "repos_url": "https://api.github.com/users/toothywalrus/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/toothywalrus/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/toothywalrus/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/toothywalrus",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/django-taggit/commit/5ac4b21745c56947ea54908befa3906e5696876b",
+   "node_id": "C_kwDOAAY-DdoAKDVhYzRiMjE3NDVjNTY5NDdlYTU0OTA4YmVmYTM5MDZlNTY5Njg3NmI",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/django-taggit/commit/b88e028698c5da939368f331579d389b35b08015",
+     "sha": "b88e028698c5da939368f331579d389b35b08015",
+     "url": "https://api.github.com/repos/jazzband/django-taggit/commits/b88e028698c5da939368f331579d389b35b08015"
+    }
+   ],
+   "sha": "5ac4b21745c56947ea54908befa3906e5696876b",
+   "url": "https://api.github.com/repos/jazzband/django-taggit/commits/5ac4b21745c56947ea54908befa3906e5696876b"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/5265045?v=4",
+    "events_url": "https://api.github.com/users/toothywalrus/events{/privacy}",
+    "followers_url": "https://api.github.com/users/toothywalrus/followers",
+    "following_url": "https://api.github.com/users/toothywalrus/following{/other_user}",
+    "gists_url": "https://api.github.com/users/toothywalrus/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/toothywalrus",
+    "id": 5265045,
+    "login": "toothywalrus",
+    "node_id": "MDQ6VXNlcjUyNjUwNDU=",
+    "organizations_url": "https://api.github.com/users/toothywalrus/orgs",
+    "received_events_url": "https://api.github.com/users/toothywalrus/received_events",
+    "repos_url": "https://api.github.com/users/toothywalrus/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/toothywalrus/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/toothywalrus/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/toothywalrus",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/django-taggit/commits/b88e028698c5da939368f331579d389b35b08015/comments",
+   "commit": {
+    "author": {
+     "date": "2026-10-26T01:16:57Z",
+     "email": "5265045+toothywalrus@users.noreply.github.com",
+     "name": "Pavlo Sukhanov"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-10-26T04:52:21Z",
+     "email": "5265045+toothywalrus@users.noreply.github.com",
+     "name": "Pavlo Sukhanov"
+    },
+    "message": "Add Django 6.1 support\n\nDjango 6.1 deprecates SQLCompiler.quote_name_unless_alias() in favour of\nquote_name(), which ExtraJoinRestriction used for the content type\nrestriction; use quote_name() where it exists. Add Django 6.1 to tox and\nthe classifiers.",
+    "tree": {
+     "sha": "125b2b0592d0decb36c6aaade561bf8b8a224d4d",
+     "url": "https://api.github.com/repos/jazzband/django-taggit/git/trees/125b2b0592d0decb36c6aaade561bf8b8a224d4d"
+    },
+    "url": "https://api.github.com/repos/jazzband/django-taggit/git/commits/b88e028698c5da939368f331579d389b35b08015",
+    "verification": {
+     "payload": null,
+     "reason": "unsigned",
+     "signature": null,
+     "verified": false,
+     "verified_at": null
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/5265045?v=4",
+    "events_url": "https://api.github.com/users/toothywalrus/events{/privacy}",
+    "followers_url": "https://api.github.com/users/toothywalrus/followers",
+    "following_url": "https://api.github.com/users/toothywalrus/following{/other_user}",
+    "gists_url": "https://api.github.com/users/toothywalrus/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/toothywalrus",
+    "id": 5265045,
+    "login": "toothywalrus",
+    "node_id": "MDQ6VXNlcjUyNjUwNDU=",
+    "organizations_url": "https://api.github.com/users/toothywalrus/orgs",
+    "received_events_url": "https://api.github.com/users/toothywalrus/received_events",
+    "repos_url": "https://api.github.com/users/toothywalrus/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/toothywalrus/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/toothywalrus/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/toothywalrus",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/django-taggit/commit/b88e028698c5da939368f331579d389b35b08015",
+   "node_id": "C_kwDOAAY-DdoAKGI4OGUwMjg2OThjNWRhOTM5MzY4ZjMzMTU3OWQzODliMzViMDgwMTU",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/django-taggit/commit/e7a53796c9ea5bf83dd29e6d13c8de3c7161b2f2",
+     "sha": "e7a53796c9ea5bf83dd29e6d13c8de3c7161b2f2",
+     "url": "https://api.github.com/repos/jazzband/django-taggit/commits/e7a53796c9ea5bf83dd29e6d13c8de3c7161b2f2"
+    }
+   ],
+   "sha": "b88e028698c5da939368f331579d389b35b08015",
+   "url": "https://api.github.com/repos/jazzband/django-taggit/commits/b88e028698c5da939368f331579d389b35b08015"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1461191?v=4",
+    "events_url": "https://api.github.com/users/marksweb/events{/privacy}",
+    "followers_url": "https://api.github.com/users/marksweb/followers",
+    "following_url": "https://api.github.com/users/marksweb/following{/other_user}",
+    "gists_url": "https://api.github.com/users/marksweb/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/marksweb",
+    "id": 1461191,
+    "login": "marksweb",
+    "node_id": "MDQ6VXNlcjE0NjExOTE=",
+    "organizations_url": "https://api.github.com/users/marksweb/orgs",
+    "received_events_url": "https://api.github.com/users/marksweb/received_events",
+    "repos_url": "https://api.github.com/users/marksweb/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/marksweb/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/marksweb/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/marksweb",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/django-taggit/commits/e7a53796c9ea5bf83dd29e6d13c8de3c7161b2f2/comments",
+   "commit": {
+    "author": {
+     "date": "2026-05-23T23:38:09Z",
+     "email": "mark@django-cms.org",
+     "name": "Mark Walker"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-05-23T23:38:09Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "chore: Update support for python and django",
+    "tree": {
+     "sha": "e11a0e3c656c1452095fffd3cd97e7d2069ea653",
+     "url": "https://api.github.com/repos/jazzband/django-taggit/git/trees/e11a0e3c656c1452095fffd3cd97e7d2069ea653"
+    },
+    "url": "https://api.github.com/repos/jazzband/django-taggit/git/commits/e7a53796c9ea5bf83dd29e6d13c8de3c7161b2f2",
+    "verification": {
+     "payload": "tree e11a0e3c656c1452095fffd3cd97e7d2069ea653\nparent b04975fcfe1b05d9378a0f86a3863123789e53a7\nparent 5e7c22cd4c8f719512f106f67b4096173632cc91\nauthor Mark Walker <mark@django-cms.org> 1779579489 +0100\ncommitter GitHub <noreply@github.com> 1779579489 +0100\n\nchore: Update support for python and django",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqEjphCRC1aQ7uu5UhlAAAhvsQAK2G9LM5yG+n8NywBi0FAsqn\nhc5HVYGGQPKFGxlrsurs7S48qwExe75bqf1UFj+95LYC24qcBhzVW9wACSQ2sMcZ\nac1NR4+RUvTtWhB7Fr5g1mKK06NY0D7Sn3p2B/0nmwP599MYx8Qe/cimeaaYTr3x\nIleV9JH/41OSxdYuXpoV9MjyQqkV4+jawLsxSYPPF/KMkvYonZtfggJu4Aqet5lp\nWJHfa3y8KKJhdx3ca5lpzvPZ8ASE6f3gQW5MeGgwKATWmtDrYr8SMMA4kFZ/4oup\nmoK0MZptiwba9BtVEgnQ+A+2Rmzr6gCvUv4WVaedvpUEKjlsasbFN4feTilRowA6\nQcZ0pxnUWWoGqGOxjWjjJfKoy8edtUPz+WqQNrjLh+n4T1EUluNJrpruQjE/kh0I\noyKDWaof+VM7yMr9sbXcEhYXeWNXZCsxU4jm4YiDQzGLjvnE41yBIwS549xr6XLT\nozli88eHj57fe3LrxOpRZ59Wjaj/we9QYFnc6kjwh8DrzjjIzl1YJBNTtalpuhI9\nngoSobUYZUPVXcrsh0HkgS2CxRfsBmFIYyqrB2yxSVHQPp4/n97inW9nSbKTwagN\nZ0fMV9+OhepU8S2hGz0HG8tK6LICIS8hqoQVXcYy9yCOapkpjW6o2z6Yle+OO2ms\n/mnEko3b3vYDk9l6rpLB\n=jHYA\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-05-23T23:38:10Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/django-taggit/commit/e7a53796c9ea5bf83dd29e6d13c8de3c7161b2f2",
+   "node_id": "C_kwDOAAY-DdoAKGU3YTUzNzk2YzllYTViZjgzZGQyOWU2ZDEzYzhkZTNjNzE2MWIyZjI",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/django-taggit/commit/b04975fcfe1b05d9378a0f86a3863123789e53a7",
+     "sha": "b04975fcfe1b05d9378a0f86a3863123789e53a7",
+     "url": "https://api.github.com/repos/jazzband/django-taggit/commits/b04975fcfe1b05d9378a0f86a3863123789e53a7"
+    },
+    {
+     "html_url": "https://github.com/jazzband/django-taggit/commit/5e7c22cd4c8f719512f106f67b4096173632cc91",
+     "sha": "5e7c22cd4c8f719512f106f67b4096173632cc91",
+     "url": "https://api.github.com/repos/jazzband/django-taggit/commits/5e7c22cd4c8f719512f106f67b4096173632cc91"
+    }
+   ],
+   "sha": "e7a53796c9ea5bf83dd29e6d13c8de3c7161b2f2",
+   "url": "https://api.github.com/repos/jazzband/django-taggit/commits/e7a53796c9ea5bf83dd29e6d13c8de3c7161b2f2"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/638274?v=4",
+    "events_url": "https://api.github.com/users/socketz/events{/privacy}",
+    "followers_url": "https://api.github.com/users/socketz/followers",
+    "following_url": "https://api.github.com/users/socketz/following{/other_user}",
+    "gists_url": "https://api.github.com/users/socketz/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/socketz",
+    "id": 638274,
+    "login": "socketz",
+    "node_id": "MDQ6VXNlcjYzODI3NA==",
+    "organizations_url": "https://api.github.com/users/socketz/orgs",
+    "received_events_url": "https://api.github.com/users/socketz/received_events",
+    "repos_url": "https://api.github.com/users/socketz/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/socketz/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/socketz/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/socketz",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/django-taggit/commits/5e7c22cd4c8f719512f106f67b4096173632cc91/comments",
+   "commit": {
+    "author": {
+     "date": "2026-05-19T08:40:14Z",
+     "email": "socketz@users.noreply.github.com",
+     "name": "socketz"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-05-19T08:40:14Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Merge branch 'master' into python3.14",
+    "tree": {
+     "sha": "e11a0e3c656c1452095fffd3cd97e7d2069ea653",
+     "url": "https://api.github.com/repos/jazzband/django-taggit/git/trees/e11a0e3c656c1452095fffd3cd97e7d2069ea653"
+    },
+    "url": "https://api.github.com/repos/jazzband/django-taggit/git/commits/5e7c22cd4c8f719512f106f67b4096173632cc91",
+    "verification": {
+     "payload": "tree e11a0e3c656c1452095fffd3cd97e7d2069ea653\nparent d8f0084a5e85b7abc2acac4197929368ca957de0\nparent b04975fcfe1b05d9378a0f86a3863123789e53a7\nauthor socketz <socketz@users.noreply.github.com> 1779180014 +0200\ncommitter GitHub <noreply@github.com> 1779180014 +0200\n\nMerge branch 'master' into python3.14",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqDCHuCRC1aQ7uu5UhlAAA2KkQAGX7J6/CQTSdFHT+mK8fwrHQ\n/Lm5BOr3KtkJoIfHNqdQtZ5ururKAfcUrGRM+kNkLSHcffNHV58hDcRi5zsCA77f\nftsMZUBZNF6SWBldqqdLUUo1DLc3/IJjfFdUS3s8CMq+0xgEFo3GwQ8N6oLYzmF9\nXgWyW0rduKnY7HoU0aOBDF278FMWKeVIc++sl+wgLINlqOpw2UjZ7a/yIpEMCH1H\nbwKGklcYksHboNcMJsm7JfLaUCyIKSgnYzs4Oy67Vrjyw3TLP+dPI0Nbty676gE+\n7gh293MVF1ZpASqx8cK017ReeakJyLJFkn9UAGifGEk8rWWevWlO7hNvh+EXMLi4\njzP/zoQtQLQ7AbyoktDBkM/MY2stvoV0U8I1DVhTmxQFORujn+/ROos7npKgRdci\noheR65CBZEu4qRTf4PkWKGyIr7iQcaIu/uKuWADasB42+vISJRJmewhbba0FxW+d\nISJtutViGx56wxautrm//UhUukCO2P7XrIHkr4r6mYN+OCsWGD02YdA7iOOm6/dp\nWV7bYyg3s8jFhZ9C3jHRDKTNseDvxoNR16YHQjico1V/J0QaMrp/M94ZkfeAWYbb\naJUAmJcLfZ9zoPCgDBYorB78+PXssNqE+cKBocV5vzkY/Fy+NykQq7y7mhomX82X\njkojIF/RLztWkmDVS5j3\n=6aVJ\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-05-19T08:40:15Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/django-taggit/commit/5e7c22cd4c8f719512f106f67b4096173632cc91",
+   "node_id": "C_kwDOAAY-DdoAKDVlN2MyMmNkNGM4ZjcxOTUxMmYxMDZmNjdiNDA5NjE3MzYzMmNjOTE",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/django-taggit/commit/d8f0084a5e85b7abc2acac4197929368ca957de0",
+     "sha": "d8f0084a5e85b7abc2acac4197929368ca957de0",
+     "url": "https://api.github.com/repos/jazzband/django-taggit/commits/d8f0084a5e85b7abc2acac4197929368ca957de0"
+    },
+    {
+     "html_url": "https://github.com/jazzband/django-taggit/commit/b04975fcfe1b05d9378a0f86a3863123789e53a7",
+     "sha": "b04975fcfe1b05d9378a0f86a3863123789e53a7",
+     "url": "https://api.github.com/repos/jazzband/django-taggit/commits/b04975fcfe1b05d9378a0f86a3863123789e53a7"
+    }
+   ],
+   "sha": "5e7c22cd4c8f719512f106f67b4096173632cc91",
+   "url": "https://api.github.com/repos/jazzband/django-taggit/commits/5e7c22cd4c8f719512f106f67b4096173632cc91"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/638274?v=4",
+    "events_url": "https://api.github.com/users/socketz/events{/privacy}",
+    "followers_url": "https://api.github.com/users/socketz/followers",
+    "following_url": "https://api.github.com/users/socketz/following{/other_user}",
+    "gists_url": "https://api.github.com/users/socketz/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/socketz",
+    "id": 638274,
+    "login": "socketz",
+    "node_id": "MDQ6VXNlcjYzODI3NA==",
+    "organizations_url": "https://api.github.com/users/socketz/orgs",
+    "received_events_url": "https://api.github.com/users/socketz/received_events",
+    "repos_url": "https://api.github.com/users/socketz/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/socketz/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/socketz/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/socketz",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/django-taggit/commits/d8f0084a5e85b7abc2acac4197929368ca957de0/comments",
+   "commit": {
+    "author": {
+     "date": "2026-05-19T08:38:27Z",
+     "email": "socketz@users.noreply.github.com",
+     "name": "socketz"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-05-19T08:38:27Z",
+     "email": "socketz@users.noreply.github.com",
+     "name": "socketz"
+    },
+    "message": "feat: add migrations to alter model options for TaggedItem and TaggedTrackedPet",
+    "tree": {
+     "sha": "e11a0e3c656c1452095fffd3cd97e7d2069ea653",
+     "url": "https://api.github.com/repos/jazzband/django-taggit/git/trees/e11a0e3c656c1452095fffd3cd97e7d2069ea653"
+    },
+    "url": "https://api.github.com/repos/jazzband/django-taggit/git/commits/d8f0084a5e85b7abc2acac4197929368ca957de0",
+    "verification": {
+     "payload": "tree e11a0e3c656c1452095fffd3cd97e7d2069ea653\nparent f5655b3e422dac4f0aec333064623124c1617187\nauthor socketz <socketz@users.noreply.github.com> 1779179907 +0200\ncommitter socketz <socketz@users.noreply.github.com> 1779179907 +0200\n\nfeat: add migrations to alter model options for TaggedItem and TaggedTrackedPet\n",
+     "reason": "valid",
+     "signature": "-----BEGIN SSH SIGNATURE-----\nU1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgwhTBbpkNPUYw1r9CIfEWpwdUyX\n0YFhm98toBtzPXyeEAAAADZ2l0AAAAAAAAAAZzaGE1MTIAAABTAAAAC3NzaC1lZDI1NTE5\nAAAAQKPJaIM61ZHh8uAjl+EQl5cbwnBzkCpy6TpsLPP9Y2hT0zHPrZFeUBFg7mCRn8k2PY\nuMhHqognW/HydLh+m+AgA=\n-----END SSH SIGNATURE-----",
+     "verified": true,
+     "verified_at": "2026-05-19T08:38:37Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/638274?v=4",
+    "events_url": "https://api.github.com/users/socketz/events{/privacy}",
+    "followers_url": "https://api.github.com/users/socketz/followers",
+    "following_url": "https://api.github.com/users/socketz/following{/other_user}",
+    "gists_url": "https://api.github.com/users/socketz/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/socketz",
+    "id": 638274,
+    "login": "socketz",
+    "node_id": "MDQ6VXNlcjYzODI3NA==",
+    "organizations_url": "https://api.github.com/users/socketz/orgs",
+    "received_events_url": "https://api.github.com/users/socketz/received_events",
+    "repos_url": "https://api.github.com/users/socketz/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/socketz/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/socketz/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/socketz",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/django-taggit/commit/d8f0084a5e85b7abc2acac4197929368ca957de0",
+   "node_id": "C_kwDOAAY-DdoAKGQ4ZjAwODRhNWU4NWI3YWJjMmFjYWM0MTk3OTI5MzY4Y2E5NTdkZTA",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/django-taggit/commit/f5655b3e422dac4f0aec333064623124c1617187",
+     "sha": "f5655b3e422dac4f0aec333064623124c1617187",
+     "url": "https://api.github.com/repos/jazzband/django-taggit/commits/f5655b3e422dac4f0aec333064623124c1617187"
+    }
+   ],
+   "sha": "d8f0084a5e85b7abc2acac4197929368ca957de0",
+   "url": "https://api.github.com/repos/jazzband/django-taggit/commits/d8f0084a5e85b7abc2acac4197929368ca957de0"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1461191?v=4",
+    "events_url": "https://api.github.com/users/marksweb/events{/privacy}",
+    "followers_url": "https://api.github.com/users/marksweb/followers",
+    "following_url": "https://api.github.com/users/marksweb/following{/other_user}",
+    "gists_url": "https://api.github.com/users/marksweb/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/marksweb",
+    "id": 1461191,
+    "login": "marksweb",
+    "node_id": "MDQ6VXNlcjE0NjExOTE=",
+    "organizations_url": "https://api.github.com/users/marksweb/orgs",
+    "received_events_url": "https://api.github.com/users/marksweb/received_events",
+    "repos_url": "https://api.github.com/users/marksweb/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/marksweb/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/marksweb/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/marksweb",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/django-taggit/commits/b04975fcfe1b05d9378a0f86a3863123789e53a7/comments",
+   "commit": {
+    "author": {
+     "date": "2026-05-18T08:20:44Z",
+     "email": "mark@django-cms.org",
+     "name": "Mark Walker"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-05-18T08:20:44Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "fix: migrations added #941\n\nfix: Added missing migration from #938",
+    "tree": {
+     "sha": "5530a2f96aabcf7395e3496ed90b47cd41f70940",
+     "url": "https://api.github.com/repos/jazzband/django-taggit/git/trees/5530a2f96aabcf7395e3496ed90b47cd41f70940"
+    },
+    "url": "https://api.github.com/repos/jazzband/django-taggit/git/commits/b04975fcfe1b05d9378a0f86a3863123789e53a7",
+    "verification": {
+     "payload": "tree 5530a2f96aabcf7395e3496ed90b47cd41f70940\nparent 5c8d5cdb0794be5e2bdf7709e2a8c1006230ced5\nparent 3a4138d1698043bc4032df18845886585ddb620e\nauthor Mark Walker <mark@django-cms.org> 1779092444 +0100\ncommitter GitHub <noreply@github.com> 1779092444 +0100\n\nfix: migrations added #941\n\nfix: Added missing migration from #938",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqCsvcCRC1aQ7uu5UhlAAAorcQAB6LYSpvTrjQnaC1hsM7Q8Vr\no1dzz9t4VMm3kDuGKpzYuNt0QTVIRzMeEQwrMML0ftsZUQeLW5iERlL6eak5ekIr\nU5D8ZuiUZOQu2B6bEO9FIFrTZ3sbqA9PbBzcyqRWWmSZXbP/H7OKJROmXH1V7WsK\n3P7ClbxAR0ue2HSJ6wj4ZtwTSuTyAcGzqw+g03NfS0HF2pozMgNs6l3MK4CEehJQ\nieRQxjGJ3mv9/zh59Rdm1tbWRHHmlbOyatEhgdwmBmtIpDFcCe/FBIpGbDRJG7Wv\nFIP3nW1ivA+rCy6dc7x4NhvS8MB8O/zzGHy+Ek3vZk/JTTZi4kY5bxZXzu2L0S/v\nqy7fab5Ml5JbAnux16N8VyGlX7YAxolaFj58yNr+ZWvpgpaFya4uM6kWAlhJMqWl\nJVFpM8fWfdSIO77PKXOcsQU24MqTWUarbdKAn84/7cCYgdAVUMVBicY2mx7kFCCJ\n4NnuvpynnAq/eFpwMCa1E5RZgYGCg8wQ0HCvcNTwdlcPDnpSaiJ0UEji4VWYZPYr\nwHQdAkjkZUdj7C4rdKjapFFO7ar40PE1OhvnecQbAzwHAAbW1u8QMI9btP27Nf/4\nolhaw8BFFJrqHk0//pMPBiou+DP9xXaaRkdNO4J9gr6tOuYnBXv2E89sGyLngXnY\nP2FhKWQWoajytqF5Haqj\n=XLlO\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-05-18T08:20:45Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/django-taggit/commit/b04975fcfe1b05d9378a0f86a3863123789e53a7",
+   "node_id": "C_kwDOAAY-DdoAKGIwNDk3NWZjZmUxYjA1ZDkzNzhhMGY4NmEzODYzMTIzNzg5ZTUzYTc",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/django-taggit/commit/5c8d5cdb0794be5e2bdf7709e2a8c1006230ced5",
+     "sha": "5c8d5cdb0794be5e2bdf7709e2a8c1006230ced5",
+     "url": "https://api.github.com/repos/jazzband/django-taggit/commits/5c8d5cdb0794be5e2bdf7709e2a8c1006230ced5"
+    },
+    {
+     "html_url": "https://github.com/jazzband/django-taggit/commit/3a4138d1698043bc4032df18845886585ddb620e",
+     "sha": "3a4138d1698043bc4032df18845886585ddb620e",
+     "url": "https://api.github.com/repos/jazzband/django-taggit/commits/3a4138d1698043bc4032df18845886585ddb620e"
+    }
+   ],
+   "sha": "b04975fcfe1b05d9378a0f86a3863123789e53a7",
+   "url": "https://api.github.com/repos/jazzband/django-taggit/commits/b04975fcfe1b05d9378a0f86a3863123789e53a7"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1461191?v=4",
+    "events_url": "https://api.github.com/users/marksweb/events{/privacy}",
+    "followers_url": "https://api.github.com/users/marksweb/followers",
+    "following_url": "https://api.github.com/users/marksweb/following{/other_user}",
+    "gists_url": "https://api.github.com/users/marksweb/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/marksweb",
+    "id": 1461191,
+    "login": "marksweb",
+    "node_id": "MDQ6VXNlcjE0NjExOTE=",
+    "organizations_url": "https://api.github.com/users/marksweb/orgs",
+    "received_events_url": "https://api.github.com/users/marksweb/received_events",
+    "repos_url": "https://api.github.com/users/marksweb/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/marksweb/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/marksweb/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/marksweb",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/django-taggit/commits/3a4138d1698043bc4032df18845886585ddb620e/comments",
+   "commit": {
+    "author": {
+     "date": "2026-05-18T08:18:19Z",
+     "email": "mwalker@ismgames.com",
+     "name": "Mark Walker"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-05-18T08:18:19Z",
+     "email": "mwalker@ismgames.com",
+     "name": "Mark Walker"
+    },
+    "message": "fix: Added missing migration from #938",
+    "tree": {
+     "sha": "5530a2f96aabcf7395e3496ed90b47cd41f70940",
+     "url": "https://api.github.com/repos/jazzband/django-taggit/git/trees/5530a2f96aabcf7395e3496ed90b47cd41f70940"
+    },
+    "url": "https://api.github.com/repos/jazzband/django-taggit/git/commits/3a4138d1698043bc4032df18845886585ddb620e",
+    "verification": {
+     "payload": "tree 5530a2f96aabcf7395e3496ed90b47cd41f70940\nparent c688fbce5a2be000a7c258bb63332ac6bbbd076b\nauthor Mark Walker <mwalker@ismgames.com> 1779092299 +0100\ncommitter Mark Walker <mwalker@ismgames.com> 1779092299 +0100\n\nfix: Added missing migration from #938\n",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\niQJPBAABCAA5FiEEAnUmp7cqU7t+QkuF+nNojdAkXSQFAmoKy0sbFIAAAAAABAAO\nbWFudTIsMi41KzEuMTIsMCwzAAoJEPpzaI3QJF0kr1oP/3kjbCBj9kxC3xbaXZoR\n56dCtw/yNwWTwzsbE/O9Lgsg4ynzLifwP0GmxGM2oQ4+aZ7U12nv+GL4DaA3Ldyi\n/JUyISPvrtpRt83/z/12Z9coVNBLIIczW/RG7+JXxIHn6VOuVYm8nvSYM4D/Mq5S\nDAro8faysmV6g6a9Y6o5nd+FV2FU/HASFBnebgQgBAKYHuGwTP8CN0TZpqawngkT\nYNflyhZPnr5978pJRqHJx5/0lPEdaUpjtFhvqxxZmz6ecRl05zw0MgqZov0v4Vj8\nYbYUgx825DmPOlIopza5BQP92x510fF/fNUPRov082nvIrmvcIDbaOQmSTOMutCR\nb2Nb3YF4ah7B5SckBSMPCppA+1zMyh10OutoJLJoIqOfYwTVAoWmnHU25fzFQ/jR\nmN2qFpSN45FeBxF9b5HenxtzFXMYioxadOnqZwDSHGM2n+lqLafAEWZHRsHTdHAm\nhhDLHw21ur+MJ627XpJdtrdegr0GMu1vaVa0R9nQbNAF85b2NAV+BEzjm9jzR5pV\nR0FXmB6IwN3LCqsQ1hhfuByic3ZS7WCtriesix1U0/cLS/VLmJAsFphmx9DTJq1l\n52pa+TMonXCGyNlYzZJ6K5M+SL+2Zww6kCio+ft5bckELKvMzB6QnesXHQrDXwz8\nT0bCNizU85Khqx7zN5mUgW47\n=HMCG\n-----END PGP SIGNATURE-----",
+     "verified": true,
+     "verified_at": "2026-05-18T08:18:24Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1461191?v=4",
+    "events_url": "https://api.github.com/users/marksweb/events{/privacy}",
+    "followers_url": "https://api.github.com/users/marksweb/followers",
+    "following_url": "https://api.github.com/users/marksweb/following{/other_user}",
+    "gists_url": "https://api.github.com/users/marksweb/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/marksweb",
+    "id": 1461191,
+    "login": "marksweb",
+    "node_id": "MDQ6VXNlcjE0NjExOTE=",
+    "organizations_url": "https://api.github.com/users/marksweb/orgs",
+    "received_events_url": "https://api.github.com/users/marksweb/received_events",
+    "repos_url": "https://api.github.com/users/marksweb/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/marksweb/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/marksweb/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/marksweb",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/django-taggit/commit/3a4138d1698043bc4032df18845886585ddb620e",
+   "node_id": "C_kwDOAAY-DdoAKDNhNDEzOGQxNjk4MDQzYmM0MDMyZGYxODg0NTg4NjU4NWRkYjYyMGU",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/django-taggit/commit/c688fbce5a2be000a7c258bb63332ac6bbbd076b",
+     "sha": "c688fbce5a2be000a7c258bb63332ac6bbbd076b",
+     "url": "https://api.github.com/repos/jazzband/django-taggit/commits/c688fbce5a2be000a7c258bb63332ac6bbbd076b"
+    }
+   ],
+   "sha": "3a4138d1698043bc4032df18845886585ddb620e",
+   "url": "https://api.github.com/repos/jazzband/django-taggit/commits/3a4138d1698043bc4032df18845886585ddb620e"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1461191?v=4",
+    "events_url": "https://api.github.com/users/marksweb/events{/privacy}",
+    "followers_url": "https://api.github.com/users/marksweb/followers",
+    "following_url": "https://api.github.com/users/marksweb/following{/other_user}",
+    "gists_url": "https://api.github.com/users/marksweb/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/marksweb",
+    "id": 1461191,
+    "login": "marksweb",
+    "node_id": "MDQ6VXNlcjE0NjExOTE=",
+    "organizations_url": "https://api.github.com/users/marksweb/orgs",
+    "received_events_url": "https://api.github.com/users/marksweb/received_events",
+    "repos_url": "https://api.github.com/users/marksweb/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/marksweb/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/marksweb/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/marksweb",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/django-taggit/commits/c688fbce5a2be000a7c258bb63332ac6bbbd076b/comments",
+   "commit": {
+    "author": {
+     "date": "2026-05-18T08:06:59Z",
+     "email": "mwalker@ismgames.com",
+     "name": "Mark Walker"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-05-18T08:06:59Z",
+     "email": "mwalker@ismgames.com",
+     "name": "Mark Walker"
+    },
+    "message": "fix: Added missing migration from #938",
+    "tree": {
+     "sha": "18a2ee2ff43d35cfd7d71b747980eb7480cc0bd9",
+     "url": "https://api.github.com/repos/jazzband/django-taggit/git/trees/18a2ee2ff43d35cfd7d71b747980eb7480cc0bd9"
+    },
+    "url": "https://api.github.com/repos/jazzband/django-taggit/git/commits/c688fbce5a2be000a7c258bb63332ac6bbbd076b",
+    "verification": {
+     "payload": "tree 18a2ee2ff43d35cfd7d71b747980eb7480cc0bd9\nparent 5c8d5cdb0794be5e2bdf7709e2a8c1006230ced5\nauthor Mark Walker <mwalker@ismgames.com> 1779091619 +0100\ncommitter Mark Walker <mwalker@ismgames.com> 1779091619 +0100\n\nfix: Added missing migration from #938\n",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\niQJPBAABCAA5FiEEAnUmp7cqU7t+QkuF+nNojdAkXSQFAmoKyKMbFIAAAAAABAAO\nbWFudTIsMi41KzEuMTIsMCwzAAoJEPpzaI3QJF0k+o4P/iyJyEUeGdHICKQTPbTp\nhO1poT3pqziUC0weCnAR2IgPAXff0GXQCqXOe1EM+dh7w/whlkH21TW3yJgXEWyc\n+oRDOl5eQ1v7+RwgErp94KPp5Ni75kcx9rPHAHdu4PQkW0xcOeAqTmKO8Jqhe+iP\n1N30Bwt2D/8ewKSoRWRiAwqL0DrJ5AoYQj84CAKjtYOT1roly3NX1vAkpXHFRkZG\nUqFDldEzpU6gWBVaNPZpXEcbK4rRk/LqZ5ae5D30Qxvn6WsC/CjZD+b7MemdPtD4\n8H1JUz7dWIeoNPsoaIZFzxAujmAjBAzoelKEQFR3NjMXYioueXi71T3BFsFpwyrs\n2SugUH13yiigeauIhuX1kEbikznYnordWRIl4ckHZXiRVeGzw4WHuJZ6rWdxZjjC\niFMcsgEJUCG7/v7FYG7X+wwlCsYxIHwdeqDv8YYSkbuZbfeW1mnyUPzztAjTj22r\ntWJjD7K92zsqG+GcCmd5iNCauV42KNoouDk4/plpQ2ur1mWgfSiyOUnDFSwm+HRb\nMECt2S9LchAAA37S0gWVXZjQ+yPGYt6T3+ogeQbKYX/VULfoO48yS6OrBgJqd4+f\n/KelTfYupcmjtL1/xUmrD4NzJTZgl44LCdg0JaEqHzvOIwMiOitpSk08jKNyiNQ6\nrYP9pVaMR+Dm2bZPkULxiuyf\n=U6fV\n-----END PGP SIGNATURE-----",
+     "verified": true,
+     "verified_at": "2026-05-18T08:07:06Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1461191?v=4",
+    "events_url": "https://api.github.com/users/marksweb/events{/privacy}",
+    "followers_url": "https://api.github.com/users/marksweb/followers",
+    "following_url": "https://api.github.com/users/marksweb/following{/other_user}",
+    "gists_url": "https://api.github.com/users/marksweb/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/marksweb",
+    "id": 1461191,
+    "login": "marksweb",
+    "node_id": "MDQ6VXNlcjE0NjExOTE=",
+    "organizations_url": "https://api.github.com/users/marksweb/orgs",
+    "received_events_url": "https://api.github.com/users/marksweb/received_events",
+    "repos_url": "https://api.github.com/users/marksweb/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/marksweb/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/marksweb/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/marksweb",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/django-taggit/commit/c688fbce5a2be000a7c258bb63332ac6bbbd076b",
+   "node_id": "C_kwDOAAY-DdoAKGM2ODhmYmNlNWEyYmUwMDBhN2MyNThiYjYzMzMyYWM2YmJiZDA3NmI",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/django-taggit/commit/5c8d5cdb0794be5e2bdf7709e2a8c1006230ced5",
+     "sha": "5c8d5cdb0794be5e2bdf7709e2a8c1006230ced5",
+     "url": "https://api.github.com/repos/jazzband/django-taggit/commits/5c8d5cdb0794be5e2bdf7709e2a8c1006230ced5"
+    }
+   ],
+   "sha": "c688fbce5a2be000a7c258bb63332ac6bbbd076b",
+   "url": "https://api.github.com/repos/jazzband/django-taggit/commits/c688fbce5a2be000a7c258bb63332ac6bbbd076b"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1461191?v=4",
+    "events_url": "https://api.github.com/users/marksweb/events{/privacy}",
+    "followers_url": "https://api.github.com/users/marksweb/followers",
+    "following_url": "https://api.github.com/users/marksweb/following{/other_user}",
+    "gists_url": "https://api.github.com/users/marksweb/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/marksweb",
+    "id": 1461191,
+    "login": "marksweb",
+    "node_id": "MDQ6VXNlcjE0NjExOTE=",
+    "organizations_url": "https://api.github.com/users/marksweb/orgs",
+    "received_events_url": "https://api.github.com/users/marksweb/received_events",
+    "repos_url": "https://api.github.com/users/marksweb/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/marksweb/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/marksweb/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/marksweb",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/django-taggit/commits/f5655b3e422dac4f0aec333064623124c1617187/comments",
+   "commit": {
+    "author": {
+     "date": "2026-05-16T09:18:32Z",
+     "email": "mark@django-cms.org",
+     "name": "Mark Walker"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-05-16T09:18:32Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Merge branch 'master' into python3.14",
+    "tree": {
+     "sha": "eac3268d2626ef816f1ec5be9a169d3a19ee8409",
+     "url": "https://api.github.com/repos/jazzband/django-taggit/git/trees/eac3268d2626ef816f1ec5be9a169d3a19ee8409"
+    },
+    "url": "https://api.github.com/repos/jazzband/django-taggit/git/commits/f5655b3e422dac4f0aec333064623124c1617187",
+    "verification": {
+     "payload": "tree eac3268d2626ef816f1ec5be9a169d3a19ee8409\nparent 58556f785dd4b99c16780b85dfcb422c32577404\nparent 5c8d5cdb0794be5e2bdf7709e2a8c1006230ced5\nauthor Mark Walker <mark@django-cms.org> 1778923112 +0100\ncommitter GitHub <noreply@github.com> 1778923112 +0100\n\nMerge branch 'master' into python3.14",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqCDZoCRC1aQ7uu5UhlAAAlm0QADW5G4K8+afZd/R692Y71p3H\n0/GPeS97fF8hifIQkMTiaYGsxRB0z/TVsQSJG73ymtJe9CpIMND/hWjy5Fw2HEiW\nFMY2nT48ID2dXQ5lwvIozs3KTalzg8fYbyP9ra0oEXN3yqCyFn0O9gKJpp0jhY08\nsQWoHDhcH3L/1ktJv+Pz5bgmTMXc7IbFhTivvS7RqtdYVAzIncr0sKnYkfW/7H4R\n5AswcH+1NOemkCkZ7E2B1vKxoucXXhPi/OI6BsELtGBJ+6Rm/FKQiXy9zlv4iFV8\n39tafTUBBA/IxLO0oRuF+Yfdin3ILTh+e26YjtqCTI+yjf9QMpcKEEySfVCcjhua\ny2qwJoeeYW1WdkzQU2N9WtB+7aQKs7aVRiGLyvoWv1HN3Q1te7mFLiGhZBhwPd24\nkkqXOlsQ6F3HvPr1gNTesIXZCWk3IGnX5T+t+vEaLhD2eopjlrPmb8KfQJnpOpSE\nNFsR3YLUkNmouvJidXSoh1ByI1dwa6OdkPMTCxs943zW1UsPt1tWdJbQf+ZkiINX\nOTNC4VJZEpTfTX5FbqxodJNTJFbcAGPhWg5BhunnQOqgeOjMs8WNWxyl3pTWSWYL\nUwppkohv4kVORtXWR+rn6k/5lqLN43PAXMdiElyanY8YJ9VPtcIuGshFwiiIbfIM\nIewqCLQi2toMT6ss9j4T\n=6jlv\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-05-16T09:18:32Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/django-taggit/commit/f5655b3e422dac4f0aec333064623124c1617187",
+   "node_id": "C_kwDOAAY-DdoAKGY1NjU1YjNlNDIyZGFjNGYwYWVjMzMzMDY0NjIzMTI0YzE2MTcxODc",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/django-taggit/commit/58556f785dd4b99c16780b85dfcb422c32577404",
+     "sha": "58556f785dd4b99c16780b85dfcb422c32577404",
+     "url": "https://api.github.com/repos/jazzband/django-taggit/commits/58556f785dd4b99c16780b85dfcb422c32577404"
+    },
+    {
+     "html_url": "https://github.com/jazzband/django-taggit/commit/5c8d5cdb0794be5e2bdf7709e2a8c1006230ced5",
+     "sha": "5c8d5cdb0794be5e2bdf7709e2a8c1006230ced5",
+     "url": "https://api.github.com/repos/jazzband/django-taggit/commits/5c8d5cdb0794be5e2bdf7709e2a8c1006230ced5"
+    }
+   ],
+   "sha": "f5655b3e422dac4f0aec333064623124c1617187",
+   "url": "https://api.github.com/repos/jazzband/django-taggit/commits/f5655b3e422dac4f0aec333064623124c1617187"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1461191?v=4",
+    "events_url": "https://api.github.com/users/marksweb/events{/privacy}",
+    "followers_url": "https://api.github.com/users/marksweb/followers",
+    "following_url": "https://api.github.com/users/marksweb/following{/other_user}",
+    "gists_url": "https://api.github.com/users/marksweb/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/marksweb",
+    "id": 1461191,
+    "login": "marksweb",
+    "node_id": "MDQ6VXNlcjE0NjExOTE=",
+    "organizations_url": "https://api.github.com/users/marksweb/orgs",
+    "received_events_url": "https://api.github.com/users/marksweb/received_events",
+    "repos_url": "https://api.github.com/users/marksweb/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/marksweb/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/marksweb/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/marksweb",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/django-taggit/commits/5c8d5cdb0794be5e2bdf7709e2a8c1006230ced5/comments",
+   "commit": {
+    "author": {
+     "date": "2026-05-16T09:17:35Z",
+     "email": "mark@django-cms.org",
+     "name": "Mark Walker"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-05-16T09:17:35Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "fix: Move verbose names from TaggedItem to ItemBase\n\nMove verbose_name and verbose_name_plural from TaggedItem to ItemBase",
+    "tree": {
+     "sha": "c8493973bf08a22cdddbabc47e0484a4921c73b9",
+     "url": "https://api.github.com/repos/jazzband/django-taggit/git/trees/c8493973bf08a22cdddbabc47e0484a4921c73b9"
+    },
+    "url": "https://api.github.com/repos/jazzband/django-taggit/git/commits/5c8d5cdb0794be5e2bdf7709e2a8c1006230ced5",
+    "verification": {
+     "payload": "tree c8493973bf08a22cdddbabc47e0484a4921c73b9\nparent 7dc1dc2db9203b1c28953272ef23b68184765fda\nparent 13ca51aeb1a30a6d1afa8f01d3e5beee2f1c288c\nauthor Mark Walker <mark@django-cms.org> 1778923055 +0100\ncommitter GitHub <noreply@github.com> 1778923055 +0100\n\nfix: Move verbose names from TaggedItem to ItemBase\n\nMove verbose_name and verbose_name_plural from TaggedItem to ItemBase",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqCDYvCRC1aQ7uu5UhlAAAFZMQAG/QrznHIDpPru/U1jA2OkjH\nwpAkbMOjgbGMem4S7U3sevmainkbCeHZmpKftoMtK/ZEEg/DiCZK85ac481+sDXk\nasrC2H8En88zDBc52c/ezX8SAN+88oe8+4eEg4cjz8YPkGYM27XrFuhRLA/j4LdA\nU95X9BNPUrGX24lJxDXwA1wq67dnFfCQoh+4eYu5pgcqpvt/0d1zjY5bXMfIM3in\n3Mc8TlcQf7DStgfxPuRwildHlXGm/vsWCzIZM+9mejoYcmPXZRBGPhNWjddcE/7U\nd2wbw8WOMVhCVMQeHw+Ddbd0PtLvKlZEFiEJeYEvRcQ2YRJ04qeysxcAv1H3sZtC\nF+tXrBicjb2XP8qMjd4+nSaVYRXpa06q3SxcmKRg6cCGBBYzm6n7ME0kQTrqCL5A\ns3i/RETxcQbKCUJqv6vGCtbFB4dfqnzWJHNVaivodt2GPGKKK6cX2TH4mquiCXM+\nWizCwAGOA3lBwAmbPOrYU2NwhuQQMKtffBxI0sTOdLwSM7Xij2EHcaV3usMWrO8q\nZnUfVjhQ5/ybNb5IDhIP+G2A0ezJFafMkCw2xQ1Ij/4neAw/NLLXuabI/JivK5Ur\nCmE1eZExYqWk3exH+rVV4JItLW/2V8G8yD4zWRDKpD9E7N49wooCx/BxNU2jyK41\nR1NyBQ1lgUWLVv9Ww7mg\n=HCma\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-05-16T09:17:35Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/django-taggit/commit/5c8d5cdb0794be5e2bdf7709e2a8c1006230ced5",
+   "node_id": "C_kwDOAAY-DdoAKDVjOGQ1Y2RiMDc5NGJlNWUyYmRmNzcwOWUyYThjMTAwNjIzMGNlZDU",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/django-taggit/commit/7dc1dc2db9203b1c28953272ef23b68184765fda",
+     "sha": "7dc1dc2db9203b1c28953272ef23b68184765fda",
+     "url": "https://api.github.com/repos/jazzband/django-taggit/commits/7dc1dc2db9203b1c28953272ef23b68184765fda"
+    },
+    {
+     "html_url": "https://github.com/jazzband/django-taggit/commit/13ca51aeb1a30a6d1afa8f01d3e5beee2f1c288c",
+     "sha": "13ca51aeb1a30a6d1afa8f01d3e5beee2f1c288c",
+     "url": "https://api.github.com/repos/jazzband/django-taggit/commits/13ca51aeb1a30a6d1afa8f01d3e5beee2f1c288c"
+    }
+   ],
+   "sha": "5c8d5cdb0794be5e2bdf7709e2a8c1006230ced5",
+   "url": "https://api.github.com/repos/jazzband/django-taggit/commits/5c8d5cdb0794be5e2bdf7709e2a8c1006230ced5"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1461191?v=4",
+    "events_url": "https://api.github.com/users/marksweb/events{/privacy}",
+    "followers_url": "https://api.github.com/users/marksweb/followers",
+    "following_url": "https://api.github.com/users/marksweb/following{/other_user}",
+    "gists_url": "https://api.github.com/users/marksweb/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/marksweb",
+    "id": 1461191,
+    "login": "marksweb",
+    "node_id": "MDQ6VXNlcjE0NjExOTE=",
+    "organizations_url": "https://api.github.com/users/marksweb/orgs",
+    "received_events_url": "https://api.github.com/users/marksweb/received_events",
+    "repos_url": "https://api.github.com/users/marksweb/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/marksweb/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/marksweb/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/marksweb",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/django-taggit/commits/7dc1dc2db9203b1c28953272ef23b68184765fda/comments",
+   "commit": {
+    "author": {
+     "date": "2026-05-16T09:10:47Z",
+     "email": "mark@django-cms.org",
+     "name": "Mark Walker"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-05-16T09:10:47Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "[pre-commit.ci] pre-commit autoupdate [#923]\n\n[pre-commit.ci] pre-commit autoupdate",
+    "tree": {
+     "sha": "89131cdcf7aeea0c4e555cfbc7fc2a2febafdd4d",
+     "url": "https://api.github.com/repos/jazzband/django-taggit/git/trees/89131cdcf7aeea0c4e555cfbc7fc2a2febafdd4d"
+    },
+    "url": "https://api.github.com/repos/jazzband/django-taggit/git/commits/7dc1dc2db9203b1c28953272ef23b68184765fda",
+    "verification": {
+     "payload": "tree 89131cdcf7aeea0c4e555cfbc7fc2a2febafdd4d\nparent 4fd99fdee21f8d1a087523a091cc5c3fbaee2fdd\nparent 749cc6fe0a04b663e784fdbb69b6233b5a28bc0c\nauthor Mark Walker <mark@django-cms.org> 1778922647 +0100\ncommitter GitHub <noreply@github.com> 1778922647 +0100\n\n[pre-commit.ci] pre-commit autoupdate [#923]\n\n[pre-commit.ci] pre-commit autoupdate",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqCDSXCRC1aQ7uu5UhlAAA/1oQABeXJwuSQyqk7HKljGRFYgxS\nWJDZrq9sLV5QENh9/uFvPRn925Ltttbs1fW6e7qtbNOgERgeUYcucR017S8oXpEE\n7s7qHlVOEFk9BiUDISf1lsUeAoYblgTPCg4t8P6hq9AfQFTuGz91yWCusJv+5q6t\nBFKh6Ay41755F6aQsqqUrmbO9NQiufapqcXCHVtrYOux6XPPFPUlSMOX+OqrrxjH\nK0LxDNxTcpdUDJbe6wEeWRE9J3eFtra2tFBSxvg+7cuXKNSwQAaDza8kzfI4B+No\nyh6z49B+OYOKIeQNeFpnqGQwB6yMnpFxEyLDZDxH9CUDSxvyhddrhbzO8Bgr/GJH\nTJKSCmAS3w8AwPbwCyVspDz+jSpyVsVxiOsAogHtNLEipQeq+vfsXWnAaG6ceAhd\nauDao7KEkjkx4QEOq+sueoJT6vQkFR9+rYbfNmi2c5ks13dS7MZBe03D4TL6YswG\n8Y7X8gSYsm0uYBJnWK2JODS0PhhAqri0mLutflR1az8VZum7x9/LF2OBzMedmgZ3\n3uhXkAWpjV8sOPOQV/4qC+yQS5gttyu/XOoaj9gzE98SNJKAMN2oG9LLCkPT57Dp\ngqRLFYTg/CGU9mKw2U6Cbeap6Hxw6QTCh8hcVTEeJE6EVUBfClipiiengMtmgRzf\nmQhPdnresC3McRa+ENKP\n=FvRD\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-05-16T09:10:47Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/django-taggit/commit/7dc1dc2db9203b1c28953272ef23b68184765fda",
+   "node_id": "C_kwDOAAY-DdoAKDdkYzFkYzJkYjkyMDNiMWMyODk1MzI3MmVmMjNiNjgxODQ3NjVmZGE",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/django-taggit/commit/4fd99fdee21f8d1a087523a091cc5c3fbaee2fdd",
+     "sha": "4fd99fdee21f8d1a087523a091cc5c3fbaee2fdd",
+     "url": "https://api.github.com/repos/jazzband/django-taggit/commits/4fd99fdee21f8d1a087523a091cc5c3fbaee2fdd"
+    },
+    {
+     "html_url": "https://github.com/jazzband/django-taggit/commit/749cc6fe0a04b663e784fdbb69b6233b5a28bc0c",
+     "sha": "749cc6fe0a04b663e784fdbb69b6233b5a28bc0c",
+     "url": "https://api.github.com/repos/jazzband/django-taggit/commits/749cc6fe0a04b663e784fdbb69b6233b5a28bc0c"
+    }
+   ],
+   "sha": "7dc1dc2db9203b1c28953272ef23b68184765fda",
+   "url": "https://api.github.com/repos/jazzband/django-taggit/commits/7dc1dc2db9203b1c28953272ef23b68184765fda"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/638274?v=4",
+    "events_url": "https://api.github.com/users/socketz/events{/privacy}",
+    "followers_url": "https://api.github.com/users/socketz/followers",
+    "following_url": "https://api.github.com/users/socketz/following{/other_user}",
+    "gists_url": "https://api.github.com/users/socketz/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/socketz",
+    "id": 638274,
+    "login": "socketz",
+    "node_id": "MDQ6VXNlcjYzODI3NA==",
+    "organizations_url": "https://api.github.com/users/socketz/orgs",
+    "received_events_url": "https://api.github.com/users/socketz/received_events",
+    "repos_url": "https://api.github.com/users/socketz/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/socketz/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/socketz/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/socketz",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/django-taggit/commits/58556f785dd4b99c16780b85dfcb422c32577404/comments",
+   "commit": {
+    "author": {
+     "date": "2026-05-04T12:34:36Z",
+     "email": "socketz@users.noreply.github.com",
+     "name": "socketz"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-05-04T12:34:36Z",
+     "email": "socketz@users.noreply.github.com",
+     "name": "socketz"
+    },
+    "message": "Remove unused pre-commit hooks: double-quote-string-fixer and requirements-txt-fixer",
+    "tree": {
+     "sha": "88e33510ee34c435468d948a1aad70a1adc55f0f",
+     "url": "https://api.github.com/repos/jazzband/django-taggit/git/trees/88e33510ee34c435468d948a1aad70a1adc55f0f"
+    },
+    "url": "https://api.github.com/repos/jazzband/django-taggit/git/commits/58556f785dd4b99c16780b85dfcb422c32577404",
+    "verification": {
+     "payload": "tree 88e33510ee34c435468d948a1aad70a1adc55f0f\nparent c998643808379f6eaade9ba2074cf72e620cd6b7\nauthor socketz <socketz@users.noreply.github.com> 1777898076 +0200\ncommitter socketz <socketz@users.noreply.github.com> 1777898076 +0200\n\nRemove unused pre-commit hooks: double-quote-string-fixer and requirements-txt-fixer\n",
+     "reason": "valid",
+     "signature": "-----BEGIN SSH SIGNATURE-----\nU1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgwhTBbpkNPUYw1r9CIfEWpwdUyX\n0YFhm98toBtzPXyeEAAAADZ2l0AAAAAAAAAAZzaGE1MTIAAABTAAAAC3NzaC1lZDI1NTE5\nAAAAQKIuIKJ1BOhwrdR4MKCssx4ExuUqS5CltGCbRzGuFWzKmvi6Cj70pN9H6w3JA5zOg/\nlni6hIZ/JS0ujCRQ1+IgI=\n-----END SSH SIGNATURE-----",
+     "verified": true,
+     "verified_at": "2026-05-04T12:34:45Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/638274?v=4",
+    "events_url": "https://api.github.com/users/socketz/events{/privacy}",
+    "followers_url": "https://api.github.com/users/socketz/followers",
+    "following_url": "https://api.github.com/users/socketz/following{/other_user}",
+    "gists_url": "https://api.github.com/users/socketz/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/socketz",
+    "id": 638274,
+    "login": "socketz",
+    "node_id": "MDQ6VXNlcjYzODI3NA==",
+    "organizations_url": "https://api.github.com/users/socketz/orgs",
+    "received_events_url": "https://api.github.com/users/socketz/received_events",
+    "repos_url": "https://api.github.com/users/socketz/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/socketz/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/socketz/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/socketz",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/django-taggit/commit/58556f785dd4b99c16780b85dfcb422c32577404",
+   "node_id": "C_kwDOAAY-DdoAKDU4NTU2Zjc4NWRkNGI5OWMxNjc4MGI4NWRmY2I0MjJjMzI1Nzc0MDQ",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/django-taggit/commit/c998643808379f6eaade9ba2074cf72e620cd6b7",
+     "sha": "c998643808379f6eaade9ba2074cf72e620cd6b7",
+     "url": "https://api.github.com/repos/jazzband/django-taggit/commits/c998643808379f6eaade9ba2074cf72e620cd6b7"
+    }
+   ],
+   "sha": "58556f785dd4b99c16780b85dfcb422c32577404",
+   "url": "https://api.github.com/repos/jazzband/django-taggit/commits/58556f785dd4b99c16780b85dfcb422c32577404"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/638274?v=4",
+    "events_url": "https://api.github.com/users/socketz/events{/privacy}",
+    "followers_url": "https://api.github.com/users/socketz/followers",
+    "following_url": "https://api.github.com/users/socketz/following{/other_user}",
+    "gists_url": "https://api.github.com/users/socketz/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/socketz",
+    "id": 638274,
+    "login": "socketz",
+    "node_id": "MDQ6VXNlcjYzODI3NA==",
+    "organizations_url": "https://api.github.com/users/socketz/orgs",
+    "received_events_url": "https://api.github.com/users/socketz/received_events",
+    "repos_url": "https://api.github.com/users/socketz/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/socketz/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/socketz/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/socketz",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/django-taggit/commits/c998643808379f6eaade9ba2074cf72e620cd6b7/comments",
+   "commit": {
+    "author": {
+     "date": "2026-05-04T12:29:52Z",
+     "email": "socketz@users.noreply.github.com",
+     "name": "socketz"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-05-04T12:29:52Z",
+     "email": "socketz@users.noreply.github.com",
+     "name": "socketz"
+    },
+    "message": "Update django-upgrade target version to 5.2 in pre-commit configuration",
+    "tree": {
+     "sha": "af0e66739b88ff710534009f54c1e7ea738ada91",
+     "url": "https://api.github.com/repos/jazzband/django-taggit/git/trees/af0e66739b88ff710534009f54c1e7ea738ada91"
+    },
+    "url": "https://api.github.com/repos/jazzband/django-taggit/git/commits/c998643808379f6eaade9ba2074cf72e620cd6b7",
+    "verification": {
+     "payload": "tree af0e66739b88ff710534009f54c1e7ea738ada91\nparent 854dcfec7db9b97d5697bcffd7ccba3fdbfe296b\nauthor socketz <socketz@users.noreply.github.com> 1777897792 +0200\ncommitter socketz <socketz@users.noreply.github.com> 1777897792 +0200\n\nUpdate django-upgrade target version to 5.2 in pre-commit configuration\n",
+     "reason": "valid",
+     "signature": "-----BEGIN SSH SIGNATURE-----\nU1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgwhTBbpkNPUYw1r9CIfEWpwdUyX\n0YFhm98toBtzPXyeEAAAADZ2l0AAAAAAAAAAZzaGE1MTIAAABTAAAAC3NzaC1lZDI1NTE5\nAAAAQEwGuJhUpT9BglgzXZzF6VIBOSMcGHqnx6RqICqpu+n1Q5oAAXFY+HS+OADTicrPAn\nVOD6Um/XbuwIE1Ked3SwU=\n-----END SSH SIGNATURE-----",
+     "verified": true,
+     "verified_at": "2026-05-04T12:30:04Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/638274?v=4",
+    "events_url": "https://api.github.com/users/socketz/events{/privacy}",
+    "followers_url": "https://api.github.com/users/socketz/followers",
+    "following_url": "https://api.github.com/users/socketz/following{/other_user}",
+    "gists_url": "https://api.github.com/users/socketz/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/socketz",
+    "id": 638274,
+    "login": "socketz",
+    "node_id": "MDQ6VXNlcjYzODI3NA==",
+    "organizations_url": "https://api.github.com/users/socketz/orgs",
+    "received_events_url": "https://api.github.com/users/socketz/received_events",
+    "repos_url": "https://api.github.com/users/socketz/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/socketz/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/socketz/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/socketz",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/django-taggit/commit/c998643808379f6eaade9ba2074cf72e620cd6b7",
+   "node_id": "C_kwDOAAY-DdoAKGM5OTg2NDM4MDgzNzlmNmVhYWRlOWJhMjA3NGNmNzJlNjIwY2Q2Yjc",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/django-taggit/commit/854dcfec7db9b97d5697bcffd7ccba3fdbfe296b",
+     "sha": "854dcfec7db9b97d5697bcffd7ccba3fdbfe296b",
+     "url": "https://api.github.com/repos/jazzband/django-taggit/commits/854dcfec7db9b97d5697bcffd7ccba3fdbfe296b"
+    }
+   ],
+   "sha": "c998643808379f6eaade9ba2074cf72e620cd6b7",
+   "url": "https://api.github.com/repos/jazzband/django-taggit/commits/c998643808379f6eaade9ba2074cf72e620cd6b7"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/in/68672?v=4",
+    "events_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/events{/privacy}",
+    "followers_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/followers",
+    "following_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/following{/other_user}",
+    "gists_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/apps/pre-commit-ci",
+    "id": 66853113,
+    "login": "pre-commit-ci[bot]",
+    "node_id": "MDM6Qm90NjY4NTMxMTM=",
+    "organizations_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/orgs",
+    "received_events_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/received_events",
+    "repos_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/subscriptions",
+    "type": "Bot",
+    "url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/django-taggit/commits/854dcfec7db9b97d5697bcffd7ccba3fdbfe296b/comments",
+   "commit": {
+    "author": {
+     "date": "2026-05-04T10:52:59Z",
+     "email": "66853113+pre-commit-ci[bot]@users.noreply.github.com",
+     "name": "pre-commit-ci[bot]"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-05-04T10:53:00Z",
+     "email": "66853113+pre-commit-ci[bot]@users.noreply.github.com",
+     "name": "pre-commit-ci[bot]"
+    },
+    "message": "[pre-commit.ci] auto fixes from pre-commit.com hooks\n\nfor more information, see https://pre-commit.ci",
+    "tree": {
+     "sha": "4a3e2466824b6ae05ec69742df174c457fbd9486",
+     "url": "https://api.github.com/repos/jazzband/django-taggit/git/trees/4a3e2466824b6ae05ec69742df174c457fbd9486"
+    },
+    "url": "https://api.github.com/repos/jazzband/django-taggit/git/commits/854dcfec7db9b97d5697bcffd7ccba3fdbfe296b",
+    "verification": {
+     "payload": null,
+     "reason": "unsigned",
+     "signature": null,
+     "verified": false,
+     "verified_at": null
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/in/68672?v=4",
+    "events_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/events{/privacy}",
+    "followers_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/followers",
+    "following_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/following{/other_user}",
+    "gists_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/apps/pre-commit-ci",
+    "id": 66853113,
+    "login": "pre-commit-ci[bot]",
+    "node_id": "MDM6Qm90NjY4NTMxMTM=",
+    "organizations_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/orgs",
+    "received_events_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/received_events",
+    "repos_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/subscriptions",
+    "type": "Bot",
+    "url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/django-taggit/commit/854dcfec7db9b97d5697bcffd7ccba3fdbfe296b",
+   "node_id": "C_kwDOAAY-DdoAKDg1NGRjZmVjN2RiOWI5N2Q1Njk3YmNmZmQ3Y2NiYTNmZGJmZTI5NmI",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/django-taggit/commit/8e5ab961a74b6b65165fbbb1a514ed57977755d1",
+     "sha": "8e5ab961a74b6b65165fbbb1a514ed57977755d1",
+     "url": "https://api.github.com/repos/jazzband/django-taggit/commits/8e5ab961a74b6b65165fbbb1a514ed57977755d1"
+    }
+   ],
+   "sha": "854dcfec7db9b97d5697bcffd7ccba3fdbfe296b",
+   "url": "https://api.github.com/repos/jazzband/django-taggit/commits/854dcfec7db9b97d5697bcffd7ccba3fdbfe296b"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/638274?v=4",
+    "events_url": "https://api.github.com/users/socketz/events{/privacy}",
+    "followers_url": "https://api.github.com/users/socketz/followers",
+    "following_url": "https://api.github.com/users/socketz/following{/other_user}",
+    "gists_url": "https://api.github.com/users/socketz/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/socketz",
+    "id": 638274,
+    "login": "socketz",
+    "node_id": "MDQ6VXNlcjYzODI3NA==",
+    "organizations_url": "https://api.github.com/users/socketz/orgs",
+    "received_events_url": "https://api.github.com/users/socketz/received_events",
+    "repos_url": "https://api.github.com/users/socketz/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/socketz/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/socketz/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/socketz",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/django-taggit/commits/8e5ab961a74b6b65165fbbb1a514ed57977755d1/comments",
+   "commit": {
+    "author": {
+     "date": "2026-05-04T10:50:16Z",
+     "email": "socketz@users.noreply.github.com",
+     "name": "socketz"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-05-04T10:50:16Z",
+     "email": "socketz@users.noreply.github.com",
+     "name": "socketz"
+    },
+    "message": "Add a blank line for improved readability in manage.py",
+    "tree": {
+     "sha": "932e014aac61e795ece1b7fd02a9f9cfd6ec23e0",
+     "url": "https://api.github.com/repos/jazzband/django-taggit/git/trees/932e014aac61e795ece1b7fd02a9f9cfd6ec23e0"
+    },
+    "url": "https://api.github.com/repos/jazzband/django-taggit/git/commits/8e5ab961a74b6b65165fbbb1a514ed57977755d1",
+    "verification": {
+     "payload": "tree 932e014aac61e795ece1b7fd02a9f9cfd6ec23e0\nparent 28a12602701382fd3f3bcff39a12394d8b8b6ba0\nauthor socketz <socketz@users.noreply.github.com> 1777891816 +0200\ncommitter socketz <socketz@users.noreply.github.com> 1777891816 +0200\n\nAdd a blank line for improved readability in manage.py\n",
+     "reason": "valid",
+     "signature": "-----BEGIN SSH SIGNATURE-----\nU1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgwhTBbpkNPUYw1r9CIfEWpwdUyX\n0YFhm98toBtzPXyeEAAAADZ2l0AAAAAAAAAAZzaGE1MTIAAABTAAAAC3NzaC1lZDI1NTE5\nAAAAQHXjlYMuhygcTIuQIkO+iVAe0R39U8BsZHMDKGbN5AP4XIxjG6FHJG+9ZtBsTcVgvh\nLt4XS5Y0/bJppDBoPqSAo=\n-----END SSH SIGNATURE-----",
+     "verified": true,
+     "verified_at": "2026-05-04T10:50:24Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/638274?v=4",
+    "events_url": "https://api.github.com/users/socketz/events{/privacy}",
+    "followers_url": "https://api.github.com/users/socketz/followers",
+    "following_url": "https://api.github.com/users/socketz/following{/other_user}",
+    "gists_url": "https://api.github.com/users/socketz/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/socketz",
+    "id": 638274,
+    "login": "socketz",
+    "node_id": "MDQ6VXNlcjYzODI3NA==",
+    "organizations_url": "https://api.github.com/users/socketz/orgs",
+    "received_events_url": "https://api.github.com/users/socketz/received_events",
+    "repos_url": "https://api.github.com/users/socketz/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/socketz/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/socketz/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/socketz",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/django-taggit/commit/8e5ab961a74b6b65165fbbb1a514ed57977755d1",
+   "node_id": "C_kwDOAAY-DdoAKDhlNWFiOTYxYTc0YjZiNjUxNjVmYmJiMWE1MTRlZDU3OTc3NzU1ZDE",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/django-taggit/commit/28a12602701382fd3f3bcff39a12394d8b8b6ba0",
+     "sha": "28a12602701382fd3f3bcff39a12394d8b8b6ba0",
+     "url": "https://api.github.com/repos/jazzband/django-taggit/commits/28a12602701382fd3f3bcff39a12394d8b8b6ba0"
+    }
+   ],
+   "sha": "8e5ab961a74b6b65165fbbb1a514ed57977755d1",
+   "url": "https://api.github.com/repos/jazzband/django-taggit/commits/8e5ab961a74b6b65165fbbb1a514ed57977755d1"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/638274?v=4",
+    "events_url": "https://api.github.com/users/socketz/events{/privacy}",
+    "followers_url": "https://api.github.com/users/socketz/followers",
+    "following_url": "https://api.github.com/users/socketz/following{/other_user}",
+    "gists_url": "https://api.github.com/users/socketz/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/socketz",
+    "id": 638274,
+    "login": "socketz",
+    "node_id": "MDQ6VXNlcjYzODI3NA==",
+    "organizations_url": "https://api.github.com/users/socketz/orgs",
+    "received_events_url": "https://api.github.com/users/socketz/received_events",
+    "repos_url": "https://api.github.com/users/socketz/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/socketz/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/socketz/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/socketz",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/django-taggit/commits/28a12602701382fd3f3bcff39a12394d8b8b6ba0/comments",
+   "commit": {
+    "author": {
+     "date": "2026-05-04T10:43:46Z",
+     "email": "socketz@users.noreply.github.com",
+     "name": "socketz"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-05-04T10:43:46Z",
+     "email": "socketz@users.noreply.github.com",
+     "name": "socketz"
+    },
+    "message": "Fix tox.ini environment list for Django versions by correcting the Python version specification for dj60 and djmain.\n\nCo-authored-by: Copilot <copilot@github.com>",
+    "tree": {
+     "sha": "e6ac2e97884cb5c28c84bf1b2b1fe81660f0bd59",
+     "url": "https://api.github.com/repos/jazzband/django-taggit/git/trees/e6ac2e97884cb5c28c84bf1b2b1fe81660f0bd59"
+    },
+    "url": "https://api.github.com/repos/jazzband/django-taggit/git/commits/28a12602701382fd3f3bcff39a12394d8b8b6ba0",
+    "verification": {
+     "payload": "tree e6ac2e97884cb5c28c84bf1b2b1fe81660f0bd59\nparent 4e282b0dc9ac146b1df50a74e764ef50949a803c\nauthor socketz <socketz@users.noreply.github.com> 1777891426 +0200\ncommitter socketz <socketz@users.noreply.github.com> 1777891426 +0200\n\nFix tox.ini environment list for Django versions by correcting the Python version specification for dj60 and djmain.\n\nCo-authored-by: Copilot <copilot@github.com>\n",
+     "reason": "valid",
+     "signature": "-----BEGIN SSH SIGNATURE-----\nU1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgwhTBbpkNPUYw1r9CIfEWpwdUyX\n0YFhm98toBtzPXyeEAAAADZ2l0AAAAAAAAAAZzaGE1MTIAAABTAAAAC3NzaC1lZDI1NTE5\nAAAAQNzqo7v6bdifrK2MwcUdWCbby5Qk4ysc9Ny+VF3N77m8PN2lxCBHNWQDuXArcZ5/N7\nhdNewNmHriCQ23a9V7DwA=\n-----END SSH SIGNATURE-----",
+     "verified": true,
+     "verified_at": "2026-05-04T10:43:59Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/638274?v=4",
+    "events_url": "https://api.github.com/users/socketz/events{/privacy}",
+    "followers_url": "https://api.github.com/users/socketz/followers",
+    "following_url": "https://api.github.com/users/socketz/following{/other_user}",
+    "gists_url": "https://api.github.com/users/socketz/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/socketz",
+    "id": 638274,
+    "login": "socketz",
+    "node_id": "MDQ6VXNlcjYzODI3NA==",
+    "organizations_url": "https://api.github.com/users/socketz/orgs",
+    "received_events_url": "https://api.github.com/users/socketz/received_events",
+    "repos_url": "https://api.github.com/users/socketz/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/socketz/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/socketz/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/socketz",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/django-taggit/commit/28a12602701382fd3f3bcff39a12394d8b8b6ba0",
+   "node_id": "C_kwDOAAY-DdoAKDI4YTEyNjAyNzAxMzgyZmQzZjNiY2ZmMzlhMTIzOTRkOGI4YjZiYTA",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/django-taggit/commit/4e282b0dc9ac146b1df50a74e764ef50949a803c",
+     "sha": "4e282b0dc9ac146b1df50a74e764ef50949a803c",
+     "url": "https://api.github.com/repos/jazzband/django-taggit/commits/4e282b0dc9ac146b1df50a74e764ef50949a803c"
+    }
+   ],
+   "sha": "28a12602701382fd3f3bcff39a12394d8b8b6ba0",
+   "url": "https://api.github.com/repos/jazzband/django-taggit/commits/28a12602701382fd3f3bcff39a12394d8b8b6ba0"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/638274?v=4",
+    "events_url": "https://api.github.com/users/socketz/events{/privacy}",
+    "followers_url": "https://api.github.com/users/socketz/followers",
+    "following_url": "https://api.github.com/users/socketz/following{/other_user}",
+    "gists_url": "https://api.github.com/users/socketz/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/socketz",
+    "id": 638274,
+    "login": "socketz",
+    "node_id": "MDQ6VXNlcjYzODI3NA==",
+    "organizations_url": "https://api.github.com/users/socketz/orgs",
+    "received_events_url": "https://api.github.com/users/socketz/received_events",
+    "repos_url": "https://api.github.com/users/socketz/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/socketz/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/socketz/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/socketz",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/django-taggit/commits/4e282b0dc9ac146b1df50a74e764ef50949a803c/comments",
+   "commit": {
+    "author": {
+     "date": "2026-05-04T10:26:05Z",
+     "email": "socketz@users.noreply.github.com",
+     "name": "socketz"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-05-04T10:31:20Z",
+     "email": "socketz@users.noreply.github.com",
+     "name": "socketz"
+    },
+    "message": "Refactor workflows and package management: update dependency installation, switch to Python's build module, and adjust caching keys; remove setup.py and update MANIFEST.in to include pyproject.toml.\n\nCo-authored-by: Copilot <copilot@github.com>",
+    "tree": {
+     "sha": "46b58d5d94ad3e1971823f5e1d7b47156ae97f43",
+     "url": "https://api.github.com/repos/jazzband/django-taggit/git/trees/46b58d5d94ad3e1971823f5e1d7b47156ae97f43"
+    },
+    "url": "https://api.github.com/repos/jazzband/django-taggit/git/commits/4e282b0dc9ac146b1df50a74e764ef50949a803c",
+    "verification": {
+     "payload": "tree 46b58d5d94ad3e1971823f5e1d7b47156ae97f43\nparent c1a6ef966df93a385bf1754ed5a80a399cd0aec0\nauthor socketz <socketz@users.noreply.github.com> 1777890365 +0200\ncommitter socketz <socketz@users.noreply.github.com> 1777890680 +0200\n\nRefactor workflows and package management: update dependency installation, switch to Python's build module, and adjust caching keys; remove setup.py and update MANIFEST.in to include pyproject.toml.\n\nCo-authored-by: Copilot <copilot@github.com>\n",
+     "reason": "valid",
+     "signature": "-----BEGIN SSH SIGNATURE-----\nU1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgwhTBbpkNPUYw1r9CIfEWpwdUyX\n0YFhm98toBtzPXyeEAAAADZ2l0AAAAAAAAAAZzaGE1MTIAAABTAAAAC3NzaC1lZDI1NTE5\nAAAAQNiuUWIi39iugP6/CNu0b7AP5Ecy4a1jq/xFXdJNaY5WQknX8hlD0PDRZnAEBNO51B\n6d/GiqbqbDC//3gZ0wOgY=\n-----END SSH SIGNATURE-----",
+     "verified": true,
+     "verified_at": "2026-05-04T10:31:37Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/638274?v=4",
+    "events_url": "https://api.github.com/users/socketz/events{/privacy}",
+    "followers_url": "https://api.github.com/users/socketz/followers",
+    "following_url": "https://api.github.com/users/socketz/following{/other_user}",
+    "gists_url": "https://api.github.com/users/socketz/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/socketz",
+    "id": 638274,
+    "login": "socketz",
+    "node_id": "MDQ6VXNlcjYzODI3NA==",
+    "organizations_url": "https://api.github.com/users/socketz/orgs",
+    "received_events_url": "https://api.github.com/users/socketz/received_events",
+    "repos_url": "https://api.github.com/users/socketz/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/socketz/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/socketz/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/socketz",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/django-taggit/commit/4e282b0dc9ac146b1df50a74e764ef50949a803c",
+   "node_id": "C_kwDOAAY-DdoAKDRlMjgyYjBkYzlhYzE0NmIxZGY1MGE3NGU3NjRlZjUwOTQ5YTgwM2M",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/django-taggit/commit/c1a6ef966df93a385bf1754ed5a80a399cd0aec0",
+     "sha": "c1a6ef966df93a385bf1754ed5a80a399cd0aec0",
+     "url": "https://api.github.com/repos/jazzband/django-taggit/commits/c1a6ef966df93a385bf1754ed5a80a399cd0aec0"
+    }
+   ],
+   "sha": "4e282b0dc9ac146b1df50a74e764ef50949a803c",
+   "url": "https://api.github.com/repos/jazzband/django-taggit/commits/4e282b0dc9ac146b1df50a74e764ef50949a803c"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/638274?v=4",
+    "events_url": "https://api.github.com/users/socketz/events{/privacy}",
+    "followers_url": "https://api.github.com/users/socketz/followers",
+    "following_url": "https://api.github.com/users/socketz/following{/other_user}",
+    "gists_url": "https://api.github.com/users/socketz/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/socketz",
+    "id": 638274,
+    "login": "socketz",
+    "node_id": "MDQ6VXNlcjYzODI3NA==",
+    "organizations_url": "https://api.github.com/users/socketz/orgs",
+    "received_events_url": "https://api.github.com/users/socketz/received_events",
+    "repos_url": "https://api.github.com/users/socketz/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/socketz/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/socketz/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/socketz",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/django-taggit/commits/c1a6ef966df93a385bf1754ed5a80a399cd0aec0/comments",
+   "commit": {
+    "author": {
+     "date": "2026-05-04T10:08:31Z",
+     "email": "socketz@users.noreply.github.com",
+     "name": "socketz"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-05-04T10:08:31Z",
+     "email": "socketz@users.noreply.github.com",
+     "name": "socketz"
+    },
+    "message": "Update Python and Django support, enhance workflows, and improve dependencies\n\n- Update Python version in workflows to 3.10 and add support for 3.13 and 3.14\n- Update Django support to 5.2 and 6.0, removing support for older versions\n- Upgrade pre-commit hooks and dependencies\n- Modify installation instructions in README and CONTRIBUTING files\n- Add a new test case for prefetching related tags\n\nCo-authored-by: Copilot <copilot@github.com>",
+    "tree": {
+     "sha": "063ce6b36a67ba791e7a99fc16c83edd3007de8f",
+     "url": "https://api.github.com/repos/jazzband/django-taggit/git/trees/063ce6b36a67ba791e7a99fc16c83edd3007de8f"
+    },
+    "url": "https://api.github.com/repos/jazzband/django-taggit/git/commits/c1a6ef966df93a385bf1754ed5a80a399cd0aec0",
+    "verification": {
+     "payload": "tree 063ce6b36a67ba791e7a99fc16c83edd3007de8f\nparent 4fd99fdee21f8d1a087523a091cc5c3fbaee2fdd\nauthor socketz <socketz@users.noreply.github.com> 1777889311 +0200\ncommitter socketz <socketz@users.noreply.github.com> 1777889311 +0200\n\nUpdate Python and Django support, enhance workflows, and improve dependencies\n\n- Update Python version in workflows to 3.10 and add support for 3.13 and 3.14\n- Update Django support to 5.2 and 6.0, removing support for older versions\n- Upgrade pre-commit hooks and dependencies\n- Modify installation instructions in README and CONTRIBUTING files\n- Add a new test case for prefetching related tags\n\nCo-authored-by: Copilot <copilot@github.com>\n",
+     "reason": "valid",
+     "signature": "-----BEGIN SSH SIGNATURE-----\nU1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgwhTBbpkNPUYw1r9CIfEWpwdUyX\n0YFhm98toBtzPXyeEAAAADZ2l0AAAAAAAAAAZzaGE1MTIAAABTAAAAC3NzaC1lZDI1NTE5\nAAAAQKD6yNT+1EkAjVeJJneVmpKF7bhYcTvcoMfsmbl7ce0mQl9QXJjsbcBrb0fj9OO3jB\nmbH2JJPAxXo5Rw2e1Q0g8=\n-----END SSH SIGNATURE-----",
+     "verified": true,
+     "verified_at": "2026-05-04T10:09:36Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/638274?v=4",
+    "events_url": "https://api.github.com/users/socketz/events{/privacy}",
+    "followers_url": "https://api.github.com/users/socketz/followers",
+    "following_url": "https://api.github.com/users/socketz/following{/other_user}",
+    "gists_url": "https://api.github.com/users/socketz/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/socketz",
+    "id": 638274,
+    "login": "socketz",
+    "node_id": "MDQ6VXNlcjYzODI3NA==",
+    "organizations_url": "https://api.github.com/users/socketz/orgs",
+    "received_events_url": "https://api.github.com/users/socketz/received_events",
+    "repos_url": "https://api.github.com/users/socketz/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/socketz/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/socketz/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/socketz",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/django-taggit/commit/c1a6ef966df93a385bf1754ed5a80a399cd0aec0",
+   "node_id": "C_kwDOAAY-DdoAKGMxYTZlZjk2NmRmOTNhMzg1YmYxNzU0ZWQ1YTgwYTM5OWNkMGFlYzA",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/django-taggit/commit/4fd99fdee21f8d1a087523a091cc5c3fbaee2fdd",
+     "sha": "4fd99fdee21f8d1a087523a091cc5c3fbaee2fdd",
+     "url": "https://api.github.com/repos/jazzband/django-taggit/commits/4fd99fdee21f8d1a087523a091cc5c3fbaee2fdd"
+    }
+   ],
+   "sha": "c1a6ef966df93a385bf1754ed5a80a399cd0aec0",
+   "url": "https://api.github.com/repos/jazzband/django-taggit/commits/c1a6ef966df93a385bf1754ed5a80a399cd0aec0"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/4192418?v=4",
+    "events_url": "https://api.github.com/users/365g1s22/events{/privacy}",
+    "followers_url": "https://api.github.com/users/365g1s22/followers",
+    "following_url": "https://api.github.com/users/365g1s22/following{/other_user}",
+    "gists_url": "https://api.github.com/users/365g1s22/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/365g1s22",
+    "id": 4192418,
+    "login": "365g1s22",
+    "node_id": "MDQ6VXNlcjQxOTI0MTg=",
+    "organizations_url": "https://api.github.com/users/365g1s22/orgs",
+    "received_events_url": "https://api.github.com/users/365g1s22/received_events",
+    "repos_url": "https://api.github.com/users/365g1s22/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/365g1s22/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/365g1s22/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/365g1s22",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/django-taggit/commits/13ca51aeb1a30a6d1afa8f01d3e5beee2f1c288c/comments",
+   "commit": {
+    "author": {
+     "date": "2026-03-28T06:07:48Z",
+     "email": "alex@gmail.com",
+     "name": "alex"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-03-28T06:07:48Z",
+     "email": "alex@gmail.com",
+     "name": "alex"
+    },
+    "message": "Move verbose_name and verbose_name_plural from TaggedItem to ItemBase",
+    "tree": {
+     "sha": "30aeb271fb13f7b4c6ed287feecd97a566d105a3",
+     "url": "https://api.github.com/repos/jazzband/django-taggit/git/trees/30aeb271fb13f7b4c6ed287feecd97a566d105a3"
+    },
+    "url": "https://api.github.com/repos/jazzband/django-taggit/git/commits/13ca51aeb1a30a6d1afa8f01d3e5beee2f1c288c",
+    "verification": {
+     "payload": null,
+     "reason": "unsigned",
+     "signature": null,
+     "verified": false,
+     "verified_at": null
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/4192418?v=4",
+    "events_url": "https://api.github.com/users/365g1s22/events{/privacy}",
+    "followers_url": "https://api.github.com/users/365g1s22/followers",
+    "following_url": "https://api.github.com/users/365g1s22/following{/other_user}",
+    "gists_url": "https://api.github.com/users/365g1s22/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/365g1s22",
+    "id": 4192418,
+    "login": "365g1s22",
+    "node_id": "MDQ6VXNlcjQxOTI0MTg=",
+    "organizations_url": "https://api.github.com/users/365g1s22/orgs",
+    "received_events_url": "https://api.github.com/users/365g1s22/received_events",
+    "repos_url": "https://api.github.com/users/365g1s22/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/365g1s22/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/365g1s22/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/365g1s22",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/django-taggit/commit/13ca51aeb1a30a6d1afa8f01d3e5beee2f1c288c",
+   "node_id": "C_kwDOAAY-DdoAKDEzY2E1MWFlYjFhMzBhNmQxYWZhOGYwMWQzZTViZWVlMmYxYzI4OGM",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/django-taggit/commit/4fd99fdee21f8d1a087523a091cc5c3fbaee2fdd",
+     "sha": "4fd99fdee21f8d1a087523a091cc5c3fbaee2fdd",
+     "url": "https://api.github.com/repos/jazzband/django-taggit/commits/4fd99fdee21f8d1a087523a091cc5c3fbaee2fdd"
+    }
+   ],
+   "sha": "13ca51aeb1a30a6d1afa8f01d3e5beee2f1c288c",
+   "url": "https://api.github.com/repos/jazzband/django-taggit/commits/13ca51aeb1a30a6d1afa8f01d3e5beee2f1c288c"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/in/68672?v=4",
+    "events_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/events{/privacy}",
+    "followers_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/followers",
+    "following_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/following{/other_user}",
+    "gists_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/apps/pre-commit-ci",
+    "id": 66853113,
+    "login": "pre-commit-ci[bot]",
+    "node_id": "MDM6Qm90NjY4NTMxMTM=",
+    "organizations_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/orgs",
+    "received_events_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/received_events",
+    "repos_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/subscriptions",
+    "type": "Bot",
+    "url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/django-taggit/commits/749cc6fe0a04b663e784fdbb69b6233b5a28bc0c/comments",
+   "commit": {
+    "author": {
+     "date": "2026-03-16T18:00:15Z",
+     "email": "66853113+pre-commit-ci[bot]@users.noreply.github.com",
+     "name": "pre-commit-ci[bot]"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-03-16T18:00:16Z",
+     "email": "66853113+pre-commit-ci[bot]@users.noreply.github.com",
+     "name": "pre-commit-ci[bot]"
+    },
+    "message": "[pre-commit.ci] auto fixes from pre-commit.com hooks\n\nfor more information, see https://pre-commit.ci",
+    "tree": {
+     "sha": "89131cdcf7aeea0c4e555cfbc7fc2a2febafdd4d",
+     "url": "https://api.github.com/repos/jazzband/django-taggit/git/trees/89131cdcf7aeea0c4e555cfbc7fc2a2febafdd4d"
+    },
+    "url": "https://api.github.com/repos/jazzband/django-taggit/git/commits/749cc6fe0a04b663e784fdbb69b6233b5a28bc0c",
+    "verification": {
+     "payload": null,
+     "reason": "unsigned",
+     "signature": null,
+     "verified": false,
+     "verified_at": null
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/in/68672?v=4",
+    "events_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/events{/privacy}",
+    "followers_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/followers",
+    "following_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/following{/other_user}",
+    "gists_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/apps/pre-commit-ci",
+    "id": 66853113,
+    "login": "pre-commit-ci[bot]",
+    "node_id": "MDM6Qm90NjY4NTMxMTM=",
+    "organizations_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/orgs",
+    "received_events_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/received_events",
+    "repos_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/subscriptions",
+    "type": "Bot",
+    "url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/django-taggit/commit/749cc6fe0a04b663e784fdbb69b6233b5a28bc0c",
+   "node_id": "C_kwDOAAY-DdoAKDc0OWNjNmZlMGEwNGI2NjNlNzg0ZmRiYjY5YjYyMzNiNWEyOGJjMGM",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/django-taggit/commit/ecc8f93f667472c7d2388490a38fe4d60ecef185",
+     "sha": "ecc8f93f667472c7d2388490a38fe4d60ecef185",
+     "url": "https://api.github.com/repos/jazzband/django-taggit/commits/ecc8f93f667472c7d2388490a38fe4d60ecef185"
+    }
+   ],
+   "sha": "749cc6fe0a04b663e784fdbb69b6233b5a28bc0c",
+   "url": "https://api.github.com/repos/jazzband/django-taggit/commits/749cc6fe0a04b663e784fdbb69b6233b5a28bc0c"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/in/68672?v=4",
+    "events_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/events{/privacy}",
+    "followers_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/followers",
+    "following_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/following{/other_user}",
+    "gists_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/apps/pre-commit-ci",
+    "id": 66853113,
+    "login": "pre-commit-ci[bot]",
+    "node_id": "MDM6Qm90NjY4NTMxMTM=",
+    "organizations_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/orgs",
+    "received_events_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/received_events",
+    "repos_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/subscriptions",
+    "type": "Bot",
+    "url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/django-taggit/commits/ecc8f93f667472c7d2388490a38fe4d60ecef185/comments",
+   "commit": {
+    "author": {
+     "date": "2026-03-16T17:37:28Z",
+     "email": "66853113+pre-commit-ci[bot]@users.noreply.github.com",
+     "name": "pre-commit-ci[bot]"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-03-16T17:37:28Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "[pre-commit.ci] pre-commit autoupdate\n\nupdates:\n- [github.com/pre-commit/pre-commit-hooks: v4.6.0 → v6.0.0](https://github.com/pre-commit/pre-commit-hooks/compare/v4.6.0...v6.0.0)\n- https://github.com/psf/black → https://github.com/psf/black-pre-commit-mirror\n- [github.com/psf/black-pre-commit-mirror: 24.8.0 → 26.3.1](https://github.com/psf/black-pre-commit-mirror/compare/24.8.0...26.3.1)\n- [github.com/PyCQA/flake8: 7.1.1 → 7.3.0](https://github.com/PyCQA/flake8/compare/7.1.1...7.3.0)\n- [github.com/asottile/pyupgrade: v3.17.0 → v3.21.2](https://github.com/asottile/pyupgrade/compare/v3.17.0...v3.21.2)\n- [github.com/adamchainz/django-upgrade: 1.21.0 → 1.30.0](https://github.com/adamchainz/django-upgrade/compare/1.21.0...1.30.0)",
+    "tree": {
+     "sha": "e6238efeb1da366c219abc800be0e70fe477cdcd",
+     "url": "https://api.github.com/repos/jazzband/django-taggit/git/trees/e6238efeb1da366c219abc800be0e70fe477cdcd"
+    },
+    "url": "https://api.github.com/repos/jazzband/django-taggit/git/commits/ecc8f93f667472c7d2388490a38fe4d60ecef185",
+    "verification": {
+     "payload": "tree e6238efeb1da366c219abc800be0e70fe477cdcd\nparent 4fd99fdee21f8d1a087523a091cc5c3fbaee2fdd\nauthor pre-commit-ci[bot] <66853113+pre-commit-ci[bot]@users.noreply.github.com> 1773682648 +0000\ncommitter GitHub <noreply@github.com> 1773682648 +0000\n\n[pre-commit.ci] pre-commit autoupdate\n\nupdates:\n- [github.com/pre-commit/pre-commit-hooks: v4.6.0 → v6.0.0](https://github.com/pre-commit/pre-commit-hooks/compare/v4.6.0...v6.0.0)\n- https://github.com/psf/black → https://github.com/psf/black-pre-commit-mirror\n- [github.com/psf/black-pre-commit-mirror: 24.8.0 → 26.3.1](https://github.com/psf/black-pre-commit-mirror/compare/24.8.0...26.3.1)\n- [github.com/PyCQA/flake8: 7.1.1 → 7.3.0](https://github.com/PyCQA/flake8/compare/7.1.1...7.3.0)\n- [github.com/asottile/pyupgrade: v3.17.0 → v3.21.2](https://github.com/asottile/pyupgrade/compare/v3.17.0...v3.21.2)\n- [github.com/adamchainz/django-upgrade: 1.21.0 → 1.30.0](https://github.com/adamchainz/django-upgrade/compare/1.21.0...1.30.0)\n",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJpuD/YCRC1aQ7uu5UhlAAA3AIQADujGTgIrQSfJrNysuQ8DdaB\nHYN3he3CJJkIib+sM8TnkT4e1gxk3BuYniOwd4OXUCd8N4GosKQfPDiItO+J75jZ\n+DxRevZfibueN29awa+ehqgPm8wBNhSbaKxT4NM1LT9WCSrfih9mt2khlS+xVuhN\nOPZeFGtgq3B8yeVQbBH6DIFQ/P7dHGfySPWz2DIXKD9jY9+Rel/apRsVx4ZL6Ne0\nlu340NqzPXoJfHI5gu3O2tk6tFhFxSDsqM3tIdZZMHE7sXWsDWvQSTGwQ7i6jRr9\ndsUY7JdjN089db35TQyCceV0b3Ap/KahU5HFPwwUbtJ+2T/yhqqMq7fh5Z48AhDi\naYgAMAP3snwea2MYWUH+Jh1BB1JOvPT9Rzb2Gbc22mFKQuGhXrk+eXkYrAI7nbEX\n1NasM5angfk7MLxzdXmKDccdPl8rgyxHmtb3NzUBMz1ZA5YJDrec1OfmKzTUUuQL\nAvoQ0Vsj6wvwLmORqFTnL3OymHdyL8I6KLuWTGQh9Yqoh2Vw5HzZZ7xulRWdEPpr\nELhwbbSjU+TFVau99fZtGwacSjR4doL4bUjqy5cIDWKP3CST3pH7vMFOtgLmLFUY\nKunzwFhGfzJ27aDSpgtdAKUTPD/JJ4yyEXs6fI6/ZuFc77BjtjG0owT9k/URRhcJ\njkkCOEKtBrFKjOEMOLAJ\n=iwoV\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-03-16T17:37:28Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/django-taggit/commit/ecc8f93f667472c7d2388490a38fe4d60ecef185",
+   "node_id": "C_kwDOAAY-DdoAKGVjYzhmOTNmNjY3NDcyYzdkMjM4ODQ5MGEzOGZlNGQ2MGVjZWYxODU",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/django-taggit/commit/4fd99fdee21f8d1a087523a091cc5c3fbaee2fdd",
+     "sha": "4fd99fdee21f8d1a087523a091cc5c3fbaee2fdd",
+     "url": "https://api.github.com/repos/jazzband/django-taggit/commits/4fd99fdee21f8d1a087523a091cc5c3fbaee2fdd"
+    }
+   ],
+   "sha": "ecc8f93f667472c7d2388490a38fe4d60ecef185",
+   "url": "https://api.github.com/repos/jazzband/django-taggit/commits/ecc8f93f667472c7d2388490a38fe4d60ecef185"
+  }
+ ],
+ "recorded_at": "2026-11-16T18:38:46Z",
+ "recorded_with": "deadledger 0.1.0",
+ "status": 200,
+ "url": "https://api.github.com/repos/jazzband/django-taggit/commits?since=<window>&per_page=100"
+}

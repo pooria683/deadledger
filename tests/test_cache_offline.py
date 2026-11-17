@@ -1,0 +1,324 @@
+"""The local-first contract (Requirement 6).
+
+Three promises to keep:
+
+1. registry responses are cached in SQLite with TTLs;
+2. ``--offline`` never opens a socket, and says which entries went stale;
+3. a cache miss offline is a *gap*, not a crash and not a zero.
+"""
+
+from __future__ import annotations
+
+from datetime import timedelta
+
+import pytest
+
+from deadledger.cache import Cache
+from deadledger.errors import OfflineCacheMiss
+from deadledger.http import CachingClient
+from deadledger.util import utcnow
+
+URL = "https://pypi.org/pypi/widget/json"
+
+
+def test_round_trip_preserves_payload_and_provenance(cache):
+    entry = cache.put(
+        "key", kind="pypi", url=URL, payload={"info": {"name": "widget"}}, ttl_seconds=60
+    )
+    again = cache.get("key")
+    assert again.payload == {"info": {"name": "widget"}}
+    assert again.url == URL
+    assert again.fetched_at == entry.fetched_at
+    assert not again.expired
+
+
+def test_ttl_expiry_is_tracked(cache):
+    past = utcnow() - timedelta(hours=2)
+    cache.put("k", kind="pypi", url=URL, payload={}, ttl_seconds=60, fetched_at=past)
+    entry = cache.get("k")
+    assert entry.expired
+    assert entry.ttl_seconds == 60
+
+
+def test_stats_and_prune(cache):
+    past = utcnow() - timedelta(days=1)
+    cache.put("fresh", kind="pypi", url=URL, payload={"x": 1}, ttl_seconds=3600)
+    cache.put("old", kind="npm", url="https://registry.npmjs.org/x", payload={}, ttl_seconds=60, fetched_at=past)
+    stats = cache.stats()
+    assert stats["entries"] == 2
+    assert stats["fresh"] == 1
+    assert stats["expired"] == 1
+    assert cache.purge_expired() == 1
+    assert cache.stats()["entries"] == 1
+
+
+def test_offline_serves_stale_entries_and_marks_them(cache):
+    past = utcnow() - timedelta(days=30)
+    cache.put("k", kind="pypi", url=URL, payload={"info": {"name": "widget"}}, ttl_seconds=60, fetched_at=past)
+    client = CachingClient(None, cache, mode="offline")
+    # The client derives its cache key from the URL, so ask through a seeded key.
+    from deadledger.http import cache_key
+
+    cache.put(
+        cache_key("pypi", URL),
+        kind="pypi",
+        url=URL,
+        payload={"info": {"name": "widget"}},
+        ttl_seconds=60,
+        fetched_at=past,
+    )
+    fetched = client.get_json(URL, ttl_seconds=60)
+    assert fetched.from_cache
+    assert fetched.stale
+    assert fetched.fetched_at == past, "offline keeps the original retrieval date"
+    assert client.summary()["stale_urls"] == 1
+
+
+def test_offline_cache_miss_raises_a_typed_error(cache):
+    client = CachingClient(None, cache, mode="offline")
+    with pytest.raises(OfflineCacheMiss):
+        client.get_json("https://pypi.org/pypi/never-seen/json")
+    assert client.summary()["failed_urls"] == 1
+
+
+def test_cache_entry_keys_include_the_source_and_representation(cache):
+    a = cache.put("k1", kind="pypi", url=URL, payload={"a": 1}, ttl_seconds=60)
+    b = cache.put("k2", kind="npm", url=URL, payload={"a": 2}, ttl_seconds=60)
+    assert cache.get(a.key).payload == {"a": 1}
+    assert cache.get(b.key).payload == {"a": 2}
+
+
+def test_cache_survives_reopening(tmp_path):
+    path = tmp_path / "c.sqlite"
+    with Cache(path) as first:
+        first.put("k", kind="pypi", url=URL, payload={"ok": True}, ttl_seconds=600)
+    with Cache(path) as second:
+        assert second.get("k").payload == {"ok": True}
+
+
+def test_missing_cache_file_is_reported_not_created(tmp_path):
+    path = tmp_path / "absent.sqlite"
+    with pytest.raises(FileNotFoundError):
+        Cache(path, create=False)
+    assert not path.exists()
+
+
+def test_cache_stores_response_headers_so_pagination_survives(tmp_path):
+    """A cached page must keep its Link header or pagination silently truncates."""
+    with Cache(tmp_path / "c.sqlite") as cache:
+        cache.put(
+            "k",
+            kind="github",
+            url=URL,
+            payload=[],
+            ttl_seconds=600,
+            headers={"link": '<https://api.github.com/x?page=2>; rel="next"'},
+        )
+        assert cache.get("k").headers["link"].endswith('rel="next"')
+
+
+def test_newest_fetched_at_is_the_replay_clock(tmp_path):
+    with Cache(tmp_path / "c.sqlite") as cache:
+        assert cache.newest_fetched_at() is None
+        early = utcnow() - timedelta(days=10)
+        cache.put("a", kind="pypi", url=URL, payload={}, ttl_seconds=60, fetched_at=early)
+        later = utcnow() - timedelta(days=1)
+        cache.put("b", kind="pypi", url=URL, payload={}, ttl_seconds=60, fetched_at=later)
+        assert cache.newest_fetched_at() == later
+
+
+# --------------------------------------------------------------------------
+# Budget accounting
+#
+# These exist because of a real bug that cost the demo its entire bus-factor
+# column: GitHub bills /search/code, /search/* and everything else to three
+# separate buckets, and spending from the wrong one made a run believe its core
+# quota was gone. It then served 26 commit histories from cache, found nothing,
+# and reported "no package had exactly one committer" -- a confident, cited,
+# completely wrong answer.
+# --------------------------------------------------------------------------
+
+
+def test_budget_buckets_are_separate():
+    from deadledger.http import _budget_for
+
+    core = _budget_for("https://api.github.com/repos/pallets/click/commits?since=x")
+    search = _budget_for("https://api.github.com/search/issues?q=repo:a/b+type:issue")
+    code = _budget_for("https://api.github.com/search/code?q=%22import+click%22")
+
+    assert core == "github"
+    assert search == "github-search"
+    assert code == "github-code-search"
+    assert len({core, search, code}) == 3
+
+
+def test_spending_a_search_does_not_exhaust_core(cache, tmp_path):
+    """The regression: code-search spender must not block repo lookups."""
+    from deadledger.http import PlaybackClient, CachingClient
+
+    client = CachingClient(
+        PlaybackClient(
+            {
+                "https://api.github.com/repos/a/b": {"default_branch": "main"},
+                "https://api.github.com/search/code?q=x": {"total_count": 3},
+            }
+        ),
+        cache,
+        mode="record",
+        profile="unit",
+        fixture_root=tmp_path,
+    )
+    client.rate_limits = {
+        "github": {"remaining": 5000, "reset": 0},
+        "github-code-search": {"remaining": 1, "reset": 0},
+    }
+    code_url = "https://api.github.com/search/code?q=x"
+    client.get_json(code_url)
+    client.spend(code_url)   # spends the last code-search token
+
+    assert "github-code-search" in client.exhausted_profiles
+    assert client.budget("https://api.github.com/repos/a/b") == 5000
+    # Core is still usable: the repo lookup must go through.
+    assert client.get_json("https://api.github.com/repos/a/b").payload == {"default_branch": "main"}
+
+
+def test_rate_limit_headers_are_never_written_to_the_cache(tmp_path):
+    """A cached "remaining: 0" would poison every later run."""
+    from deadledger.cache import Cache
+    from deadledger.http import Fetched, headers_to_cache
+
+    kept = headers_to_cache(
+        {
+            "x-ratelimit-remaining": "0",
+            "x-ratelimit-reset": "1800000000",
+            "link": '<https://api.github.com/x?page=2>; rel="next"',
+        }
+    )
+    assert kept == {"link": '<https://api.github.com/x?page=2>; rel="next"'}
+
+    from deadledger.util import utcnow
+
+    cache = Cache(tmp_path / "c.sqlite")
+    cache.put(
+        "https://api.github.com/repos/a/b",
+        kind="github",
+        url="https://api.github.com/repos/a/b",
+        payload={"ok": True},
+        ttl_seconds=3600,
+        fetched_at=utcnow(),
+        headers=kept,
+    )
+    stored = cache.get("https://api.github.com/repos/a/b")
+    assert stored is not None
+    assert "x-ratelimit-remaining" not in stored.headers
+
+
+def test_playback_matches_commit_windows_across_different_clocks():
+    """`since=` moves with the clock; the fixture must still be found."""
+    from deadledger.http import PlaybackClient
+
+    playback = PlaybackClient(
+        {
+            "https://api.github.com/repos/a/b/commits?since=2025-01-01T00:00:00Z&per_page=100": [
+                {"sha": "abc"}
+            ]
+        }
+    )
+    later = playback.get_json(
+        "https://api.github.com/repos/a/b/commits?since=2025-06-01T00:00:00Z&per_page=100"
+    )
+    assert later.payload == [{"sha": "abc"}]
+
+
+def test_only_github_has_budgets():
+    """PyPI has no request quota for us; filing it under 'github' was a bug.
+
+    The failure mode was spectacular: 206 PyPI lookups decremented GitHub's
+    5,000-request core budget, the run decided GitHub was exhausted, and every
+    remaining package was reported as "PyPI did not answer" -- which looked
+    exactly like a registry outage.
+    """
+    from deadledger.http import _budget_for
+
+    assert _budget_for("https://pypi.org/pypi/lxml/json") is None
+    assert _budget_for("https://pypistats.org/api/packages/lxml/overall") is None
+    assert _budget_for("https://registry.npmjs.org/express") is None
+    assert _budget_for("https://crates.io/api/v1/crates/serde") is None
+
+
+def test_a_pypi_error_does_not_disable_pypi(cache, tmp_path):
+    """One 4xx from a registry must not end the registry for the whole run."""
+    from deadledger.http import CachingClient, PlaybackClient
+
+    client = CachingClient(
+        PlaybackClient(
+            {
+                "https://pypi.org/pypi/gone/json": {"info": {}},
+                "https://pypi.org/pypi/alive/json": {"info": {"name": "alive"}},
+            }
+        ),
+        cache,
+        mode="record",
+        profile="unit",
+        fixture_root=tmp_path,
+    )
+    # A response that reports "0 remaining" -- PyPI's rate headers are not a
+    # budget we track, so this must be ignored rather than latched.
+    client.rate_limits = {"pypi": {"remaining": 0, "reset": 0}}
+    client.exhausted_profiles = {"pypi"}  # simulate the old poisoned state
+
+    assert client.budget("https://pypi.org/pypi/alive/json") is None
+    assert not client._exhausted("https://pypi.org/pypi/alive/json")
+    assert client.get_json("https://pypi.org/pypi/alive/json").payload["info"]["name"] == "alive"
+
+
+def test_learned_budgets_are_keyed_by_bucket_not_profile(cache, tmp_path):
+    """`learn` writes what `budget` reads; they used different keys."""
+    from datetime import datetime, timezone
+
+    from deadledger.http import CachingClient, Fetched, PlaybackClient
+
+    client = CachingClient(PlaybackClient({}), cache, mode="record", profile="unit", fixture_root=tmp_path)
+    client._learn_rate_limit(
+        "github",
+        Fetched(
+            url="https://api.github.com/search/issues?q=x",
+            payload={},
+            fetched_at=datetime(2026, 1, 1, tzinfo=timezone.utc),
+            headers={"x-ratelimit-remaining": "7", "x-ratelimit-reset": "0"},
+        ),
+    )
+    # The search bucket learned 7; core is untouched (unknown), not 0.
+    assert client.rate_limits["github-search"]["remaining"] == 7
+    assert client.budget("https://api.github.com/search/issues?q=y") == 7
+    assert client.budget("https://api.github.com/repos/a/b") is None
+
+
+def test_network_deadline_stops_a_firewalled_source(monkeypatch):
+    """A source that hangs must not hang the audit.
+
+    The first GitHub Actions run of the dogfood workflow sat in "Mortality
+    check" for twenty minutes with an empty log: every package was waiting out
+    pypistats timeouts, three attempts at 25 seconds each, fourteen times over.
+    """
+    from deadledger.http import HttpxClient, NETWORK_DEADLINE_SECONDS
+
+    client = HttpxClient()
+    client.deadline = 0.0  # already past
+    with pytest.raises(Exception) as excinfo:
+        client.get_json("https://pypistats.org/api/packages/x/overall")
+    assert "deadline" in str(excinfo.value)
+    assert NETWORK_DEADLINE_SECONDS <= 300, "a deadline longer than five minutes is not a deadline"
+
+
+def test_deadline_is_configurable_and_can_be_disabled(monkeypatch):
+    from deadledger.http import network_deadline_seconds
+
+    monkeypatch.delenv("DEADLEDGER_NETWORK_DEADLINE", raising=False)
+    assert network_deadline_seconds() == 180.0
+    monkeypatch.setenv("DEADLEDGER_NETWORK_DEADLINE", "0")
+    assert network_deadline_seconds() is None   # `record` disables it
+    monkeypatch.setenv("DEADLEDGER_NETWORK_DEADLINE", "45")
+    assert network_deadline_seconds() == 45.0
+    monkeypatch.setenv("DEADLEDGER_NETWORK_DEADLINE", "nonsense")
+    assert network_deadline_seconds() == 180.0

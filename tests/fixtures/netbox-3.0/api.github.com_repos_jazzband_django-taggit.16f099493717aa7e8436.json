@@ -1,0 +1,15 @@
+{
+ "body": {
+  "archived": false,
+  "default_branch": "master",
+  "full_name": "jazzband/django-taggit",
+  "html_url": "https://github.com/jazzband/django-taggit",
+  "open_issues_count": 117,
+  "pushed_at": "2026-11-11T05:08:26Z",
+  "stargazers_count": 3443
+ },
+ "recorded_at": "2026-11-16T18:38:46Z",
+ "recorded_with": "deadledger 0.1.0",
+ "status": 200,
+ "url": "https://api.github.com/repos/jazzband/django-taggit"
+}

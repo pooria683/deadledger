@@ -1,0 +1,2883 @@
+{
+ "body": [
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1772890?v=4",
+    "events_url": "https://api.github.com/users/codingjoe/events{/privacy}",
+    "followers_url": "https://api.github.com/users/codingjoe/followers",
+    "following_url": "https://api.github.com/users/codingjoe/following{/other_user}",
+    "gists_url": "https://api.github.com/users/codingjoe/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/codingjoe",
+    "id": 1772890,
+    "login": "codingjoe",
+    "node_id": "MDQ6VXNlcjE3NzI4OTA=",
+    "organizations_url": "https://api.github.com/users/codingjoe/orgs",
+    "received_events_url": "https://api.github.com/users/codingjoe/received_events",
+    "repos_url": "https://api.github.com/users/codingjoe/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/codingjoe/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/codingjoe/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/codingjoe",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/django-redis/commits/a88fa291680c779db2c703edf7853346c737ca47/comments",
+   "commit": {
+    "author": {
+     "date": "2026-11-03T20:04:04Z",
+     "email": "johannes@maron.family",
+     "name": "Johannes Maron"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-11-03T20:16:04Z",
+     "email": "johannes@maron.family",
+     "name": "Johannes Maron"
+    },
+    "message": "Add news fragment for #839",
+    "tree": {
+     "sha": "3f4d9de3af9bd3244ac0715bcb6db1193e927fc4",
+     "url": "https://api.github.com/repos/jazzband/django-redis/git/trees/3f4d9de3af9bd3244ac0715bcb6db1193e927fc4"
+    },
+    "url": "https://api.github.com/repos/jazzband/django-redis/git/commits/a88fa291680c779db2c703edf7853346c737ca47",
+    "verification": {
+     "payload": null,
+     "reason": "unsigned",
+     "signature": null,
+     "verified": false,
+     "verified_at": null
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1772890?v=4",
+    "events_url": "https://api.github.com/users/codingjoe/events{/privacy}",
+    "followers_url": "https://api.github.com/users/codingjoe/followers",
+    "following_url": "https://api.github.com/users/codingjoe/following{/other_user}",
+    "gists_url": "https://api.github.com/users/codingjoe/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/codingjoe",
+    "id": 1772890,
+    "login": "codingjoe",
+    "node_id": "MDQ6VXNlcjE3NzI4OTA=",
+    "organizations_url": "https://api.github.com/users/codingjoe/orgs",
+    "received_events_url": "https://api.github.com/users/codingjoe/received_events",
+    "repos_url": "https://api.github.com/users/codingjoe/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/codingjoe/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/codingjoe/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/codingjoe",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/django-redis/commit/a88fa291680c779db2c703edf7853346c737ca47",
+   "node_id": "C_kwDOAD3eadoAKGE4OGZhMjkxNjgwYzc3OWRiMmM3MDNlZGY3ODUzMzQ2YzczN2NhNDc",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/django-redis/commit/d1e5f39184e802f7a747d8491d34bf33fccafd5c",
+     "sha": "d1e5f39184e802f7a747d8491d34bf33fccafd5c",
+     "url": "https://api.github.com/repos/jazzband/django-redis/commits/d1e5f39184e802f7a747d8491d34bf33fccafd5c"
+    }
+   ],
+   "sha": "a88fa291680c779db2c703edf7853346c737ca47",
+   "url": "https://api.github.com/repos/jazzband/django-redis/commits/a88fa291680c779db2c703edf7853346c737ca47"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+    "events_url": "https://api.github.com/users/dependabot%5Bbot%5D/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dependabot%5Bbot%5D/followers",
+    "following_url": "https://api.github.com/users/dependabot%5Bbot%5D/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dependabot%5Bbot%5D/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/apps/dependabot",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "node_id": "MDM6Qm90NDk2OTkzMzM=",
+    "organizations_url": "https://api.github.com/users/dependabot%5Bbot%5D/orgs",
+    "received_events_url": "https://api.github.com/users/dependabot%5Bbot%5D/received_events",
+    "repos_url": "https://api.github.com/users/dependabot%5Bbot%5D/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dependabot%5Bbot%5D/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dependabot%5Bbot%5D/subscriptions",
+    "type": "Bot",
+    "url": "https://api.github.com/users/dependabot%5Bbot%5D",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/django-redis/commits/d1e5f39184e802f7a747d8491d34bf33fccafd5c/comments",
+   "commit": {
+    "author": {
+     "date": "2026-07-20T16:42:45Z",
+     "email": "49699333+dependabot[bot]@users.noreply.github.com",
+     "name": "dependabot[bot]"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-11-03T20:16:04Z",
+     "email": "johannes@maron.family",
+     "name": "Johannes Maron"
+    },
+    "message": "chore(deps): bump actions/setup-python from 6 to 7\n\nBumps [actions/setup-python](https://github.com/actions/setup-python) from 6 to 7.\n- [Release notes](https://github.com/actions/setup-python/releases)\n- [Commits](https://github.com/actions/setup-python/compare/v6...v7)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-python\n  dependency-version: '7'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>",
+    "tree": {
+     "sha": "18941a75a93855bed892eb580639235d505fd83f",
+     "url": "https://api.github.com/repos/jazzband/django-redis/git/trees/18941a75a93855bed892eb580639235d505fd83f"
+    },
+    "url": "https://api.github.com/repos/jazzband/django-redis/git/commits/d1e5f39184e802f7a747d8491d34bf33fccafd5c",
+    "verification": {
+     "payload": null,
+     "reason": "unsigned",
+     "signature": null,
+     "verified": false,
+     "verified_at": null
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1772890?v=4",
+    "events_url": "https://api.github.com/users/codingjoe/events{/privacy}",
+    "followers_url": "https://api.github.com/users/codingjoe/followers",
+    "following_url": "https://api.github.com/users/codingjoe/following{/other_user}",
+    "gists_url": "https://api.github.com/users/codingjoe/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/codingjoe",
+    "id": 1772890,
+    "login": "codingjoe",
+    "node_id": "MDQ6VXNlcjE3NzI4OTA=",
+    "organizations_url": "https://api.github.com/users/codingjoe/orgs",
+    "received_events_url": "https://api.github.com/users/codingjoe/received_events",
+    "repos_url": "https://api.github.com/users/codingjoe/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/codingjoe/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/codingjoe/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/codingjoe",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/django-redis/commit/d1e5f39184e802f7a747d8491d34bf33fccafd5c",
+   "node_id": "C_kwDOAD3eadoAKGQxZTVmMzkxODRlODAyZjdhNzQ3ZDg0OTFkMzRiZjMzZmNjYWZkNWM",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/django-redis/commit/f22f138c37e301b778e28aa3975e93857017b397",
+     "sha": "f22f138c37e301b778e28aa3975e93857017b397",
+     "url": "https://api.github.com/repos/jazzband/django-redis/commits/f22f138c37e301b778e28aa3975e93857017b397"
+    }
+   ],
+   "sha": "d1e5f39184e802f7a747d8491d34bf33fccafd5c",
+   "url": "https://api.github.com/repos/jazzband/django-redis/commits/d1e5f39184e802f7a747d8491d34bf33fccafd5c"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1772890?v=4",
+    "events_url": "https://api.github.com/users/codingjoe/events{/privacy}",
+    "followers_url": "https://api.github.com/users/codingjoe/followers",
+    "following_url": "https://api.github.com/users/codingjoe/following{/other_user}",
+    "gists_url": "https://api.github.com/users/codingjoe/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/codingjoe",
+    "id": 1772890,
+    "login": "codingjoe",
+    "node_id": "MDQ6VXNlcjE3NzI4OTA=",
+    "organizations_url": "https://api.github.com/users/codingjoe/orgs",
+    "received_events_url": "https://api.github.com/users/codingjoe/received_events",
+    "repos_url": "https://api.github.com/users/codingjoe/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/codingjoe/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/codingjoe/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/codingjoe",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/django-redis/commits/f22f138c37e301b778e28aa3975e93857017b397/comments",
+   "commit": {
+    "author": {
+     "date": "2026-11-03T20:04:02Z",
+     "email": "johannes@maron.family",
+     "name": "Johannes Maron"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-11-03T20:15:58Z",
+     "email": "johannes@maron.family",
+     "name": "Johannes Maron"
+    },
+    "message": "Add news fragment for #834",
+    "tree": {
+     "sha": "663e754cb709e6dddcc72dbf11851b4f055fc712",
+     "url": "https://api.github.com/repos/jazzband/django-redis/git/trees/663e754cb709e6dddcc72dbf11851b4f055fc712"
+    },
+    "url": "https://api.github.com/repos/jazzband/django-redis/git/commits/f22f138c37e301b778e28aa3975e93857017b397",
+    "verification": {
+     "payload": null,
+     "reason": "unsigned",
+     "signature": null,
+     "verified": false,
+     "verified_at": null
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1772890?v=4",
+    "events_url": "https://api.github.com/users/codingjoe/events{/privacy}",
+    "followers_url": "https://api.github.com/users/codingjoe/followers",
+    "following_url": "https://api.github.com/users/codingjoe/following{/other_user}",
+    "gists_url": "https://api.github.com/users/codingjoe/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/codingjoe",
+    "id": 1772890,
+    "login": "codingjoe",
+    "node_id": "MDQ6VXNlcjE3NzI4OTA=",
+    "organizations_url": "https://api.github.com/users/codingjoe/orgs",
+    "received_events_url": "https://api.github.com/users/codingjoe/received_events",
+    "repos_url": "https://api.github.com/users/codingjoe/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/codingjoe/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/codingjoe/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/codingjoe",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/django-redis/commit/f22f138c37e301b778e28aa3975e93857017b397",
+   "node_id": "C_kwDOAD3eadoAKGYyMmYxMzhjMzdlMzAxYjc3OGUyOGFhMzk3NWU5Mzg1NzAxN2IzOTc",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/django-redis/commit/2be203229f326249c3ee59f79bf9b157d2b30c33",
+     "sha": "2be203229f326249c3ee59f79bf9b157d2b30c33",
+     "url": "https://api.github.com/repos/jazzband/django-redis/commits/2be203229f326249c3ee59f79bf9b157d2b30c33"
+    }
+   ],
+   "sha": "f22f138c37e301b778e28aa3975e93857017b397",
+   "url": "https://api.github.com/repos/jazzband/django-redis/commits/f22f138c37e301b778e28aa3975e93857017b397"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+    "events_url": "https://api.github.com/users/dependabot%5Bbot%5D/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dependabot%5Bbot%5D/followers",
+    "following_url": "https://api.github.com/users/dependabot%5Bbot%5D/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dependabot%5Bbot%5D/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/apps/dependabot",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "node_id": "MDM6Qm90NDk2OTkzMzM=",
+    "organizations_url": "https://api.github.com/users/dependabot%5Bbot%5D/orgs",
+    "received_events_url": "https://api.github.com/users/dependabot%5Bbot%5D/received_events",
+    "repos_url": "https://api.github.com/users/dependabot%5Bbot%5D/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dependabot%5Bbot%5D/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dependabot%5Bbot%5D/subscriptions",
+    "type": "Bot",
+    "url": "https://api.github.com/users/dependabot%5Bbot%5D",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/django-redis/commits/2be203229f326249c3ee59f79bf9b157d2b30c33/comments",
+   "commit": {
+    "author": {
+     "date": "2026-06-23T16:42:35Z",
+     "email": "49699333+dependabot[bot]@users.noreply.github.com",
+     "name": "dependabot[bot]"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-11-03T20:15:58Z",
+     "email": "johannes@maron.family",
+     "name": "Johannes Maron"
+    },
+    "message": "chore(deps): bump actions/cache from 5 to 6\n\nBumps [actions/cache](https://github.com/actions/cache) from 5 to 6.\n- [Release notes](https://github.com/actions/cache/releases)\n- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)\n- [Commits](https://github.com/actions/cache/compare/v5...v6)\n\n---\nupdated-dependencies:\n- dependency-name: actions/cache\n  dependency-version: '6'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>",
+    "tree": {
+     "sha": "edabc55dab202046210bd13d3226387272133407",
+     "url": "https://api.github.com/repos/jazzband/django-redis/git/trees/edabc55dab202046210bd13d3226387272133407"
+    },
+    "url": "https://api.github.com/repos/jazzband/django-redis/git/commits/2be203229f326249c3ee59f79bf9b157d2b30c33",
+    "verification": {
+     "payload": null,
+     "reason": "unsigned",
+     "signature": null,
+     "verified": false,
+     "verified_at": null
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1772890?v=4",
+    "events_url": "https://api.github.com/users/codingjoe/events{/privacy}",
+    "followers_url": "https://api.github.com/users/codingjoe/followers",
+    "following_url": "https://api.github.com/users/codingjoe/following{/other_user}",
+    "gists_url": "https://api.github.com/users/codingjoe/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/codingjoe",
+    "id": 1772890,
+    "login": "codingjoe",
+    "node_id": "MDQ6VXNlcjE3NzI4OTA=",
+    "organizations_url": "https://api.github.com/users/codingjoe/orgs",
+    "received_events_url": "https://api.github.com/users/codingjoe/received_events",
+    "repos_url": "https://api.github.com/users/codingjoe/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/codingjoe/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/codingjoe/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/codingjoe",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/django-redis/commit/2be203229f326249c3ee59f79bf9b157d2b30c33",
+   "node_id": "C_kwDOAD3eadoAKDJiZTIwMzIyOWYzMjYyNDljM2VlNTlmNzliZjliMTU3ZDJiMzBjMzM",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/django-redis/commit/8c29dd8a5ff359b913a4064ad51cd888e17193f3",
+     "sha": "8c29dd8a5ff359b913a4064ad51cd888e17193f3",
+     "url": "https://api.github.com/repos/jazzband/django-redis/commits/8c29dd8a5ff359b913a4064ad51cd888e17193f3"
+    }
+   ],
+   "sha": "2be203229f326249c3ee59f79bf9b157d2b30c33",
+   "url": "https://api.github.com/repos/jazzband/django-redis/commits/2be203229f326249c3ee59f79bf9b157d2b30c33"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1772890?v=4",
+    "events_url": "https://api.github.com/users/codingjoe/events{/privacy}",
+    "followers_url": "https://api.github.com/users/codingjoe/followers",
+    "following_url": "https://api.github.com/users/codingjoe/following{/other_user}",
+    "gists_url": "https://api.github.com/users/codingjoe/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/codingjoe",
+    "id": 1772890,
+    "login": "codingjoe",
+    "node_id": "MDQ6VXNlcjE3NzI4OTA=",
+    "organizations_url": "https://api.github.com/users/codingjoe/orgs",
+    "received_events_url": "https://api.github.com/users/codingjoe/received_events",
+    "repos_url": "https://api.github.com/users/codingjoe/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/codingjoe/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/codingjoe/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/codingjoe",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/django-redis/commits/8c29dd8a5ff359b913a4064ad51cd888e17193f3/comments",
+   "commit": {
+    "author": {
+     "date": "2026-11-03T20:04:01Z",
+     "email": "johannes@maron.family",
+     "name": "Johannes Maron"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-11-03T20:15:50Z",
+     "email": "johannes@maron.family",
+     "name": "Johannes Maron"
+    },
+    "message": "Add news fragment for #833",
+    "tree": {
+     "sha": "0570e2324165a313ce9acc741b9e8ead8f4a5648",
+     "url": "https://api.github.com/repos/jazzband/django-redis/git/trees/0570e2324165a313ce9acc741b9e8ead8f4a5648"
+    },
+    "url": "https://api.github.com/repos/jazzband/django-redis/git/commits/8c29dd8a5ff359b913a4064ad51cd888e17193f3",
+    "verification": {
+     "payload": null,
+     "reason": "unsigned",
+     "signature": null,
+     "verified": false,
+     "verified_at": null
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1772890?v=4",
+    "events_url": "https://api.github.com/users/codingjoe/events{/privacy}",
+    "followers_url": "https://api.github.com/users/codingjoe/followers",
+    "following_url": "https://api.github.com/users/codingjoe/following{/other_user}",
+    "gists_url": "https://api.github.com/users/codingjoe/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/codingjoe",
+    "id": 1772890,
+    "login": "codingjoe",
+    "node_id": "MDQ6VXNlcjE3NzI4OTA=",
+    "organizations_url": "https://api.github.com/users/codingjoe/orgs",
+    "received_events_url": "https://api.github.com/users/codingjoe/received_events",
+    "repos_url": "https://api.github.com/users/codingjoe/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/codingjoe/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/codingjoe/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/codingjoe",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/django-redis/commit/8c29dd8a5ff359b913a4064ad51cd888e17193f3",
+   "node_id": "C_kwDOAD3eadoAKDhjMjlkZDhhNWZmMzU5YjkxM2E0MDY0YWQ1MWNkODg4ZTE3MTkzZjM",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/django-redis/commit/4f51d69a3bf20f7cd41d05dab57ec5fadc80d657",
+     "sha": "4f51d69a3bf20f7cd41d05dab57ec5fadc80d657",
+     "url": "https://api.github.com/repos/jazzband/django-redis/commits/4f51d69a3bf20f7cd41d05dab57ec5fadc80d657"
+    }
+   ],
+   "sha": "8c29dd8a5ff359b913a4064ad51cd888e17193f3",
+   "url": "https://api.github.com/repos/jazzband/django-redis/commits/8c29dd8a5ff359b913a4064ad51cd888e17193f3"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+    "events_url": "https://api.github.com/users/dependabot%5Bbot%5D/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dependabot%5Bbot%5D/followers",
+    "following_url": "https://api.github.com/users/dependabot%5Bbot%5D/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dependabot%5Bbot%5D/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/apps/dependabot",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "node_id": "MDM6Qm90NDk2OTkzMzM=",
+    "organizations_url": "https://api.github.com/users/dependabot%5Bbot%5D/orgs",
+    "received_events_url": "https://api.github.com/users/dependabot%5Bbot%5D/received_events",
+    "repos_url": "https://api.github.com/users/dependabot%5Bbot%5D/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dependabot%5Bbot%5D/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dependabot%5Bbot%5D/subscriptions",
+    "type": "Bot",
+    "url": "https://api.github.com/users/dependabot%5Bbot%5D",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/django-redis/commits/4f51d69a3bf20f7cd41d05dab57ec5fadc80d657/comments",
+   "commit": {
+    "author": {
+     "date": "2026-06-18T16:42:25Z",
+     "email": "49699333+dependabot[bot]@users.noreply.github.com",
+     "name": "dependabot[bot]"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-11-03T20:15:50Z",
+     "email": "johannes@maron.family",
+     "name": "Johannes Maron"
+    },
+    "message": "chore(deps): bump actions/checkout from 6 to 7\n\nBumps [actions/checkout](https://github.com/actions/checkout) from 6 to 7.\n- [Release notes](https://github.com/actions/checkout/releases)\n- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/actions/checkout/compare/v6...v7)\n\n---\nupdated-dependencies:\n- dependency-name: actions/checkout\n  dependency-version: '7'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>",
+    "tree": {
+     "sha": "de31e2b048465db3d6bea6027b8e8ea5cb410142",
+     "url": "https://api.github.com/repos/jazzband/django-redis/git/trees/de31e2b048465db3d6bea6027b8e8ea5cb410142"
+    },
+    "url": "https://api.github.com/repos/jazzband/django-redis/git/commits/4f51d69a3bf20f7cd41d05dab57ec5fadc80d657",
+    "verification": {
+     "payload": null,
+     "reason": "unsigned",
+     "signature": null,
+     "verified": false,
+     "verified_at": null
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1772890?v=4",
+    "events_url": "https://api.github.com/users/codingjoe/events{/privacy}",
+    "followers_url": "https://api.github.com/users/codingjoe/followers",
+    "following_url": "https://api.github.com/users/codingjoe/following{/other_user}",
+    "gists_url": "https://api.github.com/users/codingjoe/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/codingjoe",
+    "id": 1772890,
+    "login": "codingjoe",
+    "node_id": "MDQ6VXNlcjE3NzI4OTA=",
+    "organizations_url": "https://api.github.com/users/codingjoe/orgs",
+    "received_events_url": "https://api.github.com/users/codingjoe/received_events",
+    "repos_url": "https://api.github.com/users/codingjoe/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/codingjoe/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/codingjoe/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/codingjoe",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/django-redis/commit/4f51d69a3bf20f7cd41d05dab57ec5fadc80d657",
+   "node_id": "C_kwDOAD3eadoAKDRmNTFkNjlhM2JmMjBmN2NkNDFkMDVkYWI1N2VjNWZhZGM4MGQ2NTc",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/django-redis/commit/9ac829b148e8d789b200b1f2677bf98c5fcb8c68",
+     "sha": "9ac829b148e8d789b200b1f2677bf98c5fcb8c68",
+     "url": "https://api.github.com/repos/jazzband/django-redis/commits/9ac829b148e8d789b200b1f2677bf98c5fcb8c68"
+    }
+   ],
+   "sha": "4f51d69a3bf20f7cd41d05dab57ec5fadc80d657",
+   "url": "https://api.github.com/repos/jazzband/django-redis/commits/4f51d69a3bf20f7cd41d05dab57ec5fadc80d657"
+  },
+  {
+   "author": null,
+   "comments_url": "https://api.github.com/repos/jazzband/django-redis/commits/9ac829b148e8d789b200b1f2677bf98c5fcb8c68/comments",
+   "commit": {
+    "author": {
+     "date": "2026-11-03T19:56:43Z",
+     "email": "mail@johannes-marchesi.com",
+     "name": "codingjoe"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-11-03T20:06:17Z",
+     "email": "johannes@maron.family",
+     "name": "Johannes Maron"
+    },
+    "message": "Fix ruff ICN001 and add news fragment",
+    "tree": {
+     "sha": "4fd9696be0d7bf427135a99dc94a7f49e668cf70",
+     "url": "https://api.github.com/repos/jazzband/django-redis/git/trees/4fd9696be0d7bf427135a99dc94a7f49e668cf70"
+    },
+    "url": "https://api.github.com/repos/jazzband/django-redis/git/commits/9ac829b148e8d789b200b1f2677bf98c5fcb8c68",
+    "verification": {
+     "payload": null,
+     "reason": "unsigned",
+     "signature": null,
+     "verified": false,
+     "verified_at": null
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1772890?v=4",
+    "events_url": "https://api.github.com/users/codingjoe/events{/privacy}",
+    "followers_url": "https://api.github.com/users/codingjoe/followers",
+    "following_url": "https://api.github.com/users/codingjoe/following{/other_user}",
+    "gists_url": "https://api.github.com/users/codingjoe/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/codingjoe",
+    "id": 1772890,
+    "login": "codingjoe",
+    "node_id": "MDQ6VXNlcjE3NzI4OTA=",
+    "organizations_url": "https://api.github.com/users/codingjoe/orgs",
+    "received_events_url": "https://api.github.com/users/codingjoe/received_events",
+    "repos_url": "https://api.github.com/users/codingjoe/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/codingjoe/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/codingjoe/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/codingjoe",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/django-redis/commit/9ac829b148e8d789b200b1f2677bf98c5fcb8c68",
+   "node_id": "C_kwDOAD3eadoAKDlhYzgyOWIxNDhlOGQ3ODliMjAwYjFmMjY3N2JmOThjNWZjYjhjNjg",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/django-redis/commit/286e24c74d2964201df340941569f97eb0e6bf2e",
+     "sha": "286e24c74d2964201df340941569f97eb0e6bf2e",
+     "url": "https://api.github.com/repos/jazzband/django-redis/commits/286e24c74d2964201df340941569f97eb0e6bf2e"
+    }
+   ],
+   "sha": "9ac829b148e8d789b200b1f2677bf98c5fcb8c68",
+   "url": "https://api.github.com/repos/jazzband/django-redis/commits/9ac829b148e8d789b200b1f2677bf98c5fcb8c68"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/in/68672?v=4",
+    "events_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/events{/privacy}",
+    "followers_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/followers",
+    "following_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/following{/other_user}",
+    "gists_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/apps/pre-commit-ci",
+    "id": 66853113,
+    "login": "pre-commit-ci[bot]",
+    "node_id": "MDM6Qm90NjY4NTMxMTM=",
+    "organizations_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/orgs",
+    "received_events_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/received_events",
+    "repos_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/subscriptions",
+    "type": "Bot",
+    "url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/django-redis/commits/286e24c74d2964201df340941569f97eb0e6bf2e/comments",
+   "commit": {
+    "author": {
+     "date": "2026-11-02T18:02:40Z",
+     "email": "66853113+pre-commit-ci[bot]@users.noreply.github.com",
+     "name": "pre-commit-ci[bot]"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-11-03T20:06:17Z",
+     "email": "johannes@maron.family",
+     "name": "Johannes Maron"
+    },
+    "message": "[pre-commit.ci] pre-commit autoupdate\n\nupdates:\n- [github.com/astral-sh/ruff-pre-commit: v0.15.15 → v0.17.3](https://github.com/astral-sh/ruff-pre-commit/compare/v0.15.15...v0.17.3)",
+    "tree": {
+     "sha": "d484a86fb14a76f0569b6d0edea5ece06ec372f4",
+     "url": "https://api.github.com/repos/jazzband/django-redis/git/trees/d484a86fb14a76f0569b6d0edea5ece06ec372f4"
+    },
+    "url": "https://api.github.com/repos/jazzband/django-redis/git/commits/286e24c74d2964201df340941569f97eb0e6bf2e",
+    "verification": {
+     "payload": null,
+     "reason": "unsigned",
+     "signature": null,
+     "verified": false,
+     "verified_at": null
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1772890?v=4",
+    "events_url": "https://api.github.com/users/codingjoe/events{/privacy}",
+    "followers_url": "https://api.github.com/users/codingjoe/followers",
+    "following_url": "https://api.github.com/users/codingjoe/following{/other_user}",
+    "gists_url": "https://api.github.com/users/codingjoe/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/codingjoe",
+    "id": 1772890,
+    "login": "codingjoe",
+    "node_id": "MDQ6VXNlcjE3NzI4OTA=",
+    "organizations_url": "https://api.github.com/users/codingjoe/orgs",
+    "received_events_url": "https://api.github.com/users/codingjoe/received_events",
+    "repos_url": "https://api.github.com/users/codingjoe/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/codingjoe/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/codingjoe/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/codingjoe",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/django-redis/commit/286e24c74d2964201df340941569f97eb0e6bf2e",
+   "node_id": "C_kwDOAD3eadoAKDI4NmUyNGM3NGQyOTY0MjAxZGYzNDA5NDE1NjlmOTdlYjBlNmJmMmU",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/django-redis/commit/d646a755e13dee8861e15ac515cfe785ebf78274",
+     "sha": "d646a755e13dee8861e15ac515cfe785ebf78274",
+     "url": "https://api.github.com/repos/jazzband/django-redis/commits/d646a755e13dee8861e15ac515cfe785ebf78274"
+    }
+   ],
+   "sha": "286e24c74d2964201df340941569f97eb0e6bf2e",
+   "url": "https://api.github.com/repos/jazzband/django-redis/commits/286e24c74d2964201df340941569f97eb0e6bf2e"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/5825811?v=4",
+    "events_url": "https://api.github.com/users/WisdomPill/events{/privacy}",
+    "followers_url": "https://api.github.com/users/WisdomPill/followers",
+    "following_url": "https://api.github.com/users/WisdomPill/following{/other_user}",
+    "gists_url": "https://api.github.com/users/WisdomPill/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/WisdomPill",
+    "id": 5825811,
+    "login": "WisdomPill",
+    "node_id": "MDQ6VXNlcjU4MjU4MTE=",
+    "organizations_url": "https://api.github.com/users/WisdomPill/orgs",
+    "received_events_url": "https://api.github.com/users/WisdomPill/received_events",
+    "repos_url": "https://api.github.com/users/WisdomPill/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/WisdomPill/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/WisdomPill/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/WisdomPill",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/django-redis/commits/d646a755e13dee8861e15ac515cfe785ebf78274/comments",
+   "commit": {
+    "author": {
+     "date": "2026-06-15T07:18:08Z",
+     "email": "anas.el.amraoui@live.com",
+     "name": "Anas"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-06-15T07:18:08Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Merge pull request #831 from jazzband/dependabot/github_actions/codecov/codecov-action-7\n\nchore(deps): bump codecov/codecov-action from 6 to 7",
+    "tree": {
+     "sha": "79fedecefb5227d0ffe153668160378c905e9f3f",
+     "url": "https://api.github.com/repos/jazzband/django-redis/git/trees/79fedecefb5227d0ffe153668160378c905e9f3f"
+    },
+    "url": "https://api.github.com/repos/jazzband/django-redis/git/commits/d646a755e13dee8861e15ac515cfe785ebf78274",
+    "verification": {
+     "payload": "tree 79fedecefb5227d0ffe153668160378c905e9f3f\nparent a3a2590e75b19f9f3d813388368317a6d8013321\nparent 529f9caa83669ec33c27463b353e65ee6d94b66f\nauthor Anas <anas.el.amraoui@live.com> 1781507888 +0300\ncommitter GitHub <noreply@github.com> 1781507888 +0300\n\nMerge pull request #831 from jazzband/dependabot/github_actions/codecov/codecov-action-7\n\nchore(deps): bump codecov/codecov-action from 6 to 7",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqL6cwCRC1aQ7uu5UhlAAAOPEQAJJ/alCHi0a8fXLa6snE5jJU\n4m+jc9qAfYxXAB6JgYLJK0bKxAoaLgCqX3Z8ufXzaYu8rtgokBRVqCCmfK0k81A1\nqAxBu7NQkMA0/NjDaQQRhf6aEXTLTsfPfnBBrAL7CTsTjcJpo1ZLL+nUH6jyUaOs\nx9Rul6bLmsTpDTSoa+SnpthZtxwdwQZ4lcD4oJhPX8l4tw2IE6DK+u6s+Nn5veaF\no8/3FPpK/2BS7FLDfcdlAezcKG0FkWFK6oJuvrWnw//nlni/Em8GO0CO587tJ1rW\npAhty++4bguDDoafaJX5nHnL065xw/oG5rwnS/GL74HPTJgUPP49URmlBCyaeNuP\n5Qlc/RX9c3QDE4u7Bof+bAny6M35Nfc/05XOlXqFXD85Qc5Spq1ZCGCBK7obTDnA\nIH/DeIRcOL3DRvEEMXtn1/laRc3T2JOSOSUkgviHmVnbXnHYbntR2DiyZM66j6TK\n4gJEUy7vQqeB32LA3Nig7GACvMFvwna04NSf0pc+rzS9SFpGJTgyNvUHvaDWBTTY\n7KaENJn+2kRx8idm6XMFOBb4ax1YggzGxAfz401mvnNFe6fgXe/YzjJCgmz9S1n7\n6IMAk/hzp7Dmt/zUMDwWpWYhOb+Q1fpK550FAwLx8doE83tUv2p8yCGDd9i5w0q5\nLswc7R92oV98nbDyXMPA\n=9Jwo\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-06-15T07:18:09Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/django-redis/commit/d646a755e13dee8861e15ac515cfe785ebf78274",
+   "node_id": "C_kwDOAD3eadoAKGQ2NDZhNzU1ZTEzZGVlODg2MWUxNWFjNTE1Y2ZlNzg1ZWJmNzgyNzQ",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/django-redis/commit/a3a2590e75b19f9f3d813388368317a6d8013321",
+     "sha": "a3a2590e75b19f9f3d813388368317a6d8013321",
+     "url": "https://api.github.com/repos/jazzband/django-redis/commits/a3a2590e75b19f9f3d813388368317a6d8013321"
+    },
+    {
+     "html_url": "https://github.com/jazzband/django-redis/commit/529f9caa83669ec33c27463b353e65ee6d94b66f",
+     "sha": "529f9caa83669ec33c27463b353e65ee6d94b66f",
+     "url": "https://api.github.com/repos/jazzband/django-redis/commits/529f9caa83669ec33c27463b353e65ee6d94b66f"
+    }
+   ],
+   "sha": "d646a755e13dee8861e15ac515cfe785ebf78274",
+   "url": "https://api.github.com/repos/jazzband/django-redis/commits/d646a755e13dee8861e15ac515cfe785ebf78274"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+    "events_url": "https://api.github.com/users/dependabot%5Bbot%5D/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dependabot%5Bbot%5D/followers",
+    "following_url": "https://api.github.com/users/dependabot%5Bbot%5D/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dependabot%5Bbot%5D/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/apps/dependabot",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "node_id": "MDM6Qm90NDk2OTkzMzM=",
+    "organizations_url": "https://api.github.com/users/dependabot%5Bbot%5D/orgs",
+    "received_events_url": "https://api.github.com/users/dependabot%5Bbot%5D/received_events",
+    "repos_url": "https://api.github.com/users/dependabot%5Bbot%5D/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dependabot%5Bbot%5D/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dependabot%5Bbot%5D/subscriptions",
+    "type": "Bot",
+    "url": "https://api.github.com/users/dependabot%5Bbot%5D",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/django-redis/commits/529f9caa83669ec33c27463b353e65ee6d94b66f/comments",
+   "commit": {
+    "author": {
+     "date": "2026-06-08T16:42:44Z",
+     "email": "49699333+dependabot[bot]@users.noreply.github.com",
+     "name": "dependabot[bot]"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-06-08T16:42:44Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "chore(deps): bump codecov/codecov-action from 6 to 7\n\nBumps [codecov/codecov-action](https://github.com/codecov/codecov-action) from 6 to 7.\n- [Release notes](https://github.com/codecov/codecov-action/releases)\n- [Changelog](https://github.com/codecov/codecov-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/codecov/codecov-action/compare/v6...v7)\n\n---\nupdated-dependencies:\n- dependency-name: codecov/codecov-action\n  dependency-version: '7'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>",
+    "tree": {
+     "sha": "79fedecefb5227d0ffe153668160378c905e9f3f",
+     "url": "https://api.github.com/repos/jazzband/django-redis/git/trees/79fedecefb5227d0ffe153668160378c905e9f3f"
+    },
+    "url": "https://api.github.com/repos/jazzband/django-redis/git/commits/529f9caa83669ec33c27463b353e65ee6d94b66f",
+    "verification": {
+     "payload": "tree 79fedecefb5227d0ffe153668160378c905e9f3f\nparent a3a2590e75b19f9f3d813388368317a6d8013321\nauthor dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 1780936964 +0000\ncommitter GitHub <noreply@github.com> 1780936964 +0000\n\nchore(deps): bump codecov/codecov-action from 6 to 7\n\nBumps [codecov/codecov-action](https://github.com/codecov/codecov-action) from 6 to 7.\n- [Release notes](https://github.com/codecov/codecov-action/releases)\n- [Changelog](https://github.com/codecov/codecov-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/codecov/codecov-action/compare/v6...v7)\n\n---\nupdated-dependencies:\n- dependency-name: codecov/codecov-action\n  dependency-version: '7'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqJvEECRC1aQ7uu5UhlAAA6PQQACKemsSieUoIUitqNXiyZIRO\nLDvgqugE6eV/Ty/9KwrDjyLlXuOK5BBK7yFnA56FbibF8ptatK+mKPuC0rMDWRI0\nabxnLSe8/2Rf1imalT4z/2s5m8g7YVT2/dOV3OnI01yX3Kzh9hDdVW958637UH98\n7WWWfDPcy+wLnCtshEx22AbvvGWpwWto+teSw2/dAsPUe2qWP2fc2GV0wzpgLag1\nKeS7X/S5DuKO4oGJZBoel3EId3Y5sBh83SWRQbFH2reUP03eIUbkQDp3C0ZFtbEn\npDcmSdf6bhmY/FmYY4er6lPDeU8K6Ukj4WZJvPnxZficJzGl+GNtcHsWwSnQxyrG\nfCb3EJDje8DvkroGSDh0EQduufsUfS5Maq51n7nHI+QrEe3xK4LGtF7JVP6lR9Qp\nqBiQk62GawTCd+qPaFquoSeDMIdDlLAe2NiXfx8QP2anv1uJ0PPrOrjwE1WCjqT5\nzXl+DqzD6JbVZJoFrSqB+ZeWkbSTFCqabOctZbCbOvbZkjkKgiPb4GwXiDoLQY9n\n5rcVmzwjuAta+9Z0+8mYbhrg1/Cp7AJFAbD/BIShhPr/UiUkukXjyJ/B/XxmjbrX\njPrj10PT715STj3R34HmjbQsTgKgoE0tIvgEZrpGtceeVN0Bwbr+cbKWnXDNU8AY\niFZH4BSt2X4/yYjvh/pb\n=Ovlr\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-06-08T16:42:45Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/django-redis/commit/529f9caa83669ec33c27463b353e65ee6d94b66f",
+   "node_id": "C_kwDOAD3eadoAKDUyOWY5Y2FhODM2NjllYzMzYzI3NDYzYjM1M2U2NWVlNmQ5NGI2NmY",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/django-redis/commit/a3a2590e75b19f9f3d813388368317a6d8013321",
+     "sha": "a3a2590e75b19f9f3d813388368317a6d8013321",
+     "url": "https://api.github.com/repos/jazzband/django-redis/commits/a3a2590e75b19f9f3d813388368317a6d8013321"
+    }
+   ],
+   "sha": "529f9caa83669ec33c27463b353e65ee6d94b66f",
+   "url": "https://api.github.com/repos/jazzband/django-redis/commits/529f9caa83669ec33c27463b353e65ee6d94b66f"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/5825811?v=4",
+    "events_url": "https://api.github.com/users/WisdomPill/events{/privacy}",
+    "followers_url": "https://api.github.com/users/WisdomPill/followers",
+    "following_url": "https://api.github.com/users/WisdomPill/following{/other_user}",
+    "gists_url": "https://api.github.com/users/WisdomPill/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/WisdomPill",
+    "id": 5825811,
+    "login": "WisdomPill",
+    "node_id": "MDQ6VXNlcjU4MjU4MTE=",
+    "organizations_url": "https://api.github.com/users/WisdomPill/orgs",
+    "received_events_url": "https://api.github.com/users/WisdomPill/received_events",
+    "repos_url": "https://api.github.com/users/WisdomPill/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/WisdomPill/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/WisdomPill/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/WisdomPill",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/django-redis/commits/a3a2590e75b19f9f3d813388368317a6d8013321/comments",
+   "commit": {
+    "author": {
+     "date": "2026-06-02T14:23:30Z",
+     "email": "anas.el.amraoui@live.com",
+     "name": "Anas"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-06-02T14:23:30Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Merge pull request #828 from jazzband/pre-commit-ci-update-config\n\n[pre-commit.ci] pre-commit autoupdate",
+    "tree": {
+     "sha": "bfc10f32c7f25cd0f5185f5382d4aa67a9e7e628",
+     "url": "https://api.github.com/repos/jazzband/django-redis/git/trees/bfc10f32c7f25cd0f5185f5382d4aa67a9e7e628"
+    },
+    "url": "https://api.github.com/repos/jazzband/django-redis/git/commits/a3a2590e75b19f9f3d813388368317a6d8013321",
+    "verification": {
+     "payload": "tree bfc10f32c7f25cd0f5185f5382d4aa67a9e7e628\nparent 0ee6b11bb1affb0eda01b027eccb2d3af19d0b9f\nparent 98803145ccdbeb113a2308749d878ccc8aba3087\nauthor Anas <anas.el.amraoui@live.com> 1780410210 +0300\ncommitter GitHub <noreply@github.com> 1780410210 +0300\n\nMerge pull request #828 from jazzband/pre-commit-ci-update-config\n\n[pre-commit.ci] pre-commit autoupdate",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqHudiCRC1aQ7uu5UhlAAAeTgQAKZKidlNZ3VVnDprTPCJL6t2\nvQLIBxeRaFZrb+bMu5r33hdBJW98h5HCMhm75g4TP5IfLQbxK7Uw1X5pWyAa4PXb\n4Jn6XXbCjl8p+Tmbk25lklED3Wv9v+0nmWrbXXOeE9H2X4JtwTjD29nKj2p4rWAT\n+SzxFn7S4se5YCh+qf10H3Gvk1cmCffhyC+tt2RnsQFRDY4VeF0Sf+46DuJxPFo7\nt8VB5xMSyctY52D0EW0FMqHQva7DmatSinFRyYFB6Pi0Xy8VLTDsN4k1Vo9maQyz\nqMsdUE/WEFHZVIqbKuBgOY7jinoirfYvieSu+fTyp4uA6Oj2pfnNPjTVQykL/bnE\n1KVF9v4/yQ++H72a1qQQb9Keevs034QXZQAusmmM56uqJQx+3hcKTyrc4j1pr9rh\nWxTVCs3Qa0npjvLTmeVi5hJ1Xrv4zZDwMwTiR4FRdnLH+T3Kk+EKDAlvESWqB1/7\nZQyg7lDnGIn4/B4GROX9ZfnR6f9avspNqB5/k0D5ITxFBakI4JR5AkxYdpr8zXIm\nj2q6MeuEn81twvVtfrD6tgnAGgzDYhoSptNvCSjE/XoGVO52aJlR9RF7NWjT/qF1\nTJwrAsTjth5iG/b3NhEyK9mFeQrxH1lNLKDivjCDacZ+QphEY1wv49u+jnc9meip\ngdS1jN6xUrdq0/Z+nLCR\n=p/VD\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-06-02T14:23:32Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/django-redis/commit/a3a2590e75b19f9f3d813388368317a6d8013321",
+   "node_id": "C_kwDOAD3eadoAKGEzYTI1OTBlNzViMTlmOWYzZDgxMzM4ODM2ODMxN2E2ZDgwMTMzMjE",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/django-redis/commit/0ee6b11bb1affb0eda01b027eccb2d3af19d0b9f",
+     "sha": "0ee6b11bb1affb0eda01b027eccb2d3af19d0b9f",
+     "url": "https://api.github.com/repos/jazzband/django-redis/commits/0ee6b11bb1affb0eda01b027eccb2d3af19d0b9f"
+    },
+    {
+     "html_url": "https://github.com/jazzband/django-redis/commit/98803145ccdbeb113a2308749d878ccc8aba3087",
+     "sha": "98803145ccdbeb113a2308749d878ccc8aba3087",
+     "url": "https://api.github.com/repos/jazzband/django-redis/commits/98803145ccdbeb113a2308749d878ccc8aba3087"
+    }
+   ],
+   "sha": "a3a2590e75b19f9f3d813388368317a6d8013321",
+   "url": "https://api.github.com/repos/jazzband/django-redis/commits/a3a2590e75b19f9f3d813388368317a6d8013321"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/438813?v=4",
+    "events_url": "https://api.github.com/users/terencehonles/events{/privacy}",
+    "followers_url": "https://api.github.com/users/terencehonles/followers",
+    "following_url": "https://api.github.com/users/terencehonles/following{/other_user}",
+    "gists_url": "https://api.github.com/users/terencehonles/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/terencehonles",
+    "id": 438813,
+    "login": "terencehonles",
+    "node_id": "MDQ6VXNlcjQzODgxMw==",
+    "organizations_url": "https://api.github.com/users/terencehonles/orgs",
+    "received_events_url": "https://api.github.com/users/terencehonles/received_events",
+    "repos_url": "https://api.github.com/users/terencehonles/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/terencehonles/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/terencehonles/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/terencehonles",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/django-redis/commits/0ee6b11bb1affb0eda01b027eccb2d3af19d0b9f/comments",
+   "commit": {
+    "author": {
+     "date": "2026-06-02T14:11:13Z",
+     "email": "terence@honles.com",
+     "name": "Terence Honles"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-06-02T14:11:13Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "release 7.0 (#830)",
+    "tree": {
+     "sha": "9743e80f5be4ecbac5532deca14d0863bdeb9774",
+     "url": "https://api.github.com/repos/jazzband/django-redis/git/trees/9743e80f5be4ecbac5532deca14d0863bdeb9774"
+    },
+    "url": "https://api.github.com/repos/jazzband/django-redis/git/commits/0ee6b11bb1affb0eda01b027eccb2d3af19d0b9f",
+    "verification": {
+     "payload": "tree 9743e80f5be4ecbac5532deca14d0863bdeb9774\nparent fcc882bd431521e0829d16a0a6aa152fbb2c952d\nauthor Terence Honles <terence@honles.com> 1780409473 +0200\ncommitter GitHub <noreply@github.com> 1780409473 +0200\n\nrelease 7.0 (#830)",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqHuSBCRC1aQ7uu5UhlAAALq0QAAtZ1kANhTnoFNJyx2HGfePy\nqjry9SIdcbQaj4VZoJQG4cF/0Cm5PmaXJkyoW0H2lR6P1p7RKECmn25EiiYYA2JY\nTosVKSeAx2A+WjEtbiOYSH0TDegPSGNex5aHJaikONXq8o+THjP3QwqYrBlXDP07\nXd1zTtE7e7NxwnUof6vteIf2UZ6Mk8d/AUPRJYgORnY4RfbJMyEc0cl1r/X7WNhZ\nJ7cXpxprhzHKVgenMhdqPOofuI4Zb3VU6AyW601TrrISqPTZtLTxflm9mJUQ7mWj\nugTe/S61wAjttdbkfh58nYEWKLge/ooz2zbNrhjbzAW4ae+P4aPguRqTC6UrmZg1\nfp03aaYWqtfbb8qC+eDsrTfXm5mAp4SN3zha/gVNX5kjObscXZ84jU8cGLErlESz\neBYaAJXNucMnuzGPUb/gvwZTqi2r6nniC5iKJsJ4YR/mMJH4rhUh1Yo/qyeRLSri\n+cNRk3tacUl9MH7/OFXaGO+HsowbONKWxG09gg41dERGuo+nAdmcLYgQQl3M/QpC\nFyZ7OfGEESmV3TNxF/jsUtpKymRLIlwwPq1B+805mjjMENaWaZAfpeQEscGdna3l\nDG8YbEufei/rRF04HcOK41iH8TkoJvnQBOyffkZXZXLECr7C2tPYmI12PlGIy+ix\nG6ItyKxEa8aVHiUebv8g\n=QyIM\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-06-02T14:11:14Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/django-redis/commit/0ee6b11bb1affb0eda01b027eccb2d3af19d0b9f",
+   "node_id": "C_kwDOAD3eadoAKDBlZTZiMTFiYjFhZmZiMGVkYTAxYjAyN2VjY2IyZDNhZjE5ZDBiOWY",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/django-redis/commit/fcc882bd431521e0829d16a0a6aa152fbb2c952d",
+     "sha": "fcc882bd431521e0829d16a0a6aa152fbb2c952d",
+     "url": "https://api.github.com/repos/jazzband/django-redis/commits/fcc882bd431521e0829d16a0a6aa152fbb2c952d"
+    }
+   ],
+   "sha": "0ee6b11bb1affb0eda01b027eccb2d3af19d0b9f",
+   "url": "https://api.github.com/repos/jazzband/django-redis/commits/0ee6b11bb1affb0eda01b027eccb2d3af19d0b9f"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/24736037?v=4",
+    "events_url": "https://api.github.com/users/joachimBurket/events{/privacy}",
+    "followers_url": "https://api.github.com/users/joachimBurket/followers",
+    "following_url": "https://api.github.com/users/joachimBurket/following{/other_user}",
+    "gists_url": "https://api.github.com/users/joachimBurket/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/joachimBurket",
+    "id": 24736037,
+    "login": "joachimBurket",
+    "node_id": "MDQ6VXNlcjI0NzM2MDM3",
+    "organizations_url": "https://api.github.com/users/joachimBurket/orgs",
+    "received_events_url": "https://api.github.com/users/joachimBurket/received_events",
+    "repos_url": "https://api.github.com/users/joachimBurket/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/joachimBurket/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/joachimBurket/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/joachimBurket",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/django-redis/commits/fcc882bd431521e0829d16a0a6aa152fbb2c952d/comments",
+   "commit": {
+    "author": {
+     "date": "2026-06-02T13:37:48Z",
+     "email": "joachimBurket@users.noreply.github.com",
+     "name": "Joachim Burket"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-06-02T13:37:48Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "feat: Allow cache OPTIONS to specify USERNAME (#657)\n\n\n---------\n\nCo-authored-by: Joachim Burket <joachim.burket@hopitalvs.ch>\nCo-authored-by: Terence D. Honles <terence@honles.com>",
+    "tree": {
+     "sha": "6cd82c444bda5a24cfca3e6b74a9377341f8d4fd",
+     "url": "https://api.github.com/repos/jazzband/django-redis/git/trees/6cd82c444bda5a24cfca3e6b74a9377341f8d4fd"
+    },
+    "url": "https://api.github.com/repos/jazzband/django-redis/git/commits/fcc882bd431521e0829d16a0a6aa152fbb2c952d",
+    "verification": {
+     "payload": "tree 6cd82c444bda5a24cfca3e6b74a9377341f8d4fd\nparent 85c5c3d44af4dca2cf33e0989d331eecb609a37c\nauthor Joachim Burket <joachimBurket@users.noreply.github.com> 1780407468 +0200\ncommitter GitHub <noreply@github.com> 1780407468 +0200\n\nfeat: Allow cache OPTIONS to specify USERNAME (#657)\n\n\n---------\n\nCo-authored-by: Joachim Burket <joachim.burket@hopitalvs.ch>\nCo-authored-by: Terence D. Honles <terence@honles.com>",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqHtysCRC1aQ7uu5UhlAAA/AAQABQnr5pF41uPc/sjwmVMQmhr\ncnfdmGZkmmRG8ZyNbeMvXoITNoA0M8/hDv1Pn9zKrPB2rh7oSl31YHvdHTzWml9W\n7WgISBAqvfOlMLKc6229V9BoOS9cWOBVH5wzjJvTnOJVT7x3qvcU28OoS6OgVUns\nWnj74IdTbfOEd7inDkkjywRwo20d86oHZQsUPTAwA5HhRY2fwldiCZCchPNW0Dkk\n7rryX4Z4hBXJ37AJ0chgMu+FPXln5bZsUfFvXdaSwlvkph4bNmNGkWPcu1bUKo1j\noFnPvecDh9v24CIjqVVesmaE00PYq7NDKdlh7JtIwo1H5QWdYbC8E4EYmj3BM/Rw\nsYNry45nAHlWzqSycla0B8ORYgGPI0L0e+5ROZQsgQJowQdow16wShofx3aj5BvZ\n0gimldG4Ht+5GFzSdJJxkVXl43VljvvEDPrJKp+sNxaAvM7iWlputdFrBgKnvTyD\nQCjcWBQichnY8UhosvJEn8lET2d0x9vMdVhTbuUcT7TpxSA9+Tmju+QKoOUb3eZz\nxKF5k+CjW8eTplhoMpn3nGbdMqmADL69E/YUH4FxsZVAzHRp320AqPsDauVpgmMe\nknkM7iEb5r4uzbT0SJOjpd4zbLAeZxQZQtfSswgp3RDavbfmjjvlxazdFGkwRSqp\npf+jjzMUnGdePR958htI\n=Wiwd\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-06-02T13:37:49Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/django-redis/commit/fcc882bd431521e0829d16a0a6aa152fbb2c952d",
+   "node_id": "C_kwDOAD3eadoAKGZjYzg4MmJkNDMxNTIxZTA4MjlkMTZhMGE2YWExNTJmYmIyYzk1MmQ",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/django-redis/commit/85c5c3d44af4dca2cf33e0989d331eecb609a37c",
+     "sha": "85c5c3d44af4dca2cf33e0989d331eecb609a37c",
+     "url": "https://api.github.com/repos/jazzband/django-redis/commits/85c5c3d44af4dca2cf33e0989d331eecb609a37c"
+    }
+   ],
+   "sha": "fcc882bd431521e0829d16a0a6aa152fbb2c952d",
+   "url": "https://api.github.com/repos/jazzband/django-redis/commits/fcc882bd431521e0829d16a0a6aa152fbb2c952d"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/5825811?v=4",
+    "events_url": "https://api.github.com/users/WisdomPill/events{/privacy}",
+    "followers_url": "https://api.github.com/users/WisdomPill/followers",
+    "following_url": "https://api.github.com/users/WisdomPill/following{/other_user}",
+    "gists_url": "https://api.github.com/users/WisdomPill/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/WisdomPill",
+    "id": 5825811,
+    "login": "WisdomPill",
+    "node_id": "MDQ6VXNlcjU4MjU4MTE=",
+    "organizations_url": "https://api.github.com/users/WisdomPill/orgs",
+    "received_events_url": "https://api.github.com/users/WisdomPill/received_events",
+    "repos_url": "https://api.github.com/users/WisdomPill/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/WisdomPill/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/WisdomPill/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/WisdomPill",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/django-redis/commits/85c5c3d44af4dca2cf33e0989d331eecb609a37c/comments",
+   "commit": {
+    "author": {
+     "date": "2026-06-02T12:05:12Z",
+     "email": "anas.el.amraoui@live.com",
+     "name": "Anas"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-06-02T12:05:12Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "fix: fix encoding IntEnum values (#602)\n\n\n---------\n\nCo-authored-by: Terence D. Honles <terence@honles.com>",
+    "tree": {
+     "sha": "90e204798d6fe9af319a5a3d9151fcaab66e3c7d",
+     "url": "https://api.github.com/repos/jazzband/django-redis/git/trees/90e204798d6fe9af319a5a3d9151fcaab66e3c7d"
+    },
+    "url": "https://api.github.com/repos/jazzband/django-redis/git/commits/85c5c3d44af4dca2cf33e0989d331eecb609a37c",
+    "verification": {
+     "payload": "tree 90e204798d6fe9af319a5a3d9151fcaab66e3c7d\nparent 8558af4203246968568f5ee562b165d2cf7a7861\nauthor Anas <anas.el.amraoui@live.com> 1780401912 +0300\ncommitter GitHub <noreply@github.com> 1780401912 +0200\n\nfix: fix encoding IntEnum values (#602)\n\n\n---------\n\nCo-authored-by: Terence D. Honles <terence@honles.com>",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqHsb4CRC1aQ7uu5UhlAAA5HUQAIT04NBMLpspyTaQobuBSlsr\nESHihzDi6PtryhKz8JBzD4LIDHNdSoE0JyTf3xgeaYZPGk5R/nNGe7Y+NIYmRjlp\ngJYYzTQ7WQ4wbZdJDqWq5LCWtDY8LPvmzBtzQ9iOUtlIDeEb4R+2UazhE/PwKl4a\nbM0RvH9nn1reNCXaqkWuwtIP93PSBnt7V6XQ4xn1QjGpQPz8voAYi05/2FDPKltN\ntrqvhlOEPCVrIGJdYuZRTvIEMbPq9foZXxsd2MCXETX57gKRGXBhdAWkW/mAAL2E\n2XfFqV8Gm6GDfy8bs99cqWLZcyMWLFJY2sYVRjYur1b0fTgGiYUPDca0VHLQaQbl\nXIouIHctU7sNO2nkNA5NLoGW9WyvchyAShhZiGkNAts/w6Jxs2a7xQedt36VWXbS\nS5/rNPswmrkHOjp0K4EWquJXWPA9KZaQHFsFrukyfQ2WfamaNm7b0UsiJGZEn01x\n3Xv+2ef6WB+495vNCOym4vCkcCQlP2CTwbACdTpD4WNhw9BGyuI1F37FD2MN4HTO\nqa8q3PKa99xNAhH+pQHohLkIyEH49XFrEb+7w+rREkpvYqXHjbDJy7ICR28Iax0f\nDbYeXK8YPHlZeR7NQwX2896mHUpcFTasBISRGrHNPGa1wu6SQXqohj8rLHSj0JzZ\n5j+Rk0Z5ToNrtRyhNaJD\n=5c+b\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-06-02T12:05:13Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/django-redis/commit/85c5c3d44af4dca2cf33e0989d331eecb609a37c",
+   "node_id": "C_kwDOAD3eadoAKDg1YzVjM2Q0NGFmNGRjYTJjZjMzZTA5ODlkMzMxZWVjYjYwOWEzN2M",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/django-redis/commit/8558af4203246968568f5ee562b165d2cf7a7861",
+     "sha": "8558af4203246968568f5ee562b165d2cf7a7861",
+     "url": "https://api.github.com/repos/jazzband/django-redis/commits/8558af4203246968568f5ee562b165d2cf7a7861"
+    }
+   ],
+   "sha": "85c5c3d44af4dca2cf33e0989d331eecb609a37c",
+   "url": "https://api.github.com/repos/jazzband/django-redis/commits/85c5c3d44af4dca2cf33e0989d331eecb609a37c"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/97506060?v=4",
+    "events_url": "https://api.github.com/users/wloggains-mmllc/events{/privacy}",
+    "followers_url": "https://api.github.com/users/wloggains-mmllc/followers",
+    "following_url": "https://api.github.com/users/wloggains-mmllc/following{/other_user}",
+    "gists_url": "https://api.github.com/users/wloggains-mmllc/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/wloggains-mmllc",
+    "id": 97506060,
+    "login": "wloggains-mmllc",
+    "node_id": "U_kgDOBc_TDA",
+    "organizations_url": "https://api.github.com/users/wloggains-mmllc/orgs",
+    "received_events_url": "https://api.github.com/users/wloggains-mmllc/received_events",
+    "repos_url": "https://api.github.com/users/wloggains-mmllc/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/wloggains-mmllc/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/wloggains-mmllc/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/wloggains-mmllc",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/django-redis/commits/8558af4203246968568f5ee562b165d2cf7a7861/comments",
+   "commit": {
+    "author": {
+     "date": "2026-06-02T11:27:06Z",
+     "email": "97506060+wloggains-mmllc@users.noreply.github.com",
+     "name": "Wilson Loggains"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-06-02T11:27:06Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "feat: update `RedisCache.close` to check for client before closing (#796)\n\n\n---------\n\nCo-authored-by: Terence Honles <terence@honles.com>",
+    "tree": {
+     "sha": "26a11cb4a5cd2c7e3bff1742d8f3452eca2b76e4",
+     "url": "https://api.github.com/repos/jazzband/django-redis/git/trees/26a11cb4a5cd2c7e3bff1742d8f3452eca2b76e4"
+    },
+    "url": "https://api.github.com/repos/jazzband/django-redis/git/commits/8558af4203246968568f5ee562b165d2cf7a7861",
+    "verification": {
+     "payload": "tree 26a11cb4a5cd2c7e3bff1742d8f3452eca2b76e4\nparent 53a1de3a5286edfd0123cbcfe2c0d63a93ef7fab\nauthor Wilson Loggains <97506060+wloggains-mmllc@users.noreply.github.com> 1780399626 -0500\ncommitter GitHub <noreply@github.com> 1780399626 +0200\n\nfeat: update `RedisCache.close` to check for client before closing (#796)\n\n\n---------\n\nCo-authored-by: Terence Honles <terence@honles.com>",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqHr4KCRC1aQ7uu5UhlAAArAEQADOKKnNJCy4ALXLdiS4ZPqZb\nHr995jW6uXnuWsgfYjnxnbpgITkA6L6FFkpxfqIv9RLeG4cFnYJLXSICZCHXS+Mq\nQq9csmKP2I729t0TyS2QyrIWDlRlxzlxBzcE0l/l8/svkOppEFDygqpXkeMBMdg7\n9V5IVhJAXqYuKoCkHqS+C3ruXNHmhXqgUhCSf9P0C/+jpqsEBZzsMKM/Qr8zVYD0\nO4jkPGReHLhvJZ06xopy/Csh5Ncwpobr9sMedOMTY47hpIE2aIywlFrohTEQyQin\nJv5sSF2fzGg/FwMF5SaSD2XAig6fboJpXM4FTri18r2rSyWirEZzgJAj3KRZ4cKm\n5MZ3p7HRbTpEIe5v5IFb+2277tGi1TwDh7eokCndvO2Zkj31Mmz0yyZScM8c8IcV\nmD+xwoBAvoaNIFIiM8+2a/RO41O5Rf5BC3uot6PCv2lpJ9RXe0o/4X4R4y3qf6uX\ntiMZhkZbpHq2TeYxoeb4iJQrz492Tmodw6m81tG5hEcEioY8s+ythDCV/ou1N2uK\nPdyfse9QGSd2BIL+UjwAooqjIidSCgqMfNZKuJwdjzOMlgypaGco3UX7oujHrEB2\nYEmp3U8nD9/aCC7qT8BHAz41eOJUf+aR7mTqOB5lcw+1J1TldtvC9eGVYx8Qvlff\nPupgpTyokVEqJSkznxcQ\n=Yy6h\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-06-02T11:27:06Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/django-redis/commit/8558af4203246968568f5ee562b165d2cf7a7861",
+   "node_id": "C_kwDOAD3eadoAKDg1NThhZjQyMDMyNDY5Njg1NjhmNWVlNTYyYjE2NWQyY2Y3YTc4NjE",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/django-redis/commit/53a1de3a5286edfd0123cbcfe2c0d63a93ef7fab",
+     "sha": "53a1de3a5286edfd0123cbcfe2c0d63a93ef7fab",
+     "url": "https://api.github.com/repos/jazzband/django-redis/commits/53a1de3a5286edfd0123cbcfe2c0d63a93ef7fab"
+    }
+   ],
+   "sha": "8558af4203246968568f5ee562b165d2cf7a7861",
+   "url": "https://api.github.com/repos/jazzband/django-redis/commits/8558af4203246968568f5ee562b165d2cf7a7861"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/438813?v=4",
+    "events_url": "https://api.github.com/users/terencehonles/events{/privacy}",
+    "followers_url": "https://api.github.com/users/terencehonles/followers",
+    "following_url": "https://api.github.com/users/terencehonles/following{/other_user}",
+    "gists_url": "https://api.github.com/users/terencehonles/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/terencehonles",
+    "id": 438813,
+    "login": "terencehonles",
+    "node_id": "MDQ6VXNlcjQzODgxMw==",
+    "organizations_url": "https://api.github.com/users/terencehonles/orgs",
+    "received_events_url": "https://api.github.com/users/terencehonles/received_events",
+    "repos_url": "https://api.github.com/users/terencehonles/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/terencehonles/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/terencehonles/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/terencehonles",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/django-redis/commits/53a1de3a5286edfd0123cbcfe2c0d63a93ef7fab/comments",
+   "commit": {
+    "author": {
+     "date": "2026-06-02T11:21:57Z",
+     "email": "terence@honles.com",
+     "name": "Terence Honles"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-06-02T11:21:57Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "feat: provide TypeVar defaults & provide initial typing for `RedisCache` (#829)",
+    "tree": {
+     "sha": "3eba81fcd3098e75d75bfc7ae8f9525507f2f9ae",
+     "url": "https://api.github.com/repos/jazzband/django-redis/git/trees/3eba81fcd3098e75d75bfc7ae8f9525507f2f9ae"
+    },
+    "url": "https://api.github.com/repos/jazzband/django-redis/git/commits/53a1de3a5286edfd0123cbcfe2c0d63a93ef7fab",
+    "verification": {
+     "payload": "tree 3eba81fcd3098e75d75bfc7ae8f9525507f2f9ae\nparent 308e2e155871fbd74c6ae814cc6905c0ec030d0d\nauthor Terence Honles <terence@honles.com> 1780399317 +0200\ncommitter GitHub <noreply@github.com> 1780399317 +0200\n\nfeat: provide TypeVar defaults & provide initial typing for `RedisCache` (#829)",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqHrzVCRC1aQ7uu5UhlAAAyt0QAKK+B4XN9Y26xaTdevZSdjv2\n+CSwXsCVBMSQ/OjweUUQWNLcC7gK4rTa7HIMdYCxAXztQbuS2TcvytHkyk6QQiDz\n7ct6BjZMg5pJ7IQvzg5Qz7SYHnBLIpwzhNzAVE6EnAT4oB66iGOG9T34K4aijoHw\njwGCwZWhDWuJm+ABXRzjbTCtohCKc83RE4IFbdReFZWPsPEa+OAMx+Nz8p6eF9nm\nD9PRVSk97dK7Nbyn0/E1IIqa8ySFtl+njuMYcsg6+SS0q/wdQOqHMzdJ4DQsPcs/\nvFe40bF6n1RqQwiEuNVr7zpsTuUFghGla+EBDcp+PBtfxtulEyf0AfgaA8rN95sd\nN9SNipc4zqWeDw6w3zKdv3RVJlKB0KSgOFpKcECsUXnJhe5C1O6kar03eNMUNkYV\nlYJwz/eQtDjy+mYeAq5/cggFEia6xDhXNqK42He5f6uFjjTPhEUe/ABqacbiKlSI\nAlfQ8kWd2FiqSvLbo9OPkEL+oyY75pmX5sS+GBKHG2W85eg0OpbYliDmthEeow5P\njePOciuvd84nGBW17M0Lca8K3ou5eSEy8Ox4w31Cces0tOiDtUkKu5m3GfbC7vHp\nf7FFkMqArwwZrq+7eeY8cmJObRl399+FflUiB8GH2G+IrPysXuKJo87KcSjn6VMh\nSmcTcMNXqEoInVo6w8b3\n=0psb\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-06-02T11:21:57Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/django-redis/commit/53a1de3a5286edfd0123cbcfe2c0d63a93ef7fab",
+   "node_id": "C_kwDOAD3eadoAKDUzYTFkZTNhNTI4NmVkZmQwMTIzY2JjZmUyYzBkNjNhOTNlZjdmYWI",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/django-redis/commit/308e2e155871fbd74c6ae814cc6905c0ec030d0d",
+     "sha": "308e2e155871fbd74c6ae814cc6905c0ec030d0d",
+     "url": "https://api.github.com/repos/jazzband/django-redis/commits/308e2e155871fbd74c6ae814cc6905c0ec030d0d"
+    }
+   ],
+   "sha": "53a1de3a5286edfd0123cbcfe2c0d63a93ef7fab",
+   "url": "https://api.github.com/repos/jazzband/django-redis/commits/53a1de3a5286edfd0123cbcfe2c0d63a93ef7fab"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/394952?v=4",
+    "events_url": "https://api.github.com/users/smaccona/events{/privacy}",
+    "followers_url": "https://api.github.com/users/smaccona/followers",
+    "following_url": "https://api.github.com/users/smaccona/following{/other_user}",
+    "gists_url": "https://api.github.com/users/smaccona/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/smaccona",
+    "id": 394952,
+    "login": "smaccona",
+    "node_id": "MDQ6VXNlcjM5NDk1Mg==",
+    "organizations_url": "https://api.github.com/users/smaccona/orgs",
+    "received_events_url": "https://api.github.com/users/smaccona/received_events",
+    "repos_url": "https://api.github.com/users/smaccona/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/smaccona/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/smaccona/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/smaccona",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/django-redis/commits/308e2e155871fbd74c6ae814cc6905c0ec030d0d/comments",
+   "commit": {
+    "author": {
+     "date": "2026-06-02T10:57:52Z",
+     "email": "smaccona@users.noreply.github.com",
+     "name": "Seamus Mac Conaonaigh"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-06-02T10:57:52Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "feat: remove **kwargs from self.client.close() call in RedisCache.close() (#788)\n\n\n\n---------\n\nCo-authored-by: Terence Honles <terence@honles.com>",
+    "tree": {
+     "sha": "9651377ded045960c4bc27b31fe45a4e31086213",
+     "url": "https://api.github.com/repos/jazzband/django-redis/git/trees/9651377ded045960c4bc27b31fe45a4e31086213"
+    },
+    "url": "https://api.github.com/repos/jazzband/django-redis/git/commits/308e2e155871fbd74c6ae814cc6905c0ec030d0d",
+    "verification": {
+     "payload": "tree 9651377ded045960c4bc27b31fe45a4e31086213\nparent 2c0e8538270ecb064c95456a013fe8b672a7dad7\nauthor Seamus Mac Conaonaigh <smaccona@users.noreply.github.com> 1780397872 -0400\ncommitter GitHub <noreply@github.com> 1780397872 +0200\n\nfeat: remove **kwargs from self.client.close() call in RedisCache.close() (#788)\n\n\n\n---------\n\nCo-authored-by: Terence Honles <terence@honles.com>",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqHrcwCRC1aQ7uu5UhlAAA5RIQAIK4Ow+GE/7NqP7oy22a+zoL\n5zEBgaxpa50XQALPko1BDRXXyOg99rmXVW+auySLqHYMl07aI67+FeoC1qafgxG4\n+Xp6Q1pCTrrLuQ6p0JB1vK0SnmnRL3uPJ9c+aowqBY07EWu9+ztXGuHQFTNSlAbX\n/AeVlun6o6EwFkeNHfVEJwapKPDTJ64ZRtrB93uZzDmIX1PHYzfCZRCa2r0lZgHm\nD+NzBuEhzh0u9IbWkCxlIhNV5zfJUTg8xJC3jHKxISMhFHYh27R5RWzRMGvGtwAi\nlPGR/Es8Z0wxbOFF9PMSdZbwqNKDKeEYNq8MbyRMIf9kllUc2yiIoYA74bbsa7vq\nwOJ83wKk9OAn76nvRkgcjsBoQzMJRskG/ZccRBP2MMiMc1V3jjiu9Q6phSPhcbAy\nKsi717sS6uBGt3U/RZF4bXwoquSt9icJbdFLbRd2yUMcGDw5P9gl2pYH+QxpNsOL\nu32Q8D9p2Wma2pXXBBpYzUR1F48cJ6bez/c6qY2SGjNnlQVx25lGs2b4Ux0CJszD\nkUnZdQ1SgccAtqO68jOAogwWktAejXEYCqElQSajg2gQBN7CvQgpKHgd5vcBl7TV\nicNAa66EflQFshhDcRky5upPj7maznhDg5CSZ6Z8HVe3zexcZizSZI1aDgiARqtC\nmOs7PFV4fQWyfWweMfqv\n=NBeH\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-06-02T10:57:53Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/django-redis/commit/308e2e155871fbd74c6ae814cc6905c0ec030d0d",
+   "node_id": "C_kwDOAD3eadoAKDMwOGUyZTE1NTg3MWZiZDc0YzZhZTgxNGNjNjkwNWMwZWMwMzBkMGQ",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/django-redis/commit/2c0e8538270ecb064c95456a013fe8b672a7dad7",
+     "sha": "2c0e8538270ecb064c95456a013fe8b672a7dad7",
+     "url": "https://api.github.com/repos/jazzband/django-redis/commits/2c0e8538270ecb064c95456a013fe8b672a7dad7"
+    }
+   ],
+   "sha": "308e2e155871fbd74c6ae814cc6905c0ec030d0d",
+   "url": "https://api.github.com/repos/jazzband/django-redis/commits/308e2e155871fbd74c6ae814cc6905c0ec030d0d"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/in/68672?v=4",
+    "events_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/events{/privacy}",
+    "followers_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/followers",
+    "following_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/following{/other_user}",
+    "gists_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/apps/pre-commit-ci",
+    "id": 66853113,
+    "login": "pre-commit-ci[bot]",
+    "node_id": "MDM6Qm90NjY4NTMxMTM=",
+    "organizations_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/orgs",
+    "received_events_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/received_events",
+    "repos_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/subscriptions",
+    "type": "Bot",
+    "url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/django-redis/commits/98803145ccdbeb113a2308749d878ccc8aba3087/comments",
+   "commit": {
+    "author": {
+     "date": "2026-06-01T17:43:44Z",
+     "email": "66853113+pre-commit-ci[bot]@users.noreply.github.com",
+     "name": "pre-commit-ci[bot]"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-06-01T17:43:44Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "[pre-commit.ci] pre-commit autoupdate\n\nupdates:\n- [github.com/astral-sh/ruff-pre-commit: v0.15.14 → v0.15.15](https://github.com/astral-sh/ruff-pre-commit/compare/v0.15.14...v0.15.15)",
+    "tree": {
+     "sha": "396da39bbca4c664c8fd26781b4eb965783ee25e",
+     "url": "https://api.github.com/repos/jazzband/django-redis/git/trees/396da39bbca4c664c8fd26781b4eb965783ee25e"
+    },
+    "url": "https://api.github.com/repos/jazzband/django-redis/git/commits/98803145ccdbeb113a2308749d878ccc8aba3087",
+    "verification": {
+     "payload": "tree 396da39bbca4c664c8fd26781b4eb965783ee25e\nparent 2c0e8538270ecb064c95456a013fe8b672a7dad7\nauthor pre-commit-ci[bot] <66853113+pre-commit-ci[bot]@users.noreply.github.com> 1780335824 +0000\ncommitter GitHub <noreply@github.com> 1780335824 +0000\n\n[pre-commit.ci] pre-commit autoupdate\n\nupdates:\n- [github.com/astral-sh/ruff-pre-commit: v0.15.14 → v0.15.15](https://github.com/astral-sh/ruff-pre-commit/compare/v0.15.14...v0.15.15)\n",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqHcTQCRC1aQ7uu5UhlAAAANMQAJwA9iBCLulFmh/NTXiOdEd1\n+P43WWQOFFIgpurLwpwwfXnflw+x5ozJOK2+L60a1w/RBz+o5Q3VEP+alg0Ga85W\nhUpRDYWfjlr3oeN8rWjO1HGc3GR6wXG8WIpPN3QaCgkJFuGVf95ZfWTU4gVbJiDJ\n4DIjlASCmd1T3K2uGeuNi2vAQ6M0+URK/j+rcqU+DC+kwJrpfPh6ggSh2hDfwWSJ\nXIOyboXQDfDbhcVKcnYbPyebqGiUDnVIMo1/lu+H7SCH5sJr5uTIqeMrkqK+8uuy\nA39ficbAwkD+E+uFkH8d45L8KM1fgCeSVq2qfAtfBYhn/D8XoxD0mXFl35L8q4EV\n3VqXIzByZxbhP2C3HGdiEjO2nlRHfUN326d71/LTwSgX+b0CWUsDX3ZVsOG3qPgf\nP0giYK2w7XjLl2zUasmGoPiABSin2Huy0umXx9PhuedE1QYRSnYtEqSvPnAEGghf\nIHrPSktMRiznLOueDKFEjNxkR9IDTwIsFUgIQXSdpeIIJ6K7BCk47nDcoUODlntO\nUmdfAJ3MnYVD53WpxieRMN+mcrKowQVgERnAnMzd9iWsIXnQidoJtk86/AFpV4QY\nYSjJekU5+bdW8EMV+BGAknEFJlxClmn42yf8d3ctxUf0KjELzeeuYwHs8vPcLbKY\nFrE+SvGgoKVYbN0n09ZE\n=CkVd\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-06-01T17:43:44Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/django-redis/commit/98803145ccdbeb113a2308749d878ccc8aba3087",
+   "node_id": "C_kwDOAD3eadoAKDk4ODAzMTQ1Y2NkYmViMTEzYTIzMDg3NDlkODc4Y2NjOGFiYTMwODc",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/django-redis/commit/2c0e8538270ecb064c95456a013fe8b672a7dad7",
+     "sha": "2c0e8538270ecb064c95456a013fe8b672a7dad7",
+     "url": "https://api.github.com/repos/jazzband/django-redis/commits/2c0e8538270ecb064c95456a013fe8b672a7dad7"
+    }
+   ],
+   "sha": "98803145ccdbeb113a2308749d878ccc8aba3087",
+   "url": "https://api.github.com/repos/jazzband/django-redis/commits/98803145ccdbeb113a2308749d878ccc8aba3087"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/438813?v=4",
+    "events_url": "https://api.github.com/users/terencehonles/events{/privacy}",
+    "followers_url": "https://api.github.com/users/terencehonles/followers",
+    "following_url": "https://api.github.com/users/terencehonles/following{/other_user}",
+    "gists_url": "https://api.github.com/users/terencehonles/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/terencehonles",
+    "id": 438813,
+    "login": "terencehonles",
+    "node_id": "MDQ6VXNlcjQzODgxMw==",
+    "organizations_url": "https://api.github.com/users/terencehonles/orgs",
+    "received_events_url": "https://api.github.com/users/terencehonles/received_events",
+    "repos_url": "https://api.github.com/users/terencehonles/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/terencehonles/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/terencehonles/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/terencehonles",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/django-redis/commits/2c0e8538270ecb064c95456a013fe8b672a7dad7/comments",
+   "commit": {
+    "author": {
+     "date": "2026-06-01T13:36:08Z",
+     "email": "terence@honles.com",
+     "name": "Terence Honles"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-06-01T13:36:08Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "feat: increase mypy type coverage & move strictness overrides to specific modules (#827)",
+    "tree": {
+     "sha": "79ef30a2c8149b1eedb757ebd1ead8c7d58025a2",
+     "url": "https://api.github.com/repos/jazzband/django-redis/git/trees/79ef30a2c8149b1eedb757ebd1ead8c7d58025a2"
+    },
+    "url": "https://api.github.com/repos/jazzband/django-redis/git/commits/2c0e8538270ecb064c95456a013fe8b672a7dad7",
+    "verification": {
+     "payload": "tree 79ef30a2c8149b1eedb757ebd1ead8c7d58025a2\nparent 8fb199e922b574116568d44c689f39c446d070a1\nauthor Terence Honles <terence@honles.com> 1780320968 +0200\ncommitter GitHub <noreply@github.com> 1780320968 +0200\n\nfeat: increase mypy type coverage & move strictness overrides to specific modules (#827)",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqHYrICRC1aQ7uu5UhlAAACu0QAATvM1tLsx7iIaiemZ/tZ9mA\nnBroMEt4efcu4e25ke9vmmidrtwsIWDcR7Nwun1ztAIS+p9FpQTyIHHsHL+aHSvO\nnEj3QRljdqgVWPSxmHnOMbjQKukDnJxqVR9UXtr0ninhYhjjX8Vv5F5SB07ATjxr\n6eakt0k1wvxeFWk9jMQeK2Ayh4Io9XhVWF3/Aj6VMrJc0yfF4fiiIFz6Kx5LEEBK\nDyZkGWR7aflahLuejCb1DY3NP4VY0Z2fP35O49kliBGaw3KVuaU1MJb9eXCsRv7M\nUndbD53YAF89UlHtTDXySFRIwadQvM32b/8wzZIg9fifA8cHRMM/Ubgz9swk385u\ncqunSlGwa/2Cy65u0rxj1+dmgHGcecLYfx5bYIGhOrmDBM27YG6Be4V/9xeJzMJq\nk/BGja8eN/GHvFdZ5mwM6Cn9MoZ9KObzjrlKJHBqdo+n10mq9xXGC8RCmJ4ZL5Vc\n+Bd/tPgBnbsNocJM4Z3tHOlGS9943CqsoqcjDrOJFyOSyjoLNLi1WwFBwgUzudP8\nqjO+cqe9rVZvzJYocwAnx/KMDcruRzvnoOnyUp0e20hRNPCQjYWh5tSFeyWQFG2b\nuOAR19Qa+hNqQuJtoYdwSrjQYBa6kubgaDptlMoj3x5pCgFgccQkc9JRU/1B8jZS\n4tUhk8P+m+SNxi9lvbWm\n=tHgh\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-06-01T13:36:12Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/django-redis/commit/2c0e8538270ecb064c95456a013fe8b672a7dad7",
+   "node_id": "C_kwDOAD3eadoAKDJjMGU4NTM4MjcwZWNiMDY0Yzk1NDU2YTAxM2ZlOGI2NzJhN2RhZDc",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/django-redis/commit/8fb199e922b574116568d44c689f39c446d070a1",
+     "sha": "8fb199e922b574116568d44c689f39c446d070a1",
+     "url": "https://api.github.com/repos/jazzband/django-redis/commits/8fb199e922b574116568d44c689f39c446d070a1"
+    }
+   ],
+   "sha": "2c0e8538270ecb064c95456a013fe8b672a7dad7",
+   "url": "https://api.github.com/repos/jazzband/django-redis/commits/2c0e8538270ecb064c95456a013fe8b672a7dad7"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/438813?v=4",
+    "events_url": "https://api.github.com/users/terencehonles/events{/privacy}",
+    "followers_url": "https://api.github.com/users/terencehonles/followers",
+    "following_url": "https://api.github.com/users/terencehonles/following{/other_user}",
+    "gists_url": "https://api.github.com/users/terencehonles/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/terencehonles",
+    "id": 438813,
+    "login": "terencehonles",
+    "node_id": "MDQ6VXNlcjQzODgxMw==",
+    "organizations_url": "https://api.github.com/users/terencehonles/orgs",
+    "received_events_url": "https://api.github.com/users/terencehonles/received_events",
+    "repos_url": "https://api.github.com/users/terencehonles/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/terencehonles/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/terencehonles/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/terencehonles",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/django-redis/commits/8fb199e922b574116568d44c689f39c446d070a1/comments",
+   "commit": {
+    "author": {
+     "date": "2026-06-01T11:10:05Z",
+     "email": "terence@honles.com",
+     "name": "Terence Honles"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-06-01T11:10:05Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "feat: remove code handling unsupported Django versions (#826)",
+    "tree": {
+     "sha": "c77e84a53f2a9b459411bfcaaa149c48e22573f5",
+     "url": "https://api.github.com/repos/jazzband/django-redis/git/trees/c77e84a53f2a9b459411bfcaaa149c48e22573f5"
+    },
+    "url": "https://api.github.com/repos/jazzband/django-redis/git/commits/8fb199e922b574116568d44c689f39c446d070a1",
+    "verification": {
+     "payload": "tree c77e84a53f2a9b459411bfcaaa149c48e22573f5\nparent 5d54a256cb214d2e1ff4eae421dc6a77fe6794e2\nauthor Terence Honles <terence@honles.com> 1780312205 +0200\ncommitter GitHub <noreply@github.com> 1780312205 +0200\n\nfeat: remove code handling unsupported Django versions (#826)",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqHWiNCRC1aQ7uu5UhlAAAIa0QAFBbx1Gei8RP/+RTx/C0rs/K\nruGjxejq55832Za7fb4ZRm0Ytgv2/aSg9wg49csaNF/plsqkgpl5grXBtl5upZGT\nse6O5WBb++EQb1Lu6Vx5wVWPIqGSg3yVm0anbz4qol+Y81NHq72Yk/YyPq+ylOhy\nIOmBIUn9k7meM0JT6yJwe18+Ia4QU6VtuyPF43SysNXLZ/e/EUN/32lqCxHx3pcS\nCBBfNlCzdYgD+zz9jOggrNwjCrwYRsokje7dIu/e0b3Li3PE6qz+2Jk95bmvVens\nuPuA3TQ/g6rUy6yJJsyEqd/MarkIULpZ6RrcwDzAcq6EPnGsRskWPV1s3QfZKM9H\nORAkHr7AaErJh0gsggbyGTZ8anqMmzc/udNj12Tv+Rq/Di6B7/2y5xmGiD6Pmhyp\ntBAnHAY75usrCQiXOIaxmct+1yVWpqWkzI2TTzdkTXz4zkPhRmt4MrPSlsgKFqSX\nltqrBz7c8r1tn34GitsFNcdG+4WBAbzKwKk1qdSnEio9zz/T1T5nqPNkznVdqP/r\n8LN5rQK7P4RmUcPbw878vs0gWoSE4wb+1TeLKG8EUhmYSpWvZYvqqnNuteh6ODu0\nanpaEWSaxDDAfcvBOzj4Of9osrqHOjiGxXX1jV7QVfTFH2OS96PrA/1W5UfQ3/MY\njX4Fd+8VNW+8udG9wlfI\n=/iEY\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-06-01T11:10:06Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/django-redis/commit/8fb199e922b574116568d44c689f39c446d070a1",
+   "node_id": "C_kwDOAD3eadoAKDhmYjE5OWU5MjJiNTc0MTE2NTY4ZDQ0YzY4OWYzOWM0NDZkMDcwYTE",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/django-redis/commit/5d54a256cb214d2e1ff4eae421dc6a77fe6794e2",
+     "sha": "5d54a256cb214d2e1ff4eae421dc6a77fe6794e2",
+     "url": "https://api.github.com/repos/jazzband/django-redis/commits/5d54a256cb214d2e1ff4eae421dc6a77fe6794e2"
+    }
+   ],
+   "sha": "8fb199e922b574116568d44c689f39c446d070a1",
+   "url": "https://api.github.com/repos/jazzband/django-redis/commits/8fb199e922b574116568d44c689f39c446d070a1"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/438813?v=4",
+    "events_url": "https://api.github.com/users/terencehonles/events{/privacy}",
+    "followers_url": "https://api.github.com/users/terencehonles/followers",
+    "following_url": "https://api.github.com/users/terencehonles/following{/other_user}",
+    "gists_url": "https://api.github.com/users/terencehonles/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/terencehonles",
+    "id": 438813,
+    "login": "terencehonles",
+    "node_id": "MDQ6VXNlcjQzODgxMw==",
+    "organizations_url": "https://api.github.com/users/terencehonles/orgs",
+    "received_events_url": "https://api.github.com/users/terencehonles/received_events",
+    "repos_url": "https://api.github.com/users/terencehonles/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/terencehonles/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/terencehonles/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/terencehonles",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/django-redis/commits/5d54a256cb214d2e1ff4eae421dc6a77fe6794e2/comments",
+   "commit": {
+    "author": {
+     "date": "2026-06-01T10:46:01Z",
+     "email": "terence@honles.com",
+     "name": "Terence Honles"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-06-01T10:46:01Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "tests: move & update compose configuration (#825)\n\nThis change updates the compose configuration, and moves it to `tests`\ndirectory as it is only for testing.",
+    "tree": {
+     "sha": "8c6fb86c0840edaa5bb08779cb45b64eafe254af",
+     "url": "https://api.github.com/repos/jazzband/django-redis/git/trees/8c6fb86c0840edaa5bb08779cb45b64eafe254af"
+    },
+    "url": "https://api.github.com/repos/jazzband/django-redis/git/commits/5d54a256cb214d2e1ff4eae421dc6a77fe6794e2",
+    "verification": {
+     "payload": "tree 8c6fb86c0840edaa5bb08779cb45b64eafe254af\nparent ca1f36898901d3a0d6acac088cc73c8f6d686f87\nauthor Terence Honles <terence@honles.com> 1780310761 +0200\ncommitter GitHub <noreply@github.com> 1780310761 +0200\n\ntests: move & update compose configuration (#825)\n\nThis change updates the compose configuration, and moves it to `tests`\ndirectory as it is only for testing.",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqHWLpCRC1aQ7uu5UhlAAA+7YQAB9BsZIHrIu4QDTymcuBTZke\nTQDVeRKvKFPBHREK2jUWT1OTW5vZGf5Q7eKjtMa3unhoiMEFk4OviZLtXiQxhQjD\n8Ha88RSNpo8VXa7M16DuEKbjmJ3xpl1rX70csCGXBmNbH4IxFUpxrKwLFcijB8gi\nv5PWD9Xv6r6i+RDv2IvsL49fZNlm9vFqyC/Mz1hywceS9vjprLAaDA45WauZibWi\nuywncUl5wk4BIbzaUYtZMVG93gXPLVMSfsEFwSOZdyQB0Mgjyocls/keeS77gdh+\nyJWxhNBcIYt6L0UVSEPZXQvFyWCLYIsS0q5w9vs5uwPgmFlgrU3ezKOGjoVSQG51\nnrHfLT4zrBCUou8lv4STwmxEPnS/j//FoQGkiSBrbCjFIZhwF1y+DQGBmbyPuhMB\nLYUwcaaeffCd/YY4bRdD+kkdOp9tNQgnpDfFs/v1KZUvsdtLFs6GrlsfA71JSUA8\nL2WbR1o4gKV6NOAnn7a3BJkZoWO/c/bH5l5rk9O7/JTmKnVi1wNQi7wBkplXGAAe\ngZu1i6rhcN6otaGzyA2RFVXX39/7XK9pjR5pgLLOTr9jG4INVlqpkqE1ujBLDnEL\nkIvq0GdZKhRUdvOanq1pyXxiU/itaUb/26vZ7jUDok/cG9/VMaUOLwOINmcSY5C9\nV4KI6pVIACwqdZltp/gq\n=brSD\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-06-01T10:46:02Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/django-redis/commit/5d54a256cb214d2e1ff4eae421dc6a77fe6794e2",
+   "node_id": "C_kwDOAD3eadoAKDVkNTRhMjU2Y2IyMTRkMmUxZmY0ZWFlNDIxZGM2YTc3ZmU2Nzk0ZTI",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/django-redis/commit/ca1f36898901d3a0d6acac088cc73c8f6d686f87",
+     "sha": "ca1f36898901d3a0d6acac088cc73c8f6d686f87",
+     "url": "https://api.github.com/repos/jazzband/django-redis/commits/ca1f36898901d3a0d6acac088cc73c8f6d686f87"
+    }
+   ],
+   "sha": "5d54a256cb214d2e1ff4eae421dc6a77fe6794e2",
+   "url": "https://api.github.com/repos/jazzband/django-redis/commits/5d54a256cb214d2e1ff4eae421dc6a77fe6794e2"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/438813?v=4",
+    "events_url": "https://api.github.com/users/terencehonles/events{/privacy}",
+    "followers_url": "https://api.github.com/users/terencehonles/followers",
+    "following_url": "https://api.github.com/users/terencehonles/following{/other_user}",
+    "gists_url": "https://api.github.com/users/terencehonles/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/terencehonles",
+    "id": 438813,
+    "login": "terencehonles",
+    "node_id": "MDQ6VXNlcjQzODgxMw==",
+    "organizations_url": "https://api.github.com/users/terencehonles/orgs",
+    "received_events_url": "https://api.github.com/users/terencehonles/received_events",
+    "repos_url": "https://api.github.com/users/terencehonles/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/terencehonles/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/terencehonles/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/terencehonles",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/django-redis/commits/ca1f36898901d3a0d6acac088cc73c8f6d686f87/comments",
+   "commit": {
+    "author": {
+     "date": "2026-06-01T08:17:40Z",
+     "email": "terence@honles.com",
+     "name": "Terence Honles"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-06-01T08:17:40Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "feat: increase mypy strictness, fix typing configuration, and fix type errors (#824)",
+    "tree": {
+     "sha": "9290a0045c8b73b2e285042d84b3993946c31d4c",
+     "url": "https://api.github.com/repos/jazzband/django-redis/git/trees/9290a0045c8b73b2e285042d84b3993946c31d4c"
+    },
+    "url": "https://api.github.com/repos/jazzband/django-redis/git/commits/ca1f36898901d3a0d6acac088cc73c8f6d686f87",
+    "verification": {
+     "payload": "tree 9290a0045c8b73b2e285042d84b3993946c31d4c\nparent 18cef2ed1c5c5d93e4cbf286452faf98e772e04d\nauthor Terence Honles <terence@honles.com> 1780301860 +0200\ncommitter GitHub <noreply@github.com> 1780301860 +0200\n\nfeat: increase mypy strictness, fix typing configuration, and fix type errors (#824)",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqHUAkCRC1aQ7uu5UhlAAA0/gQACcYjKy1cKy20czlvmVwaTTZ\nqKcA42WWE+ZYhguFDbdBgAFbUMwuEjdcw6mkeOhmtop46kw/zSfIdgNwvdM+0jwd\noKImUGKqM7d/Yxh9/EECIK7pcNoagbwR5Blf4eX+KDXDHDXpMemc0oaeZUjYrHYN\nYHI/ZyMI/vwlJ/OFyRVCclEBylGtXuuapfCu2vdFlUN4kpBU2G01BWD3UJqLuudY\nJh4iwHWvCyQ84udjtNqb040SUiR10mi1yMz9nEFzLQSMl0iGlAwQzPaSIHGOsmB3\nRCdSEPf0Umkzym5Ux0m09adR2XAuA1XxB7tIistTyLWuqCU3bQeFOpPJNmwSuEa5\nCofYnsApa6HbP0UXtnyKfP+WzGAA9lgDEJXvbp8Q/s4diXArxZYiur5noch3CJ0F\nqaHMzRCsmqiRIBkoiTwgol4xttR6kJLtWPFFCFgjNxaK1IXCh6S4dXkFFE8absDU\n+5YVtPloudCnkcikFqqeWQqH2iXxc/kEiTKijRrXARFFRDtz34zFPUzPO0PQcMn8\nemF5aH72PnTgSyjFpf+pmEURJhITGXn0v+CNkortW1Vn6kaSYcL8uAllcbVykRdB\nYGdxoLBielDnqMYzYdM+VpgsTXmA8XQc5aK5+xWq7E1xiVfGDv+ULA2jdwiX0KHR\nQZcAIigqzC5C9NGBqirM\n=Cy+b\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-06-01T08:17:41Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/django-redis/commit/ca1f36898901d3a0d6acac088cc73c8f6d686f87",
+   "node_id": "C_kwDOAD3eadoAKGNhMWYzNjg5ODkwMWQzYTBkNmFjYWMwODhjYzczYzhmNmQ2ODZmODc",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/django-redis/commit/18cef2ed1c5c5d93e4cbf286452faf98e772e04d",
+     "sha": "18cef2ed1c5c5d93e4cbf286452faf98e772e04d",
+     "url": "https://api.github.com/repos/jazzband/django-redis/commits/18cef2ed1c5c5d93e4cbf286452faf98e772e04d"
+    }
+   ],
+   "sha": "ca1f36898901d3a0d6acac088cc73c8f6d686f87",
+   "url": "https://api.github.com/repos/jazzband/django-redis/commits/ca1f36898901d3a0d6acac088cc73c8f6d686f87"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/438813?v=4",
+    "events_url": "https://api.github.com/users/terencehonles/events{/privacy}",
+    "followers_url": "https://api.github.com/users/terencehonles/followers",
+    "following_url": "https://api.github.com/users/terencehonles/following{/other_user}",
+    "gists_url": "https://api.github.com/users/terencehonles/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/terencehonles",
+    "id": 438813,
+    "login": "terencehonles",
+    "node_id": "MDQ6VXNlcjQzODgxMw==",
+    "organizations_url": "https://api.github.com/users/terencehonles/orgs",
+    "received_events_url": "https://api.github.com/users/terencehonles/received_events",
+    "repos_url": "https://api.github.com/users/terencehonles/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/terencehonles/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/terencehonles/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/terencehonles",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/django-redis/commits/18cef2ed1c5c5d93e4cbf286452faf98e772e04d/comments",
+   "commit": {
+    "author": {
+     "date": "2026-05-30T21:04:26Z",
+     "email": "terence@honles.com",
+     "name": "Terence Honles"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-05-30T21:04:26Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "feat: use `from __future__ import annotations` to postpone evaluation of annotations (#823)",
+    "tree": {
+     "sha": "d8ab91dd11e2fa2dab68dde280420eaeae566f95",
+     "url": "https://api.github.com/repos/jazzband/django-redis/git/trees/d8ab91dd11e2fa2dab68dde280420eaeae566f95"
+    },
+    "url": "https://api.github.com/repos/jazzband/django-redis/git/commits/18cef2ed1c5c5d93e4cbf286452faf98e772e04d",
+    "verification": {
+     "payload": "tree d8ab91dd11e2fa2dab68dde280420eaeae566f95\nparent 38ec6e40d98bd2b401a328e4cbf9b9a8f9f8a06b\nauthor Terence Honles <terence@honles.com> 1780175066 +0200\ncommitter GitHub <noreply@github.com> 1780175066 +0200\n\nfeat: use `from __future__ import annotations` to postpone evaluation of annotations (#823)",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqG1DaCRC1aQ7uu5UhlAAAOZAQALCZQrLKljkZ6utnt/rPGxQy\nd27jHyNp87mieAb8nCpIjIu8F1JPU7XozoFF0WsTpgELNHbdhOoU0WiLHHUXZsGV\ngWFK1XQaCSO3DeBYaimbgl+oac3kprXkU5czyi7bMSt6DI8gCZC4+SF5FY/jq5Jm\nlWggqv5BsbdgJHZBkD9wDljl4kMBaIpcehIVTON2kk6c4lr6j79/w8V3Ntnwq1Jr\ndxa1Toy1zrm5z4Hq4vlDdrbX3xYiweP+Qvr4phmlO7awl8lE3okxoWVj5KTOkwIi\n1GRJYoQkWvV212C1pcAopzm+twcCdqNa66406jfwrNx0Hq30dIOkFKzL6PiOin09\nwJybIzRcAXBKdGE7Q3ufS9MtegGavigJCHXnF9jGWKR5H3/7/D6916Sx4l456OGz\nv9CqSUlzm5e1Ixyfu6Xe2G9++oxvv+Y6Sgh7YcWm9Q+DXvB/6Kkocr4DZr3n5iyu\n4ZeRVHBuDW2oIrYLBxprKeSOqaMSbKN0tnDCsBYMNgq+HIAU0433KfFkuf05yBnJ\nnLoQGuy8HU/Hx+PfsCJvWqkJQyYz4qRBW/CYRCcg+5NHQGTJc6yLySGIiqk2ZRjz\nGoNd2X2FB4Vrv3jTnKxw0rIP+XerLtQ8c3RIw7M/DhGHWobVDnCghncfup78Ms8+\ncpnYxOCi758hqfx2traF\n=You+\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-05-30T21:04:26Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/django-redis/commit/18cef2ed1c5c5d93e4cbf286452faf98e772e04d",
+   "node_id": "C_kwDOAD3eadoAKDE4Y2VmMmVkMWM1YzVkOTNlNGNiZjI4NjQ1MmZhZjk4ZTc3MmUwNGQ",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/django-redis/commit/38ec6e40d98bd2b401a328e4cbf9b9a8f9f8a06b",
+     "sha": "38ec6e40d98bd2b401a328e4cbf9b9a8f9f8a06b",
+     "url": "https://api.github.com/repos/jazzband/django-redis/commits/38ec6e40d98bd2b401a328e4cbf9b9a8f9f8a06b"
+    }
+   ],
+   "sha": "18cef2ed1c5c5d93e4cbf286452faf98e772e04d",
+   "url": "https://api.github.com/repos/jazzband/django-redis/commits/18cef2ed1c5c5d93e4cbf286452faf98e772e04d"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/438813?v=4",
+    "events_url": "https://api.github.com/users/terencehonles/events{/privacy}",
+    "followers_url": "https://api.github.com/users/terencehonles/followers",
+    "following_url": "https://api.github.com/users/terencehonles/following{/other_user}",
+    "gists_url": "https://api.github.com/users/terencehonles/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/terencehonles",
+    "id": 438813,
+    "login": "terencehonles",
+    "node_id": "MDQ6VXNlcjQzODgxMw==",
+    "organizations_url": "https://api.github.com/users/terencehonles/orgs",
+    "received_events_url": "https://api.github.com/users/terencehonles/received_events",
+    "repos_url": "https://api.github.com/users/terencehonles/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/terencehonles/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/terencehonles/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/terencehonles",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/django-redis/commits/38ec6e40d98bd2b401a328e4cbf9b9a8f9f8a06b/comments",
+   "commit": {
+    "author": {
+     "date": "2026-05-30T00:20:08Z",
+     "email": "terence@honles.com",
+     "name": "Terence Honles"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-05-30T00:20:08Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "fix: use Redis' built in types & fix type errors (#822)",
+    "tree": {
+     "sha": "49ea4ebf9ed6b93e2dca9754db9e26d7c128e812",
+     "url": "https://api.github.com/repos/jazzband/django-redis/git/trees/49ea4ebf9ed6b93e2dca9754db9e26d7c128e812"
+    },
+    "url": "https://api.github.com/repos/jazzband/django-redis/git/commits/38ec6e40d98bd2b401a328e4cbf9b9a8f9f8a06b",
+    "verification": {
+     "payload": "tree 49ea4ebf9ed6b93e2dca9754db9e26d7c128e812\nparent 7f020fd3d5ef3000f82b3895d65985acbd2cf38a\nauthor Terence Honles <terence@honles.com> 1780100408 +0200\ncommitter GitHub <noreply@github.com> 1780100408 +0200\n\nfix: use Redis' built in types & fix type errors (#822)",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqGi04CRC1aQ7uu5UhlAAA4KcQACEBA46pKP4IRpOTlAHyeoS7\ngJUHRkrMHhu+fp29tU8l4qfrvfSZ0TuY3dlcQDC5qnmZKHGnofivg+yw39j9EsI8\nM5DBRwNqKbkktWmWbf6iMO0ZmYu2Ief2rQ/lY4oPB0648qgegEAgwIKboQE8IytX\nrWNFZq//kcF2u5M1v+0TCbutX8igPbDGCaYa6b1fbu8mZmVwtkWRa32Kgo8G0dwO\nK52Ccddt+4vwKBPk+RFpFNWa/6gzmMtTwaIN9pqkfdG0HJaD6iXZY0unxo2qlEdY\n7vDlaC57aWZ5WULjSDK+sB3IUoKkhkFARWnzZzMvUl19dmlirzs81za2y88an2OE\n555vdPypTe2I25oNZmF35GFPuN0fbM4hWuIuhz0vU41kfaoFesPVFcuCqf+DcSwu\n1Y9Y7dlFMB/J3W8eWjIB7/neDAkN65fr6wH0GXCQxwagzTuhD7OZjdQUNEJJg5WZ\n4HthaTaw6hlA3E5wIFSo9QTxJat4dOVdAVOJHN+a313sGblOgpKCSoSUsJl+SUs4\nHGJfK6aYd9pdqDI/y04B4xzXJJQoquxu6LjBvLTjcmOet8A/28EnEqR3NcVP0aSz\nmxgWPV+ELmOpDc77XNY8BY7fR8/+4hyx8T2V0eJcXODxUgk222KCBChUd6iTbdx1\n+GZO0gw/Gfvg4Qp7APAI\n=CJ7Y\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-05-30T00:20:08Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/django-redis/commit/38ec6e40d98bd2b401a328e4cbf9b9a8f9f8a06b",
+   "node_id": "C_kwDOAD3eadoAKDM4ZWM2ZTQwZDk4YmQyYjQwMWEzMjhlNGNiZjliOWE4ZjlmOGEwNmI",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/django-redis/commit/7f020fd3d5ef3000f82b3895d65985acbd2cf38a",
+     "sha": "7f020fd3d5ef3000f82b3895d65985acbd2cf38a",
+     "url": "https://api.github.com/repos/jazzband/django-redis/commits/7f020fd3d5ef3000f82b3895d65985acbd2cf38a"
+    }
+   ],
+   "sha": "38ec6e40d98bd2b401a328e4cbf9b9a8f9f8a06b",
+   "url": "https://api.github.com/repos/jazzband/django-redis/commits/38ec6e40d98bd2b401a328e4cbf9b9a8f9f8a06b"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/4050664?v=4",
+    "events_url": "https://api.github.com/users/oliverhaas/events{/privacy}",
+    "followers_url": "https://api.github.com/users/oliverhaas/followers",
+    "following_url": "https://api.github.com/users/oliverhaas/following{/other_user}",
+    "gists_url": "https://api.github.com/users/oliverhaas/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/oliverhaas",
+    "id": 4050664,
+    "login": "oliverhaas",
+    "node_id": "MDQ6VXNlcjQwNTA2NjQ=",
+    "organizations_url": "https://api.github.com/users/oliverhaas/orgs",
+    "received_events_url": "https://api.github.com/users/oliverhaas/received_events",
+    "repos_url": "https://api.github.com/users/oliverhaas/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/oliverhaas/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/oliverhaas/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/oliverhaas",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/django-redis/commits/7f020fd3d5ef3000f82b3895d65985acbd2cf38a/comments",
+   "commit": {
+    "author": {
+     "date": "2026-05-29T22:47:15Z",
+     "email": "ohaas@e1plus.de",
+     "name": "Oliver Haas"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-05-29T22:47:15Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "fix: hash method parameter naming and key handling (#812)\n\nChanged hash method parameters to align with Redis/Valkey terminology:\n- Renamed 'name' → 'key' (the Redis key for the hash)\n- Renamed 'key' → 'field' (the field within the hash)\n- Changed type from 'str' to 'KeyT' for consistency with other methods\n- Added 'version' parameter support to hlen() and hkeys()\n\nFixed make_key() application:\n- make_key() now only applied to hash key (first parameter)\n- Fields are no longer transformed with make_key()\n- This fixes the namespacing issue where fields were incorrectly prefixed\n- hkeys() now returns plain field names without reverse_key processing\n\nAdded comprehensive test for version support across all hash methods.\n\nThis improves API clarity and consistency with Redis/Valkey documentation\nwhere 'key' refers to the Redis key (name of the hash structure) and\n'field' refers to a field within that hash.\n\nChanged methods:\n- hset(key, field, value, ...)\n- hdel(key, field, ...)\n- hlen(key, ...)\n- hkeys(key, ...)\n- hexists(key, field, ...)\n\nAll hash-related tests pass with the new implementation.\n\n---------\n\nCo-authored-by: 2ykwang <yk2ykwang@gmail.com>\nCo-authored-by: Terence D. Honles <terence@honles.com>",
+    "tree": {
+     "sha": "8db889cd8f630c4cb5b61861a296b6d8b289bd64",
+     "url": "https://api.github.com/repos/jazzband/django-redis/git/trees/8db889cd8f630c4cb5b61861a296b6d8b289bd64"
+    },
+    "url": "https://api.github.com/repos/jazzband/django-redis/git/commits/7f020fd3d5ef3000f82b3895d65985acbd2cf38a",
+    "verification": {
+     "payload": "tree 8db889cd8f630c4cb5b61861a296b6d8b289bd64\nparent bd12c17d95865f6cf28b64bdcd57a111c4b2ba2d\nauthor Oliver Haas <ohaas@e1plus.de> 1780094835 +0200\ncommitter GitHub <noreply@github.com> 1780094835 +0200\n\nfix: hash method parameter naming and key handling (#812)\n\nChanged hash method parameters to align with Redis/Valkey terminology:\n- Renamed 'name' → 'key' (the Redis key for the hash)\n- Renamed 'key' → 'field' (the field within the hash)\n- Changed type from 'str' to 'KeyT' for consistency with other methods\n- Added 'version' parameter support to hlen() and hkeys()\n\nFixed make_key() application:\n- make_key() now only applied to hash key (first parameter)\n- Fields are no longer transformed with make_key()\n- This fixes the namespacing issue where fields were incorrectly prefixed\n- hkeys() now returns plain field names without reverse_key processing\n\nAdded comprehensive test for version support across all hash methods.\n\nThis improves API clarity and consistency with Redis/Valkey documentation\nwhere 'key' refers to the Redis key (name of the hash structure) and\n'field' refers to a field within that hash.\n\nChanged methods:\n- hset(key, field, value, ...)\n- hdel(key, field, ...)\n- hlen(key, ...)\n- hkeys(key, ...)\n- hexists(key, field, ...)\n\nAll hash-related tests pass with the new implementation.\n\n---------\n\nCo-authored-by: 2ykwang <yk2ykwang@gmail.com>\nCo-authored-by: Terence D. Honles <terence@honles.com>",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqGhdzCRC1aQ7uu5UhlAAA4jEQAGJNd0uLQKWBM1sm4nUOhgDT\ncXLZLnzExqvEtnW3cH2Z62rIpHJyW37ee2IjYQt2JHNLGt/FZrEO9yb+zwi9hd83\nzTSQo/seKchFpGF1ip2pulU3CSQ9VZUnhyfRSQW1I3mvqD8rcgynqFBrCWVKP/5b\nsHCCRkKlwIxjBirw2tLmFRObAgdoDyL+s5tNvCYRzZE9Maew1lGM6s6EOZauTpIy\nXE4xrDGwYeb4k2weJS0kvsv0Pknzh+AUB/q8GvuewS8inPQ13d+Q1ZdlDZnr6It7\n3oTuSkdwdNVfDbkTOoY9BfPs/Xf5SJeXBfn7s1lAEN5mGCjaLFWUJlUCv3/7JFyP\n3CHL3FvceLFj/Httg+cklZPshhADpkhy+yxB8w2/FNkvG+sHan9BB9LvMu8NO6bQ\n77/1TqtVaqyE50B5h+GQ/gni3qbd5fUvajI1VZpxixMO1wi0jaaSkZ0/JfW2rxeb\nPyBBAWkfKc5kK7wOSRPshvj/HGBRemQWINXf++pEirPUxPUO5dIF+DhrRrKy4lZ5\nYNzKO/cCjKCZNUk4gWxqBd1d2v/TI35E3g6ox1ruTEq2JTUAyWNlrUNVy+U4m1yd\nbGSRAXK0vVrSuzybhXQwu8ntlmzgfzSNCXy9+HKG89AGe6wnzpjgclmYvrAp4spA\nS2xou4U6/KhFCEnnczTI\n=0Vt7\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-05-29T22:47:17Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/django-redis/commit/7f020fd3d5ef3000f82b3895d65985acbd2cf38a",
+   "node_id": "C_kwDOAD3eadoAKDdmMDIwZmQzZDVlZjMwMDBmODJiMzg5NWQ2NTk4NWFjYmQyY2YzOGE",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/django-redis/commit/bd12c17d95865f6cf28b64bdcd57a111c4b2ba2d",
+     "sha": "bd12c17d95865f6cf28b64bdcd57a111c4b2ba2d",
+     "url": "https://api.github.com/repos/jazzband/django-redis/commits/bd12c17d95865f6cf28b64bdcd57a111c4b2ba2d"
+    }
+   ],
+   "sha": "7f020fd3d5ef3000f82b3895d65985acbd2cf38a",
+   "url": "https://api.github.com/repos/jazzband/django-redis/commits/7f020fd3d5ef3000f82b3895d65985acbd2cf38a"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/4050664?v=4",
+    "events_url": "https://api.github.com/users/oliverhaas/events{/privacy}",
+    "followers_url": "https://api.github.com/users/oliverhaas/followers",
+    "following_url": "https://api.github.com/users/oliverhaas/following{/other_user}",
+    "gists_url": "https://api.github.com/users/oliverhaas/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/oliverhaas",
+    "id": 4050664,
+    "login": "oliverhaas",
+    "node_id": "MDQ6VXNlcjQwNTA2NjQ=",
+    "organizations_url": "https://api.github.com/users/oliverhaas/orgs",
+    "received_events_url": "https://api.github.com/users/oliverhaas/received_events",
+    "repos_url": "https://api.github.com/users/oliverhaas/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/oliverhaas/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/oliverhaas/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/oliverhaas",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/django-redis/commits/bd12c17d95865f6cf28b64bdcd57a111c4b2ba2d/comments",
+   "commit": {
+    "author": {
+     "date": "2026-05-29T21:49:10Z",
+     "email": "ohaas@e1plus.de",
+     "name": "Oliver Haas"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-05-29T21:49:10Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "refactor: rename 'name' parameter to 'key' in sorted set methods (#811)\n\nChanged all sorted set methods to use 'key' instead of 'name' as the\nparameter name for the Redis key. This improves consistency with Redis\nterminology where 'key' refers to the Redis key and aligns better with\nthe rest of the codebase.\n\nChanged methods:\n- zadd\n- zcard\n- zcount\n- zincrby\n- zpopmax\n- zpopmin\n- zrange\n- zrangebyscore\n- zrank\n- zrem\n- zremrangebyscore\n- zrevrange\n- zrevrangebyscore\n- zscore\n\n---------\n\nCo-authored-by: Terence D. Honles <terence@honles.com>",
+    "tree": {
+     "sha": "052aac1ebf589c326dc948f3186620deb94eb192",
+     "url": "https://api.github.com/repos/jazzband/django-redis/git/trees/052aac1ebf589c326dc948f3186620deb94eb192"
+    },
+    "url": "https://api.github.com/repos/jazzband/django-redis/git/commits/bd12c17d95865f6cf28b64bdcd57a111c4b2ba2d",
+    "verification": {
+     "payload": "tree 052aac1ebf589c326dc948f3186620deb94eb192\nparent 9b1bb0167b21d9174fa93b2dd8c5d7866888861f\nauthor Oliver Haas <ohaas@e1plus.de> 1780091350 +0200\ncommitter GitHub <noreply@github.com> 1780091350 +0200\n\nrefactor: rename 'name' parameter to 'key' in sorted set methods (#811)\n\nChanged all sorted set methods to use 'key' instead of 'name' as the\nparameter name for the Redis key. This improves consistency with Redis\nterminology where 'key' refers to the Redis key and aligns better with\nthe rest of the codebase.\n\nChanged methods:\n- zadd\n- zcard\n- zcount\n- zincrby\n- zpopmax\n- zpopmin\n- zrange\n- zrangebyscore\n- zrank\n- zrem\n- zremrangebyscore\n- zrevrange\n- zrevrangebyscore\n- zscore\n\n---------\n\nCo-authored-by: Terence D. Honles <terence@honles.com>",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqGgnWCRC1aQ7uu5UhlAAAY/QQAAaIgGsPBHdeL+QHo6H8GG6v\nX6C8ePEkGr+Ye9GLNuoiFI0+TH1OWuMMPrVr8kDqEkJGm8BPMJmrHOKdHPOsdC2G\nfZzd26c/aGOgWWZPstbUDvebw52QcRDGCgb8qnZMlNFPHrOEbIoy5H/1EImO3ZBa\nfmdbayd94mnRJ+xJmFfzh8iF6AqjVcM1XxvyH+Tq4hIGQQxI1rmCTjUQDbsqYxqy\ncg1cOhVy4/o5GlF4BpCmp9PFs6K/RsOLA9YnPq2XuWiyGlGLvLJnxE6SWlzewLFe\nywMcyfSIK56SUm76uZokETx8i4C6Q6tOONQifvGUz4XmGbEUnAInQtOlAMQ9aQe3\nfOQiairC6tYQ+utR9Yr7I+fG4EE3BFOXPYhoZnUwpc74rJmwznKOYcNCcONYtPjg\nAsV/IVoNH3XEFMprCTzWDr4OpRIWBx7Pn/6qi7dj03EWRKSfPkpLrE/DcIIBYzFu\noMEU8gHtdTIsUV8H6jem8az9npPrSlol1m2D55M2tZEBJoTgXy/Bqu20SQ4TNxua\nU59eW6k/bIZ6e20Eu66ACLlr39r3Gj/sCGpCXfrOwfF6ZofPcNalyEDf2GiymiuR\nC+RbSZIKb+/bjQqkdjhPFkWLixh014rVin+DI+zDNO14vcTKlTywpP+XTFPy3P0b\n28ezWCZ2Xr9aspQMUHlC\n=vwUb\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-05-29T21:49:11Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/django-redis/commit/bd12c17d95865f6cf28b64bdcd57a111c4b2ba2d",
+   "node_id": "C_kwDOAD3eadoAKGJkMTJjMTdkOTU4NjVmNmNmMjhiNjRiZGNkNTdhMTExYzRiMmJhMmQ",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/django-redis/commit/9b1bb0167b21d9174fa93b2dd8c5d7866888861f",
+     "sha": "9b1bb0167b21d9174fa93b2dd8c5d7866888861f",
+     "url": "https://api.github.com/repos/jazzband/django-redis/commits/9b1bb0167b21d9174fa93b2dd8c5d7866888861f"
+    }
+   ],
+   "sha": "bd12c17d95865f6cf28b64bdcd57a111c4b2ba2d",
+   "url": "https://api.github.com/repos/jazzband/django-redis/commits/bd12c17d95865f6cf28b64bdcd57a111c4b2ba2d"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/in/68672?v=4",
+    "events_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/events{/privacy}",
+    "followers_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/followers",
+    "following_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/following{/other_user}",
+    "gists_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/apps/pre-commit-ci",
+    "id": 66853113,
+    "login": "pre-commit-ci[bot]",
+    "node_id": "MDM6Qm90NjY4NTMxMTM=",
+    "organizations_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/orgs",
+    "received_events_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/received_events",
+    "repos_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/subscriptions",
+    "type": "Bot",
+    "url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/django-redis/commits/9b1bb0167b21d9174fa93b2dd8c5d7866888861f/comments",
+   "commit": {
+    "author": {
+     "date": "2026-05-29T21:32:31Z",
+     "email": "66853113+pre-commit-ci[bot]@users.noreply.github.com",
+     "name": "pre-commit-ci[bot]"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-05-29T21:32:31Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "[pre-commit.ci] pre-commit autoupdate (#819)\n\nupdates:\n- [github.com/astral-sh/ruff-pre-commit: v0.15.11 → v0.15.14](https://github.com/astral-sh/ruff-pre-commit/compare/v0.15.11...v0.15.14)\n\n---------\n\nCo-authored-by: pre-commit-ci[bot] <66853113+pre-commit-ci[bot]@users.noreply.github.com>\nCo-authored-by: Terence D. Honles <terence@honles.com>",
+    "tree": {
+     "sha": "a8bfb1b9e3883d09b1528371d63e1e8098312f7a",
+     "url": "https://api.github.com/repos/jazzband/django-redis/git/trees/a8bfb1b9e3883d09b1528371d63e1e8098312f7a"
+    },
+    "url": "https://api.github.com/repos/jazzband/django-redis/git/commits/9b1bb0167b21d9174fa93b2dd8c5d7866888861f",
+    "verification": {
+     "payload": "tree a8bfb1b9e3883d09b1528371d63e1e8098312f7a\nparent 42d9686bc1fd449e279352e449ef9725f02ae0f7\nauthor pre-commit-ci[bot] <66853113+pre-commit-ci[bot]@users.noreply.github.com> 1780090351 +0200\ncommitter GitHub <noreply@github.com> 1780090351 +0200\n\n[pre-commit.ci] pre-commit autoupdate (#819)\n\nupdates:\n- [github.com/astral-sh/ruff-pre-commit: v0.15.11 → v0.15.14](https://github.com/astral-sh/ruff-pre-commit/compare/v0.15.11...v0.15.14)\n\n---------\n\nCo-authored-by: pre-commit-ci[bot] <66853113+pre-commit-ci[bot]@users.noreply.github.com>\nCo-authored-by: Terence D. Honles <terence@honles.com>",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqGgXvCRC1aQ7uu5UhlAAAOz4QAK4aLENdlvP3ptOymXNBEKMU\n/QbvwgAi3TTI/x7d4+NqY+tTO/28OuBAgeeC2GqxFdPNyDKoj9DSkKDXbajk4qnX\nipEvERPNGG06uzgWIFQSNOp9BkU73gcFYQZhwNvYTCYV5y0Osh0zPyumHTGPSj9b\njh+5oA+2B1YiDupkgXS6fN5Ty5L7fruHk7Lg0oH2z16i8C3sHnIk9T48We3Pw+3D\nR4eprufLuBBb2L6OANN1yjLTbKRtANZt05q8s3ijV5+RlqbFjO/NYsQpDjHJRCww\nnk/5UP8cqwiBaSPrWl36nR7/psF4s1zL0ryd3zjXhiskTzdUC4GoBYQuKypLVDLv\nrEi32ItS9TEeOk2ipJqlB+kgdCsYA87z2bVJYna44FqENaohBeVsWz0o1srr5QIM\n5OAyXALmetIjpUHJiwNBYLK0gGYlrraSw9OOvYRpvTRuv9SgqBdMMZiSxdkLvVlU\nPuFovjcjQX5Vc6+mUB29jnE8Tzj9CXio01PnsmHcvUFTl8GG4oe43sZvtEmKABRH\ndE4fsJOw0hNemLE8JefdDwm9RS7Nw6thq/32WBDQgD+Uwyjw4POeFocHlfchojnQ\nBbuhU/AK9fNLVdKMSI/Wt6pDKU7yE5A0yTZW3fT6BSU4GplUKp1aTvWyf9bzH4Sj\nUJAfWl0qmi10he1HTysu\n=H6kF\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-05-29T21:32:32Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/django-redis/commit/9b1bb0167b21d9174fa93b2dd8c5d7866888861f",
+   "node_id": "C_kwDOAD3eadoAKDliMWJiMDE2N2IyMWQ5MTc0ZmE5M2IyZGQ4YzVkNzg2Njg4ODg2MWY",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/django-redis/commit/42d9686bc1fd449e279352e449ef9725f02ae0f7",
+     "sha": "42d9686bc1fd449e279352e449ef9725f02ae0f7",
+     "url": "https://api.github.com/repos/jazzband/django-redis/commits/42d9686bc1fd449e279352e449ef9725f02ae0f7"
+    }
+   ],
+   "sha": "9b1bb0167b21d9174fa93b2dd8c5d7866888861f",
+   "url": "https://api.github.com/repos/jazzband/django-redis/commits/9b1bb0167b21d9174fa93b2dd8c5d7866888861f"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/438813?v=4",
+    "events_url": "https://api.github.com/users/terencehonles/events{/privacy}",
+    "followers_url": "https://api.github.com/users/terencehonles/followers",
+    "following_url": "https://api.github.com/users/terencehonles/following{/other_user}",
+    "gists_url": "https://api.github.com/users/terencehonles/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/terencehonles",
+    "id": 438813,
+    "login": "terencehonles",
+    "node_id": "MDQ6VXNlcjQzODgxMw==",
+    "organizations_url": "https://api.github.com/users/terencehonles/orgs",
+    "received_events_url": "https://api.github.com/users/terencehonles/received_events",
+    "repos_url": "https://api.github.com/users/terencehonles/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/terencehonles/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/terencehonles/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/terencehonles",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/django-redis/commits/42d9686bc1fd449e279352e449ef9725f02ae0f7/comments",
+   "commit": {
+    "author": {
+     "date": "2026-05-29T21:25:47Z",
+     "email": "terence@honles.com",
+     "name": "Terence Honles"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-05-29T21:25:47Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "feat: modernize configuration & update Django & Python versions (#820)\n\nThis change centralizes configuration in `pyproject.toml`, drops EoL\nPython & Django versions, and adds support & testing for modern Python &\nDjango versions.",
+    "tree": {
+     "sha": "a8ab3ad7b990898b2f741dd4c74a4e1339eb43d7",
+     "url": "https://api.github.com/repos/jazzband/django-redis/git/trees/a8ab3ad7b990898b2f741dd4c74a4e1339eb43d7"
+    },
+    "url": "https://api.github.com/repos/jazzband/django-redis/git/commits/42d9686bc1fd449e279352e449ef9725f02ae0f7",
+    "verification": {
+     "payload": "tree a8ab3ad7b990898b2f741dd4c74a4e1339eb43d7\nparent 6b155fae4d67f381f838c730db04695bb4801d7a\nauthor Terence Honles <terence@honles.com> 1780089947 +0200\ncommitter GitHub <noreply@github.com> 1780089947 +0200\n\nfeat: modernize configuration & update Django & Python versions (#820)\n\nThis change centralizes configuration in `pyproject.toml`, drops EoL\nPython & Django versions, and adds support & testing for modern Python &\nDjango versions.",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqGgRbCRC1aQ7uu5UhlAAA940QAA5UgzPk0wo/BFPFPNZZmuxW\n8BZa9InMFA2ALw4jBQxbtkDl8iA+gbMOyKWd/HwTUKlOUkzeuo50phaWQB9/7fz9\nOCQ2N/ybxUS98sWEIyOC+kovuJCnPuqaRmbZNyOWmdSHccA9qHYEpSdw3mmiNkdu\nFK8maQqy/M97ZLt3f/zAONxY/H5Z+wo4uxZW2qrtxYdF9+dfP2naftbeV/TYjd/j\nqjPCnb4eYrGqpw9FoHK7QBS4pnUxmkEwT23YYFRyW/VOiHL7c2Mp2L6qxzArF/H+\nXjOvFSsdmk4ms6rSCgrQcOoOMO2NshhsD9h5EPBmwV39mz/eC3WX9bQMffrgaDmo\nuCr++Ax+aQJ7IAsVT7E45NdF7GuT1erBdrMIsiCB5HGA4HqIDtlRtvrTlE+rCxlp\n5e88t6WqJk4XAw07PxGqPTYZb7H/PVo8LrayQQrVlzUxVJV8C4do7YZ8vALK/lR7\nuPlL/MmQB20A+BmEDck4MwHCmqU8qrmCSveEx7L7yGBvpjFw7E/pIETS3/NXqVAa\n70cvr7gQRLBhHxArSmWG32cqrKUXpkp9HFf9T0ywAXKhu7aQODpKW6QOPGZ29qJ/\nvctAC9KzsEykd6Zc8Tzo1aUNC34+9ObAWA7OnhEIV3qV1J1pbQs26xUfX+YUFL/v\nrLx621zh1s8Nq/APCgEN\n=9qLo\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-05-29T21:25:47Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/django-redis/commit/42d9686bc1fd449e279352e449ef9725f02ae0f7",
+   "node_id": "C_kwDOAD3eadoAKDQyZDk2ODZiYzFmZDQ0OWUyNzkzNTJlNDQ5ZWY5NzI1ZjAyYWUwZjc",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/django-redis/commit/6b155fae4d67f381f838c730db04695bb4801d7a",
+     "sha": "6b155fae4d67f381f838c730db04695bb4801d7a",
+     "url": "https://api.github.com/repos/jazzband/django-redis/commits/6b155fae4d67f381f838c730db04695bb4801d7a"
+    }
+   ],
+   "sha": "42d9686bc1fd449e279352e449ef9725f02ae0f7",
+   "url": "https://api.github.com/repos/jazzband/django-redis/commits/42d9686bc1fd449e279352e449ef9725f02ae0f7"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+    "events_url": "https://api.github.com/users/dependabot%5Bbot%5D/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dependabot%5Bbot%5D/followers",
+    "following_url": "https://api.github.com/users/dependabot%5Bbot%5D/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dependabot%5Bbot%5D/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/apps/dependabot",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "node_id": "MDM6Qm90NDk2OTkzMzM=",
+    "organizations_url": "https://api.github.com/users/dependabot%5Bbot%5D/orgs",
+    "received_events_url": "https://api.github.com/users/dependabot%5Bbot%5D/received_events",
+    "repos_url": "https://api.github.com/users/dependabot%5Bbot%5D/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dependabot%5Bbot%5D/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dependabot%5Bbot%5D/subscriptions",
+    "type": "Bot",
+    "url": "https://api.github.com/users/dependabot%5Bbot%5D",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/django-redis/commits/6b155fae4d67f381f838c730db04695bb4801d7a/comments",
+   "commit": {
+    "author": {
+     "date": "2026-04-24T18:18:36Z",
+     "email": "49699333+dependabot[bot]@users.noreply.github.com",
+     "name": "dependabot[bot]"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-04-24T18:20:59Z",
+     "email": "ulgens@users.noreply.github.com",
+     "name": "Ülgen Sarıkavak"
+    },
+    "message": "Bump actions/cache from 4 to 5\n\nBumps [actions/cache](https://github.com/actions/cache) from 4 to 5.\n- [Release notes](https://github.com/actions/cache/releases)\n- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)\n- [Commits](https://github.com/actions/cache/compare/v4...v5)\n\n---\nupdated-dependencies:\n- dependency-name: actions/cache\n  dependency-version: '5'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>",
+    "tree": {
+     "sha": "ff44b01ebff62e06e3cfc6d0189baad6c0df31b6",
+     "url": "https://api.github.com/repos/jazzband/django-redis/git/trees/ff44b01ebff62e06e3cfc6d0189baad6c0df31b6"
+    },
+    "url": "https://api.github.com/repos/jazzband/django-redis/git/commits/6b155fae4d67f381f838c730db04695bb4801d7a",
+    "verification": {
+     "payload": null,
+     "reason": "unsigned",
+     "signature": null,
+     "verified": false,
+     "verified_at": null
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/166637?v=4",
+    "events_url": "https://api.github.com/users/ulgens/events{/privacy}",
+    "followers_url": "https://api.github.com/users/ulgens/followers",
+    "following_url": "https://api.github.com/users/ulgens/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ulgens/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/ulgens",
+    "id": 166637,
+    "login": "ulgens",
+    "node_id": "MDQ6VXNlcjE2NjYzNw==",
+    "organizations_url": "https://api.github.com/users/ulgens/orgs",
+    "received_events_url": "https://api.github.com/users/ulgens/received_events",
+    "repos_url": "https://api.github.com/users/ulgens/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/ulgens/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ulgens/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/ulgens",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/django-redis/commit/6b155fae4d67f381f838c730db04695bb4801d7a",
+   "node_id": "C_kwDOAD3eadoAKDZiMTU1ZmFlNGQ2N2YzODFmODM4YzczMGRiMDQ2OTViYjQ4MDFkN2E",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/django-redis/commit/3d009b1f1de72db0ec8878a5297741da2df2de81",
+     "sha": "3d009b1f1de72db0ec8878a5297741da2df2de81",
+     "url": "https://api.github.com/repos/jazzband/django-redis/commits/3d009b1f1de72db0ec8878a5297741da2df2de81"
+    }
+   ],
+   "sha": "6b155fae4d67f381f838c730db04695bb4801d7a",
+   "url": "https://api.github.com/repos/jazzband/django-redis/commits/6b155fae4d67f381f838c730db04695bb4801d7a"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/in/68672?v=4",
+    "events_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/events{/privacy}",
+    "followers_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/followers",
+    "following_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/following{/other_user}",
+    "gists_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/apps/pre-commit-ci",
+    "id": 66853113,
+    "login": "pre-commit-ci[bot]",
+    "node_id": "MDM6Qm90NjY4NTMxMTM=",
+    "organizations_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/orgs",
+    "received_events_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/received_events",
+    "repos_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/subscriptions",
+    "type": "Bot",
+    "url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/django-redis/commits/3d009b1f1de72db0ec8878a5297741da2df2de81/comments",
+   "commit": {
+    "author": {
+     "date": "2026-04-20T17:25:55Z",
+     "email": "66853113+pre-commit-ci[bot]@users.noreply.github.com",
+     "name": "pre-commit-ci[bot]"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-04-24T18:18:29Z",
+     "email": "ulgens@users.noreply.github.com",
+     "name": "Ülgen Sarıkavak"
+    },
+    "message": "[pre-commit.ci] pre-commit autoupdate\n\nupdates:\n- [github.com/astral-sh/ruff-pre-commit: v0.12.9 → v0.15.11](https://github.com/astral-sh/ruff-pre-commit/compare/v0.12.9...v0.15.11)",
+    "tree": {
+     "sha": "25758a07801313fe9974a43bb785efbbd1ffb08a",
+     "url": "https://api.github.com/repos/jazzband/django-redis/git/trees/25758a07801313fe9974a43bb785efbbd1ffb08a"
+    },
+    "url": "https://api.github.com/repos/jazzband/django-redis/git/commits/3d009b1f1de72db0ec8878a5297741da2df2de81",
+    "verification": {
+     "payload": null,
+     "reason": "unsigned",
+     "signature": null,
+     "verified": false,
+     "verified_at": null
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/166637?v=4",
+    "events_url": "https://api.github.com/users/ulgens/events{/privacy}",
+    "followers_url": "https://api.github.com/users/ulgens/followers",
+    "following_url": "https://api.github.com/users/ulgens/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ulgens/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/ulgens",
+    "id": 166637,
+    "login": "ulgens",
+    "node_id": "MDQ6VXNlcjE2NjYzNw==",
+    "organizations_url": "https://api.github.com/users/ulgens/orgs",
+    "received_events_url": "https://api.github.com/users/ulgens/received_events",
+    "repos_url": "https://api.github.com/users/ulgens/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/ulgens/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ulgens/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/ulgens",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/django-redis/commit/3d009b1f1de72db0ec8878a5297741da2df2de81",
+   "node_id": "C_kwDOAD3eadoAKDNkMDA5YjFmMWRlNzJkYjBlYzg4NzhhNTI5Nzc0MWRhMmRmMmRlODE",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/django-redis/commit/00334df224cbf5e9555afc7a151b6ba0828288f3",
+     "sha": "00334df224cbf5e9555afc7a151b6ba0828288f3",
+     "url": "https://api.github.com/repos/jazzband/django-redis/commits/00334df224cbf5e9555afc7a151b6ba0828288f3"
+    }
+   ],
+   "sha": "3d009b1f1de72db0ec8878a5297741da2df2de81",
+   "url": "https://api.github.com/repos/jazzband/django-redis/commits/3d009b1f1de72db0ec8878a5297741da2df2de81"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+    "events_url": "https://api.github.com/users/dependabot%5Bbot%5D/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dependabot%5Bbot%5D/followers",
+    "following_url": "https://api.github.com/users/dependabot%5Bbot%5D/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dependabot%5Bbot%5D/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/apps/dependabot",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "node_id": "MDM6Qm90NDk2OTkzMzM=",
+    "organizations_url": "https://api.github.com/users/dependabot%5Bbot%5D/orgs",
+    "received_events_url": "https://api.github.com/users/dependabot%5Bbot%5D/received_events",
+    "repos_url": "https://api.github.com/users/dependabot%5Bbot%5D/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dependabot%5Bbot%5D/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dependabot%5Bbot%5D/subscriptions",
+    "type": "Bot",
+    "url": "https://api.github.com/users/dependabot%5Bbot%5D",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/django-redis/commits/00334df224cbf5e9555afc7a151b6ba0828288f3/comments",
+   "commit": {
+    "author": {
+     "date": "2026-03-26T16:43:25Z",
+     "email": "49699333+dependabot[bot]@users.noreply.github.com",
+     "name": "dependabot[bot]"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-04-24T18:17:07Z",
+     "email": "ulgens@users.noreply.github.com",
+     "name": "Ülgen Sarıkavak"
+    },
+    "message": "Bump codecov/codecov-action from 5 to 6\n\nBumps [codecov/codecov-action](https://github.com/codecov/codecov-action) from 5 to 6.\n- [Release notes](https://github.com/codecov/codecov-action/releases)\n- [Changelog](https://github.com/codecov/codecov-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/codecov/codecov-action/compare/v5...v6)\n\n---\nupdated-dependencies:\n- dependency-name: codecov/codecov-action\n  dependency-version: '6'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>",
+    "tree": {
+     "sha": "48643a6f0c39c22070a74147c04e5f0da3838a91",
+     "url": "https://api.github.com/repos/jazzband/django-redis/git/trees/48643a6f0c39c22070a74147c04e5f0da3838a91"
+    },
+    "url": "https://api.github.com/repos/jazzband/django-redis/git/commits/00334df224cbf5e9555afc7a151b6ba0828288f3",
+    "verification": {
+     "payload": null,
+     "reason": "unsigned",
+     "signature": null,
+     "verified": false,
+     "verified_at": null
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/166637?v=4",
+    "events_url": "https://api.github.com/users/ulgens/events{/privacy}",
+    "followers_url": "https://api.github.com/users/ulgens/followers",
+    "following_url": "https://api.github.com/users/ulgens/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ulgens/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/ulgens",
+    "id": 166637,
+    "login": "ulgens",
+    "node_id": "MDQ6VXNlcjE2NjYzNw==",
+    "organizations_url": "https://api.github.com/users/ulgens/orgs",
+    "received_events_url": "https://api.github.com/users/ulgens/received_events",
+    "repos_url": "https://api.github.com/users/ulgens/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/ulgens/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ulgens/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/ulgens",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/django-redis/commit/00334df224cbf5e9555afc7a151b6ba0828288f3",
+   "node_id": "C_kwDOAD3eadoAKDAwMzM0ZGYyMjRjYmY1ZTk1NTVhZmM3YTE1MWI2YmEwODI4Mjg4ZjM",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/django-redis/commit/755dfb24c9a7677db6d730a7f51d7e89e639456f",
+     "sha": "755dfb24c9a7677db6d730a7f51d7e89e639456f",
+     "url": "https://api.github.com/repos/jazzband/django-redis/commits/755dfb24c9a7677db6d730a7f51d7e89e639456f"
+    }
+   ],
+   "sha": "00334df224cbf5e9555afc7a151b6ba0828288f3",
+   "url": "https://api.github.com/repos/jazzband/django-redis/commits/00334df224cbf5e9555afc7a151b6ba0828288f3"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/5825811?v=4",
+    "events_url": "https://api.github.com/users/WisdomPill/events{/privacy}",
+    "followers_url": "https://api.github.com/users/WisdomPill/followers",
+    "following_url": "https://api.github.com/users/WisdomPill/following{/other_user}",
+    "gists_url": "https://api.github.com/users/WisdomPill/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/WisdomPill",
+    "id": 5825811,
+    "login": "WisdomPill",
+    "node_id": "MDQ6VXNlcjU4MjU4MTE=",
+    "organizations_url": "https://api.github.com/users/WisdomPill/orgs",
+    "received_events_url": "https://api.github.com/users/WisdomPill/received_events",
+    "repos_url": "https://api.github.com/users/WisdomPill/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/WisdomPill/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/WisdomPill/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/WisdomPill",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/django-redis/commits/755dfb24c9a7677db6d730a7f51d7e89e639456f/comments",
+   "commit": {
+    "author": {
+     "date": "2025-12-23T16:04:58Z",
+     "email": "anas.el.amraoui@live.com",
+     "name": "Anas"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2025-12-23T16:04:58Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Merge pull request #800 from jazzband/dependabot/github_actions/actions/checkout-6\n\nBump actions/checkout from 5 to 6",
+    "tree": {
+     "sha": "5301b0f4450682e9946704ace65f0e0a7fbc740e",
+     "url": "https://api.github.com/repos/jazzband/django-redis/git/trees/5301b0f4450682e9946704ace65f0e0a7fbc740e"
+    },
+    "url": "https://api.github.com/repos/jazzband/django-redis/git/commits/755dfb24c9a7677db6d730a7f51d7e89e639456f",
+    "verification": {
+     "payload": "tree 5301b0f4450682e9946704ace65f0e0a7fbc740e\nparent e0c234f8ab0ba4350cfcfb4d61bc53693c74174b\nparent 0a62f935575a51659b98649762a266d6e5beeca7\nauthor Anas <anas.el.amraoui@live.com> 1766505898 +0200\ncommitter GitHub <noreply@github.com> 1766505898 +0200\n\nMerge pull request #800 from jazzband/dependabot/github_actions/actions/checkout-6\n\nBump actions/checkout from 5 to 6",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJpSr2qCRC1aQ7uu5UhlAAAbG8QAGMLLLq1raZ4s5I570UeS57I\ntApy883qLrvj9kO9MtnLIxZbCzp4rGY4hBx4ar91M44Xod9F6cA4UswMcJY3Cegd\noPosrBy5utM9xr1bYzvXP+49QWQlpS6wKJiKTPsmoFRX3dyWobEBtrkfqEVbDofH\ngQChjLm3QXgmn7+tf4DBXSEKBWXJ0AdYvJfVwgMOeLYtWTfDBUTS35el4A0hC0eQ\nKTN+Y+3UUwBHC2x0Zz3GxOqKqixOcAtw/tHjtFBAqRC/hLNvoBEQpch9ZjQOMX/Q\np2dO2qq4YINofeX2qRviNXehzfnpymOJIKgBFI2iEFgbzO5xhxkP1tsycUar1NyT\n6+QfEonSN0wZuQoZM1SgYqyyML8DglGl8xRlrTzIN60qnWQlhwbgrffvJaYBajsg\n8HjGlIS/NFiLXmQhsVdeI4cLQjvi1IX5S+rlldtz1GrQSLof47faQnuK0kjsKLD+\neJ+lSVLQ1FYFUcuIaigYhph5Qc7ZFZcmg1JV4Q6Te4X8h7owdq1W3GNf8wwSJ//n\nh6Ay4XpacM8SkBcfnhgZ4QLXTxQoKwzxNixCZ0bb15L9AeDmLkC1ZHsQoVHwf9j4\nIF44F0bdG6Kw5yy2+s1vp9/N++H78vNdgg6sUVIXewi064OMowkSnfwpZfyaoSNh\nSVOX33Hly3GGZGl1dGdJ\n=B01A\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2025-12-23T16:04:59Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/django-redis/commit/755dfb24c9a7677db6d730a7f51d7e89e639456f",
+   "node_id": "C_kwDOAD3eadoAKDc1NWRmYjI0YzlhNzY3N2RiNmQ3MzBhN2Y1MWQ3ZTg5ZTYzOTQ1NmY",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/django-redis/commit/e0c234f8ab0ba4350cfcfb4d61bc53693c74174b",
+     "sha": "e0c234f8ab0ba4350cfcfb4d61bc53693c74174b",
+     "url": "https://api.github.com/repos/jazzband/django-redis/commits/e0c234f8ab0ba4350cfcfb4d61bc53693c74174b"
+    },
+    {
+     "html_url": "https://github.com/jazzband/django-redis/commit/0a62f935575a51659b98649762a266d6e5beeca7",
+     "sha": "0a62f935575a51659b98649762a266d6e5beeca7",
+     "url": "https://api.github.com/repos/jazzband/django-redis/commits/0a62f935575a51659b98649762a266d6e5beeca7"
+    }
+   ],
+   "sha": "755dfb24c9a7677db6d730a7f51d7e89e639456f",
+   "url": "https://api.github.com/repos/jazzband/django-redis/commits/755dfb24c9a7677db6d730a7f51d7e89e639456f"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/5825811?v=4",
+    "events_url": "https://api.github.com/users/WisdomPill/events{/privacy}",
+    "followers_url": "https://api.github.com/users/WisdomPill/followers",
+    "following_url": "https://api.github.com/users/WisdomPill/following{/other_user}",
+    "gists_url": "https://api.github.com/users/WisdomPill/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/WisdomPill",
+    "id": 5825811,
+    "login": "WisdomPill",
+    "node_id": "MDQ6VXNlcjU4MjU4MTE=",
+    "organizations_url": "https://api.github.com/users/WisdomPill/orgs",
+    "received_events_url": "https://api.github.com/users/WisdomPill/received_events",
+    "repos_url": "https://api.github.com/users/WisdomPill/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/WisdomPill/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/WisdomPill/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/WisdomPill",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/django-redis/commits/e0c234f8ab0ba4350cfcfb4d61bc53693c74174b/comments",
+   "commit": {
+    "author": {
+     "date": "2025-11-30T07:57:36Z",
+     "email": "anas.el.amraoui@live.com",
+     "name": "Anas"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2025-11-30T07:57:36Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Merge pull request #798 from oliverhaas/feat/sorted-set-methods-with-mixins\n\nfeat: add sorted set operations and mixins for RedisCache",
+    "tree": {
+     "sha": "b675fde9c5c593a013cec97d5a196660e526ebf2",
+     "url": "https://api.github.com/repos/jazzband/django-redis/git/trees/b675fde9c5c593a013cec97d5a196660e526ebf2"
+    },
+    "url": "https://api.github.com/repos/jazzband/django-redis/git/commits/e0c234f8ab0ba4350cfcfb4d61bc53693c74174b",
+    "verification": {
+     "payload": "tree b675fde9c5c593a013cec97d5a196660e526ebf2\nparent 09d05e8dfcc6c8447326a4ce1bb5618ce2fb2713\nparent 2dc6eae14083aa690aee10a5507bcbb9fbcab929\nauthor Anas <anas.el.amraoui@live.com> 1764489456 +0200\ncommitter GitHub <noreply@github.com> 1764489456 +0200\n\nMerge pull request #798 from oliverhaas/feat/sorted-set-methods-with-mixins\n\nfeat: add sorted set operations and mixins for RedisCache",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJpK/jwCRC1aQ7uu5UhlAAA52QQAJpDnfvkx5O+K6sTMbBovmq2\nfBrG4dLVTleoS7rXE6S86sONH4Ixgs5AscQL4wlq6IaGhU9srEFOaYA09ctj6J7n\nDfQk8knSUgO8yaruR93kYn8FckE4n/ccaZ7OUuL80QNqcMQnQdVnTtOgqHTN825g\nBvfd+bVdznzZW2Jhc9uYTGnnCvxl5038mJbbcGO3GuzGP+SKDofSOLnjVvrdBYmh\ni7Z4p8UggL45jtirvX/F6pt3PqbtddiXp2+itTeXpvc7hdOnFeZgwMGgIMggCC0K\nW6ACGuEz30tEKYTNhkpwZSRdBdyRxxYNGPk9av+zruAyQB+wvmb9ODem5dh9TKMr\nEEUuxf2OemlmpGtov1vhIC448UEWIjl0hcX0hmpz2Uc1qnivtY/jusQGlbWNxbgm\nXcaZRVAjy8IfvcPeBnSBtfgQD24QXprdZM0nZa7L+wp1/FkpYDXIhgZQJ8rysMjU\nInEOiX0dcAR/Au09oyY9BWOX62LrdUjn5Pfz0aj8HgfoReQkTCrv8M8FzjU8qKgS\nkDQYB40vgjS1gMgiN+sFOble/hWAqrX5uPxZM9bNxj+8VfVUkJcH/cjtCCjG7jvH\ngj7O8aukj9ik8kT2JkGqC8SxJg4Ov4v+NB5AdtYD/xVRYYe0DHNDSUgI0id186Xv\npIJHxdM6UoICTqVWFgtE\n=4w5r\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2025-11-30T07:57:37Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/django-redis/commit/e0c234f8ab0ba4350cfcfb4d61bc53693c74174b",
+   "node_id": "C_kwDOAD3eadoAKGUwYzIzNGY4YWIwYmE0MzUwY2ZjZmI0ZDYxYmM1MzY5M2M3NDE3NGI",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/django-redis/commit/09d05e8dfcc6c8447326a4ce1bb5618ce2fb2713",
+     "sha": "09d05e8dfcc6c8447326a4ce1bb5618ce2fb2713",
+     "url": "https://api.github.com/repos/jazzband/django-redis/commits/09d05e8dfcc6c8447326a4ce1bb5618ce2fb2713"
+    },
+    {
+     "html_url": "https://github.com/jazzband/django-redis/commit/2dc6eae14083aa690aee10a5507bcbb9fbcab929",
+     "sha": "2dc6eae14083aa690aee10a5507bcbb9fbcab929",
+     "url": "https://api.github.com/repos/jazzband/django-redis/commits/2dc6eae14083aa690aee10a5507bcbb9fbcab929"
+    }
+   ],
+   "sha": "e0c234f8ab0ba4350cfcfb4d61bc53693c74174b",
+   "url": "https://api.github.com/repos/jazzband/django-redis/commits/e0c234f8ab0ba4350cfcfb4d61bc53693c74174b"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/202559?v=4",
+    "events_url": "https://api.github.com/users/camilonova/events{/privacy}",
+    "followers_url": "https://api.github.com/users/camilonova/followers",
+    "following_url": "https://api.github.com/users/camilonova/following{/other_user}",
+    "gists_url": "https://api.github.com/users/camilonova/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/camilonova",
+    "id": 202559,
+    "login": "camilonova",
+    "node_id": "MDQ6VXNlcjIwMjU1OQ==",
+    "organizations_url": "https://api.github.com/users/camilonova/orgs",
+    "received_events_url": "https://api.github.com/users/camilonova/received_events",
+    "repos_url": "https://api.github.com/users/camilonova/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/camilonova/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/camilonova/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/camilonova",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/django-redis/commits/09d05e8dfcc6c8447326a4ce1bb5618ce2fb2713/comments",
+   "commit": {
+    "author": {
+     "date": "2025-11-26T19:49:47Z",
+     "email": "camilo.nova@gmail.com",
+     "name": "Camilo Nova"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2025-11-26T19:49:47Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Merge pull request #791 from gabang2/correct-hiredis-parser-documentation\n\nUpdate hiredis usage instructions in documentation",
+    "tree": {
+     "sha": "c1671e86fe83b03cbfb05364b70e21de1fe0d587",
+     "url": "https://api.github.com/repos/jazzband/django-redis/git/trees/c1671e86fe83b03cbfb05364b70e21de1fe0d587"
+    },
+    "url": "https://api.github.com/repos/jazzband/django-redis/git/commits/09d05e8dfcc6c8447326a4ce1bb5618ce2fb2713",
+    "verification": {
+     "payload": "tree c1671e86fe83b03cbfb05364b70e21de1fe0d587\nparent 7043888d0b3191be7cdcd4d085e3c2b58ff712a8\nparent 2c0dad6d6123b76a5949ca2220fae67dbdcd538b\nauthor Camilo Nova <camilo.nova@gmail.com> 1764186587 -0600\ncommitter GitHub <noreply@github.com> 1764186587 -0600\n\nMerge pull request #791 from gabang2/correct-hiredis-parser-documentation\n\nUpdate hiredis usage instructions in documentation",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJpJ1nbCRC1aQ7uu5UhlAAA8FMQAGulc9cRRAVyuoxpreeQTOm9\nVa0L0x+ZcdN1iZ/6mEMAhKtDFgi3kEAnMJh4qXuN0dKmhG0Ren7keeq80SFVq2ko\niUnKc68UAKH2tW+GYM0CKr3zrxipAtBi+mo6AyGk+LVchyLCF1IEeyPhu1S2UbKU\nRxAZeUeKf44VV5+y6TKubNQ2qhHXF0MuKGPkYNUqCbrF236o4dfLUjtq8uNm9m0X\nNEDd4iA3b4dTQs1SteHJfj0jpW9v01gpd35FsxcfLFT10ChsoEFlHGyifosKrbff\nMXUQBwO0JStwisA96fyHQPBm19OYq0oUB4apOVHW5Pgda4Vrcfew4YajuUs3OCxb\nIRPDN9XiEHj70kBqOF0UpjGdCtITar9nc6qI0f8EWoIeSA2ppcEbVDx9jz5lNv+i\nOCoVK8xRh3YYUfA/PS+aHb30WpNAyPn0nrPQIpn9t+5TgrobhgLAzfaTJhASMyq+\nZkZ/U0azyv0nPiS/a9p2cuFVvNyRF7vIteQLkfP5zph3AwVNIr5grEobqXxoY59K\naYhgzziHijZSgsKorvKjkaS0eVGkrxRCrVdQiNUAAhVKRsrkdqkdkxxJlN57kKiR\nysCBWfnyc19i9qhpZtEnAqEJ+qQCc7K9CVKRTRSDmNq8PXnukkT1u6VCdkMtjaPb\nGntZlDaGNgxUJMyOR7RP\n=459m\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2025-11-26T19:49:47Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/django-redis/commit/09d05e8dfcc6c8447326a4ce1bb5618ce2fb2713",
+   "node_id": "C_kwDOAD3eadoAKDA5ZDA1ZThkZmNjNmM4NDQ3MzI2YTRjZTFiYjU2MThjZTJmYjI3MTM",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/django-redis/commit/7043888d0b3191be7cdcd4d085e3c2b58ff712a8",
+     "sha": "7043888d0b3191be7cdcd4d085e3c2b58ff712a8",
+     "url": "https://api.github.com/repos/jazzband/django-redis/commits/7043888d0b3191be7cdcd4d085e3c2b58ff712a8"
+    },
+    {
+     "html_url": "https://github.com/jazzband/django-redis/commit/2c0dad6d6123b76a5949ca2220fae67dbdcd538b",
+     "sha": "2c0dad6d6123b76a5949ca2220fae67dbdcd538b",
+     "url": "https://api.github.com/repos/jazzband/django-redis/commits/2c0dad6d6123b76a5949ca2220fae67dbdcd538b"
+    }
+   ],
+   "sha": "09d05e8dfcc6c8447326a4ce1bb5618ce2fb2713",
+   "url": "https://api.github.com/repos/jazzband/django-redis/commits/09d05e8dfcc6c8447326a4ce1bb5618ce2fb2713"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+    "events_url": "https://api.github.com/users/dependabot%5Bbot%5D/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dependabot%5Bbot%5D/followers",
+    "following_url": "https://api.github.com/users/dependabot%5Bbot%5D/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dependabot%5Bbot%5D/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/apps/dependabot",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "node_id": "MDM6Qm90NDk2OTkzMzM=",
+    "organizations_url": "https://api.github.com/users/dependabot%5Bbot%5D/orgs",
+    "received_events_url": "https://api.github.com/users/dependabot%5Bbot%5D/received_events",
+    "repos_url": "https://api.github.com/users/dependabot%5Bbot%5D/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dependabot%5Bbot%5D/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dependabot%5Bbot%5D/subscriptions",
+    "type": "Bot",
+    "url": "https://api.github.com/users/dependabot%5Bbot%5D",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/django-redis/commits/0a62f935575a51659b98649762a266d6e5beeca7/comments",
+   "commit": {
+    "author": {
+     "date": "2025-11-21T16:07:46Z",
+     "email": "49699333+dependabot[bot]@users.noreply.github.com",
+     "name": "dependabot[bot]"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2025-11-21T16:07:46Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Bump actions/checkout from 5 to 6\n\nBumps [actions/checkout](https://github.com/actions/checkout) from 5 to 6.\n- [Release notes](https://github.com/actions/checkout/releases)\n- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/actions/checkout/compare/v5...v6)\n\n---\nupdated-dependencies:\n- dependency-name: actions/checkout\n  dependency-version: '6'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>",
+    "tree": {
+     "sha": "897685dfab516d805b6256118a925bee7afffecb",
+     "url": "https://api.github.com/repos/jazzband/django-redis/git/trees/897685dfab516d805b6256118a925bee7afffecb"
+    },
+    "url": "https://api.github.com/repos/jazzband/django-redis/git/commits/0a62f935575a51659b98649762a266d6e5beeca7",
+    "verification": {
+     "payload": "tree 897685dfab516d805b6256118a925bee7afffecb\nparent 7043888d0b3191be7cdcd4d085e3c2b58ff712a8\nauthor dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 1763741266 +0000\ncommitter GitHub <noreply@github.com> 1763741266 +0000\n\nBump actions/checkout from 5 to 6\n\nBumps [actions/checkout](https://github.com/actions/checkout) from 5 to 6.\n- [Release notes](https://github.com/actions/checkout/releases)\n- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/actions/checkout/compare/v5...v6)\n\n---\nupdated-dependencies:\n- dependency-name: actions/checkout\n  dependency-version: '6'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJpII5SCRC1aQ7uu5UhlAAAfVcQAJq6s0jZH7y3TmAZbAtlN1FA\n0x8E3kblkH5lndkMhyPdDSiG2PaYTbMJnbPx5FcdGJ0b3BxIBRAHwdyA80waW0nk\nZ551XAvRkYyVCRicoUS4//y/Fq2Ydnw+Du0MOhQFZ/re1V8GOjLA6rg2YulZZpkB\nOaqeXcx6rnsoyxNLlS/RTxMQRWLeVlnasm4NU82MvNdH43oyO/ukV5dIUyQ+fWfS\nJz/g3hwAiE6UWcyZ+XXEpHR7WBcP6KbJsszMXgBi6virDzLD7Mk4UlyXNyevMMie\n3HfiDwu6eIJIi75SfqJHgaK0y1fPX+lzLUpgyXU5huhBgB6z90zIDG+j1+ipzbbs\nCz2ezecbKWW2u1nAHFUk9Ppp2YX3SlmTN3fP5p7KCSq85aX9BSXRpoSqtLl8jivt\nbjqEOblv5yH/ORzRvNb7SZMBvFa+Rt7hgh2lWOBLhI5IT23DdB459qOrE07NB0T6\nC9kfj6q2zySmFDlp2Te7oNSZofGgnjjEoc4ToLWH+QEkDx0KVkEn4ihwN86W5JFd\nSPNs3NjsrwDwm4Ygss/H7zyAwBVOvbd19vfrHhzx3jk2C+iijXPxWjiaEu2BZ1Ts\nWmE+2NWCV+Ab94qlTNOc2UlriZNVWFn/HMa6+idrSK/BwfR6SxMNYmMg/aS1VPkQ\nuvFGO2vcFpJN5q1rlv4P\n=EDD/\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2025-11-21T16:07:47Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/django-redis/commit/0a62f935575a51659b98649762a266d6e5beeca7",
+   "node_id": "C_kwDOAD3eadoAKDBhNjJmOTM1NTc1YTUxNjU5Yjk4NjQ5NzYyYTI2NmQ2ZTViZWVjYTc",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/django-redis/commit/7043888d0b3191be7cdcd4d085e3c2b58ff712a8",
+     "sha": "7043888d0b3191be7cdcd4d085e3c2b58ff712a8",
+     "url": "https://api.github.com/repos/jazzband/django-redis/commits/7043888d0b3191be7cdcd4d085e3c2b58ff712a8"
+    }
+   ],
+   "sha": "0a62f935575a51659b98649762a266d6e5beeca7",
+   "url": "https://api.github.com/repos/jazzband/django-redis/commits/0a62f935575a51659b98649762a266d6e5beeca7"
+  }
+ ],
+ "recorded_at": "2026-11-16T18:38:46Z",
+ "recorded_with": "deadledger 0.1.0",
+ "status": 200,
+ "url": "https://api.github.com/repos/jazzband/django-redis/commits?since=<window>&per_page=100"
+}

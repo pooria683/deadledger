@@ -1,0 +1,15 @@
+{
+ "body": {
+  "archived": false,
+  "default_branch": "main",
+  "full_name": "carltongibson/django-filter",
+  "html_url": "https://github.com/carltongibson/django-filter",
+  "open_issues_count": 95,
+  "pushed_at": "2026-10-03T12:02:35Z",
+  "stargazers_count": 4687
+ },
+ "recorded_at": "2026-11-16T18:38:46Z",
+ "recorded_with": "deadledger 0.1.0",
+ "status": 200,
+ "url": "https://api.github.com/repos/carltongibson/django-filter"
+}

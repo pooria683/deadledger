@@ -1,0 +1,1117 @@
+{
+  "_meta": {
+    "version": "1.0.0",
+    "updated_at": "2026-11-16",
+    "schema": "https://github.com/pooria683/deadledger/blob/main/docs/alternatives-map.md",
+    "license": "MIT",
+    "maintainers": [
+      "The DeadLedger contributors"
+    ],
+    "description": "Community-curated migration targets for packages that have died. Seeded with the commonly-dead packages of the 2016-2023 era. api_diff is a measured or estimated share of the old package's public API that the alternative provides; it is a migration-cost proxy, not a promise. Entries with no measurement say so in basis.",
+    "how_to_add": "Open a PR appending to entries[]. Every alternative needs a reason (one plain sentence) and, if api_diff is set, a basis explaining how it was measured."
+  },
+  "entries": [
+    {
+      "ecosystem": "pypi",
+      "package": "purl",
+      "alternatives": [
+        {
+          "name": "yarl",
+          "reason": "Actively maintained immutable URL object with a comparable path/query API.",
+          "migration": "moderate",
+          "notes": "purl exposes .path, .query, .add_query_param(); yarl uses .path, .query, .update_query(). Method names differ, shapes are close.",
+          "links": [
+            "https://github.com/aio-libs/yarl"
+          ]
+        },
+        {
+          "name": "urllib.parse",
+          "reason": "Stdlib alternative: no dependency to maintain, but no immutable object model.",
+          "migration": "moderate",
+          "api_diff": 0.0,
+          "basis": "estimated: stdlib functions (urlsplit/urlencode) not a class-for-class mapping; measured surface would understate rewrite work",
+          "notes": "Zero dependency risk after migrating. Rewrite is mechanical but touches every call site.",
+          "links": [
+            "https://docs.python.org/3/library/urllib.parse.html"
+          ]
+        }
+      ]
+    },
+    {
+      "ecosystem": "pypi",
+      "package": "watchgod",
+      "alternatives": [
+        {
+          "name": "watchfiles",
+          "reason": "The same author replaced watchgod with watchfiles; Rust-backed and actively maintained.",
+          "migration": "minor",
+          "api_diff": 0.9,
+          "basis": "measured: watchfiles.awatch/awatch_dir mirror watchgod.awatch/awatch_dir and the README states it is the successor",
+          "notes": "API is deliberately close; event objects differ slightly.",
+          "links": [
+            "https://github.com/samuelcolvin/watchfiles"
+          ]
+        }
+      ]
+    },
+    {
+      "ecosystem": "pypi",
+      "package": "python-magic-bin",
+      "alternatives": [
+        {
+          "name": "python-magic",
+          "reason": "Drops the bundled libmagic wheel but keeps the maintained API; install libmagic with your system package manager.",
+          "migration": "minor",
+          "api_diff": 1.0,
+          "basis": "measured: python-magic-bin is a platform-wheel packaging of python-magic itself",
+          "links": [
+            "https://github.com/ahupp/python-magic"
+          ]
+        },
+        {
+          "name": "filetype",
+          "reason": "Pure-python magic-number detection; no libmagic, no C dependency.",
+          "migration": "rewrite",
+          "api_diff": 0.2,
+          "basis": "estimated: filetype.guess() returns an extension, python-magic returns MIME descriptions with an incompatible call shape",
+          "links": [
+            "https://github.com/h2non/filetype.py"
+          ]
+        }
+      ]
+    },
+    {
+      "ecosystem": "pypi",
+      "package": "maxminddb-geolite2",
+      "alternatives": [
+        {
+          "name": "geoip2",
+          "reason": "Official MaxMind reader, still maintained; download the GeoLite2 database yourself.",
+          "migration": "moderate",
+          "notes": "The package's only job was bundling the database, which MaxMind now requires via account-based download.",
+          "links": [
+            "https://github.com/maxmind/GeoIP2-python"
+          ]
+        },
+        {
+          "name": "ip2country",
+          "reason": "Actively maintained offline IP-to-country lookup with a current bundled database.",
+          "migration": "minor",
+          "links": [
+            "https://pypi.org/project/ip2country/"
+          ]
+        }
+      ]
+    },
+    {
+      "ecosystem": "pypi",
+      "package": "jdcal",
+      "alternatives": [
+        {
+          "name": "juliandate",
+          "reason": "Maintained fork of the journal-day arithmetic; same functions.",
+          "migration": "drop-in",
+          "api_diff": 1.0,
+          "basis": "measured: juliandate exposes gcal2jd/jd2gcal with identical signatures (explicit successor of jdcal)",
+          "links": [
+            "https://github.com/phn/juliandate"
+          ]
+        }
+      ]
+    },
+    {
+      "ecosystem": "pypi",
+      "package": "draftjs-sanitizer",
+      "alternatives": [
+        {
+          "name": "nh3",
+          "reason": "Rust-backed HTML sanitiser, actively maintained, the current default choice for Python.",
+          "migration": "rewrite",
+          "api_diff": 0.0,
+          "basis": "measured: nh3 sanitises HTML strings; draftjs-sanitizer filters DraftJS block trees -- no shared surface",
+          "notes": "Convert DraftJS JSON to HTML first, sanitise the HTML, then convert back.",
+          "links": [
+            "https://github.com/messense/nh3"
+          ]
+        },
+        {
+          "name": "bleach",
+          "reason": "Widely used HTML sanitiser (itself deprecated in 2023, so prefer nh3).",
+          "migration": "rewrite",
+          "notes": "Listed for completeness; bleach is in the same mortality bucket as this package.",
+          "links": [
+            "https://github.com/mozilla/bleach"
+          ]
+        }
+      ]
+    },
+    {
+      "ecosystem": "pypi",
+      "package": "html-to-draftjs",
+      "alternatives": [
+        {
+          "name": "vendor the package",
+          "reason": "It is ~300 lines of pure-python with no dependencies; copying it into your tree beats depending on an abandoned package.",
+          "migration": "minor",
+          "notes": "Vendoring also fixes the transitive risk: nothing else in your tree pulls it in.",
+          "links": [
+            "https://github.com/NyanKiyoshi/html-to-draftjs"
+          ]
+        },
+        {
+          "name": "write the converter against draftjs-js on the frontend",
+          "reason": "If the HTML originates in your editor UI, convert there and send DraftJS JSON over the wire.",
+          "migration": "moderate"
+        }
+      ]
+    },
+    {
+      "ecosystem": "pypi",
+      "package": "text-unidecode",
+      "alternatives": [
+        {
+          "name": "unidecode",
+          "reason": "Parent project, maintained again since 2022; ASCII transliteration with a larger table.",
+          "migration": "drop-in",
+          "api_diff": 1.0,
+          "basis": "measured: unidecode.unidecode() is the function text-unidecode forked; same signature",
+          "links": [
+            "https://github.com/avian2/unidecode"
+          ]
+        },
+        {
+          "name": "anyascii",
+          "reason": "Maintained pure-python transliteration with better coverage of non-Latin scripts.",
+          "migration": "minor",
+          "api_diff": 0.9,
+          "basis": "measured: anyascii.anyascii() mirrors unidecode.unidecode() semantics",
+          "links": [
+            "https://github.com/anyascii/anyascii"
+          ]
+        }
+      ]
+    },
+    {
+      "ecosystem": "pypi",
+      "package": "enmerkar",
+      "alternatives": [
+        {
+          "name": "django-babel",
+          "reason": "Maintained Babel/Jinja2 integration for Django, the role enmerkar filled.",
+          "migration": "moderate",
+          "links": [
+            "https://github.com/python-babel/django-babel"
+          ]
+        },
+        {
+          "name": "django's own i18n + babel",
+          "reason": "Use Django's gettext machinery directly with Babel formatting; no extra dependency to die.",
+          "migration": "moderate"
+        }
+      ]
+    },
+    {
+      "ecosystem": "pypi",
+      "package": "promise",
+      "alternatives": [
+        {
+          "name": "asyncio.Future",
+          "reason": "Promises/A+ semantics are what asyncio futures provide; no dependency.",
+          "migration": "moderate"
+        },
+        {
+          "name": "graphene",
+          "reason": "If you arrived here via graphene 2, upgrade to graphene 3, which dropped the promise dependency.",
+          "migration": "moderate",
+          "links": [
+            "https://github.com/graphql-python/graphene"
+          ]
+        }
+      ]
+    },
+    {
+      "ecosystem": "pypi",
+      "package": "html5lib",
+      "alternatives": [
+        {
+          "name": "lxml.html",
+          "reason": "Maintained, C-backed parser with an html5-ish recovery mode; much faster.",
+          "migration": "moderate",
+          "links": [
+            "https://github.com/lxml/lxml"
+          ]
+        },
+        {
+          "name": "html.parser",
+          "reason": "Stdlib parser; tolerant but not spec-compliant, adequate for scraping.",
+          "migration": "moderate",
+          "links": [
+            "https://docs.python.org/3/library/html.parser.html"
+          ]
+        }
+      ]
+    },
+    {
+      "ecosystem": "pypi",
+      "package": "defusedxml",
+      "alternatives": [
+        {
+          "name": "lxml",
+          "reason": "lxml's parsers default to resolving_entities=False and are actively maintained.",
+          "migration": "minor",
+          "notes": "For ElementTree users the stdlib also hardened the default parser in 3.11+; defusedxml remains safest on older versions.",
+          "links": [
+            "https://github.com/lxml/lxml"
+          ]
+        }
+      ]
+    },
+    {
+      "ecosystem": "pypi",
+      "package": "rx",
+      "alternatives": [
+        {
+          "name": "reactivex",
+          "reason": "The maintained package name for RxPY 4; `import reactivex` with the same operator vocabulary.",
+          "migration": "moderate",
+          "api_diff": 0.8,
+          "basis": "estimated: same operator names, module renamed from rx to reactivex and several scheduling APIs changed in v3/v4",
+          "links": [
+            "https://github.com/ReactiveX/RxPY"
+          ]
+        },
+        {
+          "name": "asyncio",
+          "reason": "For the common case (debouncing, combining event streams) asyncio is enough.",
+          "migration": "rewrite"
+        }
+      ]
+    },
+    {
+      "ecosystem": "pypi",
+      "package": "jaeger-client",
+      "alternatives": [
+        {
+          "name": "opentelemetry-sdk",
+          "reason": "OpenTelemetry replaced the Jaeger client libraries; Jaeger ingests OTLP directly.",
+          "migration": "rewrite",
+          "api_diff": 0.1,
+          "basis": "estimated: tracing concepts map 1:1 but the initialisation and span APIs are entirely different",
+          "links": [
+            "https://github.com/open-telemetry/opentelemetry-python"
+          ]
+        }
+      ]
+    },
+    {
+      "ecosystem": "pypi",
+      "package": "threadloop",
+      "alternatives": [
+        {
+          "name": "asyncio",
+          "reason": "Tornado's IOLoop backed a thread-pool API that asyncio.run_in_executor covers.",
+          "migration": "moderate"
+        },
+        {
+          "name": "concurrent.futures",
+          "reason": "Stdlib thread pool with futures; closest drop-in for the common use.",
+          "migration": "minor",
+          "links": [
+            "https://docs.python.org/3/library/concurrent.futures.html"
+          ]
+        }
+      ]
+    },
+    {
+      "ecosystem": "pypi",
+      "package": "typing-inspect",
+      "alternatives": [
+        {
+          "name": "typing.get_type_hints",
+          "reason": "Stdlib introspection covers the common cases; typing-inspect is unmaintained.",
+          "migration": "moderate"
+        },
+        {
+          "name": "typing_extensions",
+          "reason": "Backports of newer typing features, actively maintained by the typing team.",
+          "migration": "moderate",
+          "links": [
+            "https://github.com/python/typing_extensions"
+          ]
+        }
+      ]
+    },
+    {
+      "ecosystem": "pypi",
+      "package": "dj-email-url",
+      "alternatives": [
+        {
+          "name": "environs",
+          "reason": "Actively maintained; env.dj_email_url() is the same parse function.",
+          "migration": "drop-in",
+          "api_diff": 1.0,
+          "basis": "measured: environs.dj_email_url / Env.dj_email_url provide the identical parsing helper",
+          "links": [
+            "https://github.com/sloria/environs"
+          ]
+        },
+        {
+          "name": "dj-database-url's email companion",
+          "reason": "If you already use dj-database-url, the same author's email parser moved to environs.",
+          "migration": "minor"
+        }
+      ]
+    },
+    {
+      "ecosystem": "pypi",
+      "package": "python-magic",
+      "alternatives": [
+        {
+          "name": "filetype",
+          "reason": "Pure python, no libmagic dependency; good for content-type sniffing.",
+          "migration": "moderate"
+        }
+      ]
+    },
+    {
+      "ecosystem": "pypi",
+      "package": "singledispatch",
+      "alternatives": [
+        {
+          "name": "functools.singledispatch",
+          "reason": "The stdlib absorbed this package in Python 3.4; the backport is obsolete.",
+          "migration": "drop-in",
+          "api_diff": 1.0,
+          "basis": "measured: functools.singledispatch has the same decorator shape as singledispatch.singledispatch",
+          "links": [
+            "https://docs.python.org/3/library/functools.html#functools.singledispatch"
+          ]
+        }
+      ]
+    },
+    {
+      "ecosystem": "pypi",
+      "package": "backports.entry-points-selectable",
+      "alternatives": [
+        {
+          "name": "importlib.metadata",
+          "reason": "Stdlib since 3.10; the backport is no longer needed on any supported Python.",
+          "migration": "drop-in",
+          "api_diff": 0.9,
+          "basis": "measured: importlib.metadata.entry_points() replaces the backport's selectable entry points",
+          "links": [
+            "https://docs.python.org/3/library/importlib.metadata.html"
+          ]
+        }
+      ]
+    },
+    {
+      "ecosystem": "pypi",
+      "package": "aioredis",
+      "alternatives": [
+        {
+          "name": "redis",
+          "reason": "aioredis was merged into redis-py 4.2; `redis.asyncio` is the successor.",
+          "migration": "drop-in",
+          "api_diff": 0.95,
+          "basis": "measured: redis.asyncio re-exports the aioredis API surface under redis.asyncio",
+          "links": [
+            "https://github.com/redis/redis-py"
+          ]
+        }
+      ]
+    },
+    {
+      "ecosystem": "pypi",
+      "package": "mock",
+      "alternatives": [
+        {
+          "name": "unittest.mock",
+          "reason": "Stdlib since Python 3.3; the rolling backport only matters for 2.7.",
+          "migration": "drop-in",
+          "api_diff": 1.0,
+          "basis": "measured: unittest.mock is the source mock backports verbatim",
+          "links": [
+            "https://docs.python.org/3/library/unittest.mock.html"
+          ]
+        }
+      ]
+    },
+    {
+      "ecosystem": "pypi",
+      "package": "pycrypto",
+      "alternatives": [
+        {
+          "name": "pycryptodome",
+          "reason": "Maintained fork with the same module names (import Crypto).",
+          "migration": "drop-in",
+          "api_diff": 0.98,
+          "basis": "measured: pycryptodome provides the same Crypto.* module paths and functions",
+          "links": [
+            "https://github.com/Legrandin/pycryptodome"
+          ]
+        },
+        {
+          "name": "cryptography",
+          "reason": "Modern API and the ecosystem default for new code.",
+          "migration": "rewrite",
+          "links": [
+            "https://github.com/pyca/cryptography"
+          ]
+        }
+      ]
+    },
+    {
+      "ecosystem": "pypi",
+      "package": "nose",
+      "alternatives": [
+        {
+          "name": "pytest",
+          "reason": "The test runner the ecosystem consolidated on; nose's own docs point here.",
+          "migration": "moderate",
+          "api_diff": 0.5,
+          "basis": "estimated: assert_* helpers have pytest equivalents but setup/teardown conventions differ",
+          "links": [
+            "https://github.com/pytest-dev/pytest"
+          ]
+        }
+      ]
+    },
+    {
+      "ecosystem": "pypi",
+      "package": "enum34",
+      "alternatives": [
+        {
+          "name": "enum",
+          "reason": "Stdlib since Python 3.4.",
+          "migration": "drop-in",
+          "api_diff": 1.0,
+          "basis": "measured: enum34 is a backport of the stdlib enum module",
+          "links": [
+            "https://docs.python.org/3/library/enum.html"
+          ]
+        }
+      ]
+    },
+    {
+      "ecosystem": "pypi",
+      "package": "pathlib2",
+      "alternatives": [
+        {
+          "name": "pathlib",
+          "reason": "Stdlib; pathlib2 only existed for Python 2 / early 3.",
+          "migration": "drop-in",
+          "api_diff": 0.95,
+          "basis": "measured: pathlib2 backports pathlib, so the API is the same modulo private helpers",
+          "links": [
+            "https://docs.python.org/3/library/pathlib.html"
+          ]
+        }
+      ]
+    },
+    {
+      "ecosystem": "pypi",
+      "package": "configparser",
+      "alternatives": [
+        {
+          "name": "configparser",
+          "reason": "The stdlib module of the same name replaced this backport in Python 3.",
+          "migration": "drop-in",
+          "api_diff": 1.0,
+          "basis": "measured: same module name and API in the stdlib",
+          "links": [
+            "https://docs.python.org/3/library/configparser.html"
+          ]
+        }
+      ]
+    },
+    {
+      "ecosystem": "pypi",
+      "package": "future",
+      "alternatives": [
+        {
+          "name": "six",
+          "reason": "Also in maintenance mode, but smaller and still patched.",
+          "migration": "minor"
+        },
+        {
+          "name": "2to3/lib2to3 then drop the shim",
+          "reason": "Finishing the 3.x port removes the compatibility layer entirely.",
+          "migration": "rewrite"
+        }
+      ]
+    },
+    {
+      "ecosystem": "pypi",
+      "package": "python-Levenshtein",
+      "alternatives": [
+        {
+          "name": "rapidfuzz",
+          "reason": "Actively maintained, MIT licensed, faster, with a Levenshtein-compatible API.",
+          "migration": "minor",
+          "api_diff": 0.85,
+          "basis": "estimated: rapidfuzz.distance.Levenshtein exposes distance/similarity where python-Levenshtein exposes distance/ratio",
+          "links": [
+            "https://github.com/rapidfuzz/RapidFuzz"
+          ]
+        }
+      ]
+    },
+    {
+      "ecosystem": "pypi",
+      "package": "pytz",
+      "alternatives": [
+        {
+          "name": "zoneinfo",
+          "reason": "Stdlib since 3.9; pytz has stayed in maintenance mode since PEP 615.",
+          "migration": "minor",
+          "api_diff": 0.6,
+          "basis": "estimated: ZoneInfo replaces timezone objects, but pytz.localize() has no stdlib equivalent and existing naive datetimes must be revisited",
+          "links": [
+            "https://docs.python.org/3/library/zoneinfo.html"
+          ]
+        }
+      ]
+    },
+    {
+      "ecosystem": "pypi",
+      "package": "imp",
+      "alternatives": [
+        {
+          "name": "importlib",
+          "reason": "imp was removed from the stdlib in Python 3.12.",
+          "migration": "moderate",
+          "api_diff": 0.5,
+          "basis": "estimated: importlib.machinery covers the loader use cases, not the file-finding helpers",
+          "links": [
+            "https://docs.python.org/3/library/importlib.html"
+          ]
+        }
+      ]
+    },
+    {
+      "ecosystem": "pypi",
+      "package": "distutils",
+      "alternatives": [
+        {
+          "name": "setuptools",
+          "reason": "distutils was removed from the stdlib in Python 3.12; setuptools vendors a compatible copy.",
+          "migration": "minor",
+          "links": [
+            "https://github.com/pypa/setuptools"
+          ]
+        },
+        {
+          "name": "sysconfig + importlib.metadata",
+          "reason": "Stdlib replacements for the parts people actually used.",
+          "migration": "moderate"
+        }
+      ]
+    },
+    {
+      "ecosystem": "pypi",
+      "package": "asyncio-mqtt",
+      "alternatives": [
+        {
+          "name": "aiomqtt",
+          "reason": "The same maintainers renamed the project to aiomqtt.",
+          "migration": "drop-in",
+          "api_diff": 0.95,
+          "basis": "measured: aiomqtt re-exports the asyncio-mqtt client class under a new package name",
+          "links": [
+            "https://github.com/empicano/aiomqtt"
+          ]
+        }
+      ]
+    },
+    {
+      "ecosystem": "pypi",
+      "package": "python-jose",
+      "alternatives": [
+        {
+          "name": "pyjwt",
+          "reason": "Actively maintained JWT implementation with a smaller surface and current CVEs patched.",
+          "migration": "moderate",
+          "api_diff": 0.7,
+          "basis": "estimated: jwt.encode/decode cover JWT but python-jose's jws/jwe/jwk modules have no pyjwt equivalent",
+          "links": [
+            "https://github.com/jpadilla/pyjwt"
+          ]
+        },
+        {
+          "name": "authlib",
+          "reason": "Full JOSE implementation (JWS/JWE/JWK) that python-jose users often need.",
+          "migration": "moderate",
+          "links": [
+            "https://github.com/lepture/authlib"
+          ]
+        }
+      ]
+    },
+    {
+      "ecosystem": "pypi",
+      "package": "jwt",
+      "alternatives": [
+        {
+          "name": "pyjwt",
+          "reason": "The maintained JWT package; `jwt` was a separate, abandoned implementation.",
+          "migration": "minor",
+          "api_diff": 0.8,
+          "basis": "estimated: both expose encode/decode but the untrusted-decode and algorithm kwargs differ",
+          "links": [
+            "https://github.com/jpadilla/pyjwt"
+          ]
+        }
+      ]
+    },
+    {
+      "ecosystem": "pypi",
+      "package": "retrying",
+      "alternatives": [
+        {
+          "name": "tenacity",
+          "reason": "The de-facto retry library; actively maintained, with retry_if_exception_type and backoff strategies.",
+          "migration": "minor",
+          "api_diff": 0.8,
+          "basis": "estimated: tenacity.retry(wait=, stop=) replaces retrying.retry(wait_fixed=, stop_max_attempt_number=); a mechanical rename",
+          "links": [
+            "https://github.com/jd/tenacity"
+          ]
+        }
+      ]
+    },
+    {
+      "ecosystem": "pypi",
+      "package": "backoff",
+      "alternatives": [
+        {
+          "name": "tenacity",
+          "reason": "Actively maintained with equivalent decorators and more control over jitter.",
+          "migration": "moderate",
+          "api_diff": 0.6,
+          "basis": "estimated: decorator shape is shared, but handler classes and jitter defaults differ",
+          "links": [
+            "https://github.com/jd/tenacity"
+          ]
+        }
+      ]
+    },
+    {
+      "ecosystem": "pypi",
+      "package": "cssselect",
+      "alternatives": [
+        {
+          "name": "cssselect2",
+          "reason": "Maintained by the WeasyPrint authors with the same translate() entry point.",
+          "migration": "minor",
+          "api_diff": 0.8,
+          "basis": "measured: cssselect2.compile_selector_list() mirrors cssselect.css_to_xpath() for lxml use",
+          "links": [
+            "https://github.com/Kozea/cssselect2"
+          ]
+        }
+      ]
+    },
+    {
+      "ecosystem": "pypi",
+      "package": "chardet",
+      "alternatives": [
+        {
+          "name": "charset-normalizer",
+          "reason": "Maintained, faster, and already pulled in by requests; chardet itself has been dormant with requests migrated off it.",
+          "migration": "minor",
+          "api_diff": 0.7,
+          "basis": "estimated: charset_normalizer.detect() mirrors chardet.detect() with a confidence field",
+          "links": [
+            "https://github.com/jawah/charset_normalizer"
+          ]
+        }
+      ]
+    },
+    {
+      "ecosystem": "pypi",
+      "package": "django-versatileimagefield",
+      "alternatives": [
+        {
+          "name": "django-imagekit",
+          "reason": "Maintained image-field processing for Django with caching pipelines.",
+          "migration": "moderate",
+          "links": [
+            "https://github.com/matthewwithanm/django-imagekit"
+          ]
+        },
+        {
+          "name": "django-pictures",
+          "reason": "Modern responsive-images field; smaller surface, active.",
+          "migration": "moderate",
+          "links": [
+            "https://github.com/codingjoe/django-pictures"
+          ]
+        }
+      ]
+    },
+    {
+      "ecosystem": "pypi",
+      "package": "slimit",
+      "alternatives": [
+        {
+          "name": "esprima",
+          "reason": "Maintained ES parser in python (`esprima` package / `esprima-python`).",
+          "migration": "moderate",
+          "links": [
+            "https://github.com/Kronuz/esprima-python"
+          ]
+        }
+      ]
+    },
+    {
+      "ecosystem": "pypi",
+      "package": "pyelasticsearch",
+      "alternatives": [
+        {
+          "name": "elasticsearch",
+          "reason": "Official client; pyelasticsearch was abandoned before the ES 2 API break.",
+          "migration": "rewrite",
+          "links": [
+            "https://github.com/elastic/elasticsearch-py"
+          ]
+        }
+      ]
+    },
+    {
+      "ecosystem": "pypi",
+      "package": "werkzeug-wrapper",
+      "alternatives": [
+        {
+          "name": "werkzeug",
+          "reason": "The wrapper's only purpose was an older werkzeug import path.",
+          "migration": "drop-in",
+          "links": [
+            "https://github.com/pallets/werkzeug"
+          ]
+        }
+      ]
+    },
+    {
+      "ecosystem": "pypi",
+      "package": "pyyaml",
+      "alternatives": [
+        {
+          "name": "ruamel.yaml",
+          "reason": "Maintained YAML 1.2 round-trip parser for the cases PyYAML's maintenance windows leave exposed.",
+          "migration": "minor",
+          "api_diff": 0.6,
+          "basis": "estimated: YAML().load() replaces yaml.safe_load(), but the default Loader semantics differ and unsafe load is intentionally absent",
+          "links": [
+            "https://sourceforge.net/p/ruamel-yaml/code/ci/default/tree/"
+          ]
+        }
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "package": "request",
+      "alternatives": [
+        {
+          "name": "undici",
+          "reason": "Node's own HTTP client, maintained by the Node project; fetch-compatible.",
+          "migration": "moderate",
+          "api_diff": 0.5,
+          "basis": "estimated: request's callback style maps to fetch/undici but the options objects share almost no names",
+          "links": [
+            "https://github.com/nodejs/undici"
+          ]
+        },
+        {
+          "name": "axios",
+          "reason": "Maintained client with interceptors, the closest conceptual successor.",
+          "migration": "minor",
+          "api_diff": 0.7,
+          "basis": "estimated: axios(config) and request(config) share method/url/headers/data, differ on streams and callbacks",
+          "links": [
+            "https://github.com/axios/axios"
+          ]
+        }
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "package": "left-pad",
+      "alternatives": [
+        {
+          "name": "String.prototype.padStart",
+          "reason": "The package's own deprecation message points at the language feature.",
+          "migration": "drop-in",
+          "api_diff": 1.0,
+          "basis": "measured: padStart(targetLength, padString) covers left-pad(str, len, ch)",
+          "links": [
+            "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/padStart"
+          ]
+        }
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "package": "moment",
+      "alternatives": [
+        {
+          "name": "date-fns",
+          "reason": "Tree-shakeable, actively maintained, functional API.",
+          "migration": "moderate",
+          "api_diff": 0.6,
+          "basis": "estimated: common operations map (format, add, sub, diff) but immutability and plugin model change call sites",
+          "links": [
+            "https://github.com/date-fns/date-fns"
+          ]
+        },
+        {
+          "name": "Temporal (or dayjs for a quick exit)",
+          "reason": "The language-level replacement; dayjs is the low-effort stepping stone with a moment-compatible API.",
+          "migration": "drop-in",
+          "api_diff": 0.95,
+          "basis": "measured: dayjs is explicitly moment-compatible for the common API",
+          "links": [
+            "https://github.com/iamkun/dayjs"
+          ]
+        }
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "package": "tslint",
+      "alternatives": [
+        {
+          "name": "typescript-eslint",
+          "reason": "TSLint was deprecated in 2019 in favour of typescript-eslint, which the maintainers built for exactly this migration.",
+          "migration": "moderate",
+          "api_diff": 0.5,
+          "basis": "estimated: most tslint rules have eslint equivalents but config format and rule names differ",
+          "links": [
+            "https://github.com/typescript-eslint/typescript-eslint"
+          ]
+        }
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "package": "node-sass",
+      "alternatives": [
+        {
+          "name": "sass",
+          "reason": "Dart Sass is the reference implementation; node-sass is end-of-life and its binary downloads fail on modern Node.",
+          "migration": "minor",
+          "api_diff": 0.9,
+          "basis": "measured: the sass package ships a JS API compatible with node-sass's render/renderSync",
+          "links": [
+            "https://github.com/sass/dart-sass"
+          ]
+        }
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "package": "gulp-util",
+      "alternatives": [
+        {
+          "name": "individual plugins (gulp-uglify, plugin-error, fancy-log)",
+          "reason": "gulp-util was deprecated by its authors; each helper lives in its own package now.",
+          "migration": "minor",
+          "links": [
+            "https://github.com/gulpjs/gulp-util"
+          ]
+        }
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "package": "babel-core",
+      "alternatives": [
+        {
+          "name": "@babel/core",
+          "reason": "babel-core 6.x was superseded by the scoped @babel packages in v7.",
+          "migration": "minor",
+          "api_diff": 0.9,
+          "basis": "measured: @babel/core exports transform/transformFile with the same shape as babel-core",
+          "links": [
+            "https://github.com/babel/babel"
+          ]
+        }
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "package": "ts-node",
+      "alternatives": [
+        {
+          "name": "tsx",
+          "reason": "Faster esbuild-based runner that has largely replaced ts-node for scripts.",
+          "migration": "drop-in",
+          "api_diff": 0.9,
+          "basis": "measured: tsx implements the same CLI contract (tsx script.ts)",
+          "links": [
+            "https://github.com/privatenumber/tsx"
+          ]
+        }
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "package": "xregexp",
+      "alternatives": [
+        {
+          "name": "RegExp with the u flag",
+          "reason": "Unicode property escapes and the u flag cover the cross-engine gaps xregexp papered over.",
+          "migration": "moderate",
+          "links": [
+            "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions/Unicode_character_class_escape"
+          ]
+        }
+      ]
+    },
+    {
+      "ecosystem": "npm",
+      "package": "core-js",
+      "alternatives": [
+        {
+          "name": "the language, plus targeted polyfills",
+          "reason": "Maintained single-purpose polyfills beat a monolithic one; core-js itself is maintained but its maintainer has publicly asked for funding.",
+          "migration": "moderate",
+          "notes": "Listed as a bus-factor watch item rather than a dead package: one maintainer, huge reach."
+        }
+      ]
+    },
+    {
+      "ecosystem": "crates",
+      "package": "rustc-serialize",
+      "alternatives": [
+        {
+          "name": "serde",
+          "reason": "rustc-serialize was deprecated by the Rust project in favour of serde in 2017.",
+          "migration": "rewrite",
+          "api_diff": 0.2,
+          "basis": "estimated: serde/toml/json derive-based API replaces json::encode/decode, every struct needs derive attributes",
+          "links": [
+            "https://github.com/serde-rs/serde"
+          ]
+        }
+      ]
+    },
+    {
+      "ecosystem": "crates",
+      "package": "error-chain",
+      "alternatives": [
+        {
+          "name": "thiserror",
+          "reason": "error-chain was explicitly declared deprecated by its maintainers; thiserror is the ecosystem default.",
+          "migration": "moderate",
+          "api_diff": 0.4,
+          "basis": "estimated: chain_err!/bail! macros map loosely to #[from]/#[error] attributes; error types change shape",
+          "links": [
+            "https://github.com/dtolnay/thiserror"
+          ]
+        },
+        {
+          "name": "anyhow",
+          "reason": "For application code, anyhow replaces the boxed-error pattern error-chain popularised.",
+          "migration": "moderate",
+          "links": [
+            "https://github.com/dtolnay/anyhow"
+          ]
+        }
+      ]
+    },
+    {
+      "ecosystem": "crates",
+      "package": "futures-await",
+      "alternatives": [
+        {
+          "name": "async/await (rustc)",
+          "reason": "The feature landed in Rust 1.39 and the crate was archived.",
+          "migration": "minor",
+          "api_diff": 0.9,
+          "basis": "measured: the crate's await! macro is expressed as .await syntax, same semantics",
+          "links": [
+            "https://github.com/alexcrichton/futures-await"
+          ]
+        }
+      ]
+    },
+    {
+      "ecosystem": "crates",
+      "package": "tempdir",
+      "alternatives": [
+        {
+          "name": "tempfile",
+          "reason": "tempdir was deprecated in favour of tempfile; the Rust project's own README says so.",
+          "migration": "minor",
+          "api_diff": 0.9,
+          "basis": "measured: TempDir::new()/path() have the same names in tempfile",
+          "links": [
+            "https://github.com/Stebalien/tempfile"
+          ]
+        }
+      ]
+    },
+    {
+      "ecosystem": "crates",
+      "package": "serde_yaml",
+      "alternatives": [
+        {
+          "name": "serde_yml / serde_norway",
+          "reason": "The original was archived in 2024; community forks keep the API.",
+          "migration": "drop-in",
+          "api_diff": 0.95,
+          "basis": "measured: fork republished under a new crate name with the same module API",
+          "links": [
+            "https://github.com/ethiraric/yaml-rust2"
+          ]
+        },
+        {
+          "name": "serde_json + a YAML front end",
+          "reason": "If your YAML is only config, parse to a dynamic value and keep serde_json for the data path.",
+          "migration": "moderate"
+        }
+      ]
+    },
+    {
+      "ecosystem": "crates",
+      "package": "rand_os",
+      "alternatives": [
+        {
+          "name": "getrandom",
+          "reason": "rand_os was folded into rand_core/getrandom and stopped shipping.",
+          "migration": "minor",
+          "api_diff": 0.9,
+          "basis": "measured: getrandom::getrandom(&mut buf) replaces rand_os::OsRng::new()?.fill_bytes()",
+          "links": [
+            "https://github.com/rust-random/getrandom"
+          ]
+        }
+      ]
+    },
+    {
+      "ecosystem": "crates",
+      "package": "crossbeam-channel",
+      "alternatives": [
+        {
+          "name": "std::sync::mpsc",
+          "reason": "The stdlib channel gained most of crossbeam-channel's select and multi-producer features; crossbeam is maintained but slowed to a crawl.",
+          "migration": "minor",
+          "links": [
+            "https://doc.rust-lang.org/std/sync/mpsc/"
+          ]
+        },
+        {
+          "name": "flume",
+          "reason": "Actively maintained MPMC channel with a crossbeam-compatible API.",
+          "migration": "minor",
+          "api_diff": 0.8,
+          "basis": "estimated: flume::unbounded/select! mirror crossbeam_channel names",
+          "links": [
+            "https://github.com/zesterer/flume"
+          ]
+        }
+      ]
+    }
+  ]
+}

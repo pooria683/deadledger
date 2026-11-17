@@ -1,0 +1,15 @@
+{
+ "body": {
+  "archived": false,
+  "default_branch": "master",
+  "full_name": "expressjs/body-parser",
+  "html_url": "https://github.com/expressjs/body-parser",
+  "open_issues_count": 52,
+  "pushed_at": "2026-11-15T18:50:27Z",
+  "stargazers_count": 5503
+ },
+ "recorded_at": "2026-11-16T18:12:21Z",
+ "recorded_with": "deadledger 0.1.0",
+ "status": 200,
+ "url": "https://api.github.com/repos/expressjs/body-parser"
+}
