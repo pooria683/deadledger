@@ -1,0 +1,15 @@
+{
+ "body": {
+  "archived": false,
+  "default_branch": "master",
+  "full_name": "Python-Markdown/markdown",
+  "html_url": "https://github.com/Python-Markdown/markdown",
+  "open_issues_count": 28,
+  "pushed_at": "2026-11-16T16:39:03Z",
+  "stargazers_count": 4260
+ },
+ "recorded_at": "2026-11-16T18:38:46Z",
+ "recorded_with": "deadledger 0.1.0",
+ "status": 200,
+ "url": "https://api.github.com/repos/Python-Markdown/markdown"
+}

@@ -1,0 +1,28 @@
+# Byte-compiled / caches
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+
+# Test / tooling caches
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# DeadLedger's own local state (the ledger and cache are per-machine)
+.deadledger/
+*.sqlite
+*.sqlite-journal
+*.sqlite-wal
+
+# Reports generated during development (the committed demo lives in
+# examples/ so it is deliberately NOT ignored there)
+/reports/
+
+# Local development only (sandbox CA paths, never read by the tool)
+.env

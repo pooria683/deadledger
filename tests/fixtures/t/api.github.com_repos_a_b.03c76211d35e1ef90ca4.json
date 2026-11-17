@@ -1,0 +1,15 @@
+{
+ "body": {
+  "archived": null,
+  "default_branch": "main",
+  "full_name": null,
+  "html_url": null,
+  "open_issues_count": null,
+  "pushed_at": null,
+  "stargazers_count": null
+ },
+ "recorded_at": "2026-11-17T03:27:11Z",
+ "recorded_with": "deadledger 0.1.0",
+ "status": 200,
+ "url": "https://api.github.com/repos/a/b"
+}

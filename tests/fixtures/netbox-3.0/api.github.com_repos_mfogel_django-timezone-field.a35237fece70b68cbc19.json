@@ -1,0 +1,15 @@
+{
+ "body": {
+  "archived": false,
+  "default_branch": "main",
+  "full_name": "mfogel/django-timezone-field",
+  "html_url": "https://github.com/mfogel/django-timezone-field",
+  "open_issues_count": 12,
+  "pushed_at": "2026-06-06T05:28:05Z",
+  "stargazers_count": 416
+ },
+ "recorded_at": "2026-11-16T18:38:46Z",
+ "recorded_with": "deadledger 0.1.0",
+ "status": 200,
+ "url": "https://api.github.com/repos/mfogel/django-timezone-field"
+}

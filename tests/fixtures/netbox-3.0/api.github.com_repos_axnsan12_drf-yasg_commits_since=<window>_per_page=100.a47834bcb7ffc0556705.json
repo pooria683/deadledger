@@ -1,0 +1,2632 @@
+{
+ "body": [
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/45922542?v=4",
+    "events_url": "https://api.github.com/users/JoelLefkowitz/events{/privacy}",
+    "followers_url": "https://api.github.com/users/JoelLefkowitz/followers",
+    "following_url": "https://api.github.com/users/JoelLefkowitz/following{/other_user}",
+    "gists_url": "https://api.github.com/users/JoelLefkowitz/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/JoelLefkowitz",
+    "id": 45922542,
+    "login": "JoelLefkowitz",
+    "node_id": "MDQ6VXNlcjQ1OTIyNTQy",
+    "organizations_url": "https://api.github.com/users/JoelLefkowitz/orgs",
+    "received_events_url": "https://api.github.com/users/JoelLefkowitz/received_events",
+    "repos_url": "https://api.github.com/users/JoelLefkowitz/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/JoelLefkowitz/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/JoelLefkowitz/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/JoelLefkowitz",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/8cd4fbe5b08bba473b8e6e033ebe828f522edd93/comments",
+   "commit": {
+    "author": {
+     "date": "2026-10-09T16:43:04Z",
+     "email": "joellefkowitz@hotmail.com",
+     "name": "Joel Lefkowitz"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-10-09T16:43:04Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Add version 1.21.18 details to the changelog (#982)",
+    "tree": {
+     "sha": "44b9f466a6c6bc08f2441e5db03a255ebf9e2de3",
+     "url": "https://api.github.com/repos/axnsan12/drf-yasg/git/trees/44b9f466a6c6bc08f2441e5db03a255ebf9e2de3"
+    },
+    "url": "https://api.github.com/repos/axnsan12/drf-yasg/git/commits/8cd4fbe5b08bba473b8e6e033ebe828f522edd93",
+    "verification": {
+     "payload": "tree 44b9f466a6c6bc08f2441e5db03a255ebf9e2de3\nparent 394368963ab5d39430aa63c1d783fb01413d2899\nauthor Joel Lefkowitz <joellefkowitz@hotmail.com> 1791564184 +0100\ncommitter GitHub <noreply@github.com> 1791564184 +0100\n\nAdd version 1.21.18 details to the changelog (#982)",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqyRmYCRC1aQ7uu5UhlAAAh58QAAxP4koJOQAhZ5ak3sVCMCdL\naRWRydDX33OUpRQubxkHXaY8kz2J29ZDKAQ+02qHXp3O7xN2JFKVnxuBA4LVmSnj\nH1Lmr9iXBeaIOKeIgTS8IATVdZjLDFg4aAHAW4T6OkIU5SzNOe4WFsqsSLCuHTgC\nCFw3mWAHNOuLf23rfd0keIQwt/Jrdus0WJlS9lApT9WZJdh1fxLl68SEv2juybLA\nfTJDh7FDMOZkPiN6NI6l0xwDRIMA5iRbUzJqP2ETjXJmmyAc90TOKjifGSG155JQ\nOzQAbH+GMm1vIX9w2IT5Apxonii+bOAguYZYsG3sJZtNpoJv3etJOestNEKRDhcu\n0HE47Z3MdztfYDmDFH738ZgCLrj6WTzBc/lHW2JWvlHPmc7wlG5KJz+yhoEFtBAR\nntDcmWgOAqgtJolL/wV6xiqgn8FodK4DpxsDPRMHyE7YjV9GIMZ01Z8B3yvmFekZ\n/o2pmi1NweDQxT72yhAjsM4fbCwTutKZGFt28DDjDmDL+RQenT/r1cNebhFQpYzx\nzt0xZHA4vZR03Ka2gLWoy/BWyeB5oFEH/zB0ncYBJkD9AQuOEumO1QlWqjEl5yrj\nmgnprpvdiSTjq0ioZNq25IhPfXjPClwuWJXeNEon65kkC/kXdzCRkLbfUV+vWs8y\n2aktL5/w2I4+UH/dYdp+\n=zl4A\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-10-09T16:43:04Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/axnsan12/drf-yasg/commit/8cd4fbe5b08bba473b8e6e033ebe828f522edd93",
+   "node_id": "C_kwDOBrQGWNoAKDhjZDRmYmU1YjA4YmJhNDczYjhlNmUwMzNlYmU4MjhmNTIyZWRkOTM",
+   "parents": [
+    {
+     "html_url": "https://github.com/axnsan12/drf-yasg/commit/394368963ab5d39430aa63c1d783fb01413d2899",
+     "sha": "394368963ab5d39430aa63c1d783fb01413d2899",
+     "url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/394368963ab5d39430aa63c1d783fb01413d2899"
+    }
+   ],
+   "sha": "8cd4fbe5b08bba473b8e6e033ebe828f522edd93",
+   "url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/8cd4fbe5b08bba473b8e6e033ebe828f522edd93"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/45922542?v=4",
+    "events_url": "https://api.github.com/users/JoelLefkowitz/events{/privacy}",
+    "followers_url": "https://api.github.com/users/JoelLefkowitz/followers",
+    "following_url": "https://api.github.com/users/JoelLefkowitz/following{/other_user}",
+    "gists_url": "https://api.github.com/users/JoelLefkowitz/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/JoelLefkowitz",
+    "id": 45922542,
+    "login": "JoelLefkowitz",
+    "node_id": "MDQ6VXNlcjQ1OTIyNTQy",
+    "organizations_url": "https://api.github.com/users/JoelLefkowitz/orgs",
+    "received_events_url": "https://api.github.com/users/JoelLefkowitz/received_events",
+    "repos_url": "https://api.github.com/users/JoelLefkowitz/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/JoelLefkowitz/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/JoelLefkowitz/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/JoelLefkowitz",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/394368963ab5d39430aa63c1d783fb01413d2899/comments",
+   "commit": {
+    "author": {
+     "date": "2026-10-09T16:24:25Z",
+     "email": "joellefkowitz@hotmail.com",
+     "name": "Joel Lefkowitz"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-10-09T16:24:25Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Update sourcemap generation script (#981)",
+    "tree": {
+     "sha": "80cefb6f8694693d26e944f350db598c42bbf943",
+     "url": "https://api.github.com/repos/axnsan12/drf-yasg/git/trees/80cefb6f8694693d26e944f350db598c42bbf943"
+    },
+    "url": "https://api.github.com/repos/axnsan12/drf-yasg/git/commits/394368963ab5d39430aa63c1d783fb01413d2899",
+    "verification": {
+     "payload": "tree 80cefb6f8694693d26e944f350db598c42bbf943\nparent ef78df660023e7b446e6b6ab2a7b3266cd1e5ee4\nauthor Joel Lefkowitz <joellefkowitz@hotmail.com> 1791563065 +0100\ncommitter GitHub <noreply@github.com> 1791563065 +0100\n\nUpdate sourcemap generation script (#981)",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqyRU5CRC1aQ7uu5UhlAAAe/sQAIdrMLejmJPi6oyaPVjN2CoW\nidtQ3Rk5ZgG4HD5gyMebqTx87NArYuoTH0Veqj/q9lmRis7zwuXnE74VDMT9a3Lj\nwa5bSAtWSXhLBL37RZa74WU1HK8RNxR32okcKPPcEPsFE0eYm9RN63l/VjyxirDL\n2DSflAHwRhh4UC2GaIWi9CKp5djKtHG51AmFeQp6XWOkenVa2SAWbO0Uk/jPFZ1p\nUpLUZIsfq2L626ay//N6RdN7G6kgs4DtQGsnZud/POaP1DY/zzX9eWErskqzLrjx\nbgBUdCffgrLuPrl0frqF+gDqv9BTb3pMZMU9yDOp8cJr10w2stLGeOXTs4DyMLed\npAKPmZoT3BSTxGH9Nvddx49Uy6nMjcqPgrQXRFY+nFZJBbk8OCzEMBA61sHsFW9b\nVrBESaJy0yMgeRFLnDTpAMxHXw0clFcVG6MN1ui1YDA4FOpwQpalQW+1i8v93UMY\nOspdNuo9zugAjTjYZnZqNaG4IFaDB+boL7DLOwB22m1r/NSQr2H8/KCXZD+e7ovq\nS/n5AlxOGMBYDPR9xe9BUEIu0GdLNRgDCC6Ir8mqEycp9RWpuKO02wbA8K5LO1w1\noq7RbGsaQsnNWyrFrFv1dDlm/hZ1IdZQKQzeAZ2kteuJxn5q9+tIcLemDFwogkBR\ny+Du+aGkX7pEft98MY4g\n=FXeh\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-10-09T16:24:26Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/axnsan12/drf-yasg/commit/394368963ab5d39430aa63c1d783fb01413d2899",
+   "node_id": "C_kwDOBrQGWNoAKDM5NDM2ODk2M2FiNWQzOTQzMGFhNjNjMWQ3ODNmYjAxNDEzZDI4OTk",
+   "parents": [
+    {
+     "html_url": "https://github.com/axnsan12/drf-yasg/commit/ef78df660023e7b446e6b6ab2a7b3266cd1e5ee4",
+     "sha": "ef78df660023e7b446e6b6ab2a7b3266cd1e5ee4",
+     "url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/ef78df660023e7b446e6b6ab2a7b3266cd1e5ee4"
+    }
+   ],
+   "sha": "394368963ab5d39430aa63c1d783fb01413d2899",
+   "url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/394368963ab5d39430aa63c1d783fb01413d2899"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/45922542?v=4",
+    "events_url": "https://api.github.com/users/JoelLefkowitz/events{/privacy}",
+    "followers_url": "https://api.github.com/users/JoelLefkowitz/followers",
+    "following_url": "https://api.github.com/users/JoelLefkowitz/following{/other_user}",
+    "gists_url": "https://api.github.com/users/JoelLefkowitz/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/JoelLefkowitz",
+    "id": 45922542,
+    "login": "JoelLefkowitz",
+    "node_id": "MDQ6VXNlcjQ1OTIyNTQy",
+    "organizations_url": "https://api.github.com/users/JoelLefkowitz/orgs",
+    "received_events_url": "https://api.github.com/users/JoelLefkowitz/received_events",
+    "repos_url": "https://api.github.com/users/JoelLefkowitz/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/JoelLefkowitz/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/JoelLefkowitz/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/JoelLefkowitz",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/ef78df660023e7b446e6b6ab2a7b3266cd1e5ee4/comments",
+   "commit": {
+    "author": {
+     "date": "2026-10-04T12:58:45Z",
+     "email": "joellefkowitz@hotmail.com",
+     "name": "Joel Lefkowitz"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-10-04T12:58:45Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Add version 1.21.17 details to the changelog (#979)",
+    "tree": {
+     "sha": "687ceb525c565d0ee843709ff8eea37307e11739",
+     "url": "https://api.github.com/repos/axnsan12/drf-yasg/git/trees/687ceb525c565d0ee843709ff8eea37307e11739"
+    },
+    "url": "https://api.github.com/repos/axnsan12/drf-yasg/git/commits/ef78df660023e7b446e6b6ab2a7b3266cd1e5ee4",
+    "verification": {
+     "payload": "tree 687ceb525c565d0ee843709ff8eea37307e11739\nparent b8fbf27db8aadfa92879834f9c4d600ce1b02fec\nauthor Joel Lefkowitz <joellefkowitz@hotmail.com> 1791118725 +0100\ncommitter GitHub <noreply@github.com> 1791118725 +0100\n\nAdd version 1.21.17 details to the changelog (#979)",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqwk2FCRC1aQ7uu5UhlAAA+qgQACWUIvBFu1KwakES20pHvcXM\nEw1MCl2RUzDjnuswfywb/0DYYvPuUWmC6Aiakjk2kytrBAAO+ldRjebkmxO0bYX3\nULbvPvzqvG6//l2vMBRO0PUAOIbrOfru71Yi2fkQGuZNChEZtKK0mmWH0MZX1PEe\nXh3eBWW53NpspSYZowKlpgCSKKV9oWQ+aLtzZ+NRlw1Bd+GEfr9Siz4tGmS4Pt1x\nxN3AYjPpmrAe/491BQ6QMnrZfi9utSZ4PCuC4ztmomVYcfbIEKEOzMy/iVGo5x16\nZOx78EP0W+9KjPIhObHRwMpEHozNhRtwnZBaJX1NBiT9MkK8cXv7qkgfNWlYl0wV\nhfAuWpsh/xmGglSEukNbYRZvsI0ZAVaSv6ogGzJDOhHUUoNyUfVvSEREkXlPqrbc\nTTkXSgTEn0f6V4NQ1FXYFfAlSF0SN+J0UuO6NhkU8LQhu2mo5T0nB6k5yUnlH8gY\nseSXB42KFFL3C0ll/qqlKQybXDq3t+olYjUxmSX3vigsXr/s83MKi7TE8yVDXUds\nATCKTyta0oc+B9TilLzc28MEil6z1JD2ONl7tfkUyCxn7PpHqQbnF4PVLyuFGeth\noPR4cQTvoiwv80kTic56aZL9Co4Ukc2YxUnM35lGWYOYOOBE28BjaUgrXOGkLFcr\nFGIOD7PiDx0z1AGdzd5P\n=Ttm+\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-10-04T12:58:46Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/axnsan12/drf-yasg/commit/ef78df660023e7b446e6b6ab2a7b3266cd1e5ee4",
+   "node_id": "C_kwDOBrQGWNoAKGVmNzhkZjY2MDAyM2U3YjQ0NmU2YjZhYjJhN2IzMjY2Y2QxZTVlZTQ",
+   "parents": [
+    {
+     "html_url": "https://github.com/axnsan12/drf-yasg/commit/b8fbf27db8aadfa92879834f9c4d600ce1b02fec",
+     "sha": "b8fbf27db8aadfa92879834f9c4d600ce1b02fec",
+     "url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/b8fbf27db8aadfa92879834f9c4d600ce1b02fec"
+    }
+   ],
+   "sha": "ef78df660023e7b446e6b6ab2a7b3266cd1e5ee4",
+   "url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/ef78df660023e7b446e6b6ab2a7b3266cd1e5ee4"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/45922542?v=4",
+    "events_url": "https://api.github.com/users/JoelLefkowitz/events{/privacy}",
+    "followers_url": "https://api.github.com/users/JoelLefkowitz/followers",
+    "following_url": "https://api.github.com/users/JoelLefkowitz/following{/other_user}",
+    "gists_url": "https://api.github.com/users/JoelLefkowitz/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/JoelLefkowitz",
+    "id": 45922542,
+    "login": "JoelLefkowitz",
+    "node_id": "MDQ6VXNlcjQ1OTIyNTQy",
+    "organizations_url": "https://api.github.com/users/JoelLefkowitz/orgs",
+    "received_events_url": "https://api.github.com/users/JoelLefkowitz/received_events",
+    "repos_url": "https://api.github.com/users/JoelLefkowitz/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/JoelLefkowitz/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/JoelLefkowitz/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/JoelLefkowitz",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/b8fbf27db8aadfa92879834f9c4d600ce1b02fec/comments",
+   "commit": {
+    "author": {
+     "date": "2026-10-04T12:50:13Z",
+     "email": "joellefkowitz@hotmail.com",
+     "name": "Joel Lefkowitz"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-10-04T12:50:13Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Update the publish workflow to use uv (#978)",
+    "tree": {
+     "sha": "e7e2fa1cf8ced6c4249aa593844b3b4ae7316b61",
+     "url": "https://api.github.com/repos/axnsan12/drf-yasg/git/trees/e7e2fa1cf8ced6c4249aa593844b3b4ae7316b61"
+    },
+    "url": "https://api.github.com/repos/axnsan12/drf-yasg/git/commits/b8fbf27db8aadfa92879834f9c4d600ce1b02fec",
+    "verification": {
+     "payload": "tree e7e2fa1cf8ced6c4249aa593844b3b4ae7316b61\nparent de33ff230a585a5af37b11b0f4573d2c359974ac\nauthor Joel Lefkowitz <joellefkowitz@hotmail.com> 1791118213 +0100\ncommitter GitHub <noreply@github.com> 1791118213 +0100\n\nUpdate the publish workflow to use uv (#978)",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqwkuFCRC1aQ7uu5UhlAAA35YQAKcG5UP5DlxbIRTGFIYG2rKw\nAJDdiVJvmNacj2N0V1atJXAkKkPSZW4kk34BBmS05q9W7hni75Dvg1gJ0DZclX/h\nFkT4ch10jVGQG4R0Sc8Ht67bWnkKQ5v5o/56g1DJmF4yjFInCBADkxWnX0Dcn+d+\nUo9jJC3+r/0M86XNxypRvSXJgrpbpDjH1LYzWvm6kVH7W8yWCg1nFamxhrFYzzIz\nJdy5o2f6oYnc+kLc8wS/0MyJhCqt9Cq7F7P2+5FXDhiCfLDdM/6PC13mbbZNvoac\nbrjUTLIIE3uQ6cRC+nblhMsIT994LUN5H7eG+IuvZjzrAZuqvCJ5e2QG8qii5fFa\nwugaBWs+t9DXMEHlxmi+zmnPmg/i2CFaF4Le8kTnZd/7azrlb/7VcOhvfzR8LieL\nnswpFI90MJW3vyF8oJKcuvSyiWqCTlLA3KQ4pB6IO8r7jiInBV78c/2BATIz2KQv\ng/1APdPGbtDDSgKgyRz7XUC42ZG+zuhNAggQabZ4H1RS0qKB+YcDvHGG/UCPAn5I\nA0hyMKINr4EzxAG4ZuWSHvjS48fmMixQOa7qx9/lA2RWhZ6bVs1gEtAfpTWY7yH3\nuaCgcsyDdqGgZ3loEtvJahrK6TVJnnV3kJVC4MWCI09jPsOCwdxx7VppJv0ksH8P\nhv96m/bM31Se+BE4gytp\n=4b/T\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-10-04T12:50:13Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/axnsan12/drf-yasg/commit/b8fbf27db8aadfa92879834f9c4d600ce1b02fec",
+   "node_id": "C_kwDOBrQGWNoAKGI4ZmJmMjdkYjhhYWRmYTkyODc5ODM0ZjljNGQ2MDBjZTFiMDJmZWM",
+   "parents": [
+    {
+     "html_url": "https://github.com/axnsan12/drf-yasg/commit/de33ff230a585a5af37b11b0f4573d2c359974ac",
+     "sha": "de33ff230a585a5af37b11b0f4573d2c359974ac",
+     "url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/de33ff230a585a5af37b11b0f4573d2c359974ac"
+    }
+   ],
+   "sha": "b8fbf27db8aadfa92879834f9c4d600ce1b02fec",
+   "url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/b8fbf27db8aadfa92879834f9c4d600ce1b02fec"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/45922542?v=4",
+    "events_url": "https://api.github.com/users/JoelLefkowitz/events{/privacy}",
+    "followers_url": "https://api.github.com/users/JoelLefkowitz/followers",
+    "following_url": "https://api.github.com/users/JoelLefkowitz/following{/other_user}",
+    "gists_url": "https://api.github.com/users/JoelLefkowitz/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/JoelLefkowitz",
+    "id": 45922542,
+    "login": "JoelLefkowitz",
+    "node_id": "MDQ6VXNlcjQ1OTIyNTQy",
+    "organizations_url": "https://api.github.com/users/JoelLefkowitz/orgs",
+    "received_events_url": "https://api.github.com/users/JoelLefkowitz/received_events",
+    "repos_url": "https://api.github.com/users/JoelLefkowitz/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/JoelLefkowitz/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/JoelLefkowitz/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/JoelLefkowitz",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/de33ff230a585a5af37b11b0f4573d2c359974ac/comments",
+   "commit": {
+    "author": {
+     "date": "2026-10-04T11:56:09Z",
+     "email": "joellefkowitz@hotmail.com",
+     "name": "Joel Lefkowitz"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-10-04T11:56:09Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Add version 1.21.16 details to the changelog (#977)",
+    "tree": {
+     "sha": "59dff449d0ebddd96a6443cf9de3bfcb673fe4af",
+     "url": "https://api.github.com/repos/axnsan12/drf-yasg/git/trees/59dff449d0ebddd96a6443cf9de3bfcb673fe4af"
+    },
+    "url": "https://api.github.com/repos/axnsan12/drf-yasg/git/commits/de33ff230a585a5af37b11b0f4573d2c359974ac",
+    "verification": {
+     "payload": "tree 59dff449d0ebddd96a6443cf9de3bfcb673fe4af\nparent 9f3d275b7b4aa26d09f467cb475baa4cf7817456\nauthor Joel Lefkowitz <joellefkowitz@hotmail.com> 1791114969 +0100\ncommitter GitHub <noreply@github.com> 1791114969 +0100\n\nAdd version 1.21.16 details to the changelog (#977)",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqwj7ZCRC1aQ7uu5UhlAAAUukQAATjLEhhpI1faIwd9C3RJ4EU\nyT3szZD0nCGJAb1DUcKSDg3AQPRkg+Ks/unDZ2Yeet060fod4SZg0lVMiLHWtgqo\nvIeNFZg8PMlY+QUQPlV50B5PMNiHwL4+uUOBylaW7+4DgcvwgRA96shyYINpIBfa\nnH6WXmEcHjF/XyvkKLcJq34ZPQoS16n8jxKedq5F0aOo1tvdB9qwp6M/SHCigWRV\nUsEhVdy5Aid0tu3YvJr65EGJsPDrBGTuNrk6agD6gDixHSLo2x/hZNwURjr4ogzQ\nK1l7apCodH3GuUrIcLyBXXTBmG21kJaJ/kfHtf49NaAM6faBKd3eUiuiy42fl2mj\nE5AqQi+3VkdyIgkX4k9dc8SSYrit/szOa8Pq54RMmnafY36rYu9yz69Zd5TYXx9T\nZnraZqDw5kSzjpg5OoZyZwLvqj52hFAD96Ob7YbnGbSUFhPM5+hqWAy4FMt2ovyQ\n8U7Xh1b7nMG/h9Rcz+RnkU34nLbWb2xklIEFdlsI4lGyCsUaynyp4V7qjvug4Olq\nouAIvVB+97XJBAAZgI94RBk/KriV7rujGyO72vwWdOjkCY1dN16j2yy7w1HdBb/c\nR0R4tvLNK4AkEfMaWJJEH/pRr9jvOul3tXie+5mAXIVSaSDuyjeux59n0gNv02GV\nt+RmZo38DIrGDgW1RYIg\n=rene\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-10-04T11:56:09Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/axnsan12/drf-yasg/commit/de33ff230a585a5af37b11b0f4573d2c359974ac",
+   "node_id": "C_kwDOBrQGWNoAKGRlMzNmZjIzMGE1ODVhNWFmMzdiMTFiMGY0NTczZDJjMzU5OTc0YWM",
+   "parents": [
+    {
+     "html_url": "https://github.com/axnsan12/drf-yasg/commit/9f3d275b7b4aa26d09f467cb475baa4cf7817456",
+     "sha": "9f3d275b7b4aa26d09f467cb475baa4cf7817456",
+     "url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/9f3d275b7b4aa26d09f467cb475baa4cf7817456"
+    }
+   ],
+   "sha": "de33ff230a585a5af37b11b0f4573d2c359974ac",
+   "url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/de33ff230a585a5af37b11b0f4573d2c359974ac"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/45922542?v=4",
+    "events_url": "https://api.github.com/users/JoelLefkowitz/events{/privacy}",
+    "followers_url": "https://api.github.com/users/JoelLefkowitz/followers",
+    "following_url": "https://api.github.com/users/JoelLefkowitz/following{/other_user}",
+    "gists_url": "https://api.github.com/users/JoelLefkowitz/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/JoelLefkowitz",
+    "id": 45922542,
+    "login": "JoelLefkowitz",
+    "node_id": "MDQ6VXNlcjQ1OTIyNTQy",
+    "organizations_url": "https://api.github.com/users/JoelLefkowitz/orgs",
+    "received_events_url": "https://api.github.com/users/JoelLefkowitz/received_events",
+    "repos_url": "https://api.github.com/users/JoelLefkowitz/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/JoelLefkowitz/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/JoelLefkowitz/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/JoelLefkowitz",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/9f3d275b7b4aa26d09f467cb475baa4cf7817456/comments",
+   "commit": {
+    "author": {
+     "date": "2026-10-04T11:50:40Z",
+     "email": "joellefkowitz@hotmail.com",
+     "name": "Joel Lefkowitz"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-10-04T11:50:40Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Update update-ui to exclude logs and add generated licenses (#976)",
+    "tree": {
+     "sha": "dd79fd9f783215fec8b089ef4820031214acf1f3",
+     "url": "https://api.github.com/repos/axnsan12/drf-yasg/git/trees/dd79fd9f783215fec8b089ef4820031214acf1f3"
+    },
+    "url": "https://api.github.com/repos/axnsan12/drf-yasg/git/commits/9f3d275b7b4aa26d09f467cb475baa4cf7817456",
+    "verification": {
+     "payload": "tree dd79fd9f783215fec8b089ef4820031214acf1f3\nparent f1b78f7096afec75b2c3b41ad4bbb435b56516e3\nauthor Joel Lefkowitz <joellefkowitz@hotmail.com> 1791114640 +0100\ncommitter GitHub <noreply@github.com> 1791114640 +0100\n\nUpdate update-ui to exclude logs and add generated licenses (#976)",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqwj2QCRC1aQ7uu5UhlAAA0RAQAIudbyMpqadz0LvZe5hpDNUD\nV5oAe3ZDsl57Raef4xZRZNofpoViW4Q21pyG0rzGrSOMLtyOKaaHcDeZdh2bnSHV\nj/2ghM3LnmMu/81cSArWJyn0ofqZ5ZX4dh2ztyFTu5/nP6jjhlW1twz2FzfpnHOQ\nxIBm/xgKbjx/IGaoFt+7m7pfU8cvin7ZQRJREX+s/ybJQS934QMe3mbG6H6oDcXc\nMqI9MeT4Tsw4eiPbZjcnQjfPoPlUJVdWFmsLqd8YZ6sFD/tjFoWvKtyOG271tXth\nFLRXbmQ707tHxdhI9M94b2cmk8bjJPjUhEkoEnWveI5dipUwCKo1Dg9olR5qLeVK\nJ8o/GRL/RWIA//HtiWVzOIgjM9jPSM6i15LIrcgVR0MMg6ghj9eAsN56+rUcP2tN\njUW5fdfrWarGsC6YxdL7Pkg4G9eqKWT+x/r1Ju7QngK6/P2OxgZLdqNHtIfw/5Oy\nfxV+F2ByhtLXBlBJicdOI5jXMkz9n5sZsw5Un7eXqcLy/bAi3Jau2+HvTUI5xeKd\nj55RF+GOyH/ZeV6xxDmn1j9l26YWL95N72YALqGL+z8AUZrud2wD9eHqriROiPxM\n/ezMMKeUtTIznHqgjP4cjJmDN8QYxS1/6SeNtbYR17jR5t22yNmxokvKSjKLrL0y\nMl+pkO2wmj8k+olaxrxU\n=u8LO\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-10-04T11:50:41Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/axnsan12/drf-yasg/commit/9f3d275b7b4aa26d09f467cb475baa4cf7817456",
+   "node_id": "C_kwDOBrQGWNoAKDlmM2QyNzViN2I0YWEyNmQwOWY0NjdjYjQ3NWJhYTRjZjc4MTc0NTY",
+   "parents": [
+    {
+     "html_url": "https://github.com/axnsan12/drf-yasg/commit/f1b78f7096afec75b2c3b41ad4bbb435b56516e3",
+     "sha": "f1b78f7096afec75b2c3b41ad4bbb435b56516e3",
+     "url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/f1b78f7096afec75b2c3b41ad4bbb435b56516e3"
+    }
+   ],
+   "sha": "9f3d275b7b4aa26d09f467cb475baa4cf7817456",
+   "url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/9f3d275b7b4aa26d09f467cb475baa4cf7817456"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/45922542?v=4",
+    "events_url": "https://api.github.com/users/JoelLefkowitz/events{/privacy}",
+    "followers_url": "https://api.github.com/users/JoelLefkowitz/followers",
+    "following_url": "https://api.github.com/users/JoelLefkowitz/following{/other_user}",
+    "gists_url": "https://api.github.com/users/JoelLefkowitz/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/JoelLefkowitz",
+    "id": 45922542,
+    "login": "JoelLefkowitz",
+    "node_id": "MDQ6VXNlcjQ1OTIyNTQy",
+    "organizations_url": "https://api.github.com/users/JoelLefkowitz/orgs",
+    "received_events_url": "https://api.github.com/users/JoelLefkowitz/received_events",
+    "repos_url": "https://api.github.com/users/JoelLefkowitz/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/JoelLefkowitz/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/JoelLefkowitz/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/JoelLefkowitz",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/f1b78f7096afec75b2c3b41ad4bbb435b56516e3/comments",
+   "commit": {
+    "author": {
+     "date": "2026-10-04T11:30:55Z",
+     "email": "joellefkowitz@hotmail.com",
+     "name": "Joel Lefkowitz"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-10-04T11:30:55Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Bump fast-xml-parser version (#975)",
+    "tree": {
+     "sha": "b673f93ffabbf1bd8dd4275e223291059aa3b444",
+     "url": "https://api.github.com/repos/axnsan12/drf-yasg/git/trees/b673f93ffabbf1bd8dd4275e223291059aa3b444"
+    },
+    "url": "https://api.github.com/repos/axnsan12/drf-yasg/git/commits/f1b78f7096afec75b2c3b41ad4bbb435b56516e3",
+    "verification": {
+     "payload": "tree b673f93ffabbf1bd8dd4275e223291059aa3b444\nparent a10bbdcb09dd8dda73acff43c0e1ddae2a19df5e\nauthor Joel Lefkowitz <joellefkowitz@hotmail.com> 1791113455 +0100\ncommitter GitHub <noreply@github.com> 1791113455 +0100\n\nBump fast-xml-parser version (#975)",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqwjjvCRC1aQ7uu5UhlAAAtckQAArGBrT+l38pcP5pgp9ietlS\ngKxfCkiRIXlNDrBWI5js/x9R+4Yb8LbZMPlAFl8CmJTLgA7MqKvU5onFCAjF7FHl\nOWLtz9md5Jb4+Zqt9D+VEUnVVFEkYjrkTdcnl17E2pu6I1yiUugWDntdpmOEQzfS\n0ZjxOQDuvhZ2R9s/Z8Ph6SNSzSlZ5ofYwawX7Ppng8VbmG+rlcpAr3JM+qpMVoRh\nZ9pNP+nIY3vrn/mLnqExcqeAFe5dDAP3Cyzwckx9xye1SGmZbgWSeIknLxA/Z64Z\nR801QuIoSK6W4DNiMT3VJMAaBSbcKU/4SaK20xQEhpSxDTjBm9VRQwDgGVZLfyc/\nkiJpTH17RA6zNrx8gT4zudc+3pbizn8FBKm+5OmMaLL9jDS4mjECvAUAKC8jsiXC\n2Ww40GlMCf09BtDQHc3crN3GLIbMIBsmJAAoWHU9ZybHt9Ihs0jg/CvreQJszaCd\n2PWsi8k94dXjC3snzWUN0cZiR4NrG1xonelUd4GJE1CEKsgvyiarqLPEXtQO0oJW\nMBNBXk4QwWp5GVwZvvkvsFB58VUyLcBHvK62CJMzaespGPTdw+0k/PsrFgJNWRp/\nhHAiQDHNXkIaM2jOga9NA0tuOdjfMWKLfQwKlfO6R6HE44BSvNQuL3FW/hP0u2Cf\nqSSf5ltF/lcUvnapjKpr\n=ZELS\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-10-04T11:30:55Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/axnsan12/drf-yasg/commit/f1b78f7096afec75b2c3b41ad4bbb435b56516e3",
+   "node_id": "C_kwDOBrQGWNoAKGYxYjc4ZjcwOTZhZmVjNzViMmMzYjQxYWQ0YmJiNDM1YjU2NTE2ZTM",
+   "parents": [
+    {
+     "html_url": "https://github.com/axnsan12/drf-yasg/commit/a10bbdcb09dd8dda73acff43c0e1ddae2a19df5e",
+     "sha": "a10bbdcb09dd8dda73acff43c0e1ddae2a19df5e",
+     "url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/a10bbdcb09dd8dda73acff43c0e1ddae2a19df5e"
+    }
+   ],
+   "sha": "f1b78f7096afec75b2c3b41ad4bbb435b56516e3",
+   "url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/f1b78f7096afec75b2c3b41ad4bbb435b56516e3"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+    "events_url": "https://api.github.com/users/dependabot%5Bbot%5D/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dependabot%5Bbot%5D/followers",
+    "following_url": "https://api.github.com/users/dependabot%5Bbot%5D/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dependabot%5Bbot%5D/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/apps/dependabot",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "node_id": "MDM6Qm90NDk2OTkzMzM=",
+    "organizations_url": "https://api.github.com/users/dependabot%5Bbot%5D/orgs",
+    "received_events_url": "https://api.github.com/users/dependabot%5Bbot%5D/received_events",
+    "repos_url": "https://api.github.com/users/dependabot%5Bbot%5D/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dependabot%5Bbot%5D/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dependabot%5Bbot%5D/subscriptions",
+    "type": "Bot",
+    "url": "https://api.github.com/users/dependabot%5Bbot%5D",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/a10bbdcb09dd8dda73acff43c0e1ddae2a19df5e/comments",
+   "commit": {
+    "author": {
+     "date": "2026-10-04T11:18:44Z",
+     "email": "49699333+dependabot[bot]@users.noreply.github.com",
+     "name": "dependabot[bot]"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-10-04T11:18:44Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Bump actions/setup-python in the github-actions group across 1 directory (#966)\n\nBumps the github-actions group with 1 update in the / directory: [actions/setup-python](https://github.com/actions/setup-python).\n\n\nUpdates `actions/setup-python` from 6 to 7\n- [Release notes](https://github.com/actions/setup-python/releases)\n- [Commits](https://github.com/actions/setup-python/compare/v6...v7)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-python\n  dependency-version: '7'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n  dependency-group: github-actions\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>\nCo-authored-by: Joel Lefkowitz <joellefkowitz@hotmail.com>",
+    "tree": {
+     "sha": "7099dadd5b76ec17b94f1301c3d1c4a545896264",
+     "url": "https://api.github.com/repos/axnsan12/drf-yasg/git/trees/7099dadd5b76ec17b94f1301c3d1c4a545896264"
+    },
+    "url": "https://api.github.com/repos/axnsan12/drf-yasg/git/commits/a10bbdcb09dd8dda73acff43c0e1ddae2a19df5e",
+    "verification": {
+     "payload": "tree 7099dadd5b76ec17b94f1301c3d1c4a545896264\nparent 45267d30762db44fe28661c2a4c0005d174a6cbd\nauthor dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 1791112724 +0100\ncommitter GitHub <noreply@github.com> 1791112724 +0100\n\nBump actions/setup-python in the github-actions group across 1 directory (#966)\n\nBumps the github-actions group with 1 update in the / directory: [actions/setup-python](https://github.com/actions/setup-python).\n\n\nUpdates `actions/setup-python` from 6 to 7\n- [Release notes](https://github.com/actions/setup-python/releases)\n- [Commits](https://github.com/actions/setup-python/compare/v6...v7)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-python\n  dependency-version: '7'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n  dependency-group: github-actions\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>\nCo-authored-by: Joel Lefkowitz <joellefkowitz@hotmail.com>",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqwjYUCRC1aQ7uu5UhlAAAywkQAKpWHkizEgEp9dyy+V1mhDmE\nCxyxQCTEGPI4SaBNNE8dmguFkl4aYaUMuIbdqfTUTxH5NvN5OVvP3qZxEEmxhrTa\nw0R2OzZkAnmdBkLb96ddQbHp+EyaqF/JN30qxS5079lYT/eVc4rnYzdwBUJECzC0\n9uhIfFAu60BzoY9fHYi2zRQ1y2FzSFRrImRh1dVB6x5BpTD1PRXl4ZUC0g0Ufhu3\nHudkIAC/rlS7qPGtP9Ui+rfJnKHuUt0GBNgnNRbKquWlGXCPZZ8YjBoeeJIGJxQU\nM2UDI123DouF8i9n90rnxuVUB9S1c7YL2J0ahpWSFdXJJz3Bs23fWpRqB0xZP5sl\nWHKXSzzQixSvuTEdyRk9mg5pTy8UflPa3R+KDTYBeuPReInRIGdz7aly55Cme+cX\na7rpLDF4LIYMcXZZ/nXX8TKAPjdU4d0zOwXoHRWXtTi7z4quHZQZdmRlKAKlPlyj\nZV1ryLKKDqi8qOp0h0EbR8BE9ThphQAbLay5y8RlYlHRGnM3/QkUv3t+pfcbG2vu\np0L895VTcxqJ3CBFWuPCfu4VFykAc/sWgzymF5jeTagSDnk2kqkoltpIDc3qN2rZ\n78fmXMj9AS8ryYmB+TRhSyBTNROjYMdq6BJ0TfJus1/sJNqNb9bMAV+LUIS9MOCy\nZ2IY86abyRQJQ309iDLE\n=aIdf\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-10-04T11:18:44Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/axnsan12/drf-yasg/commit/a10bbdcb09dd8dda73acff43c0e1ddae2a19df5e",
+   "node_id": "C_kwDOBrQGWNoAKGExMGJiZGNiMDlkZDhkZGE3M2FjZmY0M2MwZTFkZGFlMmExOWRmNWU",
+   "parents": [
+    {
+     "html_url": "https://github.com/axnsan12/drf-yasg/commit/45267d30762db44fe28661c2a4c0005d174a6cbd",
+     "sha": "45267d30762db44fe28661c2a4c0005d174a6cbd",
+     "url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/45267d30762db44fe28661c2a4c0005d174a6cbd"
+    }
+   ],
+   "sha": "a10bbdcb09dd8dda73acff43c0e1ddae2a19df5e",
+   "url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/a10bbdcb09dd8dda73acff43c0e1ddae2a19df5e"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/11917633?v=4",
+    "events_url": "https://api.github.com/users/ChrisJr404/events{/privacy}",
+    "followers_url": "https://api.github.com/users/ChrisJr404/followers",
+    "following_url": "https://api.github.com/users/ChrisJr404/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ChrisJr404/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/ChrisJr404",
+    "id": 11917633,
+    "login": "ChrisJr404",
+    "node_id": "MDQ6VXNlcjExOTE3NjMz",
+    "organizations_url": "https://api.github.com/users/ChrisJr404/orgs",
+    "received_events_url": "https://api.github.com/users/ChrisJr404/received_events",
+    "repos_url": "https://api.github.com/users/ChrisJr404/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/ChrisJr404/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ChrisJr404/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/ChrisJr404",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/45267d30762db44fe28661c2a4c0005d174a6cbd/comments",
+   "commit": {
+    "author": {
+     "date": "2026-10-04T11:01:02Z",
+     "email": "Sintation@gmail.com",
+     "name": "ChrisJr404"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-10-04T11:01:02Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Emit spec-valid OpenAPI format for DecimalField (#974)\n\nThe DecimalField mapping used format 'decimal', which is not a valid\nOpenAPI type format (the spec only defines 'float' and 'double' for\nnumbers). When a DecimalField is rendered as a number (decimal_as_float),\nemit 'double'; when it is rendered as a string (the default), omit the\nnumeric format entirely. The same fix is applied to the Decimal type hint\nused by SerializerMethodField.\n\nUpdates the reference schema snapshot and adds tests covering both the\nstring and number cases.\n\nCo-authored-by: Chris (ChrisJr404) <11917633+ChrisJr404@users.noreply.github.com>",
+    "tree": {
+     "sha": "cd3f4de45cc33073f1cd802e270b8ea63c95e5be",
+     "url": "https://api.github.com/repos/axnsan12/drf-yasg/git/trees/cd3f4de45cc33073f1cd802e270b8ea63c95e5be"
+    },
+    "url": "https://api.github.com/repos/axnsan12/drf-yasg/git/commits/45267d30762db44fe28661c2a4c0005d174a6cbd",
+    "verification": {
+     "payload": "tree cd3f4de45cc33073f1cd802e270b8ea63c95e5be\nparent 11e4b76476031af1ad664f644ee0a18e429b70e3\nauthor ChrisJr404 <Sintation@gmail.com> 1791111662 -0400\ncommitter GitHub <noreply@github.com> 1791111662 +0100\n\nEmit spec-valid OpenAPI format for DecimalField (#974)\n\nThe DecimalField mapping used format 'decimal', which is not a valid\nOpenAPI type format (the spec only defines 'float' and 'double' for\nnumbers). When a DecimalField is rendered as a number (decimal_as_float),\nemit 'double'; when it is rendered as a string (the default), omit the\nnumeric format entirely. The same fix is applied to the Decimal type hint\nused by SerializerMethodField.\n\nUpdates the reference schema snapshot and adds tests covering both the\nstring and number cases.\n\nCo-authored-by: Chris (ChrisJr404) <11917633+ChrisJr404@users.noreply.github.com>",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqwjHuCRC1aQ7uu5UhlAAAt9EQAGJqL6l+HH3TAAOYDN+0rWZF\nie7wPpYgmT0vv2R/QszhSgoTPkc0uie0s8/1FQ7H0SA8EH/zHAbMiDjHMffjkbRM\n/sV0jVOw9dNXnLM7LFa1/B6H6IEK4XiTRj5V+XRMTX9SjXl+HkO/g9n7/HHPeXZe\nS2qKIdvWb2sRk2BHrmzo3KHYFc2rQ8O6fmrgkprWQKjK7k9COsrJ8hXatUX75xTH\nk6OZ2rpg6+euDhvUMU2rwaWBTL5+KOG8snm/CBEYn3YHgpmTq9B0SKU9mzWGgCd9\niR+ZKfdgtd9psZRSf17cayHhaImZLOWqyWVb0fw5GY0BUS3Bsrgx4i2hyUAxRAfR\nD9WW+F0FdFKa3LJ3FvOLwtRYtvokQsSQpe2kVONyDLtmzcVhR9mmWyBk0dcOrsMC\n/PDxe77/Smp6ypVkHie7Z7IvBMp7nXYPS6QwlCLoGcVkMGaQwD89qdhQyLmbJKPv\n12OhVkpM4bW4yyEmGAzdZivARZK78BIxPotyK8QtcYkbx24q/00tSHfEoq5kHYqr\n8z2/bZxRKgGQw44S7qu4U5icTr7R9Wb0aaNytap3GSqSKUwhQAM0OWwAmYN1N/CU\nGRKFoNP3ElKolODt3AwDhcdYA8Pp6TMYpBMVKAeNrEtb6S9VVx9Cpy8ulTdovj7X\nszmPjjKZBA6na3lZxGWi\n=XRAr\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-10-04T11:01:03Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/axnsan12/drf-yasg/commit/45267d30762db44fe28661c2a4c0005d174a6cbd",
+   "node_id": "C_kwDOBrQGWNoAKDQ1MjY3ZDMwNzYyZGI0NGZlMjg2NjFjMmE0YzAwMDVkMTc0YTZjYmQ",
+   "parents": [
+    {
+     "html_url": "https://github.com/axnsan12/drf-yasg/commit/11e4b76476031af1ad664f644ee0a18e429b70e3",
+     "sha": "11e4b76476031af1ad664f644ee0a18e429b70e3",
+     "url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/11e4b76476031af1ad664f644ee0a18e429b70e3"
+    }
+   ],
+   "sha": "45267d30762db44fe28661c2a4c0005d174a6cbd",
+   "url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/45267d30762db44fe28661c2a4c0005d174a6cbd"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19255166?v=4",
+    "events_url": "https://api.github.com/users/bertiewils/events{/privacy}",
+    "followers_url": "https://api.github.com/users/bertiewils/followers",
+    "following_url": "https://api.github.com/users/bertiewils/following{/other_user}",
+    "gists_url": "https://api.github.com/users/bertiewils/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/bertiewils",
+    "id": 19255166,
+    "login": "bertiewils",
+    "node_id": "MDQ6VXNlcjE5MjU1MTY2",
+    "organizations_url": "https://api.github.com/users/bertiewils/orgs",
+    "received_events_url": "https://api.github.com/users/bertiewils/received_events",
+    "repos_url": "https://api.github.com/users/bertiewils/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/bertiewils/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/bertiewils/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/bertiewils",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/11e4b76476031af1ad664f644ee0a18e429b70e3/comments",
+   "commit": {
+    "author": {
+     "date": "2026-09-05T15:39:53Z",
+     "email": "19255166+bertiewils@users.noreply.github.com",
+     "name": "bertiewils"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-09-05T15:39:53Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "chore(deps): bump redoc to 2.5.2 (#973)\n\n* chore(deps): bump redoc to 2.5.2\n\n* chore: update package*.json",
+    "tree": {
+     "sha": "440978f324a04b1dd158d3f3e0ff452ee487e96d",
+     "url": "https://api.github.com/repos/axnsan12/drf-yasg/git/trees/440978f324a04b1dd158d3f3e0ff452ee487e96d"
+    },
+    "url": "https://api.github.com/repos/axnsan12/drf-yasg/git/commits/11e4b76476031af1ad664f644ee0a18e429b70e3",
+    "verification": {
+     "payload": "tree 440978f324a04b1dd158d3f3e0ff452ee487e96d\nparent f16cbadb3207ca76f70954ee57a1f7a0a7ce8bf7\nauthor bertiewils <19255166+bertiewils@users.noreply.github.com> 1788622793 +0100\ncommitter GitHub <noreply@github.com> 1788622793 +0100\n\nchore(deps): bump redoc to 2.5.2 (#973)\n\n* chore(deps): bump redoc to 2.5.2\n\n* chore: update package*.json",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqnDfKCRC1aQ7uu5UhlAAArnQQAI//rzv36E0JqkMTpFV29E+2\ntQ8E66Qk6aHxPA/sKu3JyEHgK6pQHuaFm6QYfsztlJEPhdawStjinfE2DwRPr9zU\nuK8iPkJgcpEqdBkz6J8ANt1vqzcFDsGDr2sChC2RVEkzcWPUQ4NU+OBc06hM0VrO\nwoCp5rNU1IsQ66sZB5+8UYEkrO1tq1/4hWWYv4IVjifU6k7I9iYJ4pKK7WIAwj7o\nKAVKXD4/0mbTM4YnkOJ6f8eI81GpGCMxFcGLFm20vAcRnn0BT5uTYiz9i9UiBDXy\nnxjR/ksbjVduxsCWAbl3Acn+EtvEF4BaYQH7OY8IVGoSVeIpj89v9L/EFj5M65mA\nJQcclMIwzS9KtDvSnkH7xv09Z2BHXW7q+BWzPKK0Swgz8NhzTy2SJHWzOJ0RbRM8\nqe+A4E+q2sSVOfrJRp6TKYK5fIToH7yGpDm+IxZfcMI9oIG39cbY0bfxlmDhB+Ge\ncKXRQmcwmPRFEp08ZqMz5+TpogTTjvZcJxljA9n0kIvv+eGTjCFr6GAnkihUxJ+Q\n9VSzkOFOuNoge6Iaxmhl887t0yEwf7e6VmivZEslCjRjx4GjoejnBVhfgENNiFPY\nlDf0YqyD8PdbkMZMgJYh8JePA8IiMsrVs0KMyR8JPoCfoYoKxUskJSWRo54fwwRV\nQC4xcHHGa5UjAPxcg35M\n=vD6o\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-09-05T15:39:54Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/axnsan12/drf-yasg/commit/11e4b76476031af1ad664f644ee0a18e429b70e3",
+   "node_id": "C_kwDOBrQGWNoAKDExZTRiNzY0NzYwMzFhZjFhZDY2NGY2NDRlZTBhMThlNDI5YjcwZTM",
+   "parents": [
+    {
+     "html_url": "https://github.com/axnsan12/drf-yasg/commit/f16cbadb3207ca76f70954ee57a1f7a0a7ce8bf7",
+     "sha": "f16cbadb3207ca76f70954ee57a1f7a0a7ce8bf7",
+     "url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/f16cbadb3207ca76f70954ee57a1f7a0a7ce8bf7"
+    }
+   ],
+   "sha": "11e4b76476031af1ad664f644ee0a18e429b70e3",
+   "url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/11e4b76476031af1ad664f644ee0a18e429b70e3"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/45922542?v=4",
+    "events_url": "https://api.github.com/users/JoelLefkowitz/events{/privacy}",
+    "followers_url": "https://api.github.com/users/JoelLefkowitz/followers",
+    "following_url": "https://api.github.com/users/JoelLefkowitz/following{/other_user}",
+    "gists_url": "https://api.github.com/users/JoelLefkowitz/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/JoelLefkowitz",
+    "id": 45922542,
+    "login": "JoelLefkowitz",
+    "node_id": "MDQ6VXNlcjQ1OTIyNTQy",
+    "organizations_url": "https://api.github.com/users/JoelLefkowitz/orgs",
+    "received_events_url": "https://api.github.com/users/JoelLefkowitz/received_events",
+    "repos_url": "https://api.github.com/users/JoelLefkowitz/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/JoelLefkowitz/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/JoelLefkowitz/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/JoelLefkowitz",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/f16cbadb3207ca76f70954ee57a1f7a0a7ce8bf7/comments",
+   "commit": {
+    "author": {
+     "date": "2026-08-29T12:15:48Z",
+     "email": "joellefkowitz@hotmail.com",
+     "name": "Joel Lefkowitz"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-08-29T12:15:48Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Give terraform backend a canonical name (#971)",
+    "tree": {
+     "sha": "d17ed1085aa9d31597331f9a21911722fd1ea776",
+     "url": "https://api.github.com/repos/axnsan12/drf-yasg/git/trees/d17ed1085aa9d31597331f9a21911722fd1ea776"
+    },
+    "url": "https://api.github.com/repos/axnsan12/drf-yasg/git/commits/f16cbadb3207ca76f70954ee57a1f7a0a7ce8bf7",
+    "verification": {
+     "payload": "tree d17ed1085aa9d31597331f9a21911722fd1ea776\nparent 26f28e07837d9b82588400b62011aa1971e6396d\nauthor Joel Lefkowitz <joellefkowitz@hotmail.com> 1788005748 +0200\ncommitter GitHub <noreply@github.com> 1788005748 +0100\n\nGive terraform backend a canonical name (#971)",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqks10CRC1aQ7uu5UhlAAANLQQABA4xaTLK+VU9lz4sMMSEWpX\n0T7jx15p/RGse3fgeR186qTjPHpj3sb+4zUPqnO9BEs1RCC3wI09CInuZToYtn6i\nhDi1JzYiNvaJ6sDbxpVVDaX9iIIMlEbt96BVpJnood9hL33difUA5UCy7zMftFTT\n1gbETt4aEExKnKLQ2pnMw6NlB+fldnRwaVMNNjImGtKKkBXvXlLPo3CWnNXjvdF9\nXASwB7c3nUe8S/uqSf9q+Wt3jItnOxrTTU23Pa58yqjtNuRF4qmbObTl7E5lkgt7\nc2dTVUyTDyTUjgWTNgCUwolzmnPO0m4jcC0tSSSykHGSizLD/BjNgDqaC8afPlx+\nyEyvA7UHylPytB8E6ezDVC6WmZNmHTfbi7juD4P4L6x0YbRd7MzlTF1RO41nJVa6\nPAJqZ4RdLJkG6YCLtaXvTRYNZ2azhkhT+an/UsoJTvstZ5SCKQC8sqbrwWXzO2Db\nq8FphV78WPKjdl+WI6S9w+guAv35nCErabqqC6maQjhGeENZCsbro+2PV3aTidLD\n6zNlXIt06QgNeX562Iei3FlZs7Sx6yb/oivnEtGtQyZr+V7RF5Ed+NN4n5gedsuO\n/7ESZSQZoFl+LApsYzPMBue8JX7Kjy2uv1VdXf4WM7onHg1z+nu5+nUO/r5rFn5o\ntiKu+SvPBfchj9UWzXHo\n=qcx+\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-08-29T12:15:49Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/axnsan12/drf-yasg/commit/f16cbadb3207ca76f70954ee57a1f7a0a7ce8bf7",
+   "node_id": "C_kwDOBrQGWNoAKGYxNmNiYWRiMzIwN2NhNzZmNzA5NTRlZTU3YTFmN2EwYTdjZThiZjc",
+   "parents": [
+    {
+     "html_url": "https://github.com/axnsan12/drf-yasg/commit/26f28e07837d9b82588400b62011aa1971e6396d",
+     "sha": "26f28e07837d9b82588400b62011aa1971e6396d",
+     "url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/26f28e07837d9b82588400b62011aa1971e6396d"
+    }
+   ],
+   "sha": "f16cbadb3207ca76f70954ee57a1f7a0a7ce8bf7",
+   "url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/f16cbadb3207ca76f70954ee57a1f7a0a7ce8bf7"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/11917633?v=4",
+    "events_url": "https://api.github.com/users/ChrisJr404/events{/privacy}",
+    "followers_url": "https://api.github.com/users/ChrisJr404/followers",
+    "following_url": "https://api.github.com/users/ChrisJr404/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ChrisJr404/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/ChrisJr404",
+    "id": 11917633,
+    "login": "ChrisJr404",
+    "node_id": "MDQ6VXNlcjExOTE3NjMz",
+    "organizations_url": "https://api.github.com/users/ChrisJr404/orgs",
+    "received_events_url": "https://api.github.com/users/ChrisJr404/received_events",
+    "repos_url": "https://api.github.com/users/ChrisJr404/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/ChrisJr404/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ChrisJr404/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/ChrisJr404",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/26f28e07837d9b82588400b62011aa1971e6396d/comments",
+   "commit": {
+    "author": {
+     "date": "2026-08-26T19:24:26Z",
+     "email": "Sintation@gmail.com",
+     "name": "ChrisJr404"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-08-26T19:24:26Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Add support for documenting response headers (#970)",
+    "tree": {
+     "sha": "6172b13f42db2a14e970f0463bfdb333a479680c",
+     "url": "https://api.github.com/repos/axnsan12/drf-yasg/git/trees/6172b13f42db2a14e970f0463bfdb333a479680c"
+    },
+    "url": "https://api.github.com/repos/axnsan12/drf-yasg/git/commits/26f28e07837d9b82588400b62011aa1971e6396d",
+    "verification": {
+     "payload": "tree 6172b13f42db2a14e970f0463bfdb333a479680c\nparent 9d157e89ab08997ed9b838cc325fee1be4f6f869\nauthor ChrisJr404 <Sintation@gmail.com> 1787772266 -0400\ncommitter GitHub <noreply@github.com> 1787772266 +0200\n\nAdd support for documenting response headers (#970)",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqjz1qCRC1aQ7uu5UhlAAAlR0QAI/nYAjUMnI0fjdb+QpxWtGt\nci6bYiPbHUwCOnwT+QTPx2xiccLVEDXABMvkRB3D2ltGeWyloIeMwH8YGbcz/FHC\n3+937UIBNBEzwvVjR6ww64/m703ZPN68cYuZvQoweeRnkHAnMHto7lPrQH2AFSMV\npf488W6LjFB0hSUk3DqGU++vjIQjCJozivdX6XlMsz6NWqn/KUsZENwjviH1aL1k\nB1mEM/jcczZJ1navHEwKui5OgBhtTDMgQLp+PPIELaVLIJ6at66L+G2Qmtz9jrsc\nw8elnJaR7hfQ+aOh5+mzeBmU7JxIviW6c8aW58B/ybR3KyJkeEKos9wS6dvyPOQI\nyLue6pAtPeETv4fTR/Urg2hq7FB2kv2qbL1KtOVsNDMWU6pdouLwcMboWFN4NN0D\n7gIV9shbnWL6RUPZlNi+t+rdKjGdOWstNS5q6z2H3VueFzmo+fbeRKxUoiPR78yL\nO3K7wM1qQ6WpgT+6DDFtltzlTEcauLVX07zbImtJxbKyZuSKq67RlcytiodyfUuN\nQo4opU9IhlC5cpGAH8+8VoyiGdCVb3ZWeWM9n8aaGPLlEe0G2lfMvlbvYO8sZnPc\nWzE9MSuh7YD0KaHIrKRwOW1lazcAnfDRt2ZDV/RxzZgT9zQkq5s5ZrXHJhL3aCdw\nRVry73IrypPFhL6sXeQ7\n=xaQF\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-08-26T19:24:27Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/axnsan12/drf-yasg/commit/26f28e07837d9b82588400b62011aa1971e6396d",
+   "node_id": "C_kwDOBrQGWNoAKDI2ZjI4ZTA3ODM3ZDliODI1ODg0MDBiNjIwMTFhYTE5NzFlNjM5NmQ",
+   "parents": [
+    {
+     "html_url": "https://github.com/axnsan12/drf-yasg/commit/9d157e89ab08997ed9b838cc325fee1be4f6f869",
+     "sha": "9d157e89ab08997ed9b838cc325fee1be4f6f869",
+     "url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/9d157e89ab08997ed9b838cc325fee1be4f6f869"
+    }
+   ],
+   "sha": "26f28e07837d9b82588400b62011aa1971e6396d",
+   "url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/26f28e07837d9b82588400b62011aa1971e6396d"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/45922542?v=4",
+    "events_url": "https://api.github.com/users/JoelLefkowitz/events{/privacy}",
+    "followers_url": "https://api.github.com/users/JoelLefkowitz/followers",
+    "following_url": "https://api.github.com/users/JoelLefkowitz/following{/other_user}",
+    "gists_url": "https://api.github.com/users/JoelLefkowitz/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/JoelLefkowitz",
+    "id": 45922542,
+    "login": "JoelLefkowitz",
+    "node_id": "MDQ6VXNlcjQ1OTIyNTQy",
+    "organizations_url": "https://api.github.com/users/JoelLefkowitz/orgs",
+    "received_events_url": "https://api.github.com/users/JoelLefkowitz/received_events",
+    "repos_url": "https://api.github.com/users/JoelLefkowitz/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/JoelLefkowitz/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/JoelLefkowitz/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/JoelLefkowitz",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/9d157e89ab08997ed9b838cc325fee1be4f6f869/comments",
+   "commit": {
+    "author": {
+     "date": "2026-08-21T10:55:34Z",
+     "email": "joellefkowitz@hotmail.com",
+     "name": "Joel Lefkowitz"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-08-21T10:55:34Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Fix coverage race condition in parallel tox runs (#969)\n\n* Add parallel coverage\n\n* Add a COVERAGE_FILE",
+    "tree": {
+     "sha": "2248992a1d885098ab215c62ae494cab79ea06b4",
+     "url": "https://api.github.com/repos/axnsan12/drf-yasg/git/trees/2248992a1d885098ab215c62ae494cab79ea06b4"
+    },
+    "url": "https://api.github.com/repos/axnsan12/drf-yasg/git/commits/9d157e89ab08997ed9b838cc325fee1be4f6f869",
+    "verification": {
+     "payload": "tree 2248992a1d885098ab215c62ae494cab79ea06b4\nparent e6283df8796e14f4591e2e33075336a0cf026a5f\nauthor Joel Lefkowitz <joellefkowitz@hotmail.com> 1787309734 +0200\ncommitter GitHub <noreply@github.com> 1787309734 +0200\n\nFix coverage race condition in parallel tox runs (#969)\n\n* Add parallel coverage\n\n* Add a COVERAGE_FILE",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqiC6nCRC1aQ7uu5UhlAAAaRUQAEfQKvnorK/J7xPDgfwOc0ww\nffM74u/JdWg7PlJoPZIYtrFZtPjjqeXoClFyERzGkG8J6olZiyu4Yd1iw6sypTN2\n07OBUxty7p5YXMKvWMUARQSgb/b6+OFC4t3WkFstgGPusDMZclLbsad08abM9bf1\n+IV2s7EiQBnS7OxP8RHtWd8fQ7TcSHd7e/qwz3Fz69qXPIGMYTF8P+sCyhzb3FLH\nQZog/VglmUpptNpkJCCq2TLZz/AMHuGKw/8f7b4EINpXCQYGLuMGx9uka04fldib\nqUhb/zbCFXjDw8+Jx+8vAQDnpn9mBbqCsAFlZ2xOGo+AE6cBkZuqem4MScmAUUPQ\n6kyhW/XLT0AtNmgZYoNwFaxFiYIdZd3QQC2VGQloUrl1GO8f2uEOHLB9ywu8+bUM\nNOCfCwOQVS9FAsHA+r1rG8RhSgMnB0I8op3Hp7jd4jkiLkTC5mEI80vEbaWu9ZId\nE+aAlUq9vHk8rc/5zgjt992iSxc/Xg+4/H7ZgSn5m44tCzbjBgub545riI0l8zPs\nHggsqX8EK3k68UqB7sNgX31KMFvtCqMnN9bijhM3Cay4NvqJncSqa4ebcxcWyteP\nkFUjqWs96ggGyuBDpD4udnGAV5lxkZYHdrq2uPtigIK/cBphQ+PAvUQVL1fiXAnk\nMpEpAl/cwJQP1qjqNGVk\n=xwDl\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-08-21T10:55:35Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/axnsan12/drf-yasg/commit/9d157e89ab08997ed9b838cc325fee1be4f6f869",
+   "node_id": "C_kwDOBrQGWNoAKDlkMTU3ZTg5YWIwODk5N2VkOWI4MzhjYzMyNWZlZTFiZTRmNmY4Njk",
+   "parents": [
+    {
+     "html_url": "https://github.com/axnsan12/drf-yasg/commit/e6283df8796e14f4591e2e33075336a0cf026a5f",
+     "sha": "e6283df8796e14f4591e2e33075336a0cf026a5f",
+     "url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/e6283df8796e14f4591e2e33075336a0cf026a5f"
+    }
+   ],
+   "sha": "9d157e89ab08997ed9b838cc325fee1be4f6f869",
+   "url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/9d157e89ab08997ed9b838cc325fee1be4f6f869"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/45922542?v=4",
+    "events_url": "https://api.github.com/users/JoelLefkowitz/events{/privacy}",
+    "followers_url": "https://api.github.com/users/JoelLefkowitz/followers",
+    "following_url": "https://api.github.com/users/JoelLefkowitz/following{/other_user}",
+    "gists_url": "https://api.github.com/users/JoelLefkowitz/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/JoelLefkowitz",
+    "id": 45922542,
+    "login": "JoelLefkowitz",
+    "node_id": "MDQ6VXNlcjQ1OTIyNTQy",
+    "organizations_url": "https://api.github.com/users/JoelLefkowitz/orgs",
+    "received_events_url": "https://api.github.com/users/JoelLefkowitz/received_events",
+    "repos_url": "https://api.github.com/users/JoelLefkowitz/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/JoelLefkowitz/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/JoelLefkowitz/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/JoelLefkowitz",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/e6283df8796e14f4591e2e33075336a0cf026a5f/comments",
+   "commit": {
+    "author": {
+     "date": "2026-08-20T13:30:40Z",
+     "email": "joellefkowitz@hotmail.com",
+     "name": "Joel Lefkowitz"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-08-20T13:30:40Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Remove budgets (#968)",
+    "tree": {
+     "sha": "3cde726cd841c532537afd2fbe2718fa6e0eddf8",
+     "url": "https://api.github.com/repos/axnsan12/drf-yasg/git/trees/3cde726cd841c532537afd2fbe2718fa6e0eddf8"
+    },
+    "url": "https://api.github.com/repos/axnsan12/drf-yasg/git/commits/e6283df8796e14f4591e2e33075336a0cf026a5f",
+    "verification": {
+     "payload": "tree 3cde726cd841c532537afd2fbe2718fa6e0eddf8\nparent f3d7416a5475222099c580005991b87339519e3d\nauthor Joel Lefkowitz <joellefkowitz@hotmail.com> 1787232640 +0200\ncommitter GitHub <noreply@github.com> 1787232640 +0200\n\nRemove budgets (#968)",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqhwGACRC1aQ7uu5UhlAAACeMQACop1B6AlqCmxdrgWIyW2PTz\nX78yoRJVGIRdnH4vyNGgBjev9ADV8THauAkax0rlPnn1H7YuxfZ4Pr4krkPUPsYI\nuoRy+xXziSpds0bUH70oMoyRrd+2PEPvOH934M4eXRGdtUkoYU95EStnXuS88L9e\nYuCt9CqJhU/XO9HuiEx78xi62mkcGrJn2MS7sX5PROHH0z0PcJDKUj5BWTjpSDXe\nOsQMHazbCbYJ7YPhAv7ZJe/B5Bw9ro+fqnlElW0enTjJp8lymqR6wPx+OBst+c7K\njybPoc05SCZwgjDPq66vpr8Jh/+gRWVCON/mmrHUaHqJWfTXVpYDCanpnjZJ0Qww\nTBU5RHPeIaZhVDBZHJHMZAJuaoWGMxjCozEsnqhJc45dgqIk474IeMYri+mJWriV\nnekLHqFXo+Wfhh/m088O8bnB57OJrOf9CMjlgXRHVZ8hzT/fdGGqPI4uSjpFCI2l\n5tr6tUtAXtwMFkYChjWyayooczmO8xzS4UMs0815v7RyV65S0PkwR+ajR+241p2v\nHBb9VlH3XmBETf48uUvOhKbx+xVYuadK2v2fIpul5cJ9C0HNooaeFgmv2g3Mzzan\nZV58QPzXuT5iXYd/vFf7e0gOTGAueQB1KPCgwDLSU5NcgfHBoD1CFA/lY8tiVO6r\n3umQ9uCTq7lHeakCL/+V\n=oRKH\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-08-20T13:30:40Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/axnsan12/drf-yasg/commit/e6283df8796e14f4591e2e33075336a0cf026a5f",
+   "node_id": "C_kwDOBrQGWNoAKGU2MjgzZGY4Nzk2ZTE0ZjQ1OTFlMmUzMzA3NTMzNmEwY2YwMjZhNWY",
+   "parents": [
+    {
+     "html_url": "https://github.com/axnsan12/drf-yasg/commit/f3d7416a5475222099c580005991b87339519e3d",
+     "sha": "f3d7416a5475222099c580005991b87339519e3d",
+     "url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/f3d7416a5475222099c580005991b87339519e3d"
+    }
+   ],
+   "sha": "e6283df8796e14f4591e2e33075336a0cf026a5f",
+   "url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/e6283df8796e14f4591e2e33075336a0cf026a5f"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+    "events_url": "https://api.github.com/users/dependabot%5Bbot%5D/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dependabot%5Bbot%5D/followers",
+    "following_url": "https://api.github.com/users/dependabot%5Bbot%5D/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dependabot%5Bbot%5D/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/apps/dependabot",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "node_id": "MDM6Qm90NDk2OTkzMzM=",
+    "organizations_url": "https://api.github.com/users/dependabot%5Bbot%5D/orgs",
+    "received_events_url": "https://api.github.com/users/dependabot%5Bbot%5D/received_events",
+    "repos_url": "https://api.github.com/users/dependabot%5Bbot%5D/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dependabot%5Bbot%5D/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dependabot%5Bbot%5D/subscriptions",
+    "type": "Bot",
+    "url": "https://api.github.com/users/dependabot%5Bbot%5D",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/f3d7416a5475222099c580005991b87339519e3d/comments",
+   "commit": {
+    "author": {
+     "date": "2026-07-08T12:41:59Z",
+     "email": "49699333+dependabot[bot]@users.noreply.github.com",
+     "name": "dependabot[bot]"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-07-08T12:41:59Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Bump actions/checkout in the github-actions group across 1 directory (#963)\n\nBumps the github-actions group with 1 update in the / directory: [actions/checkout](https://github.com/actions/checkout).\n\n\nUpdates `actions/checkout` from 6 to 7\n- [Release notes](https://github.com/actions/checkout/releases)\n- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/actions/checkout/compare/v6...v7)\n\n---\nupdated-dependencies:\n- dependency-name: actions/checkout\n  dependency-version: '7'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n  dependency-group: github-actions\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
+    "tree": {
+     "sha": "9d19f4f7116b8e264118445588cd2c9531d37cc9",
+     "url": "https://api.github.com/repos/axnsan12/drf-yasg/git/trees/9d19f4f7116b8e264118445588cd2c9531d37cc9"
+    },
+    "url": "https://api.github.com/repos/axnsan12/drf-yasg/git/commits/f3d7416a5475222099c580005991b87339519e3d",
+    "verification": {
+     "payload": "tree 9d19f4f7116b8e264118445588cd2c9531d37cc9\nparent e52f2da2ae151b7dceb3eac01d15b0c7c206e646\nauthor dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 1783514519 +0100\ncommitter GitHub <noreply@github.com> 1783514519 +0100\n\nBump actions/checkout in the github-actions group across 1 directory (#963)\n\nBumps the github-actions group with 1 update in the / directory: [actions/checkout](https://github.com/actions/checkout).\n\n\nUpdates `actions/checkout` from 6 to 7\n- [Release notes](https://github.com/actions/checkout/releases)\n- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/actions/checkout/compare/v6...v7)\n\n---\nupdated-dependencies:\n- dependency-name: actions/checkout\n  dependency-version: '7'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n  dependency-group: github-actions\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqTkWXCRC1aQ7uu5UhlAAA528QAExDhCS4+tjtOQIU6bNerfFR\nbiJr8cl6hgUkK3JFVbG4OMlIV7T4uPchHKFlyfUjmPVc/obA3zqvjSFkKucoJc4s\n2yyzrn6sbl8dWr+F5kBxkPw1TUB7V/QGnFHc749IYA+eVZx+4L/wn5Hb/HvJPwhN\n9OGNA0ItfPJFQkqzqldfkrmohYsxz6dIwl/GGT2sMMKk7ae5D0rOm4FSaIjaMcBW\n7OXc0ee2Llm60WZW7yB1Mq5Z8lL02v9uF6KNudVBvt96cvaHa1FucmVN/WxrLMDI\nxwMulUX44+pTszW5kJ6Ivx8jm9bxyEAxOuNykNelfnALl/vfBCo4yYTkxPCEXXxb\n3EC4fIQIBajniNhXaWdDF2rCemDBHloeQpKlwTbascQAuAP+o5wK6FTCQjHCn1ah\nJ57KqYTpPOUAfu9ncd4AxL52F96wrDWsaQX811OQLoBlKIhrlfXJYQReQRs4+UZW\nEQY1XuxCmdeoXvbr8KJTdz0pXF2d12e+waukcU8f4IAeVXDmlN2+NGuMD/FbZoPD\nFCnOutVfP2cAFLCumFboBCdzPHTdkhyojl8be4fWhhKPNHJgOmpVQRaMcdKAHTsP\nhT/mDgUB+v1ngxcAVzWv1T8uBtPwLjOcMmZShtj6zYrYmvRvPZQUQm9287/Yrg2I\n3/YuCb5fu+FEhqJOK1/U\n=HUOH\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-07-08T12:42:00Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/axnsan12/drf-yasg/commit/f3d7416a5475222099c580005991b87339519e3d",
+   "node_id": "C_kwDOBrQGWNoAKGYzZDc0MTZhNTQ3NTIyMjA5OWM1ODAwMDU5OTFiODczMzk1MTllM2Q",
+   "parents": [
+    {
+     "html_url": "https://github.com/axnsan12/drf-yasg/commit/e52f2da2ae151b7dceb3eac01d15b0c7c206e646",
+     "sha": "e52f2da2ae151b7dceb3eac01d15b0c7c206e646",
+     "url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/e52f2da2ae151b7dceb3eac01d15b0c7c206e646"
+    }
+   ],
+   "sha": "f3d7416a5475222099c580005991b87339519e3d",
+   "url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/f3d7416a5475222099c580005991b87339519e3d"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/26783539?v=4",
+    "events_url": "https://api.github.com/users/eagleoflqj/events{/privacy}",
+    "followers_url": "https://api.github.com/users/eagleoflqj/followers",
+    "following_url": "https://api.github.com/users/eagleoflqj/following{/other_user}",
+    "gists_url": "https://api.github.com/users/eagleoflqj/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/eagleoflqj",
+    "id": 26783539,
+    "login": "eagleoflqj",
+    "node_id": "MDQ6VXNlcjI2NzgzNTM5",
+    "organizations_url": "https://api.github.com/users/eagleoflqj/orgs",
+    "received_events_url": "https://api.github.com/users/eagleoflqj/received_events",
+    "repos_url": "https://api.github.com/users/eagleoflqj/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/eagleoflqj/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/eagleoflqj/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/eagleoflqj",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/e52f2da2ae151b7dceb3eac01d15b0c7c206e646/comments",
+   "commit": {
+    "author": {
+     "date": "2026-07-04T15:38:19Z",
+     "email": "liumeo@pku.edu.cn",
+     "name": "Qijia Liu"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-07-04T15:38:19Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Simplify zoneinfo import (#964)",
+    "tree": {
+     "sha": "14d76b304d4437af33b6080047c407a0c8837816",
+     "url": "https://api.github.com/repos/axnsan12/drf-yasg/git/trees/14d76b304d4437af33b6080047c407a0c8837816"
+    },
+    "url": "https://api.github.com/repos/axnsan12/drf-yasg/git/commits/e52f2da2ae151b7dceb3eac01d15b0c7c206e646",
+    "verification": {
+     "payload": "tree 14d76b304d4437af33b6080047c407a0c8837816\nparent 4948ac3831c024dcd7a6463d8b7a13e77d4ed501\nauthor Qijia Liu <liumeo@pku.edu.cn> 1783179499 -0400\ncommitter GitHub <noreply@github.com> 1783179499 +0100\n\nSimplify zoneinfo import (#964)",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqSSjrCRC1aQ7uu5UhlAAAlO8QAG+C9sg2TPfUT9+PvNLDVVgV\nN+7kQjQWSNFvq1sQYbswVAWRaBNnaBOkSs/NmYNCXXDxP9DSg+kf5uOmDuMS8pTx\n86l8QE9H9TChJ9KDZpRPl+8fXShG7SPwQbUkC67AsMh61m9Ikq82M9B/pzrY2wEj\nyb/4NlepUsVT81h21MFlu38neq9yJ3/58+wG+6C6/P6+4Y+rqi1c3920X74x2Ol9\nJn1VCWaBxQ6FG2nsSTUUHnBf2bAUqOTBPttrc5lyQblLVDe5BrI2RAiOjCiKoRx2\nKPfCBZSoZM7+L1eUra3ZfB0luNbM61DS+gt5qZ9rxEPTSJFlMw3Y6UTmeJCJRULj\nagyiHGntkuqi8tJiJspTmg1g5yItNIkRLV/YuMxCuDB/7Jxce/lEaJUafnF5p2dj\n04Y8rzhv06CyXsn9MrI4/o0MZPwtWMaD90D5PcJtURr7icfoLWnU36/qMMC9/K8H\nVNmGShCGJZuB3CMF9hfSbwqCn0EDVbFmFVEMjwM5UTGhWoF0PBpIixALiUVvCL/U\n2RCuDMCp7SW5uX6Zy5i5hp/lFyCuINm0uagDyM0c3b6yErAysF3i9mrzPVd3wYWW\nADo+o+6y68T+dDFjTjcYsPvGJ+FoFPjyxfXh9XE2xwSj6Xd91p5tHsgg7phJ/7Yd\n+FapE1N6tyo6Eqw0dikG\n=egn2\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-07-04T15:38:20Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/axnsan12/drf-yasg/commit/e52f2da2ae151b7dceb3eac01d15b0c7c206e646",
+   "node_id": "C_kwDOBrQGWNoAKGU1MmYyZGEyYWUxNTFiN2RjZWIzZWFjMDFkMTViMGM3YzIwNmU2NDY",
+   "parents": [
+    {
+     "html_url": "https://github.com/axnsan12/drf-yasg/commit/4948ac3831c024dcd7a6463d8b7a13e77d4ed501",
+     "sha": "4948ac3831c024dcd7a6463d8b7a13e77d4ed501",
+     "url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/4948ac3831c024dcd7a6463d8b7a13e77d4ed501"
+    }
+   ],
+   "sha": "e52f2da2ae151b7dceb3eac01d15b0c7c206e646",
+   "url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/e52f2da2ae151b7dceb3eac01d15b0c7c206e646"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/45922542?v=4",
+    "events_url": "https://api.github.com/users/JoelLefkowitz/events{/privacy}",
+    "followers_url": "https://api.github.com/users/JoelLefkowitz/followers",
+    "following_url": "https://api.github.com/users/JoelLefkowitz/following{/other_user}",
+    "gists_url": "https://api.github.com/users/JoelLefkowitz/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/JoelLefkowitz",
+    "id": 45922542,
+    "login": "JoelLefkowitz",
+    "node_id": "MDQ6VXNlcjQ1OTIyNTQy",
+    "organizations_url": "https://api.github.com/users/JoelLefkowitz/orgs",
+    "received_events_url": "https://api.github.com/users/JoelLefkowitz/received_events",
+    "repos_url": "https://api.github.com/users/JoelLefkowitz/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/JoelLefkowitz/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/JoelLefkowitz/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/JoelLefkowitz",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/4948ac3831c024dcd7a6463d8b7a13e77d4ed501/comments",
+   "commit": {
+    "author": {
+     "date": "2026-03-10T14:35:25Z",
+     "email": "joellefkowitz@hotmail.com",
+     "name": "Joel Lefkowitz"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-03-10T14:35:25Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Add uv and move dependencies to pyproject.toml (#959)\n\n* Add uv and move dependencies to pyproject.toml\n\n* Add uv and tox-uv to the CI runner\n\n* Use uv to invoke tox\n\n* Fix tox.ini section breaks\n\n* Add gh tox aliases\n\n* Enable parallel tox CI execution\n\n* Move the parallel flags to the tox.ini\n\n* Remove recursive tox environment lists\n\n* Simplify test coverage generation\n\n* Add CI lint step independent of tox",
+    "tree": {
+     "sha": "24641d89a2cfcecd1099ab38d60a3d9db42d8dd6",
+     "url": "https://api.github.com/repos/axnsan12/drf-yasg/git/trees/24641d89a2cfcecd1099ab38d60a3d9db42d8dd6"
+    },
+    "url": "https://api.github.com/repos/axnsan12/drf-yasg/git/commits/4948ac3831c024dcd7a6463d8b7a13e77d4ed501",
+    "verification": {
+     "payload": "tree 24641d89a2cfcecd1099ab38d60a3d9db42d8dd6\nparent 7a8cf1f9637b8264deacf8b39871731f5fc35211\nauthor Joel Lefkowitz <joellefkowitz@hotmail.com> 1773153325 +0000\ncommitter GitHub <noreply@github.com> 1773153325 +0000\n\nAdd uv and move dependencies to pyproject.toml (#959)\n\n* Add uv and move dependencies to pyproject.toml\n\n* Add uv and tox-uv to the CI runner\n\n* Use uv to invoke tox\n\n* Fix tox.ini section breaks\n\n* Add gh tox aliases\n\n* Enable parallel tox CI execution\n\n* Move the parallel flags to the tox.ini\n\n* Remove recursive tox environment lists\n\n* Simplify test coverage generation\n\n* Add CI lint step independent of tox",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJpsCwtCRC1aQ7uu5UhlAAAXh8QAFG8SOoenSYZAMepSU+cypXN\n9NItLbXRfVBnZNUTQdfRei6gnKjs10XP6it+AXIpV1cOktOm9Gw+BDDDFfa2Wepe\nqK2JJ5kAAltCN6XNFVmNsKXjEZEBw8f98RYdkaK0HnGnacM7bQ+6jwoad7/37NvC\nS5jP9I7Z4nZH9YNYq/thw1zsaT8M0dlbMaPXg97I1+BrpHQro0MZx7OLAqEIQtxD\n6QB6v7boFobJ/OuCYjtiwEzxbYFjd/5UHZYYh+y4ETk+80Av16RTfMabimEFXZZp\ndgesCTsuPFrYuYwQF1wlyW72781hn2z9rfqBXHUSxN77o8ltFywMxGeHcD/tUV/7\nd1Fbt9W80ZbgaNjNGDDJUOAOZuemfBpqcbW/Eyncr3KEa9dyGq4N4RU74XLwG4mh\ndVLHX0nsixN3/yB49QVpCc0QuNNYTqZECTpGdAf8yF4ZwCGoPg6hIL7TeBLMw7bI\n1aWd84WF8018mwcpCivlhxbtcRlT0gLdmJ0YyOc0ddyHElWH+J0NWPH/SlVn6Yxj\nULRlLlltaH+tZR4cNYXLoeFTn850cV8keChFUP/kejBnkGPE99ZPZ3cJ65yosUMr\ng7IMHN/nmb6pPheHw+Jp9b8w0fRA5oUAtqMTwKxbwqzNcOH1wLwq0CXmQLSUjA5s\n9uR3V3Jz9AE+HssHeeuE\n=c47/\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-03-10T14:35:27Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/axnsan12/drf-yasg/commit/4948ac3831c024dcd7a6463d8b7a13e77d4ed501",
+   "node_id": "C_kwDOBrQGWNoAKDQ5NDhhYzM4MzFjMDI0ZGNkN2E2NDYzZDhiN2ExM2U3N2Q0ZWQ1MDE",
+   "parents": [
+    {
+     "html_url": "https://github.com/axnsan12/drf-yasg/commit/7a8cf1f9637b8264deacf8b39871731f5fc35211",
+     "sha": "7a8cf1f9637b8264deacf8b39871731f5fc35211",
+     "url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/7a8cf1f9637b8264deacf8b39871731f5fc35211"
+    }
+   ],
+   "sha": "4948ac3831c024dcd7a6463d8b7a13e77d4ed501",
+   "url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/4948ac3831c024dcd7a6463d8b7a13e77d4ed501"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/861044?v=4",
+    "events_url": "https://api.github.com/users/browniebroke/events{/privacy}",
+    "followers_url": "https://api.github.com/users/browniebroke/followers",
+    "following_url": "https://api.github.com/users/browniebroke/following{/other_user}",
+    "gists_url": "https://api.github.com/users/browniebroke/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/browniebroke",
+    "id": 861044,
+    "login": "browniebroke",
+    "node_id": "MDQ6VXNlcjg2MTA0NA==",
+    "organizations_url": "https://api.github.com/users/browniebroke/orgs",
+    "received_events_url": "https://api.github.com/users/browniebroke/received_events",
+    "repos_url": "https://api.github.com/users/browniebroke/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/browniebroke/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/browniebroke/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/browniebroke",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/7a8cf1f9637b8264deacf8b39871731f5fc35211/comments",
+   "commit": {
+    "author": {
+     "date": "2026-03-03T08:11:43Z",
+     "email": "browniebroke@users.noreply.github.com",
+     "name": "Bruno Alla"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-03-03T08:11:43Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Add DRF 3.16 to the test matrix (#958)",
+    "tree": {
+     "sha": "2ce793c7371a4aa13c886e0804a38dc8d236702c",
+     "url": "https://api.github.com/repos/axnsan12/drf-yasg/git/trees/2ce793c7371a4aa13c886e0804a38dc8d236702c"
+    },
+    "url": "https://api.github.com/repos/axnsan12/drf-yasg/git/commits/7a8cf1f9637b8264deacf8b39871731f5fc35211",
+    "verification": {
+     "payload": "tree 2ce793c7371a4aa13c886e0804a38dc8d236702c\nparent dd1da3243137a7d610e46d39116fb7b9c34e977a\nauthor Bruno Alla <browniebroke@users.noreply.github.com> 1772525503 +0100\ncommitter GitHub <noreply@github.com> 1772525503 +0000\n\nAdd DRF 3.16 to the test matrix (#958)",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJpppe/CRC1aQ7uu5UhlAAAuOMQAB+7SCR7xj0A3BInmLqIPImI\nK41cSsyEwz8a2X9Ol+Ylf+P/8p4Drf5IZwogcBzM4LBog+tStkoKZT4nBZ6xpqHW\nCRai7bxZMZ8slp20xryVS1ppP4EkGRHaEdR8G5QBCcBguq9VTBhb13hTAR5z50+p\n5vAixOK+h0TrlpxLhk/g2Q+Yl0hZe95oVT1ymRNn/AT9cjnGTz4/115F5yjY6yji\nkncHwwHM52RoiGlg4AFO4mkb5HzCtdWzzmeG6M6WIRHKBKCLj3v6lNmc9tHhNiIc\nGFeQCKhywpKTDKh1bI8ycfYcg+EzJkOziCsH41HTq8cRYFQ99IR+uYqwgOy1vA9u\n4r5MrP9X5nKtmSw/aO1Mc2yqFD6UGS8aM2soLS5lGslOZ0CvGWzyyftIZ4VSk5TZ\njRKRCCsW5aTRCCiyYFVFsi1Z1JrjOopvCw7o8u5G5DTC/gzSmj6vPymCn6aBGs89\nMaiWiYKyi6iFq4dC6NSTLE5us6MuR5y1m0aKphkzaU6pCTRGpIdKbspHSms0yKBK\niEFPYfzhU7wV1R/dpHNjjcM6iKFOMnbQzx5brlHZOXwsRyNHgR2VMraD2YwxSbTJ\nY+V/9tfCIzHL/RKccJyN7xSqkCOFFxzyIUVCetThoBae0xpqFXGahVy198MtEbl6\nS5bwIh30ahT0zdBSpvYL\n=hsF/\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-03-03T08:11:43Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/axnsan12/drf-yasg/commit/7a8cf1f9637b8264deacf8b39871731f5fc35211",
+   "node_id": "C_kwDOBrQGWNoAKDdhOGNmMWY5NjM3YjgyNjRkZWFjZjhiMzk4NzE3MzFmNWZjMzUyMTE",
+   "parents": [
+    {
+     "html_url": "https://github.com/axnsan12/drf-yasg/commit/dd1da3243137a7d610e46d39116fb7b9c34e977a",
+     "sha": "dd1da3243137a7d610e46d39116fb7b9c34e977a",
+     "url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/dd1da3243137a7d610e46d39116fb7b9c34e977a"
+    }
+   ],
+   "sha": "7a8cf1f9637b8264deacf8b39871731f5fc35211",
+   "url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/7a8cf1f9637b8264deacf8b39871731f5fc35211"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/45922542?v=4",
+    "events_url": "https://api.github.com/users/JoelLefkowitz/events{/privacy}",
+    "followers_url": "https://api.github.com/users/JoelLefkowitz/followers",
+    "following_url": "https://api.github.com/users/JoelLefkowitz/following{/other_user}",
+    "gists_url": "https://api.github.com/users/JoelLefkowitz/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/JoelLefkowitz",
+    "id": 45922542,
+    "login": "JoelLefkowitz",
+    "node_id": "MDQ6VXNlcjQ1OTIyNTQy",
+    "organizations_url": "https://api.github.com/users/JoelLefkowitz/orgs",
+    "received_events_url": "https://api.github.com/users/JoelLefkowitz/received_events",
+    "repos_url": "https://api.github.com/users/JoelLefkowitz/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/JoelLefkowitz/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/JoelLefkowitz/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/JoelLefkowitz",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/dd1da3243137a7d610e46d39116fb7b9c34e977a/comments",
+   "commit": {
+    "author": {
+     "date": "2026-03-03T00:28:19Z",
+     "email": "joellefkowitz@hotmail.com",
+     "name": "Joel Lefkowitz"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-03-03T00:28:19Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Remove python 3.9 support (#957)\n\n* Remove python 3.9 support\n\n* Restore required CI check",
+    "tree": {
+     "sha": "6518f40a20652fd69c6b5c1636811d0c32f425d1",
+     "url": "https://api.github.com/repos/axnsan12/drf-yasg/git/trees/6518f40a20652fd69c6b5c1636811d0c32f425d1"
+    },
+    "url": "https://api.github.com/repos/axnsan12/drf-yasg/git/commits/dd1da3243137a7d610e46d39116fb7b9c34e977a",
+    "verification": {
+     "payload": "tree 6518f40a20652fd69c6b5c1636811d0c32f425d1\nparent d40c97f4599e00b510339bad014be836e53773ed\nauthor Joel Lefkowitz <joellefkowitz@hotmail.com> 1772497699 +0000\ncommitter GitHub <noreply@github.com> 1772497699 +0000\n\nRemove python 3.9 support (#957)\n\n* Remove python 3.9 support\n\n* Restore required CI check",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJppisjCRC1aQ7uu5UhlAAAVO0QAIHVvzTcs2/DVGFm4uikzspj\nr1+fo+3uhUd/ryTvX9sYq0+V3J76D0JGQ8ZbrY1k+u0+884x6oIANwta+c2R3dXX\ngZthbSt3YPu8x7RZm5/D1nWnc0v/RHo1Fe7zO3kVrJ3H8AwnZUSAN4D8vBLMzAcG\nnDOO9Jk8ep0YMYdWzm95tpwy3ZFd88/gXQUutMA369JNcEElpcrL6euW2eepyy7l\nWpB670xoNU6IyVjTc11VttXGW2af/tWB+x714TpdZwIMX2oennjKRpipCKpP7UQK\nHBq4MYds32vS1J4xpBzgfxpkjFf/vPJc4v7t7yMFmQDUNwPe5070s2lhEdr/H2UN\nFLUoEhPv4ZJEZ1xqmAtv05sJF0l5t9/7RQbWG6NfTyxcXxsnLH1ULWoPpBC0P35P\nOTmJ7WjesmX/MoJ54EadeBNpOYCpmKBz/dQsy+lh5h2LWRlnQvvAvObKyMUyy364\nH7nyF9dnJpwxLmTvvZzvP5NE9BKNGAF/GPx8r4i8rxApx9uJk12+NbBsvX2u5J9o\ngmQKjDwNk29Rkxd1+mZZGC9/4M7KIwDoieNg7D1neBQjuwiKWtB6wYxeal7//kKy\ndXNrPYDGqv+kJnwyjWDCtMOQZN+9Om5CtX6Gz6xexDY/BgsKLcmzQgBx0ZiyN2T6\nnS3/Pps0CJamMXsRtRzQ\n=G3CL\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-03-03T00:28:20Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/axnsan12/drf-yasg/commit/dd1da3243137a7d610e46d39116fb7b9c34e977a",
+   "node_id": "C_kwDOBrQGWNoAKGRkMWRhMzI0MzEzN2E3ZDYxMGU0NmQzOTExNmZiN2I5YzM0ZTk3N2E",
+   "parents": [
+    {
+     "html_url": "https://github.com/axnsan12/drf-yasg/commit/d40c97f4599e00b510339bad014be836e53773ed",
+     "sha": "d40c97f4599e00b510339bad014be836e53773ed",
+     "url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/d40c97f4599e00b510339bad014be836e53773ed"
+    }
+   ],
+   "sha": "dd1da3243137a7d610e46d39116fb7b9c34e977a",
+   "url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/dd1da3243137a7d610e46d39116fb7b9c34e977a"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/45922542?v=4",
+    "events_url": "https://api.github.com/users/JoelLefkowitz/events{/privacy}",
+    "followers_url": "https://api.github.com/users/JoelLefkowitz/followers",
+    "following_url": "https://api.github.com/users/JoelLefkowitz/following{/other_user}",
+    "gists_url": "https://api.github.com/users/JoelLefkowitz/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/JoelLefkowitz",
+    "id": 45922542,
+    "login": "JoelLefkowitz",
+    "node_id": "MDQ6VXNlcjQ1OTIyNTQy",
+    "organizations_url": "https://api.github.com/users/JoelLefkowitz/orgs",
+    "received_events_url": "https://api.github.com/users/JoelLefkowitz/received_events",
+    "repos_url": "https://api.github.com/users/JoelLefkowitz/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/JoelLefkowitz/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/JoelLefkowitz/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/JoelLefkowitz",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/d40c97f4599e00b510339bad014be836e53773ed/comments",
+   "commit": {
+    "author": {
+     "date": "2026-02-24T12:03:38Z",
+     "email": "joellefkowitz@hotmail.com",
+     "name": "Joel Lefkowitz"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-02-24T12:03:38Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Add version 1.21.15 details to the changelog (#956)",
+    "tree": {
+     "sha": "bd001d851e0b19b36df32b259ce7989141073674",
+     "url": "https://api.github.com/repos/axnsan12/drf-yasg/git/trees/bd001d851e0b19b36df32b259ce7989141073674"
+    },
+    "url": "https://api.github.com/repos/axnsan12/drf-yasg/git/commits/d40c97f4599e00b510339bad014be836e53773ed",
+    "verification": {
+     "payload": "tree bd001d851e0b19b36df32b259ce7989141073674\nparent 2e37afd174cd83210c19dc43ea97837c6aba4ea2\nauthor Joel Lefkowitz <joellefkowitz@hotmail.com> 1771934618 +0000\ncommitter GitHub <noreply@github.com> 1771934618 +0000\n\nAdd version 1.21.15 details to the changelog (#956)",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJpnZOaCRC1aQ7uu5UhlAAA51AQAKmwDpjMN4FMw65tYIBfPG6C\nRZhNTFk265VYCwXOTORbkKalk52T+/OOpM3QZwvgGC9Butu3hUdCGC/93OtScagk\nKuJKYopsUoXGpU3C0CLSFt7naXjVt+KQj1J/j82Qn0622E6KmhSifO8LTUsUyot7\ny0arSmpw4zkTSbHg9jsIzAAAJQ9h5Q2BCcX0beM87JxRf91ujVdEAh3vblbohJJH\nE7hj0uNTpmPcazzYD2YnL2H0gLTLn4YFuvdy0G85uErfCo3y34modKtgAzew/TyF\nAw8KFO9OfjjoIfNUrlPJe+oGmIBV1IizTHUFzQpJ5x/Dekef0so8qnLDQf95Ae+o\nFPsp5jRvZ8oAs8GdGwenrfPHKEOa2ExebZbFPyTDswUpC7l+Y0KREsQi9AXdlflH\nxIuS5A/qac2IoXk7cEIz31ZSOUkM7kOud73Xm6C/esBGUUQaPBzOCwLjvNqnnYFd\nZJE0xr8bVxo6iSPimY/qhPE5UxeNM5tVxlERlDGrRwZOpMbMVbziQUYqvP6X3njq\nIurfFr33NcF67ASvOfSpVvssZBEj3ta5hc/jy941LffToD8gOJE8lRZDC+ZfH05v\nd5Ee+og+NsPbsl4Sxkk45NTsv3odbfG8xN6aaLWRp7LCsyIyhjREQzwEYA11DC5x\nEwPBkJtR/51WyTtavhRO\n=+SQ4\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-02-24T12:03:38Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/axnsan12/drf-yasg/commit/d40c97f4599e00b510339bad014be836e53773ed",
+   "node_id": "C_kwDOBrQGWNoAKGQ0MGM5N2Y0NTk5ZTAwYjUxMDMzOWJhZDAxNGJlODM2ZTUzNzczZWQ",
+   "parents": [
+    {
+     "html_url": "https://github.com/axnsan12/drf-yasg/commit/2e37afd174cd83210c19dc43ea97837c6aba4ea2",
+     "sha": "2e37afd174cd83210c19dc43ea97837c6aba4ea2",
+     "url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/2e37afd174cd83210c19dc43ea97837c6aba4ea2"
+    }
+   ],
+   "sha": "d40c97f4599e00b510339bad014be836e53773ed",
+   "url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/d40c97f4599e00b510339bad014be836e53773ed"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/45922542?v=4",
+    "events_url": "https://api.github.com/users/JoelLefkowitz/events{/privacy}",
+    "followers_url": "https://api.github.com/users/JoelLefkowitz/followers",
+    "following_url": "https://api.github.com/users/JoelLefkowitz/following{/other_user}",
+    "gists_url": "https://api.github.com/users/JoelLefkowitz/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/JoelLefkowitz",
+    "id": 45922542,
+    "login": "JoelLefkowitz",
+    "node_id": "MDQ6VXNlcjQ1OTIyNTQy",
+    "organizations_url": "https://api.github.com/users/JoelLefkowitz/orgs",
+    "received_events_url": "https://api.github.com/users/JoelLefkowitz/received_events",
+    "repos_url": "https://api.github.com/users/JoelLefkowitz/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/JoelLefkowitz/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/JoelLefkowitz/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/JoelLefkowitz",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/2e37afd174cd83210c19dc43ea97837c6aba4ea2/comments",
+   "commit": {
+    "author": {
+     "date": "2026-02-24T11:42:48Z",
+     "email": "joellefkowitz@hotmail.com",
+     "name": "Joel Lefkowitz"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-02-24T11:42:48Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Modernise and add .DS_Store to the .gitignore (#955)",
+    "tree": {
+     "sha": "d57ec12c280236e4683c999f31f98608f68abcb9",
+     "url": "https://api.github.com/repos/axnsan12/drf-yasg/git/trees/d57ec12c280236e4683c999f31f98608f68abcb9"
+    },
+    "url": "https://api.github.com/repos/axnsan12/drf-yasg/git/commits/2e37afd174cd83210c19dc43ea97837c6aba4ea2",
+    "verification": {
+     "payload": "tree d57ec12c280236e4683c999f31f98608f68abcb9\nparent 76a138a5de3970eef59e4847d4a9ad601ba6f89b\nauthor Joel Lefkowitz <joellefkowitz@hotmail.com> 1771933368 +0000\ncommitter GitHub <noreply@github.com> 1771933368 +0000\n\nModernise and add .DS_Store to the .gitignore (#955)",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJpnY64CRC1aQ7uu5UhlAAAMHgQAFuEnsw9T3riQBHoDBkxTnC1\n75IMzwu17D9IcMmZ32mRft4+imYwM+m48DsnYqtQoTWjvWI93jf2GC86tIDK6K68\npgJ1pr/fwBRMsk8mhP244OMp1Wn9HmZoThQP5+Lxkn1LlJBnrL4w5rtCnz+KWgEr\nNCnyEe2nII3AUqu3EhoUY0hF2n0GqaFNNhdzzcGZ9TI6iScj8gIs97+bPSnigHeI\nPttNvlmEBL6XvQcqF2luqzz1F2RfB4F0gXlKtuHan4F4l3c148zzXIWB++FtHdKT\n3TmqXIpNgQXzE8trvH+o7xfr2wDTHrOPZ9lB8sGJuSWJ+dVYSonOzChv6m1UrwvH\naWzcGxUDux/dHor6ZLWMkp7tXxOXIeEB0rgn+F8aiYqLc08ipAFZRHD1XT8mnAa0\nsum1grCE/PQvBOyvyokCJ8yCuI/8ULeZZnVY9gfNIH8NO5feaChXokc9qCFy0Du4\n4Ztm6w4UNqlPr+1ve0zfveMZ5atwyjslvQv/q2GTbIR9BSwDCmQbh8HjlxyIfDjp\nYAo81NRlAVLOCDtD+E9GSvsK2NX+K3G3Qw/7JkQZtR60+B3fmRBI+32bOQZQUGPO\nuXOoinkP5soAXQevERk2i6HVpt9M7u4quAisMIU9F82bSU4vjesgxZkqwSef2eJB\nyD98b+HzGvmHO9I/ERHG\n=NKvc\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-02-24T11:42:49Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/axnsan12/drf-yasg/commit/2e37afd174cd83210c19dc43ea97837c6aba4ea2",
+   "node_id": "C_kwDOBrQGWNoAKDJlMzdhZmQxNzRjZDgzMjEwYzE5ZGM0M2VhOTc4MzdjNmFiYTRlYTI",
+   "parents": [
+    {
+     "html_url": "https://github.com/axnsan12/drf-yasg/commit/76a138a5de3970eef59e4847d4a9ad601ba6f89b",
+     "sha": "76a138a5de3970eef59e4847d4a9ad601ba6f89b",
+     "url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/76a138a5de3970eef59e4847d4a9ad601ba6f89b"
+    }
+   ],
+   "sha": "2e37afd174cd83210c19dc43ea97837c6aba4ea2",
+   "url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/2e37afd174cd83210c19dc43ea97837c6aba4ea2"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/438813?v=4",
+    "events_url": "https://api.github.com/users/terencehonles/events{/privacy}",
+    "followers_url": "https://api.github.com/users/terencehonles/followers",
+    "following_url": "https://api.github.com/users/terencehonles/following{/other_user}",
+    "gists_url": "https://api.github.com/users/terencehonles/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/terencehonles",
+    "id": 438813,
+    "login": "terencehonles",
+    "node_id": "MDQ6VXNlcjQzODgxMw==",
+    "organizations_url": "https://api.github.com/users/terencehonles/orgs",
+    "received_events_url": "https://api.github.com/users/terencehonles/received_events",
+    "repos_url": "https://api.github.com/users/terencehonles/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/terencehonles/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/terencehonles/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/terencehonles",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/76a138a5de3970eef59e4847d4a9ad601ba6f89b/comments",
+   "commit": {
+    "author": {
+     "date": "2026-02-24T10:07:21Z",
+     "email": "terence@honles.com",
+     "name": "Terence Honles"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-02-24T10:07:21Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Use Python's native `dict` instead of `OrderedDict` (#954)\n\n* fix Python 3.12 type parameter syntax with ``from __future__ import annotations``\n\nThis change fixes Python 3.12 type parameter syntax (PEP-695) used with\npostponed evaluation of annotations (PEP-563).\n\n* use Python's native `dict` instead of `OrderedDict`\n\nPython's native `dict` preserves insertion order and `OrderedDict` is no\nlonger needed. The \"sane\" YAML loaders and dumpers have been updated and\nalso renamed to just `Yaml{Dumper,Loader}` as the word \"sane\" is not\nhelpful and they are just the default YAML format this library prefers.\n\n---------\n\nCo-authored-by: Joel Lefkowitz <joellefkowitz@hotmail.com>",
+    "tree": {
+     "sha": "29a5ce947e38a8768892b4270bd00577f28c0d98",
+     "url": "https://api.github.com/repos/axnsan12/drf-yasg/git/trees/29a5ce947e38a8768892b4270bd00577f28c0d98"
+    },
+    "url": "https://api.github.com/repos/axnsan12/drf-yasg/git/commits/76a138a5de3970eef59e4847d4a9ad601ba6f89b",
+    "verification": {
+     "payload": "tree 29a5ce947e38a8768892b4270bd00577f28c0d98\nparent b55ba0f5326441e2c8b6a8e09a56dc23a54cddd3\nauthor Terence Honles <terence@honles.com> 1771927641 +0100\ncommitter GitHub <noreply@github.com> 1771927641 +0000\n\nUse Python's native `dict` instead of `OrderedDict` (#954)\n\n* fix Python 3.12 type parameter syntax with ``from __future__ import annotations``\n\nThis change fixes Python 3.12 type parameter syntax (PEP-695) used with\npostponed evaluation of annotations (PEP-563).\n\n* use Python's native `dict` instead of `OrderedDict`\n\nPython's native `dict` preserves insertion order and `OrderedDict` is no\nlonger needed. The \"sane\" YAML loaders and dumpers have been updated and\nalso renamed to just `Yaml{Dumper,Loader}` as the word \"sane\" is not\nhelpful and they are just the default YAML format this library prefers.\n\n---------\n\nCo-authored-by: Joel Lefkowitz <joellefkowitz@hotmail.com>",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJpnXhZCRC1aQ7uu5UhlAAAN/wQAK4ge1jBvcL+cLM326prm2BE\nsQBLgwPiZFC8/7tvI8xN90x+2WuiNqK7S0zxXEFz+HVZ6ONlt30OT5bM9nYD9OB/\n0fMCxP+z4Y6549tWDItPi9C9FKGwVA3qM8BOTe2UCJCkNuUUgqcB1u69mMjba8Uy\niyrVPgrXTt0av1/keiZ27UGpUuUfa4H7qRHAJFHrlC2KSgZnCyvSWcLZwQdxc8q1\n7HYxD1jOCCd2wy9RM1rKvklPnwEJU24BfrkO2egzQot8LXpkAqo76D7yC61dP5/V\n3715/3GXpz8vODlcW3UKNWrWNhQqrkLwqct0dESbqryQo9bFJQ2DBdEKf7AGw0Yf\ndPVFjCM56vfdHnQE/9jXkqcDmOpYG3dy5iAVfF0w3fo1bXfKOtoMcq1gXk0ymhA3\nQwIaWQJyNGLjKHUTOLyXemYDkWzys5jobwa2UcahCytdX7+dRxIq7aLXI08kQZyX\nVJ+74x71kOk/MhNuL3MznF46G+3ArEnIYBTpkaFGhcvxrkvo+C8jHIHOqHtNDiW5\nKycU/ZogMV0XSno6cYXqa9tN33BaeHB/BCVLin6Bc4H+xgN02DL13ESP2BDueh+l\nbJgNIT8N5jprs3YUKwcg/52Uz/8ZgAM07yD6FEX37w0b57Dt35waLDbPUGXhuJCy\nEPmtcHZ/NfR/s+88PBa8\n=fXUB\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-02-24T10:07:22Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/axnsan12/drf-yasg/commit/76a138a5de3970eef59e4847d4a9ad601ba6f89b",
+   "node_id": "C_kwDOBrQGWNoAKDc2YTEzOGE1ZGUzOTcwZWVmNTllNDg0N2Q0YTlhZDYwMWJhNmY4OWI",
+   "parents": [
+    {
+     "html_url": "https://github.com/axnsan12/drf-yasg/commit/b55ba0f5326441e2c8b6a8e09a56dc23a54cddd3",
+     "sha": "b55ba0f5326441e2c8b6a8e09a56dc23a54cddd3",
+     "url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/b55ba0f5326441e2c8b6a8e09a56dc23a54cddd3"
+    }
+   ],
+   "sha": "76a138a5de3970eef59e4847d4a9ad601ba6f89b",
+   "url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/76a138a5de3970eef59e4847d4a9ad601ba6f89b"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/438813?v=4",
+    "events_url": "https://api.github.com/users/terencehonles/events{/privacy}",
+    "followers_url": "https://api.github.com/users/terencehonles/followers",
+    "following_url": "https://api.github.com/users/terencehonles/following{/other_user}",
+    "gists_url": "https://api.github.com/users/terencehonles/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/terencehonles",
+    "id": 438813,
+    "login": "terencehonles",
+    "node_id": "MDQ6VXNlcjQzODgxMw==",
+    "organizations_url": "https://api.github.com/users/terencehonles/orgs",
+    "received_events_url": "https://api.github.com/users/terencehonles/received_events",
+    "repos_url": "https://api.github.com/users/terencehonles/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/terencehonles/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/terencehonles/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/terencehonles",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/b55ba0f5326441e2c8b6a8e09a56dc23a54cddd3/comments",
+   "commit": {
+    "author": {
+     "date": "2026-02-24T09:51:55Z",
+     "email": "terence@honles.com",
+     "name": "Terence Honles"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-02-24T09:51:55Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "fix Python 3.12 type parameter syntax with ``from __future__ import annotations`` (#921)\n\nThis change fixes Python 3.12 type parameter syntax (PEP-695) used with\npostponed evaluation of annotations (PEP-563).",
+    "tree": {
+     "sha": "997ded44e1b1ed22a0eb805df9e6b3a5d6c34edb",
+     "url": "https://api.github.com/repos/axnsan12/drf-yasg/git/trees/997ded44e1b1ed22a0eb805df9e6b3a5d6c34edb"
+    },
+    "url": "https://api.github.com/repos/axnsan12/drf-yasg/git/commits/b55ba0f5326441e2c8b6a8e09a56dc23a54cddd3",
+    "verification": {
+     "payload": "tree 997ded44e1b1ed22a0eb805df9e6b3a5d6c34edb\nparent 7dceb2783db31631785cd15866c9b44540accf9f\nauthor Terence Honles <terence@honles.com> 1771926715 +0100\ncommitter GitHub <noreply@github.com> 1771926715 +0000\n\nfix Python 3.12 type parameter syntax with ``from __future__ import annotations`` (#921)\n\nThis change fixes Python 3.12 type parameter syntax (PEP-695) used with\npostponed evaluation of annotations (PEP-563).",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJpnXS7CRC1aQ7uu5UhlAAA4LcQABBqE0Zw0HXxFgkdqCQyvvxs\nW0ddq0/LkgqgWi8ptUw7i+lPvEFM6Ruk4L3/nY7MXkGHG80OQhdD85CGpegD6V0R\nXuH3m7OVjaChsAt9RAUGj5PvHSSnjq+zNMPEBjLNRrOWjJIR4UnMgy38tH7BIqod\nL9j2Lv+WA/tLPvl7ycI/Z8r5czk9bVub7gTAToZG0ip1EkoxlOC9gSVzANzw0PZm\n2L2pOOibKgwR+6jjSanHPvJklnKtolLDKcf6p4Tr6c1rt7zEk9Kfv1VwQzQzyNqi\nIMBpwuEk6QVc7W83aR4Lt++4dLvOMH7fX6gh9aIvkKMHg9D4ri3AjcMKWIp7KlWt\nEZlWBULAa7ten9+6uHt/weh32UCsGKFkLtpvfTdpBA3AA74fvxMd+aQ72jFgjKkb\nBR+fsPWFbMJ63SwQ9B2jc/PdLmYNZocyxVcvKJZGe+L0DySscCakK33b6yzGkn0o\nZHxIpMp7hnNa4fZKaKQeM9MxZAELSYxBNgYgBetdVrU/HeyAp+aFkRbDiPlWtVN3\n2EPXHKWHsEkFhBxqsSvElhK0BPUmjN2YL4Y/7uFxa7qEZJHJqpYA6+AtNa560e5u\ng60QIzTgboh0O3CxZPqhy4CxDzwLPWIEE/U5EBzwjtlGpLyPN30abn6wgdJ+Qu8k\nnADhA2m6+G/dnvab5e6b\n=ICre\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-02-24T09:51:56Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/axnsan12/drf-yasg/commit/b55ba0f5326441e2c8b6a8e09a56dc23a54cddd3",
+   "node_id": "C_kwDOBrQGWNoAKGI1NWJhMGY1MzI2NDQxZTJjOGI2YThlMDlhNTZkYzIzYTU0Y2RkZDM",
+   "parents": [
+    {
+     "html_url": "https://github.com/axnsan12/drf-yasg/commit/7dceb2783db31631785cd15866c9b44540accf9f",
+     "sha": "7dceb2783db31631785cd15866c9b44540accf9f",
+     "url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/7dceb2783db31631785cd15866c9b44540accf9f"
+    }
+   ],
+   "sha": "b55ba0f5326441e2c8b6a8e09a56dc23a54cddd3",
+   "url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/b55ba0f5326441e2c8b6a8e09a56dc23a54cddd3"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/45922542?v=4",
+    "events_url": "https://api.github.com/users/JoelLefkowitz/events{/privacy}",
+    "followers_url": "https://api.github.com/users/JoelLefkowitz/followers",
+    "following_url": "https://api.github.com/users/JoelLefkowitz/following{/other_user}",
+    "gists_url": "https://api.github.com/users/JoelLefkowitz/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/JoelLefkowitz",
+    "id": 45922542,
+    "login": "JoelLefkowitz",
+    "node_id": "MDQ6VXNlcjQ1OTIyNTQy",
+    "organizations_url": "https://api.github.com/users/JoelLefkowitz/orgs",
+    "received_events_url": "https://api.github.com/users/JoelLefkowitz/received_events",
+    "repos_url": "https://api.github.com/users/JoelLefkowitz/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/JoelLefkowitz/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/JoelLefkowitz/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/JoelLefkowitz",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/7dceb2783db31631785cd15866c9b44540accf9f/comments",
+   "commit": {
+    "author": {
+     "date": "2026-01-15T11:35:17Z",
+     "email": "joellefkowitz@hotmail.com",
+     "name": "Joel Lefkowitz"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-01-15T11:35:17Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Add version 1.21.14 details to the changelog (#952)",
+    "tree": {
+     "sha": "96969daf3ff1469d47f85a208603357dd868006e",
+     "url": "https://api.github.com/repos/axnsan12/drf-yasg/git/trees/96969daf3ff1469d47f85a208603357dd868006e"
+    },
+    "url": "https://api.github.com/repos/axnsan12/drf-yasg/git/commits/7dceb2783db31631785cd15866c9b44540accf9f",
+    "verification": {
+     "payload": "tree 96969daf3ff1469d47f85a208603357dd868006e\nparent 763cdd6473eb963ad36987088e697cfd4f744acc\nauthor Joel Lefkowitz <joellefkowitz@hotmail.com> 1768476917 +0000\ncommitter GitHub <noreply@github.com> 1768476917 +0000\n\nAdd version 1.21.14 details to the changelog (#952)\n\n",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJpaND1CRC1aQ7uu5UhlAAAhOsQAKWmCA/0vp9KLRft7MaXEkZD\nc+PX0Nu+khZmrHnhPdAyc3vJHr00yGjn+jkPfIm5fse3lTxDeeOoGSZi63F8hLXu\nY78uyu1I6sPoXC8yEi0jOQKBkkQYIfhZynkvWrx42PF9ScvkJbf1r50MZtyeALHa\nIIHQ5G9aLY8uggdemqs9Fa317YNyVioD8MHo6V6pvUWKyEv77NsK+++ZArXybp6/\nmQD06QgPj3kUTlGkTKEE2crlV0KHz+pM2bJDT23XFOQLrlVKZnqFEtjxFzUDFTFw\n6hYF0B7nEI8Ab0qNMYLhVChHPpEWxe+39ZFYBOu5yAsu32avZbwbtIJp6g9vgrZw\nk9Ttoa25MKI99WmEas/mO9TSfOUeoZuvx6ooAbeFTruSwGfm4Lk4gXR7+0Oh1KEf\nwOwDfLB4q97mUOwqrSTnURpQiMjrfp6mfvhmgDPB9iQwZZh97ASNN4eh5AQPMyL3\nUIiC5WDxSws5R4RyNWO8REWdMZaavV6m3YYmsPu27vU0Jk42MJeMNI+mnp8Toxz0\nPL+aj17U0yCXcPapbNUrjZDsq8ROi0ctn9UG7oOB1l6H2ixqc5GVY5l41Tg1VYBK\nKyidj06ZQD1ChaSc5HCXo/GtHunZHSLCEARA3VdTbJZDEIfJcbyoAFZC37nENRjt\nxqoVE+qGV0r6lxwx3UUS\n=AWv4\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-01-15T11:35:17Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/axnsan12/drf-yasg/commit/7dceb2783db31631785cd15866c9b44540accf9f",
+   "node_id": "C_kwDOBrQGWNoAKDdkY2ViMjc4M2RiMzE2MzE3ODVjZDE1ODY2YzliNDQ1NDBhY2NmOWY",
+   "parents": [
+    {
+     "html_url": "https://github.com/axnsan12/drf-yasg/commit/763cdd6473eb963ad36987088e697cfd4f744acc",
+     "sha": "763cdd6473eb963ad36987088e697cfd4f744acc",
+     "url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/763cdd6473eb963ad36987088e697cfd4f744acc"
+    }
+   ],
+   "sha": "7dceb2783db31631785cd15866c9b44540accf9f",
+   "url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/7dceb2783db31631785cd15866c9b44540accf9f"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/45922542?v=4",
+    "events_url": "https://api.github.com/users/JoelLefkowitz/events{/privacy}",
+    "followers_url": "https://api.github.com/users/JoelLefkowitz/followers",
+    "following_url": "https://api.github.com/users/JoelLefkowitz/following{/other_user}",
+    "gists_url": "https://api.github.com/users/JoelLefkowitz/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/JoelLefkowitz",
+    "id": 45922542,
+    "login": "JoelLefkowitz",
+    "node_id": "MDQ6VXNlcjQ1OTIyNTQy",
+    "organizations_url": "https://api.github.com/users/JoelLefkowitz/orgs",
+    "received_events_url": "https://api.github.com/users/JoelLefkowitz/received_events",
+    "repos_url": "https://api.github.com/users/JoelLefkowitz/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/JoelLefkowitz/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/JoelLefkowitz/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/JoelLefkowitz",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/763cdd6473eb963ad36987088e697cfd4f744acc/comments",
+   "commit": {
+    "author": {
+     "date": "2026-01-15T11:15:08Z",
+     "email": "joellefkowitz@hotmail.com",
+     "name": "Joel Lefkowitz"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-01-15T11:15:08Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Add version 1.21.13 details to the changelog (#951)",
+    "tree": {
+     "sha": "97fa170dec5c03a60dfbbd645d987d6d67f960c0",
+     "url": "https://api.github.com/repos/axnsan12/drf-yasg/git/trees/97fa170dec5c03a60dfbbd645d987d6d67f960c0"
+    },
+    "url": "https://api.github.com/repos/axnsan12/drf-yasg/git/commits/763cdd6473eb963ad36987088e697cfd4f744acc",
+    "verification": {
+     "payload": "tree 97fa170dec5c03a60dfbbd645d987d6d67f960c0\nparent a0559fcacd996b76fbbb5ea0d70aa5c314f06e0c\nauthor Joel Lefkowitz <joellefkowitz@hotmail.com> 1768475708 +0000\ncommitter GitHub <noreply@github.com> 1768475708 +0000\n\nAdd version 1.21.13 details to the changelog (#951)\n\n",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJpaMw8CRC1aQ7uu5UhlAAAC+0QAJsCqHKE4SysKNX2GnNPBAVv\n9zBhoF868PUNJxhXuIYOLuRrj/wILcHh91lyGu6+PJfC0s/X97IMnCe3ZtKql+hy\n38Fjz8WVcXG0+WCMTLYjWChIwRY1Oi3GeuZHYD090jKqeE1H7fy7X3LcBv/fb/fK\np7nZKNUcaAwXanxV8uxdwgbcIzhi6IjNQV5p3GUqF8p1wIfE48RuHusi+pVrZJKE\nZhcM9NMgGHXazxr0t3BJk29C64tHhmzVtOW4c9o2gXl3YAg7ltZPQCoqP3hoQXdi\ntj5YKO1Yq5/agEYy/1tX485JXxJOWpAsJ18h31c03KFV5uKToxvmHYp87vLAbp7B\np4gNwVMLcQ+VrDgm/YOEsC355F4SZV9llnz8IVjWJORZ7+HlSgKv9h6IaEjj4X95\noKoRb3sYBGNVl9U/7zRk9hZ8FLp7GhJK8r8tNsfrj9xUJ6YX4V4ghOYJEk4bq30w\nqoIRFF52v0+KDGYU89t0Sd4B9LZJrATKNdbTQe62R48tisVjOiUfpjd4FfGbzyxH\nz1uZ/xR4aL1eXJJaB3kSIuxDDq+aq0UEVH7xJtWlFBq3iJKvNJt4V8wJT7aw51QH\nR0c8tLIF4WqUngd/MNKxyJESVPe1Ps5CXevCrTcSlhI06bOgRMta0MUTL25eAXwi\n8YD4H6RPMAN2MktWf21o\n=xts9\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-01-15T11:15:09Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/axnsan12/drf-yasg/commit/763cdd6473eb963ad36987088e697cfd4f744acc",
+   "node_id": "C_kwDOBrQGWNoAKDc2M2NkZDY0NzNlYjk2M2FkMzY5ODcwODhlNjk3Y2ZkNGY3NDRhY2M",
+   "parents": [
+    {
+     "html_url": "https://github.com/axnsan12/drf-yasg/commit/a0559fcacd996b76fbbb5ea0d70aa5c314f06e0c",
+     "sha": "a0559fcacd996b76fbbb5ea0d70aa5c314f06e0c",
+     "url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/a0559fcacd996b76fbbb5ea0d70aa5c314f06e0c"
+    }
+   ],
+   "sha": "763cdd6473eb963ad36987088e697cfd4f744acc",
+   "url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/763cdd6473eb963ad36987088e697cfd4f744acc"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/45922542?v=4",
+    "events_url": "https://api.github.com/users/JoelLefkowitz/events{/privacy}",
+    "followers_url": "https://api.github.com/users/JoelLefkowitz/followers",
+    "following_url": "https://api.github.com/users/JoelLefkowitz/following{/other_user}",
+    "gists_url": "https://api.github.com/users/JoelLefkowitz/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/JoelLefkowitz",
+    "id": 45922542,
+    "login": "JoelLefkowitz",
+    "node_id": "MDQ6VXNlcjQ1OTIyNTQy",
+    "organizations_url": "https://api.github.com/users/JoelLefkowitz/orgs",
+    "received_events_url": "https://api.github.com/users/JoelLefkowitz/received_events",
+    "repos_url": "https://api.github.com/users/JoelLefkowitz/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/JoelLefkowitz/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/JoelLefkowitz/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/JoelLefkowitz",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/a0559fcacd996b76fbbb5ea0d70aa5c314f06e0c/comments",
+   "commit": {
+    "author": {
+     "date": "2026-01-15T10:22:20Z",
+     "email": "joellefkowitz@hotmail.com",
+     "name": "Joel Lefkowitz"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-01-15T10:22:20Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Add missing swagger-ui sourcemaps (#950)\n\n* Add missing swagger-ui sourcemaps\n\n* Leave redoc bundle unchanged",
+    "tree": {
+     "sha": "a44adabf3b3060d10267672b86c5f837818dbf00",
+     "url": "https://api.github.com/repos/axnsan12/drf-yasg/git/trees/a44adabf3b3060d10267672b86c5f837818dbf00"
+    },
+    "url": "https://api.github.com/repos/axnsan12/drf-yasg/git/commits/a0559fcacd996b76fbbb5ea0d70aa5c314f06e0c",
+    "verification": {
+     "payload": "tree a44adabf3b3060d10267672b86c5f837818dbf00\nparent 2bf74d0789b40aafa638c8fc1d4e25ea8340f530\nauthor Joel Lefkowitz <joellefkowitz@hotmail.com> 1768472540 +0000\ncommitter GitHub <noreply@github.com> 1768472540 +0000\n\nAdd missing swagger-ui sourcemaps (#950)\n\n* Add missing swagger-ui sourcemaps\n\n* Leave redoc bundle unchanged",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJpaL/cCRC1aQ7uu5UhlAAAUX4QAKh+93fvpigYzzhgGrvfdC+e\n/QT2ey7VS2BUYiEN8b/KpRCptXNWuC3DViW7aQUZ1pCBQlISLIw62tE3jOdx7Rqh\nMCl6J5eMUApM/c2A9HQts/K65AI6I0VZONu6zvbevZHVRvr9buV3nUF4BMQw6049\nO9BEYIFlrpsI2Hv8n7dzsULY+ycz/ha6RN6+u8uAT9OQ3ycFC98epchlp9XhpD6B\np2u9XU/75vQdBixOe0/k0O+mXcCYJiaFL88Dynp/gMn8zzgWpNLK7U5efB3g/2XK\nJihz9pdiGmI3s5XZFUA2N6P2NOZKtVDVHTqCLKZqTJnJR1MjdbxhlJs6BNeLAIax\npSEv/FaJvehEaGV7euFi7IZ2Z6hBxO+gTPIzuMSXhyjlcYTMEHtuX/DNAsWo4tNk\nREwmnu+CdtdoFQHYwzVobttO8cWQSiD9i7AUX6EGy3zFbYZhkWHyAhG1ly9X82ff\nUZJEeEv3B1wTkFnjV02qcpqrnx1TTAi+xZj4kT/CdO4ga4JtvH5WCLWpHw5qeVSe\nreGEwJ1vC6XNtCFDasWLcrr84PviWgPayUvGtjG4ZTfn/h1SuNNh3m9yGnaSMJ5U\n5g+Ilc45A3XZqBZy4VmOVCxw6SGpUpQ30KU6Ms3h7GauHTTHJAxtuH4CzQlJVyDq\nQ8wW1JR1ww9VKtFD0K1e\n=84+A\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-01-15T10:22:20Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/axnsan12/drf-yasg/commit/a0559fcacd996b76fbbb5ea0d70aa5c314f06e0c",
+   "node_id": "C_kwDOBrQGWNoAKGEwNTU5ZmNhY2Q5OTZiNzZmYmJiNWVhMGQ3MGFhNWMzMTRmMDZlMGM",
+   "parents": [
+    {
+     "html_url": "https://github.com/axnsan12/drf-yasg/commit/2bf74d0789b40aafa638c8fc1d4e25ea8340f530",
+     "sha": "2bf74d0789b40aafa638c8fc1d4e25ea8340f530",
+     "url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/2bf74d0789b40aafa638c8fc1d4e25ea8340f530"
+    }
+   ],
+   "sha": "a0559fcacd996b76fbbb5ea0d70aa5c314f06e0c",
+   "url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/a0559fcacd996b76fbbb5ea0d70aa5c314f06e0c"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/45922542?v=4",
+    "events_url": "https://api.github.com/users/JoelLefkowitz/events{/privacy}",
+    "followers_url": "https://api.github.com/users/JoelLefkowitz/followers",
+    "following_url": "https://api.github.com/users/JoelLefkowitz/following{/other_user}",
+    "gists_url": "https://api.github.com/users/JoelLefkowitz/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/JoelLefkowitz",
+    "id": 45922542,
+    "login": "JoelLefkowitz",
+    "node_id": "MDQ6VXNlcjQ1OTIyNTQy",
+    "organizations_url": "https://api.github.com/users/JoelLefkowitz/orgs",
+    "received_events_url": "https://api.github.com/users/JoelLefkowitz/received_events",
+    "repos_url": "https://api.github.com/users/JoelLefkowitz/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/JoelLefkowitz/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/JoelLefkowitz/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/JoelLefkowitz",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/2bf74d0789b40aafa638c8fc1d4e25ea8340f530/comments",
+   "commit": {
+    "author": {
+     "date": "2026-01-13T19:01:58Z",
+     "email": "joellefkowitz@hotmail.com",
+     "name": "Joel Lefkowitz"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-01-13T19:01:58Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Add version 1.21.12 details to the changelog (#948)",
+    "tree": {
+     "sha": "cfb2709106b4f7a2a16eb6b14070e0b19af45d97",
+     "url": "https://api.github.com/repos/axnsan12/drf-yasg/git/trees/cfb2709106b4f7a2a16eb6b14070e0b19af45d97"
+    },
+    "url": "https://api.github.com/repos/axnsan12/drf-yasg/git/commits/2bf74d0789b40aafa638c8fc1d4e25ea8340f530",
+    "verification": {
+     "payload": "tree cfb2709106b4f7a2a16eb6b14070e0b19af45d97\nparent b421e89667932159562652d3639368667e5d89d9\nauthor Joel Lefkowitz <joellefkowitz@hotmail.com> 1768330918 +0000\ncommitter GitHub <noreply@github.com> 1768330918 +0000\n\nAdd version 1.21.12 details to the changelog (#948)\n\n",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJpZpamCRC1aQ7uu5UhlAAAdI0QABiEuMZWjsZ9tME2lTdiy9HY\nm9WbDqaaNxdHMc/BRl5H3BXXWeWAtijPS7U3Qu9+rwgA+jLQ+VdoExtp2En+40Dt\n7oMrZhDTwI8ppKzDyQdEC5/mPDND5IHhMReevNlqpSoY/hGOUzpIG1fm3vK0WTQp\nRWXXQ5UfrDHXjo1p688S13Dww1ItXzv6GSn0zooUfAr7yX3qIS77gwrcfFHzMnav\naXlQ0xA4XswdCPPt7iu0+X5wKBtjIE1i1evmPGOSXsZG1wyp5Tar8dio74GnjAJ2\nr9XKQQED3eKsp5p92z/vSFdf3UPqt8lPL244Qxq+dfAJ48wdh/lDs1zlXYh039BN\nytp+DAuOFMT26EaGmdqkNl4MiWCb3lMshT9acmmQVpjFmTii+bSfPOjibGJd6SDn\nLbFrp5QEDDVdsgdDTsPd34tW5myqJ7MhpeoCIZuhaCt9DsQzjblX0kw7e7iBALaP\n44A3QZ4wdyOth0OGDNIYKsUl1CRCMsgUyNMZLDmq9x8zxghVRylZdz4ZqeqnshKo\nmrah8rViBoMAbHYRIXL8c2J55R0YN1OGiDKnaa46B3lzRF6ipA/yhKchnxTlehPg\nT+1JqJC+tElm2MxSgZdZz0HtttbuL7e2cc6/54ghI3Ge1GumiSN+JhGWLEB7pq9a\nkblETK86jo4K77bTZ+eh\n=qUGe\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-01-13T19:01:58Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/axnsan12/drf-yasg/commit/2bf74d0789b40aafa638c8fc1d4e25ea8340f530",
+   "node_id": "C_kwDOBrQGWNoAKDJiZjc0ZDA3ODliNDBhYWZhNjM4YzhmYzFkNGUyNWVhODM0MGY1MzA",
+   "parents": [
+    {
+     "html_url": "https://github.com/axnsan12/drf-yasg/commit/b421e89667932159562652d3639368667e5d89d9",
+     "sha": "b421e89667932159562652d3639368667e5d89d9",
+     "url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/b421e89667932159562652d3639368667e5d89d9"
+    }
+   ],
+   "sha": "2bf74d0789b40aafa638c8fc1d4e25ea8340f530",
+   "url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/2bf74d0789b40aafa638c8fc1d4e25ea8340f530"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/228706696?v=4",
+    "events_url": "https://api.github.com/users/oussamahosni857/events{/privacy}",
+    "followers_url": "https://api.github.com/users/oussamahosni857/followers",
+    "following_url": "https://api.github.com/users/oussamahosni857/following{/other_user}",
+    "gists_url": "https://api.github.com/users/oussamahosni857/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/oussamahosni857",
+    "id": 228706696,
+    "login": "oussamahosni857",
+    "node_id": "U_kgDODaHJiA",
+    "organizations_url": "https://api.github.com/users/oussamahosni857/orgs",
+    "received_events_url": "https://api.github.com/users/oussamahosni857/received_events",
+    "repos_url": "https://api.github.com/users/oussamahosni857/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/oussamahosni857/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/oussamahosni857/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/oussamahosni857",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/b421e89667932159562652d3639368667e5d89d9/comments",
+   "commit": {
+    "author": {
+     "date": "2026-01-13T15:50:01Z",
+     "email": "oussama.hosni@value.com.tn",
+     "name": "oussamahosni857"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-01-13T15:50:01Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "swagger ui fix (#944)\n\n* swagger ui fix\n\n* Delete src/drf_yasg/static/drf-yasg/swagger-ui-dist/swagger-ui.js\n\n* Delete src/drf_yasg/static/drf-yasg/swagger-ui-dist/index.html\n\n* Delete src/drf_yasg/static/drf-yasg/swagger-ui-dist/favicon-16x16.png\n\n---------\n\nCo-authored-by: Joel Lefkowitz <joellefkowitz@hotmail.com>",
+    "tree": {
+     "sha": "ff7c806a4f1aa0a3eeb564e7e441709e21e7980c",
+     "url": "https://api.github.com/repos/axnsan12/drf-yasg/git/trees/ff7c806a4f1aa0a3eeb564e7e441709e21e7980c"
+    },
+    "url": "https://api.github.com/repos/axnsan12/drf-yasg/git/commits/b421e89667932159562652d3639368667e5d89d9",
+    "verification": {
+     "payload": "tree ff7c806a4f1aa0a3eeb564e7e441709e21e7980c\nparent 40fee2bd8be59bb1b112419fdb79cd9a09745306\nauthor oussamahosni857 <oussama.hosni@value.com.tn> 1768319401 +0100\ncommitter GitHub <noreply@github.com> 1768319401 +0000\n\nswagger ui fix (#944)\n\n* swagger ui fix\n\n* Delete src/drf_yasg/static/drf-yasg/swagger-ui-dist/swagger-ui.js\n\n* Delete src/drf_yasg/static/drf-yasg/swagger-ui-dist/index.html\n\n* Delete src/drf_yasg/static/drf-yasg/swagger-ui-dist/favicon-16x16.png\n\n---------\n\nCo-authored-by: Joel Lefkowitz <joellefkowitz@hotmail.com>",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJpZmmpCRC1aQ7uu5UhlAAA3JUQAExvC1r5mV0KAbdwAKT2tQ6U\n5y0cHa+/PO/HCL7du+3jmibQbU1ExCOVUi4YCbvEcRXL+dBomGZ8OWB+d6VT4eNx\n7JTfYjDByykKTj+zH7h0nkOK/D5sVOuAombOAxja/L+lbHob+mOdafeg2u2AC/mc\nYuxRA+owyruEfXkApX8wL9jizIvP4wlQjDu18GYwF1R1pjzuaPw7ssuIlzzaLG/A\nAa2yXQp2G+4bApJfTVf2LoAbYqgN3g2J30HHJRAYY4Iij9kQ45b9i1RvVJxk5bwD\nms/Z6qWPqXF5tV85JmBRVX/n/a8dYfLBNZJ+/Q9ugu9nUI8bODgWV3dfk7mr09t6\nnmh3pAJ963YwRYkCex4XB6SbLmv1bvMY+J7R7NOfULJjRs8jRnc1k+cz7umnhdt/\nV4YYSAboepFFXm+mZjJCYY85ppgxLk3VEYDF0zfSEG2yJ2wtcO4QFjPfQPWALoIa\nkN3yZa7iJJ3/OTR7/R8n6CQVKudEF62D4hUgI61xRSXKRSSz+ai7wN5rBxfXcvG0\nWRlpxKK3nzGhkXaexTIXYe3ZF1PfckUy66IhonKbIInLGyHDiraA/hCshMMhxMi3\nfg/lNXI6XU6CF9I759T0CdmcHo4/xAeI/Hqmb0KSBQy+04N4+VcGiNIzOLIvLV7H\nlTTbai4eiY6rRU4Hj1iV\n=1RQ/\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-01-13T15:50:02Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/axnsan12/drf-yasg/commit/b421e89667932159562652d3639368667e5d89d9",
+   "node_id": "C_kwDOBrQGWNoAKGI0MjFlODk2Njc5MzIxNTk1NjI2NTJkMzYzOTM2ODY2N2U1ZDg5ZDk",
+   "parents": [
+    {
+     "html_url": "https://github.com/axnsan12/drf-yasg/commit/40fee2bd8be59bb1b112419fdb79cd9a09745306",
+     "sha": "40fee2bd8be59bb1b112419fdb79cd9a09745306",
+     "url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/40fee2bd8be59bb1b112419fdb79cd9a09745306"
+    }
+   ],
+   "sha": "b421e89667932159562652d3639368667e5d89d9",
+   "url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/b421e89667932159562652d3639368667e5d89d9"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/45922542?v=4",
+    "events_url": "https://api.github.com/users/JoelLefkowitz/events{/privacy}",
+    "followers_url": "https://api.github.com/users/JoelLefkowitz/followers",
+    "following_url": "https://api.github.com/users/JoelLefkowitz/following{/other_user}",
+    "gists_url": "https://api.github.com/users/JoelLefkowitz/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/JoelLefkowitz",
+    "id": 45922542,
+    "login": "JoelLefkowitz",
+    "node_id": "MDQ6VXNlcjQ1OTIyNTQy",
+    "organizations_url": "https://api.github.com/users/JoelLefkowitz/orgs",
+    "received_events_url": "https://api.github.com/users/JoelLefkowitz/received_events",
+    "repos_url": "https://api.github.com/users/JoelLefkowitz/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/JoelLefkowitz/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/JoelLefkowitz/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/JoelLefkowitz",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/40fee2bd8be59bb1b112419fdb79cd9a09745306/comments",
+   "commit": {
+    "author": {
+     "date": "2026-01-08T11:37:28Z",
+     "email": "joellefkowitz@hotmail.com",
+     "name": "Joel Lefkowitz"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-01-08T11:37:28Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Add live demo domain and environment variables (#946)\n\n* Add apprunner to CSRF_TRUSTED_ORIGINS\n\n* Add pyproject.toml to dockerfile\n\n* Use src over pypi for demo package\n\n* Add CSRF_TRUSTED_ORIGINS and ALLOWED_HOSTS env vars\n\n* Remove public admin interface\n\n* Remove unused imports\n\n* Add DNS records for apprunner domain\n\n* Update readme demo site link",
+    "tree": {
+     "sha": "0315fff947bbff2e79c0df95b5a34e7c59007522",
+     "url": "https://api.github.com/repos/axnsan12/drf-yasg/git/trees/0315fff947bbff2e79c0df95b5a34e7c59007522"
+    },
+    "url": "https://api.github.com/repos/axnsan12/drf-yasg/git/commits/40fee2bd8be59bb1b112419fdb79cd9a09745306",
+    "verification": {
+     "payload": "tree 0315fff947bbff2e79c0df95b5a34e7c59007522\nparent 1785b84fe129382595790f390f2b983f62b45271\nauthor Joel Lefkowitz <joellefkowitz@hotmail.com> 1767872248 +0000\ncommitter GitHub <noreply@github.com> 1767872248 +0000\n\nAdd live demo domain and environment variables (#946)\n\n* Add apprunner to CSRF_TRUSTED_ORIGINS\n\n* Add pyproject.toml to dockerfile\n\n* Use src over pypi for demo package\n\n* Add CSRF_TRUSTED_ORIGINS and ALLOWED_HOSTS env vars\n\n* Remove public admin interface\n\n* Remove unused imports\n\n* Add DNS records for apprunner domain\n\n* Update readme demo site link",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJpX5b4CRC1aQ7uu5UhlAAAxw0QAHKaIzUyapQqHYCvksa5Y2Ut\nGw25bDZHT37tagxT+safiaD5w4A1MI6QV1KVotjMVKODNT54DJgNjNoJ2/n0RWUr\nzJiThqFkUYlKTICNO1EXYW3hyrx/OcHOl6cFNU9GOHgo/F6OxaS9g7cZDC8ow4pz\nszA3etpzl2CHztR59Bmi6SlaqBYjRUI2FghV5ZlIrapq/GotNIqIB/0vZE0gLzO8\n52zLWJN2AWG3owc49X8LbBl60WlxaH0lOaMJBCUc6aw+PUiAjiO9PQwfY/SmltsO\nPWTzuH5ZiQi7GQV5OW8vbCI/+NHDW4dAFFYoJsiYL216/EPJFRyfYe5KvKZDD/+V\nbssmFqScsvEE/qn18iogrCt5i66t8+OOJMYWQv3rkrSZ1HwdcSrdYUk7koJemAZV\nOwQ9VwWdTQOAgPeLLrypl8B/6YUsL0sjMOs/8++4eqaiI/w7n0m4ob7E/8xnO5vS\nf/QqbMvucZ+aMZXwZ/rzAUyQODP5vhtY7PctIJjMSzJyE15UYq125pOkrsRM2RHp\nytE1C7GcLFHTnxSA0BRZ1dCIbYdwdUliHfNzr7lFnjGd6CM/ePVUBDIKfllbGxIa\nn9uu6JjA/AsIrA0yIWk7ltpeRqGNn8zoqmgAT935rcHFKkzzPRwW7nOvRniwcUAz\nlHDlgpgkYIC6iLMFkzrt\n=ryWp\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-01-08T11:37:29Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/axnsan12/drf-yasg/commit/40fee2bd8be59bb1b112419fdb79cd9a09745306",
+   "node_id": "C_kwDOBrQGWNoAKDQwZmVlMmJkOGJlNTliYjFiMTEyNDE5ZmRiNzljZDlhMDk3NDUzMDY",
+   "parents": [
+    {
+     "html_url": "https://github.com/axnsan12/drf-yasg/commit/1785b84fe129382595790f390f2b983f62b45271",
+     "sha": "1785b84fe129382595790f390f2b983f62b45271",
+     "url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/1785b84fe129382595790f390f2b983f62b45271"
+    }
+   ],
+   "sha": "40fee2bd8be59bb1b112419fdb79cd9a09745306",
+   "url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/40fee2bd8be59bb1b112419fdb79cd9a09745306"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/84033?v=4",
+    "events_url": "https://api.github.com/users/m000/events{/privacy}",
+    "followers_url": "https://api.github.com/users/m000/followers",
+    "following_url": "https://api.github.com/users/m000/following{/other_user}",
+    "gists_url": "https://api.github.com/users/m000/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/m000",
+    "id": 84033,
+    "login": "m000",
+    "node_id": "MDQ6VXNlcjg0MDMz",
+    "organizations_url": "https://api.github.com/users/m000/orgs",
+    "received_events_url": "https://api.github.com/users/m000/received_events",
+    "repos_url": "https://api.github.com/users/m000/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/m000/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/m000/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/m000",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/1785b84fe129382595790f390f2b983f62b45271/comments",
+   "commit": {
+    "author": {
+     "date": "2025-12-26T00:22:42Z",
+     "email": "mstamat@gmail.com",
+     "name": "Manolis Stamatogiannakis"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2025-12-26T00:22:42Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Update logout button to use POST request. (#945)\n\nPresumably, most users use a LOGOUT_URL that maps to Django's LogoutView.\nHowever, using GET with LogoutView has been deprecated since Django 4.1.\nWe update the logout button to use POST instead.\n\nFixes #733.\n\nSee: https://docs.djangoproject.com/en/dev/releases/4.1/#log-out-via-get",
+    "tree": {
+     "sha": "d7771257b12609ee37c80e782878fac675a41782",
+     "url": "https://api.github.com/repos/axnsan12/drf-yasg/git/trees/d7771257b12609ee37c80e782878fac675a41782"
+    },
+    "url": "https://api.github.com/repos/axnsan12/drf-yasg/git/commits/1785b84fe129382595790f390f2b983f62b45271",
+    "verification": {
+     "payload": "tree d7771257b12609ee37c80e782878fac675a41782\nparent 0522cc1d9b12df97c2b01cb94ad1587933e8d52c\nauthor Manolis Stamatogiannakis <mstamat@gmail.com> 1766708562 +0200\ncommitter GitHub <noreply@github.com> 1766708562 +0000\n\nUpdate logout button to use POST request. (#945)\n\nPresumably, most users use a LOGOUT_URL that maps to Django's LogoutView.\nHowever, using GET with LogoutView has been deprecated since Django 4.1.\nWe update the logout button to use POST instead.\n\nFixes #733.\n\nSee: https://docs.djangoproject.com/en/dev/releases/4.1/#log-out-via-get",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJpTdVSCRC1aQ7uu5UhlAAA2dEQAFc/rv8/Eml4IzHTPPZpq/Vv\nCYQtO4R5ey0fbBZfYR4847n/bN2UU1hk44SVn/edgh7Sfpz33xV5Z0jwj2RHs0E+\nfMMNfV37crkILJ9SCOY+wkMqSUmAfPWcgg9OEK8i2Q8RoyZcNGIhU/iHfgNeLGf7\nA3SEZB3II5X8lT1vP7oORPvF9HDEYe1LRjJhKySVaIXfZRVh0e4eZKQV+Y/420cl\nMVK275c0UnusDaM9pO/AoS0z3NOeoVcfpe7QFk5Kj/IyUBQ8bzQH3AsxQSIcY5KX\nJ2oMkm8g7rm4YERAimA+BOxTbr/C9Strq5Ps1VJEZjs0Waj0CYXSmaITpZG7k+rm\nOy6jqpRYnEUQdvMXIiW/2lH6KlgU5AutRuTszXj/Ub+CkBtu02l1QkvcRmi/0tWW\nHoYyWuWQvzBeECfeAHIYIqPxkpcTQRLmFRd+alKFu6UZba58tPei4tQ7TgcbDUcR\n2ZDhSu2VOkHXELvZSpIl0uV9oIT35WWZ+yHDV1q9DVjYVQglBAk2o2/kHrDRbIn+\n/uDMnAjwdVbXb+398wUCyR1UXrL4J9D1djQH0+ec6CLmQJklklfAwuXc/ZJk81Yy\ntbxgIC5JKBOFQw8SB/g25Vojmz3ewnL812DOeIGmOQ4OWPtuQu+TWbHrv56Z9gBP\nvPeugrx2y7NZF2Of6P+f\n=CdP8\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2025-12-26T00:22:42Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/axnsan12/drf-yasg/commit/1785b84fe129382595790f390f2b983f62b45271",
+   "node_id": "C_kwDOBrQGWNoAKDE3ODViODRmZTEyOTM4MjU5NTc5MGYzOTBmMmI5ODNmNjJiNDUyNzE",
+   "parents": [
+    {
+     "html_url": "https://github.com/axnsan12/drf-yasg/commit/0522cc1d9b12df97c2b01cb94ad1587933e8d52c",
+     "sha": "0522cc1d9b12df97c2b01cb94ad1587933e8d52c",
+     "url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/0522cc1d9b12df97c2b01cb94ad1587933e8d52c"
+    }
+   ],
+   "sha": "1785b84fe129382595790f390f2b983f62b45271",
+   "url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/1785b84fe129382595790f390f2b983f62b45271"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/45922542?v=4",
+    "events_url": "https://api.github.com/users/JoelLefkowitz/events{/privacy}",
+    "followers_url": "https://api.github.com/users/JoelLefkowitz/followers",
+    "following_url": "https://api.github.com/users/JoelLefkowitz/following{/other_user}",
+    "gists_url": "https://api.github.com/users/JoelLefkowitz/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/JoelLefkowitz",
+    "id": 45922542,
+    "login": "JoelLefkowitz",
+    "node_id": "MDQ6VXNlcjQ1OTIyNTQy",
+    "organizations_url": "https://api.github.com/users/JoelLefkowitz/orgs",
+    "received_events_url": "https://api.github.com/users/JoelLefkowitz/received_events",
+    "repos_url": "https://api.github.com/users/JoelLefkowitz/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/JoelLefkowitz/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/JoelLefkowitz/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/JoelLefkowitz",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/0522cc1d9b12df97c2b01cb94ad1587933e8d52c/comments",
+   "commit": {
+    "author": {
+     "date": "2025-11-27T14:46:14Z",
+     "email": "joellefkowitz@hotmail.com",
+     "name": "Joel Lefkowitz"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2025-11-27T14:46:14Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Rename github actions files to .yaml (#942)\n\nCo-authored-by: Joel Lefkowitz <joel.lefkowitz@teya.com>",
+    "tree": {
+     "sha": "51df4b068ab890bb96583cdecd4ba1b0847325d4",
+     "url": "https://api.github.com/repos/axnsan12/drf-yasg/git/trees/51df4b068ab890bb96583cdecd4ba1b0847325d4"
+    },
+    "url": "https://api.github.com/repos/axnsan12/drf-yasg/git/commits/0522cc1d9b12df97c2b01cb94ad1587933e8d52c",
+    "verification": {
+     "payload": "tree 51df4b068ab890bb96583cdecd4ba1b0847325d4\nparent 3a381234c9a6986bbd44867632ff3cdc78ffe352\nauthor Joel Lefkowitz <joellefkowitz@hotmail.com> 1764254774 +0000\ncommitter GitHub <noreply@github.com> 1764254774 +0000\n\nRename github actions files to .yaml (#942)\n\nCo-authored-by: Joel Lefkowitz <joel.lefkowitz@teya.com>",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJpKGQ2CRC1aQ7uu5UhlAAASyUQAGRIfJnX5FB3bySfGyerX6fu\nyJUqRjf/tQQ0ObfeWbY03NO6ALXs5oSiQ+Wk0erBkC5yK05hhUMjdYZh+B38ED92\nciQ0mVTwDq7+WK+zwTmwXoGB5KpfPr5Y40IeasVhmAqJnYubmLDPcG/1etI1UfBv\nyAXcNN9mV6upy5/33omELODj1WJqw1Oh+MAW2KUeVZt6vEmY2N9YTTRuMjJwLvTA\nsmVRKTuOH5P6pDBx6XjldR13cMXht+HTtMuyoZd2lM479cFvhHv5iKu3IRKB0q60\napADa+aMCvQdLO/myFHh3pqx0+w1GazancfUYNgtP+rlI3Hb1xVJR5B4TOO7qybv\nzUvtrVW94HHfgRy34kG8xlt9IkJujtXl2A84CaruRh530CZxCD7DPlxV4fngsAdA\noOK4fI0eBEHaNGf0zA5JQ8KzZ70l29m809GoWvA77RqEE9VsOMPBNGH+oq2z2wci\nYQebpc3mtJQzRg+qu3yE8n+j0nDC9D3dJhbveKdOjnbuW8r5vD8BJ6eSSmSK9hOz\njXhfDvFuLoodeGPnbk3PPzEX3PH++WDd9Hmb1J6O1GcMrgJplPjc9T7FuXhYLEeI\nGES+LuLt3HbLNaPOAUdIWP0XJ+aNaGuJ8vtYB3B8gueHY2l8PvJhqgD12sV6ntS6\njWkP1xizL//Q5YQCh8Vz\n=Qhrb\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2025-11-27T14:46:15Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/axnsan12/drf-yasg/commit/0522cc1d9b12df97c2b01cb94ad1587933e8d52c",
+   "node_id": "C_kwDOBrQGWNoAKDA1MjJjYzFkOWIxMmRmOTdjMmIwMWNiOTRhZDE1ODc5MzNlOGQ1MmM",
+   "parents": [
+    {
+     "html_url": "https://github.com/axnsan12/drf-yasg/commit/3a381234c9a6986bbd44867632ff3cdc78ffe352",
+     "sha": "3a381234c9a6986bbd44867632ff3cdc78ffe352",
+     "url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/3a381234c9a6986bbd44867632ff3cdc78ffe352"
+    }
+   ],
+   "sha": "0522cc1d9b12df97c2b01cb94ad1587933e8d52c",
+   "url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/0522cc1d9b12df97c2b01cb94ad1587933e8d52c"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+    "events_url": "https://api.github.com/users/dependabot%5Bbot%5D/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dependabot%5Bbot%5D/followers",
+    "following_url": "https://api.github.com/users/dependabot%5Bbot%5D/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dependabot%5Bbot%5D/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/apps/dependabot",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "node_id": "MDM6Qm90NDk2OTkzMzM=",
+    "organizations_url": "https://api.github.com/users/dependabot%5Bbot%5D/orgs",
+    "received_events_url": "https://api.github.com/users/dependabot%5Bbot%5D/received_events",
+    "repos_url": "https://api.github.com/users/dependabot%5Bbot%5D/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dependabot%5Bbot%5D/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dependabot%5Bbot%5D/subscriptions",
+    "type": "Bot",
+    "url": "https://api.github.com/users/dependabot%5Bbot%5D",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/3a381234c9a6986bbd44867632ff3cdc78ffe352/comments",
+   "commit": {
+    "author": {
+     "date": "2025-11-24T10:03:45Z",
+     "email": "49699333+dependabot[bot]@users.noreply.github.com",
+     "name": "dependabot[bot]"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2025-11-24T10:03:45Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Bump actions/checkout from 5 to 6 in the github-actions group (#943)\n\nBumps the github-actions group with 1 update: [actions/checkout](https://github.com/actions/checkout).\n\n\nUpdates `actions/checkout` from 5 to 6\n- [Release notes](https://github.com/actions/checkout/releases)\n- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/actions/checkout/compare/v5...v6)\n\n---\nupdated-dependencies:\n- dependency-name: actions/checkout\n  dependency-version: '6'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n  dependency-group: github-actions\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
+    "tree": {
+     "sha": "18da5226d6cd2e0b140e35ecf454420891bd499d",
+     "url": "https://api.github.com/repos/axnsan12/drf-yasg/git/trees/18da5226d6cd2e0b140e35ecf454420891bd499d"
+    },
+    "url": "https://api.github.com/repos/axnsan12/drf-yasg/git/commits/3a381234c9a6986bbd44867632ff3cdc78ffe352",
+    "verification": {
+     "payload": "tree 18da5226d6cd2e0b140e35ecf454420891bd499d\nparent b252a0d8f8f87b9ef6417827ae631cf11a6262a1\nauthor dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 1763978625 +0000\ncommitter GitHub <noreply@github.com> 1763978625 +0000\n\nBump actions/checkout from 5 to 6 in the github-actions group (#943)\n\nBumps the github-actions group with 1 update: [actions/checkout](https://github.com/actions/checkout).\n\n\nUpdates `actions/checkout` from 5 to 6\n- [Release notes](https://github.com/actions/checkout/releases)\n- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/actions/checkout/compare/v5...v6)\n\n---\nupdated-dependencies:\n- dependency-name: actions/checkout\n  dependency-version: '6'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n  dependency-group: github-actions\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJpJC2BCRC1aQ7uu5UhlAAAOvAQAGM/lMLa2zRXhRsjq8+bLwPr\nITkfpQ5J2E/IIHJmdgFxHNC5HCuCiceJww00wikMnxKsGvhs7I+j4BAWiOMhqb0r\nGGilpT2xpzBgJZCaz8Xf0TASP0jT/QeNjpY717YXs2uPHUgp0WjppMsoxsH6AR/0\nczJ6T9uzxS+bIWdQU/bSHHP6psKA41sNZGmWS4muZZ+TtgaEtdMh/uYapBfpnQAc\noXqOj1lzR7caUcml7hg+AxcbywbwDc3nnKjqIVINGh9bUnp+EOcI7lspubYQ9cFB\nZXknJePSkatqrpjYIzInM77Z9AwqS3Bx7SZPDqv+AZSQloCPsqxzCpAGuF2QyWzx\nordoDoBpGSYgjIe4QDDXcjBpp7kDKOfNhtOYKdf4kOaPr2WpEUesnkg6E79RFXqw\nHZMB9Rez9r14htogyASyBhLKLHxWUQ9ydGaOPSX0gxodyXvMHR2wV8K/KlZzXMKu\ncUQaOPMBBqt5HGsThUrJ6A1q5i6C37J1YSZpUcS3VHx4QerXphHFVuKNv0TikeDp\nn0L4uQavEs7gTYTiiedR5LkwDOC3QGxlJwCuE/IsJCpnc6iI8Lvi1j9cN4PZatv5\nAOGHle9X4qN89TaU3r1fg6csCCfjAgD/B6VEFrqwEbrjaRux7trpyhsvIZMBf842\nbignhh2JSCiYs95zsfc2\n=LUPe\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2025-11-24T10:03:46Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/axnsan12/drf-yasg/commit/3a381234c9a6986bbd44867632ff3cdc78ffe352",
+   "node_id": "C_kwDOBrQGWNoAKDNhMzgxMjM0YzlhNjk4NmJiZDQ0ODY3NjMyZmYzY2RjNzhmZmUzNTI",
+   "parents": [
+    {
+     "html_url": "https://github.com/axnsan12/drf-yasg/commit/b252a0d8f8f87b9ef6417827ae631cf11a6262a1",
+     "sha": "b252a0d8f8f87b9ef6417827ae631cf11a6262a1",
+     "url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/b252a0d8f8f87b9ef6417827ae631cf11a6262a1"
+    }
+   ],
+   "sha": "3a381234c9a6986bbd44867632ff3cdc78ffe352",
+   "url": "https://api.github.com/repos/axnsan12/drf-yasg/commits/3a381234c9a6986bbd44867632ff3cdc78ffe352"
+  }
+ ],
+ "recorded_at": "2026-11-16T18:38:46Z",
+ "recorded_with": "deadledger 0.1.0",
+ "status": 200,
+ "url": "https://api.github.com/repos/axnsan12/drf-yasg/commits?since=<window>&per_page=100"
+}

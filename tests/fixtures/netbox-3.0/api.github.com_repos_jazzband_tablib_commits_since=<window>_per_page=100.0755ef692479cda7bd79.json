@@ -1,0 +1,2140 @@
+{
+ "body": [
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1610?v=4",
+    "events_url": "https://api.github.com/users/jezdez/events{/privacy}",
+    "followers_url": "https://api.github.com/users/jezdez/followers",
+    "following_url": "https://api.github.com/users/jezdez/following{/other_user}",
+    "gists_url": "https://api.github.com/users/jezdez/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/jezdez",
+    "id": 1610,
+    "login": "jezdez",
+    "node_id": "MDQ6VXNlcjE2MTA=",
+    "organizations_url": "https://api.github.com/users/jezdez/orgs",
+    "received_events_url": "https://api.github.com/users/jezdez/received_events",
+    "repos_url": "https://api.github.com/users/jezdez/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/jezdez/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/jezdez/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/jezdez",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/tablib/commits/b6a75dcbe01cc42b3fd45ae5005901e2639fa7a7/comments",
+   "commit": {
+    "author": {
+     "date": "2026-11-02T13:50:43Z",
+     "email": "jannis@leidel.info",
+     "name": "Jannis Leidel"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-11-02T13:50:43Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "ci: require approval for Jazzband uploads (#718)\n\nSeparate credential-free package builds from approval-gated Jazzband uploads.",
+    "tree": {
+     "sha": "edb00d8dcea031f3b70216ecb5bd58b5e9a4d649",
+     "url": "https://api.github.com/repos/jazzband/tablib/git/trees/edb00d8dcea031f3b70216ecb5bd58b5e9a4d649"
+    },
+    "url": "https://api.github.com/repos/jazzband/tablib/git/commits/b6a75dcbe01cc42b3fd45ae5005901e2639fa7a7",
+    "verification": {
+     "payload": "tree edb00d8dcea031f3b70216ecb5bd58b5e9a4d649\nparent 3402cb4b68bfdaa31b2728efbb8958cf4cff1b03\nauthor Jannis Leidel <jannis@leidel.info> 1793627443 +0100\ncommitter GitHub <noreply@github.com> 1793627443 +0100\n\nci: require approval for Jazzband uploads (#718)\n\nSeparate credential-free package builds from approval-gated Jazzband uploads.",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJq6JUzCRC1aQ7uu5UhlAAAccoQAGxzQ36SVXWjj7d1zkP+sIBX\ntPuKJETgZWlMzPVGyMp+tFwVEvLmgP8NgSN0HcOqbk23zQxNkFrJvmA4TdaSBHJn\nI52GxkQZDLCdYY70Cx6Kt14sVsU2Nw2sK31x2hXTaZYU8/+hWtE7/MKEdtyDJZn1\ncRrnTzFjT/bONRHkUA8KhBQO/dDMftyYFZmeBNFpFXZSot20KRnCr1ObCbOlLoO6\nmsneyQfxETw8lGpWGCK3lOymNBfiJaauft6ihX94qDuikKqCtn20CQ6mFQ3KlGvO\nbgVvfRQaSJX/rX8zWysC14dndzfgysgO1yhcHi0V1aBCbU0DLpevRjaa65YcMO3I\nitYoKKBWy3gb/VjwAYfNGLSYUTOAHmSE7sJmARP40P/Db9GX75Ii2l4GgHSF3CaT\nm8tIsZ+nrbvPZNAAVyog7j9/spCSTQeKuIuO6PWz/6+tJ01HjjXLTvir8ieXKDxw\n4kR5a5bQdVyA4aiKEDyiozuacnYtC0Foq1b2TRxVINgZsK9xVv1G8cPu4zCCe206\nzlGKTNQ1wLU6FsH9+M5LwRmXAoQ1Y8vAHMLz2IWSQcSd2j8nNpF04IqLMH+cfCn9\nwilGoeKOtE4iX5jUjDQ8wjjxktCY9tDDXWuM1tzPHPMeIBZ12djQiYy2l5HObJzY\nFNLNcxj66h+IBEwhcdpq\n=PZw+\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-11-02T13:50:44Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/tablib/commit/b6a75dcbe01cc42b3fd45ae5005901e2639fa7a7",
+   "node_id": "C_kwDOABdsIdoAKGI2YTc1ZGNiZTAxY2M0MmIzZmQ0NWFlNTAwNTkwMWUyNjM5ZmE3YTc",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/tablib/commit/3402cb4b68bfdaa31b2728efbb8958cf4cff1b03",
+     "sha": "3402cb4b68bfdaa31b2728efbb8958cf4cff1b03",
+     "url": "https://api.github.com/repos/jazzband/tablib/commits/3402cb4b68bfdaa31b2728efbb8958cf4cff1b03"
+    }
+   ],
+   "sha": "b6a75dcbe01cc42b3fd45ae5005901e2639fa7a7",
+   "url": "https://api.github.com/repos/jazzband/tablib/commits/b6a75dcbe01cc42b3fd45ae5005901e2639fa7a7"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1324225?v=4",
+    "events_url": "https://api.github.com/users/hugovk/events{/privacy}",
+    "followers_url": "https://api.github.com/users/hugovk/followers",
+    "following_url": "https://api.github.com/users/hugovk/following{/other_user}",
+    "gists_url": "https://api.github.com/users/hugovk/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/hugovk",
+    "id": 1324225,
+    "login": "hugovk",
+    "node_id": "MDQ6VXNlcjEzMjQyMjU=",
+    "organizations_url": "https://api.github.com/users/hugovk/orgs",
+    "received_events_url": "https://api.github.com/users/hugovk/received_events",
+    "repos_url": "https://api.github.com/users/hugovk/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/hugovk/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/hugovk/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/hugovk",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/tablib/commits/3402cb4b68bfdaa31b2728efbb8958cf4cff1b03/comments",
+   "commit": {
+    "author": {
+     "date": "2026-10-29T11:11:11Z",
+     "email": "1324225+hugovk@users.noreply.github.com",
+     "name": "Hugo van Kemenade"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-10-29T11:11:11Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Drop support for EOL Python 3.10 (#698)",
+    "tree": {
+     "sha": "fa7e255e1d9cc4f2ed52da4b65e61faa6d4269b6",
+     "url": "https://api.github.com/repos/jazzband/tablib/git/trees/fa7e255e1d9cc4f2ed52da4b65e61faa6d4269b6"
+    },
+    "url": "https://api.github.com/repos/jazzband/tablib/git/commits/3402cb4b68bfdaa31b2728efbb8958cf4cff1b03",
+    "verification": {
+     "payload": "tree fa7e255e1d9cc4f2ed52da4b65e61faa6d4269b6\nparent 781334bd960d08c77c425f76a9d02654c7ae2162\nauthor Hugo van Kemenade <1324225+hugovk@users.noreply.github.com> 1793272271 +0200\ncommitter GitHub <noreply@github.com> 1793272271 +0200\n\nDrop support for EOL Python 3.10 (#698)",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJq4ynPCRC1aQ7uu5UhlAAAZzsQAEG0oAV0i8McIi/qpCxgRJ8O\nu8NtAQF2SOD0uTCPZxv4QdM5DEHr0Vt5cchH5x2kzNp0GI/fFdlAHEYaXQOgEpKQ\n2WcmB0HbMqwjsD0jtC1ADEyKBeydL4jNTexxcA7aaWVsh3sMhnT0PMOBhTT0mEko\n6j/f0kTRo0UGtmKsld1UdZd3I+xj4f0/SH7A+5R/ubAtpyHKubPO7KUP9p+SU4Al\nppq4I4QlJVCh1h3B2g6pJUnYHZGehsEmE/gYWQb29bfO3uGAZTkK8+lom1TUuHnb\nIgdl/JSn48c4GwW3pMYeXuMHe/SqPvtW/ysgdDmyhloHjubWPNiFUQpLM4WWG108\n7sIRRhF0XS1tJ/ApogesKIAV3LD1N2rhOtVug+9S47SaR1h8XVp7coDKnt4ffvwo\n7AU6l0XqNs8qnIWVg7yCWLDtarqEF9EZHaHoQ5JKVoW63tXfyM9xEd+nxYAKdX/+\nyUzUkanCCSdz2p0qhSG7j1UUGLYdX57swFD0HYk4VjRlGY1a/GUry+8kL+Ahw/kR\n7eAnwc/mqkfmqyqC5AlgTFjDmDBjoPKfnrWYwm3g9n2QHcQXRWzSqRmS15YWWhsi\n9Wnzac+1F3s60IkghcnZoKneL+t2vquSdWkOoo/0kMnk8RZ6t0QfTTETYFXyzWco\naNw2ExW0/lMs1Ypz8QqO\n=D8z2\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-10-29T11:11:11Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/tablib/commit/3402cb4b68bfdaa31b2728efbb8958cf4cff1b03",
+   "node_id": "C_kwDOABdsIdoAKDM0MDJjYjRiNjhiZmRhYTMxYjI3MjhlZmJiODk1OGNmNGNmZjFiMDM",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/tablib/commit/781334bd960d08c77c425f76a9d02654c7ae2162",
+     "sha": "781334bd960d08c77c425f76a9d02654c7ae2162",
+     "url": "https://api.github.com/repos/jazzband/tablib/commits/781334bd960d08c77c425f76a9d02654c7ae2162"
+    }
+   ],
+   "sha": "3402cb4b68bfdaa31b2728efbb8958cf4cff1b03",
+   "url": "https://api.github.com/repos/jazzband/tablib/commits/3402cb4b68bfdaa31b2728efbb8958cf4cff1b03"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/95985610?v=4",
+    "events_url": "https://api.github.com/users/ub3dqy/events{/privacy}",
+    "followers_url": "https://api.github.com/users/ub3dqy/followers",
+    "following_url": "https://api.github.com/users/ub3dqy/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ub3dqy/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/ub3dqy",
+    "id": 95985610,
+    "login": "ub3dqy",
+    "node_id": "U_kgDOBbifyg",
+    "organizations_url": "https://api.github.com/users/ub3dqy/orgs",
+    "received_events_url": "https://api.github.com/users/ub3dqy/received_events",
+    "repos_url": "https://api.github.com/users/ub3dqy/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/ub3dqy/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ub3dqy/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/ub3dqy",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/tablib/commits/781334bd960d08c77c425f76a9d02654c7ae2162/comments",
+   "commit": {
+    "author": {
+     "date": "2026-10-29T10:50:04Z",
+     "email": "95985610+ub3dqy@users.noreply.github.com",
+     "name": "ub3dqy"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-10-29T10:50:04Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Register built-in formats on first use while preserving lazy imports (#715)",
+    "tree": {
+     "sha": "4bec88aac6e5dbfd2a387a816006a58aff6e0ca9",
+     "url": "https://api.github.com/repos/jazzband/tablib/git/trees/4bec88aac6e5dbfd2a387a816006a58aff6e0ca9"
+    },
+    "url": "https://api.github.com/repos/jazzband/tablib/git/commits/781334bd960d08c77c425f76a9d02654c7ae2162",
+    "verification": {
+     "payload": "tree 4bec88aac6e5dbfd2a387a816006a58aff6e0ca9\nparent ff74eeb27e334e8d61dd4e5d1fcd900eb7031eab\nauthor ub3dqy <95985610+ub3dqy@users.noreply.github.com> 1793271004 +0300\ncommitter GitHub <noreply@github.com> 1793271004 +0200\n\nRegister built-in formats on first use while preserving lazy imports (#715)",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJq4yTcCRC1aQ7uu5UhlAAARBQQAG6tQtQmGo69ytlbQTn5xXfO\n04tKvzY4Uo1j9phj5x1qF3MDa9nZPdJG824nnK1SJqcz0Fw8ut1kw+p/pYwZTMFq\nZFqmw9NwDa8KgR3larIJeN2ccTzqR9zDYbS/2KNtsaYyiQczvGFOniqm/CWIgSJr\neaN7sUKnwdy+spbo0DMvgZXA3ylxx4NEUkhn4Yhky1IeXAeEB7WK7A9B4OajWbSf\nzrazYTvx+jWNcDdBwgLDJqX1V29c5rEp9Do/jUOrzEHeI2EPQMZXNxmVv87zeevj\nX4fedgTHUJWcxqnyEwb9jlhxWvHV8RLgxlQ2tPqm8HShH2wQMPv5jZWiDz8bglFS\nDmJKlrHRHg5mOIScH3x+lkQXsTvbPiBHsfYbSOkJOJ/lNS8wgqaBFKvXtnhiDOv2\nYkU5n1FdVQduP/2Z+eU0T1CUeMU0E6nh76wor1xHeu+HLmVhZAs8QtFIBhtFMCdP\n6ukZ/jcwMxB9D5bGEIP9TS2valBQK3PNqQ5wALaxUm+B0eyw9ZBcPawi1Pe6K7wR\nIrocysdh8KHW0+VBy85kTjCxnWyGfD7D0EVJuiRY+UHaUjmTFuMGManL4TLM0Hol\nW8N5ejA2U/ZEC8JsOrODMM+o9ZQ+nvfR9Ywt8itFG+lhih/ktR8j0dN6TZNs0oUM\n1uIamvaZC+3BYkUASnAt\n=t7Q1\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-10-29T10:50:05Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/tablib/commit/781334bd960d08c77c425f76a9d02654c7ae2162",
+   "node_id": "C_kwDOABdsIdoAKDc4MTMzNGJkOTYwZDA4Yzc3YzQyNWY3NmE5ZDAyNjU0YzdhZTIxNjI",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/tablib/commit/ff74eeb27e334e8d61dd4e5d1fcd900eb7031eab",
+     "sha": "ff74eeb27e334e8d61dd4e5d1fcd900eb7031eab",
+     "url": "https://api.github.com/repos/jazzband/tablib/commits/ff74eeb27e334e8d61dd4e5d1fcd900eb7031eab"
+    }
+   ],
+   "sha": "781334bd960d08c77c425f76a9d02654c7ae2162",
+   "url": "https://api.github.com/repos/jazzband/tablib/commits/781334bd960d08c77c425f76a9d02654c7ae2162"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/9289498?v=4",
+    "events_url": "https://api.github.com/users/sarathfrancis90/events{/privacy}",
+    "followers_url": "https://api.github.com/users/sarathfrancis90/followers",
+    "following_url": "https://api.github.com/users/sarathfrancis90/following{/other_user}",
+    "gists_url": "https://api.github.com/users/sarathfrancis90/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/sarathfrancis90",
+    "id": 9289498,
+    "login": "sarathfrancis90",
+    "node_id": "MDQ6VXNlcjkyODk0OTg=",
+    "organizations_url": "https://api.github.com/users/sarathfrancis90/orgs",
+    "received_events_url": "https://api.github.com/users/sarathfrancis90/received_events",
+    "repos_url": "https://api.github.com/users/sarathfrancis90/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/sarathfrancis90/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/sarathfrancis90/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/sarathfrancis90",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/tablib/commits/ff74eeb27e334e8d61dd4e5d1fcd900eb7031eab/comments",
+   "commit": {
+    "author": {
+     "date": "2026-10-29T10:33:34Z",
+     "email": "sarathfrancis90@gmail.com",
+     "name": "Sarath Francis"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-10-29T10:33:34Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Fix `ValueError` exporting an rst table with an all-empty column and no headers (#664)",
+    "tree": {
+     "sha": "26296db9cc6027138b3e4a78d2b7d21991a555da",
+     "url": "https://api.github.com/repos/jazzband/tablib/git/trees/26296db9cc6027138b3e4a78d2b7d21991a555da"
+    },
+    "url": "https://api.github.com/repos/jazzband/tablib/git/commits/ff74eeb27e334e8d61dd4e5d1fcd900eb7031eab",
+    "verification": {
+     "payload": "tree 26296db9cc6027138b3e4a78d2b7d21991a555da\nparent eb9834961269529500aab2c6cbaa2ac7dd87b023\nauthor Sarath Francis <sarathfrancis90@gmail.com> 1793270014 -0400\ncommitter GitHub <noreply@github.com> 1793270014 +0200\n\nFix `ValueError` exporting an rst table with an all-empty column and no headers (#664)",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJq4yD+CRC1aQ7uu5UhlAAAhLsQABOEaGG47M2Nti2uH6h3C0a7\noBTp/TJo4iHZ3OWG/OiyQH6qNU6SDXiZVplIxFT+XOhD0adZClnhzzgT9KmaaaQ6\n/n+y+qKuBvzYEJY3ON9lEyYQT729wx/oDeLGfw11KXv5kXrNLzPkRtsORYlK7rD1\nVa4AQQGLT1E33cui9EoX65P6Nivo6B87y4aqWPH5GRByECI8GRkYQScfe/l8GS1L\np+Vzf87ZUojeR5ewFAYoQclHwtGTi4kMGaVTxXrBVZkM+oUYzLPCHql6RpG9QoAR\no4wAuiEDjbQoJFJiuI18ZkTeyF96eZfry8axP+nAjbo2sdMThZCUqK1fsbFCn251\nQDq8CY9grEDd8yBOLn+pgTS3Vfgyk3e9+K54AuNGyAnT/OflK9HZkCnmzZY6quWv\n4avCNx+A6aODjGxpPG+CaM7i9nrMg55EVeu//h4GZ0xZeoFdfhj2o5ieFYN3GxpG\n0B7d4ohkwRKIz2dpRY+uv9+lGLLHL178ksKQFu51t0p+mSYHfE25wX6wTCiZr1VX\n9CLylxcQ4vRO/C1p4Ev0bpQMxeEpyKl1PbhLlIHQZ6TVWNNOOZ6m99+UbMstwHDh\nKkh7jv9zNEXhuC8mkTZSQTqBoYnkMEwqoijVYTFEuJgK1u5eLlCkAHpoDxWgiBFb\nTg7a78aQry09q/PcSQHu\n=NyKJ\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-10-29T10:33:35Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/tablib/commit/ff74eeb27e334e8d61dd4e5d1fcd900eb7031eab",
+   "node_id": "C_kwDOABdsIdoAKGZmNzRlZWIyN2UzMzRlOGQ2MWRkNGU1ZDFmY2Q5MDBlYjcwMzFlYWI",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/tablib/commit/eb9834961269529500aab2c6cbaa2ac7dd87b023",
+     "sha": "eb9834961269529500aab2c6cbaa2ac7dd87b023",
+     "url": "https://api.github.com/repos/jazzband/tablib/commits/eb9834961269529500aab2c6cbaa2ac7dd87b023"
+    }
+   ],
+   "sha": "ff74eeb27e334e8d61dd4e5d1fcd900eb7031eab",
+   "url": "https://api.github.com/repos/jazzband/tablib/commits/ff74eeb27e334e8d61dd4e5d1fcd900eb7031eab"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/175210364?v=4",
+    "events_url": "https://api.github.com/users/MohammedAlkindi/events{/privacy}",
+    "followers_url": "https://api.github.com/users/MohammedAlkindi/followers",
+    "following_url": "https://api.github.com/users/MohammedAlkindi/following{/other_user}",
+    "gists_url": "https://api.github.com/users/MohammedAlkindi/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/MohammedAlkindi",
+    "id": 175210364,
+    "login": "MohammedAlkindi",
+    "node_id": "U_kgDOCnF_fA",
+    "organizations_url": "https://api.github.com/users/MohammedAlkindi/orgs",
+    "received_events_url": "https://api.github.com/users/MohammedAlkindi/received_events",
+    "repos_url": "https://api.github.com/users/MohammedAlkindi/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/MohammedAlkindi/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/MohammedAlkindi/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/MohammedAlkindi",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/tablib/commits/eb9834961269529500aab2c6cbaa2ac7dd87b023/comments",
+   "commit": {
+    "author": {
+     "date": "2026-10-29T10:28:16Z",
+     "email": "alkndymhmd692@gmail.com",
+     "name": "Mohammed Alkindi"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-10-29T10:28:16Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Fix timezone-dependent getDate timestamp test (#675)\n\nCo-authored-by: Hugo van Kemenade <1324225+hugovk@users.noreply.github.com>",
+    "tree": {
+     "sha": "091253695f87516ab978085e40a11e8592ed37aa",
+     "url": "https://api.github.com/repos/jazzband/tablib/git/trees/091253695f87516ab978085e40a11e8592ed37aa"
+    },
+    "url": "https://api.github.com/repos/jazzband/tablib/git/commits/eb9834961269529500aab2c6cbaa2ac7dd87b023",
+    "verification": {
+     "payload": "tree 091253695f87516ab978085e40a11e8592ed37aa\nparent bbdb781282a3dbcf1d83da88d8a829c3c4961671\nauthor Mohammed Alkindi <alkndymhmd692@gmail.com> 1793269696 -0700\ncommitter GitHub <noreply@github.com> 1793269696 +0200\n\nFix timezone-dependent getDate timestamp test (#675)\n\nCo-authored-by: Hugo van Kemenade <1324225+hugovk@users.noreply.github.com>",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJq4x/ACRC1aQ7uu5UhlAAAZf4QACMU4hmoUI3zml6iu6Bao+AZ\n2ypqWNdvbF9AKj710vHINnG+2F3EZTdm9iuazRm7rLN2l4dn/u+S7CZ0M6dpVDSl\n2YQDGHK0TMyeP4Q5K6t5yFpirdPwp7IEyu9ILqiD6d4GRkqCLp5/2M4HvQoGl4Vc\nZZNJIoBU6b3Ef0qyNqVs3yP+47F/Ca8wtU4SZ6N9xMchyNBvofKq45q61tHhZPc0\nEo6IWmSLoL+JOnV07lmOvwonsfqASCv1a3y5QRNebMM07t4OZJt3pCWlV24CuO0R\nUvrkJ7SblNK0bERDav8SMEWDhhWmL1pRWO8yzJnBldUv9+RtEpPp08yiAe8aIgHg\nqAU403+m3xdG1aeP7OnsRHPf+LqI0b+jsjH4BeJtGb8rFNDJ2QCUNPFI71ym/cfE\nHaRjV0iQfrvb/a8s5nG7QfqHPX8bb8/9uBZjJaL6ulzYZA+gFfCOmPH/KAW0eJSH\n4Mzld63PD4D4Q53Es9va5LSaFoKKb3TyhD0Znu7cFaLYMKJH3QHfpsvJGhSImoMc\ni10s6x+BeDBXkZHAYOP5o+fXWyWMmLe4nsRqUSTvjFW3+p5BohjKhDNLzUMSzs/z\nBW1ifLko5mUTVwXouluJ3QgbrdYVbJFcJ2+lRPMwxKOQlhtabkLFvUSUc/RsUxnC\n8vOjY8/GVEWAzY6YdWIT\n=fWPZ\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-10-29T10:28:16Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/tablib/commit/eb9834961269529500aab2c6cbaa2ac7dd87b023",
+   "node_id": "C_kwDOABdsIdoAKGViOTgzNDk2MTI2OTUyOTUwMGFhYjJjNmNiYWEyYWM3ZGQ4N2IwMjM",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/tablib/commit/bbdb781282a3dbcf1d83da88d8a829c3c4961671",
+     "sha": "bbdb781282a3dbcf1d83da88d8a829c3c4961671",
+     "url": "https://api.github.com/repos/jazzband/tablib/commits/bbdb781282a3dbcf1d83da88d8a829c3c4961671"
+    }
+   ],
+   "sha": "eb9834961269529500aab2c6cbaa2ac7dd87b023",
+   "url": "https://api.github.com/repos/jazzband/tablib/commits/eb9834961269529500aab2c6cbaa2ac7dd87b023"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/175210364?v=4",
+    "events_url": "https://api.github.com/users/MohammedAlkindi/events{/privacy}",
+    "followers_url": "https://api.github.com/users/MohammedAlkindi/followers",
+    "following_url": "https://api.github.com/users/MohammedAlkindi/following{/other_user}",
+    "gists_url": "https://api.github.com/users/MohammedAlkindi/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/MohammedAlkindi",
+    "id": 175210364,
+    "login": "MohammedAlkindi",
+    "node_id": "U_kgDOCnF_fA",
+    "organizations_url": "https://api.github.com/users/MohammedAlkindi/orgs",
+    "received_events_url": "https://api.github.com/users/MohammedAlkindi/received_events",
+    "repos_url": "https://api.github.com/users/MohammedAlkindi/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/MohammedAlkindi/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/MohammedAlkindi/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/MohammedAlkindi",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/tablib/commits/bbdb781282a3dbcf1d83da88d8a829c3c4961671/comments",
+   "commit": {
+    "author": {
+     "date": "2026-10-29T10:25:14Z",
+     "email": "alkndymhmd692@gmail.com",
+     "name": "Mohammed Alkindi"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-10-29T10:25:14Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Declare dbf, not csv, as the DBF format's file extension (#677)",
+    "tree": {
+     "sha": "031049df931b7336f472e8716377b40d96757f83",
+     "url": "https://api.github.com/repos/jazzband/tablib/git/trees/031049df931b7336f472e8716377b40d96757f83"
+    },
+    "url": "https://api.github.com/repos/jazzband/tablib/git/commits/bbdb781282a3dbcf1d83da88d8a829c3c4961671",
+    "verification": {
+     "payload": "tree 031049df931b7336f472e8716377b40d96757f83\nparent 966876c76a6378557c1951badc1665b4d1375875\nauthor Mohammed Alkindi <alkndymhmd692@gmail.com> 1793269514 -0700\ncommitter GitHub <noreply@github.com> 1793269514 +0200\n\nDeclare dbf, not csv, as the DBF format's file extension (#677)",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJq4x8KCRC1aQ7uu5UhlAAAmJMQAICECF+ePjzIImbvTOXKB4eb\ni352wEj5xLhVjO35UKrC0eP2OQ5HjQJkEq2wAIBymircF0h1dbVwcLacr/VCX8wZ\nuygv4gboZJUY/XFScJjFUMir1D7NmSojJzKa/Ww6Mpob5jVF0RidCd4n8Gj+oOoh\nqvfkkoz/giDGjyjFYAownVRV87ZC94wdznoYgvZPs+LjW8DYqcMaqxIKn4WEWfVx\nZ5WL0t64swsplpC3JTJXmEexhUbtc7rKp+kOMrd0YoeLf/tQav9HNwBoxUWOPX7j\nJXHV4YAKFfE7Npvmj+8hWcXE3E2l7xx5ANKKCdWAOEft+7s7kgKD5wuSVd2wIoKt\nMX0b4p/8x1vfUciCejibdGGmE93JlhQ6sOjrmO7/KRzBT48Kvgenk5QpAQMDmX4T\n9ic4q+rNTI7T3IAIL0c5ce5TLuQ2x6jkkGUWUY0ACPrfFzRjiM5nkQD2uN8aefOf\nxa5eVDGPOlckIR7Q4brWdPZcuL+FYnGSencqt0hXqUapZe4peFPR17kbBxIKt+VG\n3NANHUHyNQAsiOJ4yigczKSYD1oIoAo47i0oo1Re7TcsdeixJchl/ZB5qa1C8M2h\n9GY9AlcXjuRv7akGRiyUptuFmI+OjkJzw/FgatOyPBiInrSNyU264A6GX0JJGY8r\n4h1uIqbOXjImSLPs2F5d\n=gmJb\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-10-29T10:25:15Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/tablib/commit/bbdb781282a3dbcf1d83da88d8a829c3c4961671",
+   "node_id": "C_kwDOABdsIdoAKGJiZGI3ODEyODJhM2RiY2YxZDgzZGE4OGQ4YTgyOWMzYzQ5NjE2NzE",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/tablib/commit/966876c76a6378557c1951badc1665b4d1375875",
+     "sha": "966876c76a6378557c1951badc1665b4d1375875",
+     "url": "https://api.github.com/repos/jazzband/tablib/commits/966876c76a6378557c1951badc1665b4d1375875"
+    }
+   ],
+   "sha": "bbdb781282a3dbcf1d83da88d8a829c3c4961671",
+   "url": "https://api.github.com/repos/jazzband/tablib/commits/bbdb781282a3dbcf1d83da88d8a829c3c4961671"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/in/68672?v=4",
+    "events_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/events{/privacy}",
+    "followers_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/followers",
+    "following_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/following{/other_user}",
+    "gists_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/apps/pre-commit-ci",
+    "id": 66853113,
+    "login": "pre-commit-ci[bot]",
+    "node_id": "MDM6Qm90NjY4NTMxMTM=",
+    "organizations_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/orgs",
+    "received_events_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/received_events",
+    "repos_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/subscriptions",
+    "type": "Bot",
+    "url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/tablib/commits/966876c76a6378557c1951badc1665b4d1375875/comments",
+   "commit": {
+    "author": {
+     "date": "2026-10-06T13:43:39Z",
+     "email": "66853113+pre-commit-ci[bot]@users.noreply.github.com",
+     "name": "pre-commit-ci[bot]"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-10-06T13:43:39Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "[pre-commit.ci] pre-commit autoupdate (#697)\n\nCo-authored-by: Hugo van Kemenade <1324225+hugovk@users.noreply.github.com>",
+    "tree": {
+     "sha": "97efc6b1c8948d2464494296746689a46a96b26d",
+     "url": "https://api.github.com/repos/jazzband/tablib/git/trees/97efc6b1c8948d2464494296746689a46a96b26d"
+    },
+    "url": "https://api.github.com/repos/jazzband/tablib/git/commits/966876c76a6378557c1951badc1665b4d1375875",
+    "verification": {
+     "payload": "tree 97efc6b1c8948d2464494296746689a46a96b26d\nparent a36c9654742d0cf07675a79df10581b3e1344555\nauthor pre-commit-ci[bot] <66853113+pre-commit-ci[bot]@users.noreply.github.com> 1791294219 +0300\ncommitter GitHub <noreply@github.com> 1791294219 +0300\n\n[pre-commit.ci] pre-commit autoupdate (#697)\n\nCo-authored-by: Hugo van Kemenade <1324225+hugovk@users.noreply.github.com>",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqxPsLCRC1aQ7uu5UhlAAA4cQQADWC21wcyjZCxivb3wleoxGb\n55DP1y7cngP6KhrGgF30fTTsJZztMVRI2Ri4xzDd2oCZvNMzq4v47Xu3OzIGtzbP\nXyleNkTr6mn+3a3O2cdDOhR0/qIxrVyM+oG8C7v4g8K0WT3RO84DDWV3jnkICdZG\nxIERD9PFKtgkzS44sdcrvXZ8Hv0wAMtdUju9Iw/Q3mbSoxkDILtNFTYtZ5hHv7/4\n6xYJxcmm33BrskjMn1x6R3Pd1z4SaUXj9VEFCG39G+xF1mwn4j1jfVf2MkMmoniI\nYMQ0PJuhpuwa8DkTh9RBsH+7i0zV2EQNjGNza5IMSnbjdqrHBJsh8JT1PY3fAtKC\nbyT3f51QDlQFjWdk5CSVd0A8WkzXl0mUiYXpGFSa2JJOFh+DyZwkpmiDGWaYNDxd\nxgNV2Sx0iLxdsWVCbtP1m3Px7oLiBMkb7ak6nROhpsagrCJAIcqYmtb2083ZNObK\n5PJhe9fGVr7NfNNh1lBxDFR8viBn/oPooIbqmEAwN+8f9QX+B7oCp/m22L7uXgy8\nuWOwLQXgHyqBaz9F6y1pqjkivFlxKDGw3yAmw5MVEE6MbXGLQpPIQiIjwfL3MsdN\nyd1D/FpnB+KEUtTgBqcQ4USY6wdHLEyeNqBaXX6N9/1+r6JMzokDdiWjrynCyZae\nq3mveZU/yH1iG8GGbdfZ\n=FCZd\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-10-06T13:43:40Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/tablib/commit/966876c76a6378557c1951badc1665b4d1375875",
+   "node_id": "C_kwDOABdsIdoAKDk2Njg3NmM3NmE2Mzc4NTU3YzE5NTFiYWRjMTY2NWI0ZDEzNzU4NzU",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/tablib/commit/a36c9654742d0cf07675a79df10581b3e1344555",
+     "sha": "a36c9654742d0cf07675a79df10581b3e1344555",
+     "url": "https://api.github.com/repos/jazzband/tablib/commits/a36c9654742d0cf07675a79df10581b3e1344555"
+    }
+   ],
+   "sha": "966876c76a6378557c1951badc1665b4d1375875",
+   "url": "https://api.github.com/repos/jazzband/tablib/commits/966876c76a6378557c1951badc1665b4d1375875"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1324225?v=4",
+    "events_url": "https://api.github.com/users/hugovk/events{/privacy}",
+    "followers_url": "https://api.github.com/users/hugovk/followers",
+    "following_url": "https://api.github.com/users/hugovk/following{/other_user}",
+    "gists_url": "https://api.github.com/users/hugovk/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/hugovk",
+    "id": 1324225,
+    "login": "hugovk",
+    "node_id": "MDQ6VXNlcjEzMjQyMjU=",
+    "organizations_url": "https://api.github.com/users/hugovk/orgs",
+    "received_events_url": "https://api.github.com/users/hugovk/received_events",
+    "repos_url": "https://api.github.com/users/hugovk/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/hugovk/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/hugovk/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/hugovk",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/tablib/commits/a36c9654742d0cf07675a79df10581b3e1344555/comments",
+   "commit": {
+    "author": {
+     "date": "2026-09-11T11:42:11Z",
+     "email": "1324225+hugovk@users.noreply.github.com",
+     "name": "Hugo van Kemenade"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-09-11T11:42:11Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Hash pin GitHub Actions (#640)",
+    "tree": {
+     "sha": "47f2360c5a9a443d5f410c66e01a283f6d3ab867",
+     "url": "https://api.github.com/repos/jazzband/tablib/git/trees/47f2360c5a9a443d5f410c66e01a283f6d3ab867"
+    },
+    "url": "https://api.github.com/repos/jazzband/tablib/git/commits/a36c9654742d0cf07675a79df10581b3e1344555",
+    "verification": {
+     "payload": "tree 47f2360c5a9a443d5f410c66e01a283f6d3ab867\nparent c8ff4e17ed798325a88b6bc3c87530be02a4970f\nauthor Hugo van Kemenade <1324225+hugovk@users.noreply.github.com> 1789126931 +0300\ncommitter GitHub <noreply@github.com> 1789126931 +0300\n\nHash pin GitHub Actions (#640)",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqo+kTCRC1aQ7uu5UhlAAAEE8QAJ0l5+bZMppBxXvXac+bdVAh\nX9AQ0yE09oK7f3PwFHWnlnSU+1p16Uicaps0fl/0B3qxnib3RrCsDg98iDwCBtF+\n3MMClpySQQjT+vpNMAc65i7AWkRcAmIFQwYyYccmge/gEIfp40vj3K94wHPWQn48\nVSysguKrpxDUwa32FySPKuwlwHoOLDbaBLeKBtprUlwDhIxGH3Uih+vRd0MHQC8z\nT2NQJRqG3GMx14G+ADKfymhACMUdyLBzfqp+5ThIrswnZb6ZpZgKbM04+QjU78WG\nxFUhqzCWbVhKtN807rQk39X+wbIQtT3eefGnPLjLQKOO5exKmoSg6Xfd+FxqboPq\nya4AhfyYVksIqYbfWY3cVKFJAAAtAiXSgUqeOxkkklO7XGh4qb0maWDlLKOHHSev\nKELJ/l+Z5OSBfFijGyJ01GX0h/RF4KZzWJcjZ/DKGE+M1cX/NzcrJPwaBXxEvHb6\nZT2Fwccnruh2IFHXiu1rDGFjEGjz35EWgIiO+/5aEAu5Mq+DnixrpV2AXPlkCKS7\n+YULhjLKOisH6F/C432iJQK9RdoC0rh+T7P28n52cCxL86SIV2eN9Vjru/B2q36V\nbHVr6cixLKGC3ylH5G9LJfh9iarDRJNu7ch0plC6C8j6SNBAIDN1a7C6Kd1ZvWYL\nhTmCotdhtqU9OLnGRQ4/\n=Xjsi\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-09-11T11:42:12Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/tablib/commit/a36c9654742d0cf07675a79df10581b3e1344555",
+   "node_id": "C_kwDOABdsIdoAKGEzNmM5NjU0NzQyZDBjZjA3Njc1YTc5ZGYxMDU4MWIzZTEzNDQ1NTU",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/tablib/commit/c8ff4e17ed798325a88b6bc3c87530be02a4970f",
+     "sha": "c8ff4e17ed798325a88b6bc3c87530be02a4970f",
+     "url": "https://api.github.com/repos/jazzband/tablib/commits/c8ff4e17ed798325a88b6bc3c87530be02a4970f"
+    }
+   ],
+   "sha": "a36c9654742d0cf07675a79df10581b3e1344555",
+   "url": "https://api.github.com/repos/jazzband/tablib/commits/a36c9654742d0cf07675a79df10581b3e1344555"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1324225?v=4",
+    "events_url": "https://api.github.com/users/hugovk/events{/privacy}",
+    "followers_url": "https://api.github.com/users/hugovk/followers",
+    "following_url": "https://api.github.com/users/hugovk/following{/other_user}",
+    "gists_url": "https://api.github.com/users/hugovk/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/hugovk",
+    "id": 1324225,
+    "login": "hugovk",
+    "node_id": "MDQ6VXNlcjEzMjQyMjU=",
+    "organizations_url": "https://api.github.com/users/hugovk/orgs",
+    "received_events_url": "https://api.github.com/users/hugovk/received_events",
+    "repos_url": "https://api.github.com/users/hugovk/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/hugovk/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/hugovk/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/hugovk",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/tablib/commits/c8ff4e17ed798325a88b6bc3c87530be02a4970f/comments",
+   "commit": {
+    "author": {
+     "date": "2026-07-31T17:27:26Z",
+     "email": "1324225+hugovk@users.noreply.github.com",
+     "name": "Hugo van Kemenade"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-07-31T18:49:56Z",
+     "email": "claude@2xlibre.net",
+     "name": "Claude Paroz"
+    },
+    "message": "List security fixes first in release notes",
+    "tree": {
+     "sha": "0212e7f2044da55350af094209488eff8cfad929",
+     "url": "https://api.github.com/repos/jazzband/tablib/git/trees/0212e7f2044da55350af094209488eff8cfad929"
+    },
+    "url": "https://api.github.com/repos/jazzband/tablib/git/commits/c8ff4e17ed798325a88b6bc3c87530be02a4970f",
+    "verification": {
+     "payload": null,
+     "reason": "unsigned",
+     "signature": null,
+     "verified": false,
+     "verified_at": null
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/143192?v=4",
+    "events_url": "https://api.github.com/users/claudep/events{/privacy}",
+    "followers_url": "https://api.github.com/users/claudep/followers",
+    "following_url": "https://api.github.com/users/claudep/following{/other_user}",
+    "gists_url": "https://api.github.com/users/claudep/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/claudep",
+    "id": 143192,
+    "login": "claudep",
+    "node_id": "MDQ6VXNlcjE0MzE5Mg==",
+    "organizations_url": "https://api.github.com/users/claudep/orgs",
+    "received_events_url": "https://api.github.com/users/claudep/received_events",
+    "repos_url": "https://api.github.com/users/claudep/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/claudep/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/claudep/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/claudep",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/tablib/commit/c8ff4e17ed798325a88b6bc3c87530be02a4970f",
+   "node_id": "C_kwDOABdsIdoAKGM4ZmY0ZTE3ZWQ3OTgzMjVhODhiNmJjM2M4NzUzMGJlMDJhNDk3MGY",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/tablib/commit/1ba91da25fedaad0890dbaa91af565db708b7b2b",
+     "sha": "1ba91da25fedaad0890dbaa91af565db708b7b2b",
+     "url": "https://api.github.com/repos/jazzband/tablib/commits/1ba91da25fedaad0890dbaa91af565db708b7b2b"
+    }
+   ],
+   "sha": "c8ff4e17ed798325a88b6bc3c87530be02a4970f",
+   "url": "https://api.github.com/repos/jazzband/tablib/commits/c8ff4e17ed798325a88b6bc3c87530be02a4970f"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1324225?v=4",
+    "events_url": "https://api.github.com/users/hugovk/events{/privacy}",
+    "followers_url": "https://api.github.com/users/hugovk/followers",
+    "following_url": "https://api.github.com/users/hugovk/following{/other_user}",
+    "gists_url": "https://api.github.com/users/hugovk/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/hugovk",
+    "id": 1324225,
+    "login": "hugovk",
+    "node_id": "MDQ6VXNlcjEzMjQyMjU=",
+    "organizations_url": "https://api.github.com/users/hugovk/orgs",
+    "received_events_url": "https://api.github.com/users/hugovk/received_events",
+    "repos_url": "https://api.github.com/users/hugovk/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/hugovk/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/hugovk/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/hugovk",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/tablib/commits/1ba91da25fedaad0890dbaa91af565db708b7b2b/comments",
+   "commit": {
+    "author": {
+     "date": "2026-07-31T17:00:43Z",
+     "email": "1324225+hugovk@users.noreply.github.com",
+     "name": "Hugo van Kemenade"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-07-31T18:49:56Z",
+     "email": "claude@2xlibre.net",
+     "name": "Claude Paroz"
+    },
+    "message": "Fix link",
+    "tree": {
+     "sha": "bd983056d84b2d2daf29a5fdb7b9c1c8ae935e4c",
+     "url": "https://api.github.com/repos/jazzband/tablib/git/trees/bd983056d84b2d2daf29a5fdb7b9c1c8ae935e4c"
+    },
+    "url": "https://api.github.com/repos/jazzband/tablib/git/commits/1ba91da25fedaad0890dbaa91af565db708b7b2b",
+    "verification": {
+     "payload": null,
+     "reason": "unsigned",
+     "signature": null,
+     "verified": false,
+     "verified_at": null
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/143192?v=4",
+    "events_url": "https://api.github.com/users/claudep/events{/privacy}",
+    "followers_url": "https://api.github.com/users/claudep/followers",
+    "following_url": "https://api.github.com/users/claudep/following{/other_user}",
+    "gists_url": "https://api.github.com/users/claudep/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/claudep",
+    "id": 143192,
+    "login": "claudep",
+    "node_id": "MDQ6VXNlcjE0MzE5Mg==",
+    "organizations_url": "https://api.github.com/users/claudep/orgs",
+    "received_events_url": "https://api.github.com/users/claudep/received_events",
+    "repos_url": "https://api.github.com/users/claudep/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/claudep/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/claudep/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/claudep",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/tablib/commit/1ba91da25fedaad0890dbaa91af565db708b7b2b",
+   "node_id": "C_kwDOABdsIdoAKDFiYTkxZGEyNWZlZGFhZDA4OTBkYmFhOTFhZjU2NWRiNzA4YjdiMmI",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/tablib/commit/b0ff39fb9b2f457e5332249b4cc2ec11eabf46ee",
+     "sha": "b0ff39fb9b2f457e5332249b4cc2ec11eabf46ee",
+     "url": "https://api.github.com/repos/jazzband/tablib/commits/b0ff39fb9b2f457e5332249b4cc2ec11eabf46ee"
+    }
+   ],
+   "sha": "1ba91da25fedaad0890dbaa91af565db708b7b2b",
+   "url": "https://api.github.com/repos/jazzband/tablib/commits/1ba91da25fedaad0890dbaa91af565db708b7b2b"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/143192?v=4",
+    "events_url": "https://api.github.com/users/claudep/events{/privacy}",
+    "followers_url": "https://api.github.com/users/claudep/followers",
+    "following_url": "https://api.github.com/users/claudep/following{/other_user}",
+    "gists_url": "https://api.github.com/users/claudep/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/claudep",
+    "id": 143192,
+    "login": "claudep",
+    "node_id": "MDQ6VXNlcjE0MzE5Mg==",
+    "organizations_url": "https://api.github.com/users/claudep/orgs",
+    "received_events_url": "https://api.github.com/users/claudep/received_events",
+    "repos_url": "https://api.github.com/users/claudep/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/claudep/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/claudep/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/claudep",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/tablib/commits/b0ff39fb9b2f457e5332249b4cc2ec11eabf46ee/comments",
+   "commit": {
+    "author": {
+     "date": "2026-07-31T17:02:57Z",
+     "email": "claude@2xlibre.net",
+     "name": "Claude Paroz"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-07-31T17:02:57Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Escaped dataset title in HTML serialization (#668)",
+    "tree": {
+     "sha": "99b25e669b7b570566b97a2faf926550961cef95",
+     "url": "https://api.github.com/repos/jazzband/tablib/git/trees/99b25e669b7b570566b97a2faf926550961cef95"
+    },
+    "url": "https://api.github.com/repos/jazzband/tablib/git/commits/b0ff39fb9b2f457e5332249b4cc2ec11eabf46ee",
+    "verification": {
+     "payload": "tree 99b25e669b7b570566b97a2faf926550961cef95\nparent ed7cd8fc33480ec6727346deb14e28f465a3d1a5\nauthor Claude Paroz <claude@2xlibre.net> 1785517377 +0200\ncommitter GitHub <noreply@github.com> 1785517377 +0300\n\nEscaped dataset title in HTML serialization (#668)",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqbNVBCRC1aQ7uu5UhlAAAezYQAEJN8gBn8+bdZhqNofSgyyk8\nOAUucMVYTbcJiTSpir2dGpPXXtzm2O6QVHqZbj7zP8+tTreRohxf7bOLfVTIcqlL\nYrfhj60Eut75QjMMgM+1JiEYFE3OEbEsRxJG2X9AkyMOD5CvONcVyocgdN4E3F16\nk6pOkHUaQq61FhDn3YZA2QabTiNHN+8/bTlgG/yBsLUwrbIu8Z2JyUEWHF6KEMyt\n1atK5lhtAJWdFbTirQRdaOyr1EzX0BlGbr9whUIueXROdGwuZxxnoFGjlAnSTyf2\ntmxWaCMfX7udrK33KTd5XdB+NHe5RziCQ28U72Bgl+UJsqPMspl+dRuCcyPBNfRI\nvsRHOUKf3MrLdKWk8cKcRJf9AE7/Fjx5B/f0UbP3E0ZM/aGOZEU748JOUbqWWoLp\npG70Py12WJ+k0BMiRdMaZGruMfkHFHyhzOSmtmL1Ftlv4RABbYBYvFiBeRVasjWu\nesEOb26EU4YHzcnHnCkXDeJgfxGs0BdhU7qlAut9VMLMz8RKkbudWYW0NFJjvnRa\n8l3C7GFLtZ6aBNkPLOEK2ObdAOAitT1R4Z2vy3AI53O/1vQD18zAEnD+s7eLuo7W\nr+smnt4UMid/rXHeHgW2w7OVvazyK/UtwBC2f+uDyYr4SQpciSp/RD0pQl3/XB0j\nhhrT4GY4HFBlBSAQQnBP\n=lAF3\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-07-31T17:02:57Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/tablib/commit/b0ff39fb9b2f457e5332249b4cc2ec11eabf46ee",
+   "node_id": "C_kwDOABdsIdoAKGIwZmYzOWZiOWIyZjQ1N2U1MzMyMjQ5YjRjYzJlYzExZWFiZjQ2ZWU",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/tablib/commit/ed7cd8fc33480ec6727346deb14e28f465a3d1a5",
+     "sha": "ed7cd8fc33480ec6727346deb14e28f465a3d1a5",
+     "url": "https://api.github.com/repos/jazzband/tablib/commits/ed7cd8fc33480ec6727346deb14e28f465a3d1a5"
+    }
+   ],
+   "sha": "b0ff39fb9b2f457e5332249b4cc2ec11eabf46ee",
+   "url": "https://api.github.com/repos/jazzband/tablib/commits/b0ff39fb9b2f457e5332249b4cc2ec11eabf46ee"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1324225?v=4",
+    "events_url": "https://api.github.com/users/hugovk/events{/privacy}",
+    "followers_url": "https://api.github.com/users/hugovk/followers",
+    "following_url": "https://api.github.com/users/hugovk/following{/other_user}",
+    "gists_url": "https://api.github.com/users/hugovk/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/hugovk",
+    "id": 1324225,
+    "login": "hugovk",
+    "node_id": "MDQ6VXNlcjEzMjQyMjU=",
+    "organizations_url": "https://api.github.com/users/hugovk/orgs",
+    "received_events_url": "https://api.github.com/users/hugovk/received_events",
+    "repos_url": "https://api.github.com/users/hugovk/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/hugovk/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/hugovk/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/hugovk",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/tablib/commits/ed7cd8fc33480ec6727346deb14e28f465a3d1a5/comments",
+   "commit": {
+    "author": {
+     "date": "2026-07-31T16:57:28Z",
+     "email": "1324225+hugovk@users.noreply.github.com",
+     "name": "Hugo van Kemenade"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-07-31T16:57:28Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Add support for Python 3.15 (#667)",
+    "tree": {
+     "sha": "e4ebc1efcfcf72cdf59db100f3ff9e8d85d8ce73",
+     "url": "https://api.github.com/repos/jazzband/tablib/git/trees/e4ebc1efcfcf72cdf59db100f3ff9e8d85d8ce73"
+    },
+    "url": "https://api.github.com/repos/jazzband/tablib/git/commits/ed7cd8fc33480ec6727346deb14e28f465a3d1a5",
+    "verification": {
+     "payload": "tree e4ebc1efcfcf72cdf59db100f3ff9e8d85d8ce73\nparent 27dffd521869b10bbabcb56b219ccf1c5cb8fa21\nauthor Hugo van Kemenade <1324225+hugovk@users.noreply.github.com> 1785517048 +0300\ncommitter GitHub <noreply@github.com> 1785517048 +0300\n\nAdd support for Python 3.15 (#667)",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqbNP4CRC1aQ7uu5UhlAAATTEQAG/MY9y+UxUyE2nJZcykHA61\ndYNFVVxEuVgqlPQbxocBSUQ7M2WegiW53dyrscTSPHRJibThPFhfVxId9P3y8bV2\n4Q20eef/lzPpcQDgZzN4z7eFxxO37mRDIoa+mNHW3tZFzwRdjR0q89coGwyAfRaI\n7+Yy67fAxf5wrdGWcAZDgycQi0CkZqSJ0Yu0Sssvl4+93VBWENNc+PhDTgcesp2g\n+1599/9jXBVamYArwDdhGekFBKcSOpxriUtgg2NV6glbIK8hrOPZI67BikbCWmPJ\nBCOSDkqC3ATib1ryqKiD9lIIfECyUGrULeysL4/m9idtjKuit+yiAdIqo3qITgS/\nrbc+oNJXMheEzvT+/IAMIGWFxO8nVpSb08NGswXzKzLk2PINswFApm8acaMj+mel\nNy6La/quf3I9cFG6VX2B3HU30evZ2ePhbM47q+xTXeaRUwmcvI6k5G7U32mwF5li\nrVYtEgDl19IwarQblbOv+M6s4hq3wNFJV3Pkel4eu6t2nNQrFVqlfSwNpxEqZi//\nSc/9bnC6z6QN4W0jhPh8Q5/pshSXORT9w4OPGymg2UPtYhkmSIaQU5Ryn8qRzEHl\nvZp2CG1gvLRiI2G+ETuCwYUkHDZzcELP8YTbGGPcrr67OSAUBoQDIHtGSvODBtV5\nB7OkQ4EEA+2hzAvdA4Rh\n=Nppc\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-07-31T16:57:29Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/tablib/commit/ed7cd8fc33480ec6727346deb14e28f465a3d1a5",
+   "node_id": "C_kwDOABdsIdoAKGVkN2NkOGZjMzM0ODBlYzY3MjczNDZkZWIxNGUyOGY0NjVhM2QxYTU",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/tablib/commit/27dffd521869b10bbabcb56b219ccf1c5cb8fa21",
+     "sha": "27dffd521869b10bbabcb56b219ccf1c5cb8fa21",
+     "url": "https://api.github.com/repos/jazzband/tablib/commits/27dffd521869b10bbabcb56b219ccf1c5cb8fa21"
+    }
+   ],
+   "sha": "ed7cd8fc33480ec6727346deb14e28f465a3d1a5",
+   "url": "https://api.github.com/repos/jazzband/tablib/commits/ed7cd8fc33480ec6727346deb14e28f465a3d1a5"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/42468190?v=4",
+    "events_url": "https://api.github.com/users/vineethsaivs/events{/privacy}",
+    "followers_url": "https://api.github.com/users/vineethsaivs/followers",
+    "following_url": "https://api.github.com/users/vineethsaivs/following{/other_user}",
+    "gists_url": "https://api.github.com/users/vineethsaivs/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/vineethsaivs",
+    "id": 42468190,
+    "login": "vineethsaivs",
+    "node_id": "MDQ6VXNlcjQyNDY4MTkw",
+    "organizations_url": "https://api.github.com/users/vineethsaivs/orgs",
+    "received_events_url": "https://api.github.com/users/vineethsaivs/received_events",
+    "repos_url": "https://api.github.com/users/vineethsaivs/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/vineethsaivs/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/vineethsaivs/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/vineethsaivs",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/tablib/commits/27dffd521869b10bbabcb56b219ccf1c5cb8fa21/comments",
+   "commit": {
+    "author": {
+     "date": "2026-07-20T21:05:24Z",
+     "email": "vineethsai4444@gmail.com",
+     "name": "Vineeth Sai"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-07-25T20:15:37Z",
+     "email": "claude@2xlibre.net",
+     "name": "Claude Paroz"
+    },
+    "message": "Convert XLS cell values when importing a Databook\n\nXLSFormat.import_book re-implemented the row loop with raw sheet.row_values(),\nso the same file loaded as a Databook returned Excel date serials and raw error\ncodes where a Dataset returned datetime objects and strings like #N/A.\n\nExtract an import_sheet classmethod, mirroring the XLSX and ODS formats, and\ncall it from both import_set and import_book so the two paths cannot drift\nagain. The cell conversion moves into a read_cell classmethod, matching the ODS\nformat, with the workbook datemode passed in explicitly.",
+    "tree": {
+     "sha": "e24b378159112c8b87c2fd3bcc872d5eeb21c6f7",
+     "url": "https://api.github.com/repos/jazzband/tablib/git/trees/e24b378159112c8b87c2fd3bcc872d5eeb21c6f7"
+    },
+    "url": "https://api.github.com/repos/jazzband/tablib/git/commits/27dffd521869b10bbabcb56b219ccf1c5cb8fa21",
+    "verification": {
+     "payload": null,
+     "reason": "unsigned",
+     "signature": null,
+     "verified": false,
+     "verified_at": null
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/143192?v=4",
+    "events_url": "https://api.github.com/users/claudep/events{/privacy}",
+    "followers_url": "https://api.github.com/users/claudep/followers",
+    "following_url": "https://api.github.com/users/claudep/following{/other_user}",
+    "gists_url": "https://api.github.com/users/claudep/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/claudep",
+    "id": 143192,
+    "login": "claudep",
+    "node_id": "MDQ6VXNlcjE0MzE5Mg==",
+    "organizations_url": "https://api.github.com/users/claudep/orgs",
+    "received_events_url": "https://api.github.com/users/claudep/received_events",
+    "repos_url": "https://api.github.com/users/claudep/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/claudep/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/claudep/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/claudep",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/tablib/commit/27dffd521869b10bbabcb56b219ccf1c5cb8fa21",
+   "node_id": "C_kwDOABdsIdoAKDI3ZGZmZDUyMTg2OWIxMGJiYWJjYjU2YjIxOWNjZjFjNWNiOGZhMjE",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/tablib/commit/234f434a56cab7540230888112808f6b89fbf7a0",
+     "sha": "234f434a56cab7540230888112808f6b89fbf7a0",
+     "url": "https://api.github.com/repos/jazzband/tablib/commits/234f434a56cab7540230888112808f6b89fbf7a0"
+    }
+   ],
+   "sha": "27dffd521869b10bbabcb56b219ccf1c5cb8fa21",
+   "url": "https://api.github.com/repos/jazzband/tablib/commits/27dffd521869b10bbabcb56b219ccf1c5cb8fa21"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/42468190?v=4",
+    "events_url": "https://api.github.com/users/vineethsaivs/events{/privacy}",
+    "followers_url": "https://api.github.com/users/vineethsaivs/followers",
+    "following_url": "https://api.github.com/users/vineethsaivs/following{/other_user}",
+    "gists_url": "https://api.github.com/users/vineethsaivs/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/vineethsaivs",
+    "id": 42468190,
+    "login": "vineethsaivs",
+    "node_id": "MDQ6VXNlcjQyNDY4MTkw",
+    "organizations_url": "https://api.github.com/users/vineethsaivs/orgs",
+    "received_events_url": "https://api.github.com/users/vineethsaivs/received_events",
+    "repos_url": "https://api.github.com/users/vineethsaivs/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/vineethsaivs/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/vineethsaivs/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/vineethsaivs",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/tablib/commits/234f434a56cab7540230888112808f6b89fbf7a0/comments",
+   "commit": {
+    "author": {
+     "date": "2026-07-05T23:42:08Z",
+     "email": "vineethsai4444@gmail.com",
+     "name": "Vineeth Sai"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-07-16T06:06:26Z",
+     "email": "claude@2xlibre.net",
+     "name": "Claude Paroz"
+    },
+    "message": "Fix TypeError when stacking two headerless Datasets with stack_cols\n\nDataset.stack_cols() explicitly permits two headerless datasets: the\nheader guard only raises HeadersNeeded when exactly one side has headers,\nand the header concatenation catches None + None to set new_headers=None.\nBut it then did 'for column in self.headers', which iterates None and\nraised 'TypeError: NoneType object is not iterable', so column-level\nstacking crashed on inputs that row-level stack() handles fine.\n\nWhen neither dataset has headers, iterate columns by index with get_col()\ninstead of by header name. The headered path is unchanged.",
+    "tree": {
+     "sha": "73ca79c4c0427d4096f43ffb0cbe2c8d145cb596",
+     "url": "https://api.github.com/repos/jazzband/tablib/git/trees/73ca79c4c0427d4096f43ffb0cbe2c8d145cb596"
+    },
+    "url": "https://api.github.com/repos/jazzband/tablib/git/commits/234f434a56cab7540230888112808f6b89fbf7a0",
+    "verification": {
+     "payload": null,
+     "reason": "unsigned",
+     "signature": null,
+     "verified": false,
+     "verified_at": null
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/143192?v=4",
+    "events_url": "https://api.github.com/users/claudep/events{/privacy}",
+    "followers_url": "https://api.github.com/users/claudep/followers",
+    "following_url": "https://api.github.com/users/claudep/following{/other_user}",
+    "gists_url": "https://api.github.com/users/claudep/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/claudep",
+    "id": 143192,
+    "login": "claudep",
+    "node_id": "MDQ6VXNlcjE0MzE5Mg==",
+    "organizations_url": "https://api.github.com/users/claudep/orgs",
+    "received_events_url": "https://api.github.com/users/claudep/received_events",
+    "repos_url": "https://api.github.com/users/claudep/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/claudep/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/claudep/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/claudep",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/tablib/commit/234f434a56cab7540230888112808f6b89fbf7a0",
+   "node_id": "C_kwDOABdsIdoAKDIzNGY0MzRhNTZjYWI3NTQwMjMwODg4MTEyODA4ZjZiODlmYmY3YTA",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/tablib/commit/163f5e112781dd11c90cadc6dab99b5132274814",
+     "sha": "163f5e112781dd11c90cadc6dab99b5132274814",
+     "url": "https://api.github.com/repos/jazzband/tablib/commits/163f5e112781dd11c90cadc6dab99b5132274814"
+    }
+   ],
+   "sha": "234f434a56cab7540230888112808f6b89fbf7a0",
+   "url": "https://api.github.com/repos/jazzband/tablib/commits/234f434a56cab7540230888112808f6b89fbf7a0"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/42468190?v=4",
+    "events_url": "https://api.github.com/users/vineethsaivs/events{/privacy}",
+    "followers_url": "https://api.github.com/users/vineethsaivs/followers",
+    "following_url": "https://api.github.com/users/vineethsaivs/following{/other_user}",
+    "gists_url": "https://api.github.com/users/vineethsaivs/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/vineethsaivs",
+    "id": 42468190,
+    "login": "vineethsaivs",
+    "node_id": "MDQ6VXNlcjQyNDY4MTkw",
+    "organizations_url": "https://api.github.com/users/vineethsaivs/orgs",
+    "received_events_url": "https://api.github.com/users/vineethsaivs/received_events",
+    "repos_url": "https://api.github.com/users/vineethsaivs/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/vineethsaivs/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/vineethsaivs/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/vineethsaivs",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/tablib/commits/163f5e112781dd11c90cadc6dab99b5132274814/comments",
+   "commit": {
+    "author": {
+     "date": "2026-07-15T20:23:17Z",
+     "email": "vineethsai4444@gmail.com",
+     "name": "Vineeth Sai"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-07-15T20:23:17Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Fix ODS export of boolean values crashing on re-import\n\nIn Python bool is a subclass of int, so a True/False cell matched the\nnumbers. Number branch in ODSFormat.dset_sheet and was written with\nvaluetype=\"float\" and value=True. odfpy serializes that as the string\n\"True\", and on import read_cell runs float(\"True\") for a float cell,\nraising ValueError. read_cell already has a boolean value-type reader\nthat the export side never exercised.\n\nEmit booleans with valuetype=\"boolean\" and the matching booleanvalue so\nthey round-trip back as Python bool.",
+    "tree": {
+     "sha": "e0f119b01773f171553cde41e095b126bf459aef",
+     "url": "https://api.github.com/repos/jazzband/tablib/git/trees/e0f119b01773f171553cde41e095b126bf459aef"
+    },
+    "url": "https://api.github.com/repos/jazzband/tablib/git/commits/163f5e112781dd11c90cadc6dab99b5132274814",
+    "verification": {
+     "payload": "tree e0f119b01773f171553cde41e095b126bf459aef\nparent 9f312920549ac0dbbdcc5c3a93c75ffd2e146242\nauthor Vineeth Sai <vineethsai4444@gmail.com> 1784146997 -0700\ncommitter GitHub <noreply@github.com> 1784146997 +0200\n\nFix ODS export of boolean values crashing on re-import\n\nIn Python bool is a subclass of int, so a True/False cell matched the\nnumbers. Number branch in ODSFormat.dset_sheet and was written with\nvaluetype=\"float\" and value=True. odfpy serializes that as the string\n\"True\", and on import read_cell runs float(\"True\") for a float cell,\nraising ValueError. read_cell already has a boolean value-type reader\nthat the export side never exercised.\n\nEmit booleans with valuetype=\"boolean\" and the matching booleanvalue so\nthey round-trip back as Python bool.",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqV+w1CRC1aQ7uu5UhlAAA62UQALFdLqDd8w7KWok9jOhFFuFM\nlOyZ5Zr7T4pw5mXGo2sLszAH1AObNu2WPkDDop5RzNrevXAANZG0w5kFyFXyNapl\ncEvycmyAFT98YfL+Nwt8i2Q8eztkoPwoLAI4gxk7M3uBM8AOeKTHBneXz/oc4QCG\n/HLajLes1llC19y+I7rPVuj7K68OBYPqOvNmda/yukvx/lsq1rVtX/plpdPeUEQ7\ng0DU1Z88OuZ7jmxtp2CVoPXgLgZpOdyYcNdOzlMFAItgMzTPInfkfDStbtF6iDdi\nMzaLAziYA5rqNVAOkTCOV1C0a2WVIE4tX28EPKYY2DZ+O3VIswyvU6qlLr1cGf0v\nrIjzlqOCkozlEmCdBnOFipSAJD7fD4D5T7+KPzPqKaHFnBrr+L9DkuPAiIVF/kP8\nebnX+xuqcQleFHm+9O3QGHStvPTs9LR1a9BLw0YTADPGdZKtJ0Q86rcoSAq8sxSp\n1TI0T1krDNpOfMcm78dMzFHPTJ2XLntttuT/mhWtYXxDD/CxqpORNDhsY5rdLoNn\nnQg+tp4rgUvFobnirhU9Rtr0rgxzB5cy8mjejs4+r0h7KoUdv1EHEhwq1Rn2ha8m\n5yjj3QdFuAvZnKNb+AXIfb/TX7hW3AK31t9CeO04AXIX8toIhRIK4/MMmjzZzz65\nPIuVPQUUPn34W502vE9Q\n=c/ql\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-07-15T20:23:18Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/tablib/commit/163f5e112781dd11c90cadc6dab99b5132274814",
+   "node_id": "C_kwDOABdsIdoAKDE2M2Y1ZTExMjc4MWRkMTFjOTBjYWRjNmRhYjk5YjUxMzIyNzQ4MTQ",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/tablib/commit/9f312920549ac0dbbdcc5c3a93c75ffd2e146242",
+     "sha": "9f312920549ac0dbbdcc5c3a93c75ffd2e146242",
+     "url": "https://api.github.com/repos/jazzband/tablib/commits/9f312920549ac0dbbdcc5c3a93c75ffd2e146242"
+    }
+   ],
+   "sha": "163f5e112781dd11c90cadc6dab99b5132274814",
+   "url": "https://api.github.com/repos/jazzband/tablib/commits/163f5e112781dd11c90cadc6dab99b5132274814"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/219086731?v=4",
+    "events_url": "https://api.github.com/users/vidigoat/events{/privacy}",
+    "followers_url": "https://api.github.com/users/vidigoat/followers",
+    "following_url": "https://api.github.com/users/vidigoat/following{/other_user}",
+    "gists_url": "https://api.github.com/users/vidigoat/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/vidigoat",
+    "id": 219086731,
+    "login": "vidigoat",
+    "node_id": "U_kgDODQ7_iw",
+    "organizations_url": "https://api.github.com/users/vidigoat/orgs",
+    "received_events_url": "https://api.github.com/users/vidigoat/received_events",
+    "repos_url": "https://api.github.com/users/vidigoat/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/vidigoat/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/vidigoat/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/vidigoat",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/tablib/commits/9f312920549ac0dbbdcc5c3a93c75ffd2e146242/comments",
+   "commit": {
+    "author": {
+     "date": "2026-07-15T12:55:27Z",
+     "email": "vidit.patankar16@gmail.com",
+     "name": "Vidit Patankar"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-07-15T13:12:39Z",
+     "email": "claude@2xlibre.net",
+     "name": "Claude Paroz"
+    },
+    "message": "Only strip the leading '=' when escaping XLSX formulae\n\nWhen escape=True, formula cells had every '=' removed via\ncell.value.replace('=', ''), but the option is documented to strip only\nthe leading '='. A comparison formula like =A1=B1 was corrupted to A1B1\ninstead of A1=B1. Removing just the leading '=' already disables the\nformula, so stripping inner '=' is unnecessary data loss.\n\nReplace the replace('=', '') with cell.value[1:] (the leading '=' is\nguaranteed by the startswith('=') guard) and add a regression test.",
+    "tree": {
+     "sha": "fc12415552789b179a700e3bdae38e2d36825abe",
+     "url": "https://api.github.com/repos/jazzband/tablib/git/trees/fc12415552789b179a700e3bdae38e2d36825abe"
+    },
+    "url": "https://api.github.com/repos/jazzband/tablib/git/commits/9f312920549ac0dbbdcc5c3a93c75ffd2e146242",
+    "verification": {
+     "payload": null,
+     "reason": "unsigned",
+     "signature": null,
+     "verified": false,
+     "verified_at": null
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/143192?v=4",
+    "events_url": "https://api.github.com/users/claudep/events{/privacy}",
+    "followers_url": "https://api.github.com/users/claudep/followers",
+    "following_url": "https://api.github.com/users/claudep/following{/other_user}",
+    "gists_url": "https://api.github.com/users/claudep/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/claudep",
+    "id": 143192,
+    "login": "claudep",
+    "node_id": "MDQ6VXNlcjE0MzE5Mg==",
+    "organizations_url": "https://api.github.com/users/claudep/orgs",
+    "received_events_url": "https://api.github.com/users/claudep/received_events",
+    "repos_url": "https://api.github.com/users/claudep/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/claudep/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/claudep/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/claudep",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/tablib/commit/9f312920549ac0dbbdcc5c3a93c75ffd2e146242",
+   "node_id": "C_kwDOABdsIdoAKDlmMzEyOTIwNTQ5YWMwZGJiZGNjNWMzYTkzYzc1ZmZkMmUxNDYyNDI",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/tablib/commit/e7fdb929985d7b00ba916b55307ffcb7c8e982b8",
+     "sha": "e7fdb929985d7b00ba916b55307ffcb7c8e982b8",
+     "url": "https://api.github.com/repos/jazzband/tablib/commits/e7fdb929985d7b00ba916b55307ffcb7c8e982b8"
+    }
+   ],
+   "sha": "9f312920549ac0dbbdcc5c3a93c75ffd2e146242",
+   "url": "https://api.github.com/repos/jazzband/tablib/commits/9f312920549ac0dbbdcc5c3a93c75ffd2e146242"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/196373335?v=4",
+    "events_url": "https://api.github.com/users/koteshyelamati/events{/privacy}",
+    "followers_url": "https://api.github.com/users/koteshyelamati/followers",
+    "following_url": "https://api.github.com/users/koteshyelamati/following{/other_user}",
+    "gists_url": "https://api.github.com/users/koteshyelamati/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/koteshyelamati",
+    "id": 196373335,
+    "login": "koteshyelamati",
+    "node_id": "U_kgDOC7RrVw",
+    "organizations_url": "https://api.github.com/users/koteshyelamati/orgs",
+    "received_events_url": "https://api.github.com/users/koteshyelamati/received_events",
+    "repos_url": "https://api.github.com/users/koteshyelamati/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/koteshyelamati/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/koteshyelamati/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/koteshyelamati",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/tablib/commits/e7fdb929985d7b00ba916b55307ffcb7c8e982b8/comments",
+   "commit": {
+    "author": {
+     "date": "2026-07-15T12:28:39Z",
+     "email": "yelamatikoteshkumar@gmail.com",
+     "name": "Kotesh Kumar Yelamati"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-07-15T12:28:39Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Raise TypeError for invalid Dataset instance\n\nstack() and stack_cols() currently return None silently when passed a non-Dataset argument. This can hide bugs since callers get None back and may not notice the operation failed.\n\nThis commit raises TypeError with a clear message instead.",
+    "tree": {
+     "sha": "ab9fe3cf04e0d5e2987f348ce81593bf90d19cfb",
+     "url": "https://api.github.com/repos/jazzband/tablib/git/trees/ab9fe3cf04e0d5e2987f348ce81593bf90d19cfb"
+    },
+    "url": "https://api.github.com/repos/jazzband/tablib/git/commits/e7fdb929985d7b00ba916b55307ffcb7c8e982b8",
+    "verification": {
+     "payload": "tree ab9fe3cf04e0d5e2987f348ce81593bf90d19cfb\nparent 8224ee234b41dd7bcb4aeb079eae0a1382498b43\nauthor Kotesh Kumar Yelamati <yelamatikoteshkumar@gmail.com> 1784118519 -0400\ncommitter GitHub <noreply@github.com> 1784118519 +0200\n\nRaise TypeError for invalid Dataset instance\n\nstack() and stack_cols() currently return None silently when passed a non-Dataset argument. This can hide bugs since callers get None back and may not notice the operation failed.\n\nThis commit raises TypeError with a clear message instead.",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqV3z3CRC1aQ7uu5UhlAAAqrkQAAehsHnItyWurd8v8Np34m5U\nv7mzNqhx2w6qcZACDsRrq5K+77rd2mCC+6g5YL/6inUrSBq3hbAdJgvtRrzZ8e2y\nk/tAib4eujVqHQldQYV/K7iwW2x0RUSDxIOjkP+/czvvGXg1pkXYl8fKATh95eHN\n55cZnXw+Xkj2u0/liw9zKBNuXoYc1Ceda5gO7UhKMZfQqGXeSEQ+t13+zdR56EKm\npxops83tzDEl2tkeIXaGpwnAQppLh0GVVP41SjRoj6aEu+G4cd7LpfANlFVSeaR3\npZYUJUBFWFB8VBPKAjPDqGTjkQjk3Tcf9ros994OdSKg/wLyzEuTuve3HTQtwk8s\nWejVT5fMc00MMw3OiWqcIoHUmdJSjhG1yKl9DkJs+2gqeQYz5Dhsr/n8Xa1mltuZ\nwLKZv6rmy32x0XFfxBUq02FN2kMrfCspBNhjjVfA/qNlZLmPI14OiaOm1du95j+A\njvp6YPBvoFayhyWHW5vNwyypxqva3tfkjQcbLNaV5ioJ7rV+j+b3Diy8bAsFkwOW\nJx/rbCFBskPGsV2IkoXd3AHu8iFph4N1A62e3sewFWnSREwrwBmVv/EUvSOeGae2\nYTO2eGTUFK/6THVFIYHgsMhOxmVJ2pnQJiVsrS2W50FuLWX8pGiCNiMBPm9Uoq1z\nFaAUh8wz+ZNlyeh8JjIN\n=85Ak\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-07-15T12:28:39Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/tablib/commit/e7fdb929985d7b00ba916b55307ffcb7c8e982b8",
+   "node_id": "C_kwDOABdsIdoAKGU3ZmRiOTI5OTg1ZDdiMDBiYTkxNmI1NTMwN2ZmY2I3YzhlOTgyYjg",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/tablib/commit/8224ee234b41dd7bcb4aeb079eae0a1382498b43",
+     "sha": "8224ee234b41dd7bcb4aeb079eae0a1382498b43",
+     "url": "https://api.github.com/repos/jazzband/tablib/commits/8224ee234b41dd7bcb4aeb079eae0a1382498b43"
+    }
+   ],
+   "sha": "e7fdb929985d7b00ba916b55307ffcb7c8e982b8",
+   "url": "https://api.github.com/repos/jazzband/tablib/commits/e7fdb929985d7b00ba916b55307ffcb7c8e982b8"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1324225?v=4",
+    "events_url": "https://api.github.com/users/hugovk/events{/privacy}",
+    "followers_url": "https://api.github.com/users/hugovk/followers",
+    "following_url": "https://api.github.com/users/hugovk/following{/other_user}",
+    "gists_url": "https://api.github.com/users/hugovk/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/hugovk",
+    "id": 1324225,
+    "login": "hugovk",
+    "node_id": "MDQ6VXNlcjEzMjQyMjU=",
+    "organizations_url": "https://api.github.com/users/hugovk/orgs",
+    "received_events_url": "https://api.github.com/users/hugovk/received_events",
+    "repos_url": "https://api.github.com/users/hugovk/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/hugovk/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/hugovk/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/hugovk",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/tablib/commits/8224ee234b41dd7bcb4aeb079eae0a1382498b43/comments",
+   "commit": {
+    "author": {
+     "date": "2026-07-13T19:38:57Z",
+     "email": "1324225+hugovk@users.noreply.github.com",
+     "name": "Hugo van Kemenade"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-07-13T21:21:48Z",
+     "email": "claude@2xlibre.net",
+     "name": "Claude Paroz"
+    },
+    "message": "Remove teyit linter",
+    "tree": {
+     "sha": "5373571abb64e8f95913bae0a3a7beb5d177e5bd",
+     "url": "https://api.github.com/repos/jazzband/tablib/git/trees/5373571abb64e8f95913bae0a3a7beb5d177e5bd"
+    },
+    "url": "https://api.github.com/repos/jazzband/tablib/git/commits/8224ee234b41dd7bcb4aeb079eae0a1382498b43",
+    "verification": {
+     "payload": null,
+     "reason": "unsigned",
+     "signature": null,
+     "verified": false,
+     "verified_at": null
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/143192?v=4",
+    "events_url": "https://api.github.com/users/claudep/events{/privacy}",
+    "followers_url": "https://api.github.com/users/claudep/followers",
+    "following_url": "https://api.github.com/users/claudep/following{/other_user}",
+    "gists_url": "https://api.github.com/users/claudep/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/claudep",
+    "id": 143192,
+    "login": "claudep",
+    "node_id": "MDQ6VXNlcjE0MzE5Mg==",
+    "organizations_url": "https://api.github.com/users/claudep/orgs",
+    "received_events_url": "https://api.github.com/users/claudep/received_events",
+    "repos_url": "https://api.github.com/users/claudep/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/claudep/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/claudep/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/claudep",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/tablib/commit/8224ee234b41dd7bcb4aeb079eae0a1382498b43",
+   "node_id": "C_kwDOABdsIdoAKDgyMjRlZTIzNGI0MWRkN2JjYjRhZWIwNzllYWUwYTEzODI0OThiNDM",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/tablib/commit/bfecdaad292fb7020d841eab3fcbc67d26cfa6bc",
+     "sha": "bfecdaad292fb7020d841eab3fcbc67d26cfa6bc",
+     "url": "https://api.github.com/repos/jazzband/tablib/commits/bfecdaad292fb7020d841eab3fcbc67d26cfa6bc"
+    }
+   ],
+   "sha": "8224ee234b41dd7bcb4aeb079eae0a1382498b43",
+   "url": "https://api.github.com/repos/jazzband/tablib/commits/8224ee234b41dd7bcb4aeb079eae0a1382498b43"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/in/68672?v=4",
+    "events_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/events{/privacy}",
+    "followers_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/followers",
+    "following_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/following{/other_user}",
+    "gists_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/apps/pre-commit-ci",
+    "id": 66853113,
+    "login": "pre-commit-ci[bot]",
+    "node_id": "MDM6Qm90NjY4NTMxMTM=",
+    "organizations_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/orgs",
+    "received_events_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/received_events",
+    "repos_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/subscriptions",
+    "type": "Bot",
+    "url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/tablib/commits/bfecdaad292fb7020d841eab3fcbc67d26cfa6bc/comments",
+   "commit": {
+    "author": {
+     "date": "2026-07-06T18:24:47Z",
+     "email": "66853113+pre-commit-ci[bot]@users.noreply.github.com",
+     "name": "pre-commit-ci[bot]"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-07-06T18:24:47Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "[pre-commit.ci] pre-commit autoupdate (#652)",
+    "tree": {
+     "sha": "ec9e3d217b67f8af13df49f4d8ae5dc83435337d",
+     "url": "https://api.github.com/repos/jazzband/tablib/git/trees/ec9e3d217b67f8af13df49f4d8ae5dc83435337d"
+    },
+    "url": "https://api.github.com/repos/jazzband/tablib/git/commits/bfecdaad292fb7020d841eab3fcbc67d26cfa6bc",
+    "verification": {
+     "payload": "tree ec9e3d217b67f8af13df49f4d8ae5dc83435337d\nparent e9da55b31e57c4585f6a155ee95a4dae2502d3ac\nauthor pre-commit-ci[bot] <66853113+pre-commit-ci[bot]@users.noreply.github.com> 1783362287 +0300\ncommitter GitHub <noreply@github.com> 1783362287 +0300\n\n[pre-commit.ci] pre-commit autoupdate (#652)",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqS/LvCRC1aQ7uu5UhlAAANigQAHtjhk3MbqmducPRcZZFIras\nu/82GYl2nGdS2lfTcupU7kJm4T7bbTK8CHC1JzmBj6rjM3As1yk4Y70XPZr+fI5Q\n/XmvZkaLcHK/516KkLtqIffyumsPNoaa3CVA+mO+l+aYDgvWPKnmTYoSETRHBHZh\n0UjpPScK8idjnPXluBzapcZpK5MuaF8VVWmD1Q8o++0dXCWQYWFluzTPbnoc5Iw5\nGzzbbRDhTFsEVMa+gi1nf5R31Vq3vi/dSILiq4i71Q0rbw4h/tDCerwk415w8f39\nDgl+4VfvuHBal/M4QU3sVX3j26r8BsuvoQiLCpHFxKJ1LpMxzNx17l/0TIrwRmhi\n+Q0XKoswpc7YOqihaPWg1WJgMfdjUwkMu8xSv2PBMj2+dDZ4ElCgHzWhmbjFqZs6\nXz/87WNtXQVAEH8RsaCb3N8bJLT9VYH1CFMjwCngLpIuM86CjspTqtnyGMtR2kg7\nDq+16Me3CNbTahbC0r3dzRbD4chdBzRmiVUsnAo22/8115UxUxcsg7n/OI9xLmMF\n0Bi5opZk6o+mkbwnK9vNBZPegg3dOo+HSG16JBsm7RNZKOWklHJbLG48DQ//Y5MA\nLgDJwy2Tls/upPSEsu/A3gieA41iFW4Uv4v71/TS5kzpvmjDnlmCjYI1JcjOabg5\nc5DhQpQkRbl2yUQ5WswV\n=szo0\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-07-06T18:24:47Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/tablib/commit/bfecdaad292fb7020d841eab3fcbc67d26cfa6bc",
+   "node_id": "C_kwDOABdsIdoAKGJmZWNkYWFkMjkyZmI3MDIwZDg0MWVhYjNmY2JjNjdkMjZjZmE2YmM",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/tablib/commit/e9da55b31e57c4585f6a155ee95a4dae2502d3ac",
+     "sha": "e9da55b31e57c4585f6a155ee95a4dae2502d3ac",
+     "url": "https://api.github.com/repos/jazzband/tablib/commits/e9da55b31e57c4585f6a155ee95a4dae2502d3ac"
+    }
+   ],
+   "sha": "bfecdaad292fb7020d841eab3fcbc67d26cfa6bc",
+   "url": "https://api.github.com/repos/jazzband/tablib/commits/bfecdaad292fb7020d841eab3fcbc67d26cfa6bc"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/3355843?v=4",
+    "events_url": "https://api.github.com/users/binggao1230/events{/privacy}",
+    "followers_url": "https://api.github.com/users/binggao1230/followers",
+    "following_url": "https://api.github.com/users/binggao1230/following{/other_user}",
+    "gists_url": "https://api.github.com/users/binggao1230/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/binggao1230",
+    "id": 3355843,
+    "login": "binggao1230",
+    "node_id": "MDQ6VXNlcjMzNTU4NDM=",
+    "organizations_url": "https://api.github.com/users/binggao1230/orgs",
+    "received_events_url": "https://api.github.com/users/binggao1230/received_events",
+    "repos_url": "https://api.github.com/users/binggao1230/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/binggao1230/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/binggao1230/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/binggao1230",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/tablib/commits/e9da55b31e57c4585f6a155ee95a4dae2502d3ac/comments",
+   "commit": {
+    "author": {
+     "date": "2026-07-06T15:10:09Z",
+     "email": "gaobing1230@gmail.com",
+     "name": "Vincent Gao"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-07-06T15:10:09Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Raise `HeadersNeeded` instead of `TypeError` when subscripting a headerless `Dataset` by column name (#648)",
+    "tree": {
+     "sha": "414feab8d04806666bea2d9785800ee62f98c271",
+     "url": "https://api.github.com/repos/jazzband/tablib/git/trees/414feab8d04806666bea2d9785800ee62f98c271"
+    },
+    "url": "https://api.github.com/repos/jazzband/tablib/git/commits/e9da55b31e57c4585f6a155ee95a4dae2502d3ac",
+    "verification": {
+     "payload": "tree 414feab8d04806666bea2d9785800ee62f98c271\nparent 64f0201ef1570719a21ec5af00ae1b8902182b17\nauthor Vincent Gao <gaobing1230@gmail.com> 1783350609 +0200\ncommitter GitHub <noreply@github.com> 1783350609 +0300\n\nRaise `HeadersNeeded` instead of `TypeError` when subscripting a headerless `Dataset` by column name (#648)",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqS8VRCRC1aQ7uu5UhlAAA8JsQAIHk+IYF1DGYB7aZeKijqgex\nl37w0Ew8paMF2VfmwMtPaAUAHYPxV33xa4hib4fsVMdZXtYGyMxkRWhBcYEhwKq5\nW1t0zDbCQw6YfktKOgGrFtZkCZ9jM8Eb654/MOxrKpMT7Ll0nVNLI78GP6PEQugm\nfujGiKCRfudBfOzdiR43GXcNEpr3QoZYII3y4JtFCCFuOTUpuwrmSkRhO68fpOAo\neGUuTsIFXpOVjBC/2UsjBSAkuJ7aRtCaLqs8AkqSAAV7CMiejf0cia3iUczr3G+S\nbcpYg7X+pH254kx9QoISrLELq3drNy+y/A5uxH3n2R3QlqGW3Iy0ZlInfrV16L0v\nYrQaZOZ/SyVqLTgPwl9HVABuKKkq+Exy6E2fsPD6gQlziEQLr+vMfxttBiAVOnM0\nmPfiffwy1lRNGUFa1MuJKjrysqB+1Wb8e69iwN+Jt3PVK1Mr3BgEhUJqKfa5uIBC\nPBIsQXqrDKZCHed9laYFNexFQ8mAsxwAJru/4GugpDfpHheG/vNTM4kKnuxEN3/c\nVFHSzU2INrCQmC6WWYuaUKU+s+ZyCsl8NyfGcTIQCBSyLNt1fazsbdVk5ROFJUAR\nrcxvXKYn4h/Ar2ILzouF0z2s6ukcfKVFIQkqtKI9hPs6XcU7h2ZgGK5K9MTtGNKC\n3ePJEoMvfkfc6DcTtFMX\n=9XSh\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-07-06T15:10:10Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/tablib/commit/e9da55b31e57c4585f6a155ee95a4dae2502d3ac",
+   "node_id": "C_kwDOABdsIdoAKGU5ZGE1NWIzMWU1N2M0NTg1ZjZhMTU1ZWU5NWE0ZGFlMjUwMmQzYWM",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/tablib/commit/64f0201ef1570719a21ec5af00ae1b8902182b17",
+     "sha": "64f0201ef1570719a21ec5af00ae1b8902182b17",
+     "url": "https://api.github.com/repos/jazzband/tablib/commits/64f0201ef1570719a21ec5af00ae1b8902182b17"
+    }
+   ],
+   "sha": "e9da55b31e57c4585f6a155ee95a4dae2502d3ac",
+   "url": "https://api.github.com/repos/jazzband/tablib/commits/e9da55b31e57c4585f6a155ee95a4dae2502d3ac"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1324225?v=4",
+    "events_url": "https://api.github.com/users/hugovk/events{/privacy}",
+    "followers_url": "https://api.github.com/users/hugovk/followers",
+    "following_url": "https://api.github.com/users/hugovk/following{/other_user}",
+    "gists_url": "https://api.github.com/users/hugovk/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/hugovk",
+    "id": 1324225,
+    "login": "hugovk",
+    "node_id": "MDQ6VXNlcjEzMjQyMjU=",
+    "organizations_url": "https://api.github.com/users/hugovk/orgs",
+    "received_events_url": "https://api.github.com/users/hugovk/received_events",
+    "repos_url": "https://api.github.com/users/hugovk/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/hugovk/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/hugovk/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/hugovk",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/tablib/commits/64f0201ef1570719a21ec5af00ae1b8902182b17/comments",
+   "commit": {
+    "author": {
+     "date": "2026-06-19T09:15:17Z",
+     "email": "1324225+hugovk@users.noreply.github.com",
+     "name": "Hugo van Kemenade"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-06-19T09:15:17Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Use lazy imports on Python 3.15 to improve startup speed (#645)",
+    "tree": {
+     "sha": "3a042918a7c13f7707731d52bcff925c74207f98",
+     "url": "https://api.github.com/repos/jazzband/tablib/git/trees/3a042918a7c13f7707731d52bcff925c74207f98"
+    },
+    "url": "https://api.github.com/repos/jazzband/tablib/git/commits/64f0201ef1570719a21ec5af00ae1b8902182b17",
+    "verification": {
+     "payload": "tree 3a042918a7c13f7707731d52bcff925c74207f98\nparent e2824d90509abf34ddcfa88ca1f0627cd0bd5400\nauthor Hugo van Kemenade <1324225+hugovk@users.noreply.github.com> 1781860517 +0300\ncommitter GitHub <noreply@github.com> 1781860517 +0300\n\nUse lazy imports on Python 3.15 to improve startup speed (#645)",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqNQilCRC1aQ7uu5UhlAAAEJEQAB2S3PJ7WXIt0rjhv8XCAhMu\nDqujQarQiJSB7GqLNDEujt7/Hi77Ftwf3QNbmb+noUYgH29hlDbliHqCjPRQNNJV\nkydPjNhz24Gd/pbwMCHwn/QG21yaiYm9Z458XosNvPr+cCLvqESZ5YvoDNMFQN6M\nH3q6yDfULOpbvJZfkQLQs6V/Y4FaRqWQIQrcNFiyPFLQqhfCplyg9iyy84cVljyQ\ns+0xua5CvoIXoHLByX/4qbVlGAiUHoH+WJQaKAlOPAw9yMQLW7uENA9r9rf/AjEy\nG99UViyVEx5tm+W/v3xRCVw8MS0JTsLRjQ6+b+4dM1ssRa4L3G1X5AUYANm63/gT\n1SGFNFCACbgkcUkNhcO63s4pVX9Nxuok4pKFYJbiVJGoIZnwsH2qXuHcmH7dNKA+\nE5X6aV88vh6NN2lbihGfV/aDVzoM2JdmClVnNnTLdbwJbr9LzzIt2FWdMZ3OdYt8\nuZ4JlrIjpyQF7Pv1RsveZTVvugV9NlPDxxfWlgk7j0sX1wAq91iOkzW9mu9yUm3J\nh7770QGtT+lIV2YnxGFhIbjv2GqjWTLCkQLO84Rv6XFDy0sTqoxxrlfJUuhIah23\npB0bqD28w9eG9Isn+ubnQV87nEhxvWToX8ovw4nfRqqB7Gzsbh9ZuFBXL2z/oex+\nwKMaY2T95+BrfxLn2ozr\n=1Zmg\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-06-19T09:15:18Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/tablib/commit/64f0201ef1570719a21ec5af00ae1b8902182b17",
+   "node_id": "C_kwDOABdsIdoAKDY0ZjAyMDFlZjE1NzA3MTlhMjFlYzVhZjAwYWUxYjg5MDIxODJiMTc",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/tablib/commit/e2824d90509abf34ddcfa88ca1f0627cd0bd5400",
+     "sha": "e2824d90509abf34ddcfa88ca1f0627cd0bd5400",
+     "url": "https://api.github.com/repos/jazzband/tablib/commits/e2824d90509abf34ddcfa88ca1f0627cd0bd5400"
+    }
+   ],
+   "sha": "64f0201ef1570719a21ec5af00ae1b8902182b17",
+   "url": "https://api.github.com/repos/jazzband/tablib/commits/64f0201ef1570719a21ec5af00ae1b8902182b17"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1324225?v=4",
+    "events_url": "https://api.github.com/users/hugovk/events{/privacy}",
+    "followers_url": "https://api.github.com/users/hugovk/followers",
+    "following_url": "https://api.github.com/users/hugovk/following{/other_user}",
+    "gists_url": "https://api.github.com/users/hugovk/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/hugovk",
+    "id": 1324225,
+    "login": "hugovk",
+    "node_id": "MDQ6VXNlcjEzMjQyMjU=",
+    "organizations_url": "https://api.github.com/users/hugovk/orgs",
+    "received_events_url": "https://api.github.com/users/hugovk/received_events",
+    "repos_url": "https://api.github.com/users/hugovk/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/hugovk/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/hugovk/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/hugovk",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/tablib/commits/e2824d90509abf34ddcfa88ca1f0627cd0bd5400/comments",
+   "commit": {
+    "author": {
+     "date": "2026-06-16T19:45:12Z",
+     "email": "1324225+hugovk@users.noreply.github.com",
+     "name": "Hugo van Kemenade"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-06-16T19:45:12Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Bump Read the Docs versions (#646)",
+    "tree": {
+     "sha": "f42462cdfb399af49291a7f2a489509a968b6dd0",
+     "url": "https://api.github.com/repos/jazzband/tablib/git/trees/f42462cdfb399af49291a7f2a489509a968b6dd0"
+    },
+    "url": "https://api.github.com/repos/jazzband/tablib/git/commits/e2824d90509abf34ddcfa88ca1f0627cd0bd5400",
+    "verification": {
+     "payload": "tree f42462cdfb399af49291a7f2a489509a968b6dd0\nparent b8c6606dd48f004980775ffd3721fd6349264ced\nauthor Hugo van Kemenade <1324225+hugovk@users.noreply.github.com> 1781639112 +0300\ncommitter GitHub <noreply@github.com> 1781639112 +0300\n\nBump Read the Docs versions (#646)",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqMafICRC1aQ7uu5UhlAAAOw4QABm2VMO+wLXiu/rOrV2wYmmr\n8zIghF1git8KknbCtP9Yr9uwqAOAVQTO05WIG2QAIAgMiMmO5wAvmu06b8cLgMT+\n34jIsooepMWJOMEwjaLYvZeplf6qZqUNziSNYazwNyJv/AvhY0GnnVeYnxKZiT58\njQxT6hMFJoOT1vEqKs5Aau7zlusRhysax568q6LfTvJEzK1V5RHcDfvzMWVPWNca\nROE+AXt7TXvU8yAHpUYWlkweBCX2r0nsoqs9wO/LJvusuOKDt/Gczk674SWdOGTM\ni9SO+slu71jkf0RRBt7L6xbKJcWpjPHQQjfRAulJU4+lmvOZM2OOrvrKQ/F6WoC/\n3JgnzYCDZvBu1RttH43WOQtpH119ghVHE0eqEit9XaTuAVErzyKbLY2TIJ9AhOUN\nd5JhnIik3sAUgbmdLhxbGqC+T2uBH02Bgn44sBLEPNVNX4JQjKY04NKFOANhz3Ye\ni8MOVEL6FlnPrch5hqU8Zq6RjKnGLQmJXweLmFVauQsU+7H1Q/LTG75abOG6dDf1\n+4j/3vGIwWYSkb2z3zAefe/Vhs5qObAV8ySaF6cJ+rQMxDNrmj58qpr8dv24320T\nixaO7UCdlgI7bdAzzAVBjSlzJCEgCNSEwD1vJssNMhs7WWV+KbSaA5e8ae/DztWZ\nfnaiXajbi1Pr7F8Y/SGg\n=xkbt\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-06-16T19:45:13Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/tablib/commit/e2824d90509abf34ddcfa88ca1f0627cd0bd5400",
+   "node_id": "C_kwDOABdsIdoAKGUyODI0ZDkwNTA5YWJmMzRkZGNmYTg4Y2ExZjA2MjdjZDBiZDU0MDA",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/tablib/commit/b8c6606dd48f004980775ffd3721fd6349264ced",
+     "sha": "b8c6606dd48f004980775ffd3721fd6349264ced",
+     "url": "https://api.github.com/repos/jazzband/tablib/commits/b8c6606dd48f004980775ffd3721fd6349264ced"
+    }
+   ],
+   "sha": "e2824d90509abf34ddcfa88ca1f0627cd0bd5400",
+   "url": "https://api.github.com/repos/jazzband/tablib/commits/e2824d90509abf34ddcfa88ca1f0627cd0bd5400"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/42468190?v=4",
+    "events_url": "https://api.github.com/users/vineethsaivs/events{/privacy}",
+    "followers_url": "https://api.github.com/users/vineethsaivs/followers",
+    "following_url": "https://api.github.com/users/vineethsaivs/following{/other_user}",
+    "gists_url": "https://api.github.com/users/vineethsaivs/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/vineethsaivs",
+    "id": 42468190,
+    "login": "vineethsaivs",
+    "node_id": "MDQ6VXNlcjQyNDY4MTkw",
+    "organizations_url": "https://api.github.com/users/vineethsaivs/orgs",
+    "received_events_url": "https://api.github.com/users/vineethsaivs/received_events",
+    "repos_url": "https://api.github.com/users/vineethsaivs/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/vineethsaivs/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/vineethsaivs/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/vineethsaivs",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/tablib/commits/b8c6606dd48f004980775ffd3721fd6349264ced/comments",
+   "commit": {
+    "author": {
+     "date": "2026-06-15T00:09:25Z",
+     "email": "vineethsai4444@gmail.com",
+     "name": "Vineeth Sai"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-06-15T06:52:54Z",
+     "email": "claude@2xlibre.net",
+     "name": "Claude Paroz"
+    },
+    "message": "Preserve column order in YAML export\n\nyaml.safe_dump sorts mapping keys alphabetically by default, so YAML export\nreordered columns (e.g. apple, id, name, zebra) inconsistently with the CSV and\nJSON exports, which keep the dataset's header order.\n\nPass sort_keys=False when dumping the dataset and databook so YAML keeps the\noriginal column order.\n\nFixes #287\n\nCo-Authored-By: Claude Opus 4.8 (1M context) <noreply@anthropic.com>",
+    "tree": {
+     "sha": "d6dccad84262990859edadeb2f0e96a41cf5d9ca",
+     "url": "https://api.github.com/repos/jazzband/tablib/git/trees/d6dccad84262990859edadeb2f0e96a41cf5d9ca"
+    },
+    "url": "https://api.github.com/repos/jazzband/tablib/git/commits/b8c6606dd48f004980775ffd3721fd6349264ced",
+    "verification": {
+     "payload": null,
+     "reason": "unsigned",
+     "signature": null,
+     "verified": false,
+     "verified_at": null
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/143192?v=4",
+    "events_url": "https://api.github.com/users/claudep/events{/privacy}",
+    "followers_url": "https://api.github.com/users/claudep/followers",
+    "following_url": "https://api.github.com/users/claudep/following{/other_user}",
+    "gists_url": "https://api.github.com/users/claudep/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/claudep",
+    "id": 143192,
+    "login": "claudep",
+    "node_id": "MDQ6VXNlcjE0MzE5Mg==",
+    "organizations_url": "https://api.github.com/users/claudep/orgs",
+    "received_events_url": "https://api.github.com/users/claudep/received_events",
+    "repos_url": "https://api.github.com/users/claudep/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/claudep/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/claudep/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/claudep",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/tablib/commit/b8c6606dd48f004980775ffd3721fd6349264ced",
+   "node_id": "C_kwDOABdsIdoAKGI4YzY2MDZkZDQ4ZjAwNDk4MDc3NWZmZDM3MjFmZDYzNDkyNjRjZWQ",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/tablib/commit/750365149f72cec5f3fa5c15cfd7c73725e28776",
+     "sha": "750365149f72cec5f3fa5c15cfd7c73725e28776",
+     "url": "https://api.github.com/repos/jazzband/tablib/commits/750365149f72cec5f3fa5c15cfd7c73725e28776"
+    }
+   ],
+   "sha": "b8c6606dd48f004980775ffd3721fd6349264ced",
+   "url": "https://api.github.com/repos/jazzband/tablib/commits/b8c6606dd48f004980775ffd3721fd6349264ced"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/68473?v=4",
+    "events_url": "https://api.github.com/users/mgrdcm/events{/privacy}",
+    "followers_url": "https://api.github.com/users/mgrdcm/followers",
+    "following_url": "https://api.github.com/users/mgrdcm/following{/other_user}",
+    "gists_url": "https://api.github.com/users/mgrdcm/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/mgrdcm",
+    "id": 68473,
+    "login": "mgrdcm",
+    "node_id": "MDQ6VXNlcjY4NDcz",
+    "organizations_url": "https://api.github.com/users/mgrdcm/orgs",
+    "received_events_url": "https://api.github.com/users/mgrdcm/received_events",
+    "repos_url": "https://api.github.com/users/mgrdcm/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/mgrdcm/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/mgrdcm/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/mgrdcm",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/tablib/commits/750365149f72cec5f3fa5c15cfd7c73725e28776/comments",
+   "commit": {
+    "author": {
+     "date": "2026-05-20T02:32:05Z",
+     "email": "mgrdcm@me.com",
+     "name": "Dan Moore"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-05-20T06:26:01Z",
+     "email": "claude@2xlibre.net",
+     "name": "Claude Paroz"
+    },
+    "message": "Remove `#yaml` tag from generic error message URL\n\nThis error isn't `yaml`-specific.  Looks like this got committed (without PR?) as part of addressing https://github.com/jazzband/tablib/issues/524 and perhaps bypassed PR/review.",
+    "tree": {
+     "sha": "19a8b8e241bd549aa8204d47ca555ec2080d10be",
+     "url": "https://api.github.com/repos/jazzband/tablib/git/trees/19a8b8e241bd549aa8204d47ca555ec2080d10be"
+    },
+    "url": "https://api.github.com/repos/jazzband/tablib/git/commits/750365149f72cec5f3fa5c15cfd7c73725e28776",
+    "verification": {
+     "payload": null,
+     "reason": "unsigned",
+     "signature": null,
+     "verified": false,
+     "verified_at": null
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/143192?v=4",
+    "events_url": "https://api.github.com/users/claudep/events{/privacy}",
+    "followers_url": "https://api.github.com/users/claudep/followers",
+    "following_url": "https://api.github.com/users/claudep/following{/other_user}",
+    "gists_url": "https://api.github.com/users/claudep/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/claudep",
+    "id": 143192,
+    "login": "claudep",
+    "node_id": "MDQ6VXNlcjE0MzE5Mg==",
+    "organizations_url": "https://api.github.com/users/claudep/orgs",
+    "received_events_url": "https://api.github.com/users/claudep/received_events",
+    "repos_url": "https://api.github.com/users/claudep/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/claudep/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/claudep/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/claudep",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/tablib/commit/750365149f72cec5f3fa5c15cfd7c73725e28776",
+   "node_id": "C_kwDOABdsIdoAKDc1MDM2NTE0OWY3MmNlYzVmM2ZhNWMxNWNmZDdjNzM3MjVlMjg3NzY",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/tablib/commit/564619dcbbdc47be6b0c78f4d2a7b59382aefab7",
+     "sha": "564619dcbbdc47be6b0c78f4d2a7b59382aefab7",
+     "url": "https://api.github.com/repos/jazzband/tablib/commits/564619dcbbdc47be6b0c78f4d2a7b59382aefab7"
+    }
+   ],
+   "sha": "750365149f72cec5f3fa5c15cfd7c73725e28776",
+   "url": "https://api.github.com/repos/jazzband/tablib/commits/750365149f72cec5f3fa5c15cfd7c73725e28776"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/in/68672?v=4",
+    "events_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/events{/privacy}",
+    "followers_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/followers",
+    "following_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/following{/other_user}",
+    "gists_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/apps/pre-commit-ci",
+    "id": 66853113,
+    "login": "pre-commit-ci[bot]",
+    "node_id": "MDM6Qm90NjY4NTMxMTM=",
+    "organizations_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/orgs",
+    "received_events_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/received_events",
+    "repos_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/subscriptions",
+    "type": "Bot",
+    "url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/tablib/commits/564619dcbbdc47be6b0c78f4d2a7b59382aefab7/comments",
+   "commit": {
+    "author": {
+     "date": "2026-04-06T18:34:38Z",
+     "email": "66853113+pre-commit-ci[bot]@users.noreply.github.com",
+     "name": "pre-commit-ci[bot]"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-04-06T18:34:38Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "[pre-commit.ci] pre-commit autoupdate (#638)\n\nCo-authored-by: pre-commit-ci[bot] <66853113+pre-commit-ci[bot]@users.noreply.github.com>",
+    "tree": {
+     "sha": "c9fab0d7e21ef61599a7a9408ac2de81904a47f0",
+     "url": "https://api.github.com/repos/jazzband/tablib/git/trees/c9fab0d7e21ef61599a7a9408ac2de81904a47f0"
+    },
+    "url": "https://api.github.com/repos/jazzband/tablib/git/commits/564619dcbbdc47be6b0c78f4d2a7b59382aefab7",
+    "verification": {
+     "payload": "tree c9fab0d7e21ef61599a7a9408ac2de81904a47f0\nparent b556a4e9876a0307e5035ef0ecc3cfc24b5488a1\nauthor pre-commit-ci[bot] <66853113+pre-commit-ci[bot]@users.noreply.github.com> 1775500478 +0300\ncommitter GitHub <noreply@github.com> 1775500478 +0300\n\n[pre-commit.ci] pre-commit autoupdate (#638)\n\nCo-authored-by: pre-commit-ci[bot] <66853113+pre-commit-ci[bot]@users.noreply.github.com>",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJp0/y+CRC1aQ7uu5UhlAAAZ7cQAIWllRNYhBjua8Cg/kQnsjoM\naDk69Zf3tEJCgkPo/tLRgYsPxXT0RSvvMvHyaA+dGt4rqBnSVZAWBvs2TcDpFXGi\nyzn5ncO1VIg3MCpMQVsEU0QuzVeuL8qwr4YF46kwYXMNFxLLJKVda2f4qCL/9/Mh\ne6vIud7udpSTqfd6omTsNGl2CeqJylPq7V0lcXCoqMsi9pdtebjx0Da5VNCeHO6c\nvAX954Yd0aAowcQhEhdic3/iCyNnqRALzR387LmhdqvTwhIU5cfJRrbcW1OtE4iP\nhxmxzAlSFZu8T0jvx0SlDvlVbBy9/JpMHLmAv+AVD5f8Pzq1cbiSrTOKwBz2+y0c\nyXEoie6rCuQkpT3Lreaai8HeAOeC+4h7Us6kWxySd8UTtHteZ2VKbl49aTv/TURW\npl3GETn/pDofDHvZz3DelQFPEWNGfBL5nztD49MKQmN2zqwogh5ECwS3B6XAEKK+\nUC5i7K8BbVlK4sgdnU36tjAPAllE1KpALhpoOW0fcDV2rqZyYPDQ4htoxeXyDtQo\nUpYmho0EVZcsFJYqxMd08V4IhSQH6ZucfKXoTjsvvfoV2LQeDmCyu+vNp8SChqTG\n2De8w995ucPEjx949f8SROp34RdnQyfr2tDhwUC+UUtODgEua9TTAMsNJusVl9kn\n/Hg/cYOlfEesb4lPMqUl\n=HEkS\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-04-06T18:34:38Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/tablib/commit/564619dcbbdc47be6b0c78f4d2a7b59382aefab7",
+   "node_id": "C_kwDOABdsIdoAKDU2NDYxOWRjYmJkYzQ3YmU2YjBjNzhmNGQyYTdiNTkzODJhZWZhYjc",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/tablib/commit/b556a4e9876a0307e5035ef0ecc3cfc24b5488a1",
+     "sha": "b556a4e9876a0307e5035ef0ecc3cfc24b5488a1",
+     "url": "https://api.github.com/repos/jazzband/tablib/commits/b556a4e9876a0307e5035ef0ecc3cfc24b5488a1"
+    }
+   ],
+   "sha": "564619dcbbdc47be6b0c78f4d2a7b59382aefab7",
+   "url": "https://api.github.com/repos/jazzband/tablib/commits/564619dcbbdc47be6b0c78f4d2a7b59382aefab7"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/in/68672?v=4",
+    "events_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/events{/privacy}",
+    "followers_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/followers",
+    "following_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/following{/other_user}",
+    "gists_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/apps/pre-commit-ci",
+    "id": 66853113,
+    "login": "pre-commit-ci[bot]",
+    "node_id": "MDM6Qm90NjY4NTMxMTM=",
+    "organizations_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/orgs",
+    "received_events_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/received_events",
+    "repos_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D/subscriptions",
+    "type": "Bot",
+    "url": "https://api.github.com/users/pre-commit-ci%5Bbot%5D",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jazzband/tablib/commits/b556a4e9876a0307e5035ef0ecc3cfc24b5488a1/comments",
+   "commit": {
+    "author": {
+     "date": "2026-03-27T05:52:36Z",
+     "email": "66853113+pre-commit-ci[bot]@users.noreply.github.com",
+     "name": "pre-commit-ci[bot]"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-03-27T05:52:36Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "[pre-commit.ci] pre-commit autoupdate (#632)\n\nCo-authored-by: pre-commit-ci[bot] <66853113+pre-commit-ci[bot]@users.noreply.github.com>\nCo-authored-by: Hugo van Kemenade <1324225+hugovk@users.noreply.github.com>",
+    "tree": {
+     "sha": "0380b33e74e29b22cb6dbf3585309e53ffac3c64",
+     "url": "https://api.github.com/repos/jazzband/tablib/git/trees/0380b33e74e29b22cb6dbf3585309e53ffac3c64"
+    },
+    "url": "https://api.github.com/repos/jazzband/tablib/git/commits/b556a4e9876a0307e5035ef0ecc3cfc24b5488a1",
+    "verification": {
+     "payload": "tree 0380b33e74e29b22cb6dbf3585309e53ffac3c64\nparent 7d6c58a574782b2525af17225e93bdf4efa0f376\nauthor pre-commit-ci[bot] <66853113+pre-commit-ci[bot]@users.noreply.github.com> 1774590756 +0200\ncommitter GitHub <noreply@github.com> 1774590756 +0200\n\n[pre-commit.ci] pre-commit autoupdate (#632)\n\nCo-authored-by: pre-commit-ci[bot] <66853113+pre-commit-ci[bot]@users.noreply.github.com>\nCo-authored-by: Hugo van Kemenade <1324225+hugovk@users.noreply.github.com>",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJpxhskCRC1aQ7uu5UhlAAAPtEQAAthGUAhPpHPMKOmCGBlliPV\n2mQh5apZ78rezCFbw4U+VOAi+Jx1dNtoZqPMICWFe6zGTxnzc2LudyojepbLqECf\nnsB777cnilrfyn3hCO2xclY0qU+MeYzDyQgc0hkh11XxCwNgs2rG7VT8+Z3ORXKi\nOVAnaJb6FTkEfM9B845Zpy5iJYFgvjtVJ6AjJ94nTFH2/T3ZVMw2UgIszZeFYwJQ\nODWZA8X3dV0LW7HqaN1XVocCXacmK1DM4h3+uiQm3Dq2pvPQPqBEtN3QxEe2m+B1\nLv8dl1q4xJtVDpbyDbehgOuvvSe9L9Ug0WWNwdLu2ISeoVuwNrJm1igkKkQ1BFBK\nQw5SjPIgmqBiIpbsuKyCYX2q4069D9R/dcFkNOMURPbNZ/gL96w97feri8eHrlpC\nrCORq0cuV6pQbwrwYirzd9AK7pMijoSQgXrzGZlTTkaAT1tkyS/JPA56PxiNaVeV\nqMMWi86wJPpqjHufunFQ+TE0m3cMrxDur4Tiwxz3PX+S7LpOKOOWd7GCD3rVwpHe\nyfBBMkgES/yjnCeno6laOVoC63IiG1q5JInQ34larjgie4Tt7V+Q85IojQWFo+v+\nWQdwmTALxuxB/ghKF1OAgf6LZgtdfPkGH0im84YLNRqDQF/oQXPBHwauQE9xoZZJ\nt123VLf/AVPhJhZ22VA1\n=1YJW\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-03-27T05:52:37Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jazzband/tablib/commit/b556a4e9876a0307e5035ef0ecc3cfc24b5488a1",
+   "node_id": "C_kwDOABdsIdoAKGI1NTZhNGU5ODc2YTAzMDdlNTAzNWVmMGVjYzNjZmMyNGI1NDg4YTE",
+   "parents": [
+    {
+     "html_url": "https://github.com/jazzband/tablib/commit/7d6c58a574782b2525af17225e93bdf4efa0f376",
+     "sha": "7d6c58a574782b2525af17225e93bdf4efa0f376",
+     "url": "https://api.github.com/repos/jazzband/tablib/commits/7d6c58a574782b2525af17225e93bdf4efa0f376"
+    }
+   ],
+   "sha": "b556a4e9876a0307e5035ef0ecc3cfc24b5488a1",
+   "url": "https://api.github.com/repos/jazzband/tablib/commits/b556a4e9876a0307e5035ef0ecc3cfc24b5488a1"
+  }
+ ],
+ "recorded_at": "2026-11-16T18:38:46Z",
+ "recorded_with": "deadledger 0.1.0",
+ "status": 200,
+ "url": "https://api.github.com/repos/jazzband/tablib/commits?since=<window>&per_page=100"
+}

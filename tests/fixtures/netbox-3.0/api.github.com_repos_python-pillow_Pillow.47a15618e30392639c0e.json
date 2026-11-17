@@ -1,0 +1,15 @@
+{
+ "body": {
+  "archived": false,
+  "default_branch": "main",
+  "full_name": "python-pillow/Pillow",
+  "html_url": "https://github.com/python-pillow/Pillow",
+  "open_issues_count": 121,
+  "pushed_at": "2026-11-16T11:53:29Z",
+  "stargazers_count": 13986
+ },
+ "recorded_at": "2026-11-16T18:38:46Z",
+ "recorded_with": "deadledger 0.1.0",
+ "status": 200,
+ "url": "https://api.github.com/repos/python-pillow/Pillow"
+}

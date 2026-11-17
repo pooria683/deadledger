@@ -1,0 +1,15 @@
+{
+ "body": {
+  "archived": false,
+  "default_branch": "main",
+  "full_name": "django-mptt/django-mptt",
+  "html_url": "https://github.com/django-mptt/django-mptt",
+  "open_issues_count": 0,
+  "pushed_at": "2026-11-03T12:01:58Z",
+  "stargazers_count": 2965
+ },
+ "recorded_at": "2026-11-16T18:38:46Z",
+ "recorded_with": "deadledger 0.1.0",
+ "status": 200,
+ "url": "https://api.github.com/repos/django-mptt/django-mptt"
+}

@@ -1,0 +1,57 @@
+[build-system]
+requires = ["hatchling>=1.24"]
+build-backend = "hatchling.build"
+
+[project]
+name = "deadledger"
+version = "0.1.0"
+description = "Mortality reports for your dependency tree: what in here is already dead?"
+readme = "README.md"
+license = { text = "MIT" }
+requires-python = ">=3.11"
+authors = [{ name = "The DeadLedger contributors" }]
+keywords = ["dependencies", "bus-factor", "maintenance", "supply-chain", "audit", "sbom"]
+classifiers = [
+  "Development Status :: 4 - Beta",
+  "Environment :: Console",
+  "Intended Audience :: Developers",
+  "License :: OSI Approved :: MIT License",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+  "Programming Language :: Python :: 3.13",
+  "Topic :: Software Development :: Quality Assurance",
+  "Topic :: System :: Software Distribution",
+]
+dependencies = ["httpx>=0.27"]
+# stdlib-first: httpx is the only runtime dependency and is only used for
+# transport (urllib is a fallback).  See deadledger/http.py.
+
+[project.optional-dependencies]
+dev = ["pytest>=8", "build>=1.2"]
+
+[project.scripts]
+deadledger = "deadledger.cli:main"
+
+[project.urls]
+Homepage = "https://github.com/pooria683/deadledger"
+Documentation = "https://github.com/pooria683/deadledger#readme"
+Changelog = "https://github.com/pooria683/deadledger/blob/main/CHANGELOG.md"
+Issues = "https://github.com/pooria683/deadledger/issues"
+
+[tool.hatch.build.targets.wheel]
+packages = ["deadledger"]
+
+[tool.hatch.build.targets.wheel.force-include]
+# The alternatives map is a community asset that lives at the repository
+# root (maps/alternatives.json); ship it inside the wheel so an installed
+# CLI has a usable default map.
+"maps/alternatives.json" = "deadledger/data/alternatives.json"
+
+[tool.hatch.build.targets.sdist]
+include = ["deadledger", "maps", "docs", "tests", "README.md", "LICENSE", "CHANGELOG.md", "CONTRIBUTING.md"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
+filterwarnings = ["error::DeprecationWarning:deadledger.*"]

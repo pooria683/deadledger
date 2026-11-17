@@ -1,0 +1,2632 @@
+{
+ "body": [
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+    "events_url": "https://api.github.com/users/dependabot%5Bbot%5D/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dependabot%5Bbot%5D/followers",
+    "following_url": "https://api.github.com/users/dependabot%5Bbot%5D/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dependabot%5Bbot%5D/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/apps/dependabot",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "node_id": "MDM6Qm90NDk2OTkzMzM=",
+    "organizations_url": "https://api.github.com/users/dependabot%5Bbot%5D/orgs",
+    "received_events_url": "https://api.github.com/users/dependabot%5Bbot%5D/received_events",
+    "repos_url": "https://api.github.com/users/dependabot%5Bbot%5D/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dependabot%5Bbot%5D/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dependabot%5Bbot%5D/subscriptions",
+    "type": "Bot",
+    "url": "https://api.github.com/users/dependabot%5Bbot%5D",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/django-commons/django-prometheus/commits/5093c6366d1c88f0597bf9cbdcb40e09e9f56c8b/comments",
+   "commit": {
+    "author": {
+     "date": "2026-11-02T13:36:30Z",
+     "email": "49699333+dependabot[bot]@users.noreply.github.com",
+     "name": "dependabot[bot]"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-11-02T13:36:30Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Update setuptools requirement from <85.0.0,>=84.0.0 to >=84.2.1,<85.0.0 (#546)",
+    "tree": {
+     "sha": "652230d220a55f57ab11716cbb55c4e93a2e441a",
+     "url": "https://api.github.com/repos/django-commons/django-prometheus/git/trees/652230d220a55f57ab11716cbb55c4e93a2e441a"
+    },
+    "url": "https://api.github.com/repos/django-commons/django-prometheus/git/commits/5093c6366d1c88f0597bf9cbdcb40e09e9f56c8b",
+    "verification": {
+     "payload": "tree 652230d220a55f57ab11716cbb55c4e93a2e441a\nparent 20c38d5cf8fa8bed35159163dad7a54fd7809c0e\nauthor dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 1793626590 -0500\ncommitter GitHub <noreply@github.com> 1793626590 -0500\n\nUpdate setuptools requirement from <85.0.0,>=84.0.0 to >=84.2.1,<85.0.0 (#546)",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJq6JHeCRC1aQ7uu5UhlAAAK/IQACQB2riWK0cKY0rc8SdE/ovr\nKnSMzbkEdl2pf3umRcBf5OpPrtVwpXXfzQ8VFBO0vqvVYR7xoO39a0F38Ic3o7TJ\nrQPmLa69MZGx7+iLyLqtwR0OXs8XsHHd8Lg447K2HDQsH1TXkgwgkNnr0bzugjsp\nYkebQLWj+NSRydi80BHGL+Do3UGnjtKY9P06lWHDLtNihR2sD4/6ou/gYI3rbOj+\nkjSFVEMB0nUjWbwgG/fU+NvkEDdmrHijjtd7f+w/LqCMalks8zARtASVZk0EmC71\nqp9+KQDjmIHL2riibpib1NCtyf+Q9CV9gwuly77s5JQxecZszjM17x/0N4/NPhQM\nFh02s3zPsvqeVTp0S+1XOMIdcPcBhAIaLoPhI/uFtnsdYAqwSha6s85f05rRHtZM\nUY8lXsUQZVMBKP1aje5gjCqhnFT2g0wUICn+3U2i1B+yISweA9KjPOX6O8OscD0M\n0cRe+tUXZX+Fc0+y5oNVOLjgsBY0V3VC4iFLOv+WVHza0guDeZu3jhpzOke5Jqrq\nxaD+OhpH/L7vbh2NXjIWqoPowKoZ7a6Z3S6+X5OpKEKGMpuUEmmvt1KrZID5lyjn\nDCoveGPo2+P/T7gbQrXuCWDGmaUMP73tQlc2EOyjn6SxT8gDCmVDN4HjfWrkiMJ9\n7HMgCYt45fwSjc7x0kgL\n=W63T\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-11-02T13:36:30Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/django-commons/django-prometheus/commit/5093c6366d1c88f0597bf9cbdcb40e09e9f56c8b",
+   "node_id": "C_kwDOAf4mBNoAKDUwOTNjNjM2NmQxYzg4ZjA1OTdiZjljYmRjYjQwZTA5ZTlmNTZjOGI",
+   "parents": [
+    {
+     "html_url": "https://github.com/django-commons/django-prometheus/commit/20c38d5cf8fa8bed35159163dad7a54fd7809c0e",
+     "sha": "20c38d5cf8fa8bed35159163dad7a54fd7809c0e",
+     "url": "https://api.github.com/repos/django-commons/django-prometheus/commits/20c38d5cf8fa8bed35159163dad7a54fd7809c0e"
+    }
+   ],
+   "sha": "5093c6366d1c88f0597bf9cbdcb40e09e9f56c8b",
+   "url": "https://api.github.com/repos/django-commons/django-prometheus/commits/5093c6366d1c88f0597bf9cbdcb40e09e9f56c8b"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+    "events_url": "https://api.github.com/users/dependabot%5Bbot%5D/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dependabot%5Bbot%5D/followers",
+    "following_url": "https://api.github.com/users/dependabot%5Bbot%5D/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dependabot%5Bbot%5D/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/apps/dependabot",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "node_id": "MDM6Qm90NDk2OTkzMzM=",
+    "organizations_url": "https://api.github.com/users/dependabot%5Bbot%5D/orgs",
+    "received_events_url": "https://api.github.com/users/dependabot%5Bbot%5D/received_events",
+    "repos_url": "https://api.github.com/users/dependabot%5Bbot%5D/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dependabot%5Bbot%5D/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dependabot%5Bbot%5D/subscriptions",
+    "type": "Bot",
+    "url": "https://api.github.com/users/dependabot%5Bbot%5D",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/django-commons/django-prometheus/commits/20c38d5cf8fa8bed35159163dad7a54fd7809c0e/comments",
+   "commit": {
+    "author": {
+     "date": "2026-11-02T13:13:14Z",
+     "email": "49699333+dependabot[bot]@users.noreply.github.com",
+     "name": "dependabot[bot]"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-11-02T13:13:14Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Bump https://github.com/astral-sh/ruff-pre-commit from v0.16.7 to 0.17.3 (#544)",
+    "tree": {
+     "sha": "7cb8eaf9d12f41ef12454b6489cc9d79f9865faf",
+     "url": "https://api.github.com/repos/django-commons/django-prometheus/git/trees/7cb8eaf9d12f41ef12454b6489cc9d79f9865faf"
+    },
+    "url": "https://api.github.com/repos/django-commons/django-prometheus/git/commits/20c38d5cf8fa8bed35159163dad7a54fd7809c0e",
+    "verification": {
+     "payload": "tree 7cb8eaf9d12f41ef12454b6489cc9d79f9865faf\nparent 50fa642a00ae23688bfcafe2619d4816c4a6d061\nauthor dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 1793625194 -0500\ncommitter GitHub <noreply@github.com> 1793625194 -0500\n\nBump https://github.com/astral-sh/ruff-pre-commit from v0.16.7 to 0.17.3 (#544)",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJq6IxqCRC1aQ7uu5UhlAAAiC8QACREB9vPzt45mAU5kBE14gzw\nkqStT5Ay08aMk8UEAfzAy2bbd+buwd9ggKAQJy6FOSgSAtxi5W8IaNyPfEGz1WgE\n4VNaYUagB/D/dTNQRrp3NOSbBRWUIfC9k6w+alkXJRP1FhfTaZEgjFfQUKFO3xsb\nuXM3qGYcpMbUcAUy+P1JeOFvLwvFo5iWK/f0/kbpwZ9OCTd3K8QUjKJVPPThP4V5\nxiClxicIAQb2j7oGjerBi5FWPTHT58L+mKUkBnK93FjGpnOfVp1vr5A/6T8Kofib\ndKriu/HxyepG9XZnf44679e1406oXRw61JrPGzztzAGF1rNAe6oiJybe4kJSByua\nX0u7RzClxUIHS5M03D6wmZzG9tuX7H0KauemOgcqAPfigeiZRGRZhNUmvFHu8Ii9\nexLIMvUG8f8toQDEySvVId3NcGShRcwfkgBSCptWchsxy/62T2rEylkPatRs2lqm\nlNy4pa0gzyp4U4DX7FMtbxYWA9fXJXnXbxwUQM0rVYhGUgeWu/bkiEWlRucMZ4NS\nBUflw9jiZEkFye/2+RSdvKYf/4t/HR7x3baWTyA6sxE/QRyfRAv7e55IMr8rUTnO\naVbq1jqW4Y/NwX2G/cvfGjntWgFraFqwAw8jcb/HYKsaWaVP4lgUv2/3Kip4z/0c\nGLHjRe/A2W4zZQv/wKMl\n=6kd6\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-11-02T13:13:14Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/django-commons/django-prometheus/commit/20c38d5cf8fa8bed35159163dad7a54fd7809c0e",
+   "node_id": "C_kwDOAf4mBNoAKDIwYzM4ZDVjZjhmYThiZWQzNTE1OTE2M2RhZDdhNTRmZDc4MDljMGU",
+   "parents": [
+    {
+     "html_url": "https://github.com/django-commons/django-prometheus/commit/50fa642a00ae23688bfcafe2619d4816c4a6d061",
+     "sha": "50fa642a00ae23688bfcafe2619d4816c4a6d061",
+     "url": "https://api.github.com/repos/django-commons/django-prometheus/commits/50fa642a00ae23688bfcafe2619d4816c4a6d061"
+    }
+   ],
+   "sha": "20c38d5cf8fa8bed35159163dad7a54fd7809c0e",
+   "url": "https://api.github.com/repos/django-commons/django-prometheus/commits/20c38d5cf8fa8bed35159163dad7a54fd7809c0e"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+    "events_url": "https://api.github.com/users/dependabot%5Bbot%5D/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dependabot%5Bbot%5D/followers",
+    "following_url": "https://api.github.com/users/dependabot%5Bbot%5D/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dependabot%5Bbot%5D/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/apps/dependabot",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "node_id": "MDM6Qm90NDk2OTkzMzM=",
+    "organizations_url": "https://api.github.com/users/dependabot%5Bbot%5D/orgs",
+    "received_events_url": "https://api.github.com/users/dependabot%5Bbot%5D/received_events",
+    "repos_url": "https://api.github.com/users/dependabot%5Bbot%5D/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dependabot%5Bbot%5D/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dependabot%5Bbot%5D/subscriptions",
+    "type": "Bot",
+    "url": "https://api.github.com/users/dependabot%5Bbot%5D",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/django-commons/django-prometheus/commits/50fa642a00ae23688bfcafe2619d4816c4a6d061/comments",
+   "commit": {
+    "author": {
+     "date": "2026-11-02T12:57:07Z",
+     "email": "49699333+dependabot[bot]@users.noreply.github.com",
+     "name": "dependabot[bot]"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-11-02T12:57:07Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Bump pypa/gh-action-pypi-publish in /.github/workflows (#548)",
+    "tree": {
+     "sha": "4540edbec9a4a398f60832566c5b10905e4f3e7c",
+     "url": "https://api.github.com/repos/django-commons/django-prometheus/git/trees/4540edbec9a4a398f60832566c5b10905e4f3e7c"
+    },
+    "url": "https://api.github.com/repos/django-commons/django-prometheus/git/commits/50fa642a00ae23688bfcafe2619d4816c4a6d061",
+    "verification": {
+     "payload": "tree 4540edbec9a4a398f60832566c5b10905e4f3e7c\nparent e05be72a6ad6678732241ff4cb649f44c2f4830c\nauthor dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 1793624227 -0500\ncommitter GitHub <noreply@github.com> 1793624227 -0500\n\nBump pypa/gh-action-pypi-publish in /.github/workflows (#548)",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJq6IijCRC1aQ7uu5UhlAAAoN4QADU5567nAg0iJem+WKVb8Ncr\nX5VRjzUS7gy/Yztn6mMcH/hTa8Lhjqcb/4Prv8zxOX20Y4rNwSEQRdaLiqZHQsc4\nG6got0qTqb9OYCR8i4G5wP2W1aiME87qIztFZG4JV8b+65o+loYQht4SK9fkZYA4\nWrFjI7yOHKJulkWcear5asNl5vEG0Dxh6VOA5W1p8yOkZdCTjqQyA6v5PFGqAY9D\nLpfpB8rJIgaIVDb6sHEiB3qWhQXjx+gskMPYzWziFqJYft5WBsJqRvUD10vdH83t\nLv4XUcBHBQ01oayIXxcdkqMFzG90XB8e4/s0MLgPEIBisj6HzVw0dOYIMTIx12Y9\nJRr9GFyjZQljYkPUMfrHaTaiGUosx/eyxgwyY5Rel/A+kzLKgbbBwaSO6tYp7fzV\nSjXaQpP18B5DCkjrIdhlQ2zYhQKUijndiY1Ctcm51Y5P+Jtx2nW30rytny+TM4MS\n2wcq3hCT6T2P2ArJ6Oi4yVwNWEjBCUknYR2naOt7sINiHkn8HMfwPNFdMopyBl7E\ncYXQHuBA0675/Ho8Hg9Hj/XjRi5wlD9nYqmiF4q/QOk3z8K7O5QFeb1R/CZ4BFnw\n83cPTy3fblQ/4w6vN5/ZbYA2/c0dn7bS5snFxjhKR50JoMymXl2onyiOkRJTx1EM\nTm1ZjifEljXbGxq6c5Da\n=/yu5\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-11-02T12:57:08Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/django-commons/django-prometheus/commit/50fa642a00ae23688bfcafe2619d4816c4a6d061",
+   "node_id": "C_kwDOAf4mBNoAKDUwZmE2NDJhMDBhZTIzNjg4YmZjYWZlMjYxOWQ0ODE2YzRhNmQwNjE",
+   "parents": [
+    {
+     "html_url": "https://github.com/django-commons/django-prometheus/commit/e05be72a6ad6678732241ff4cb649f44c2f4830c",
+     "sha": "e05be72a6ad6678732241ff4cb649f44c2f4830c",
+     "url": "https://api.github.com/repos/django-commons/django-prometheus/commits/e05be72a6ad6678732241ff4cb649f44c2f4830c"
+    }
+   ],
+   "sha": "50fa642a00ae23688bfcafe2619d4816c4a6d061",
+   "url": "https://api.github.com/repos/django-commons/django-prometheus/commits/50fa642a00ae23688bfcafe2619d4816c4a6d061"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+    "events_url": "https://api.github.com/users/dependabot%5Bbot%5D/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dependabot%5Bbot%5D/followers",
+    "following_url": "https://api.github.com/users/dependabot%5Bbot%5D/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dependabot%5Bbot%5D/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/apps/dependabot",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "node_id": "MDM6Qm90NDk2OTkzMzM=",
+    "organizations_url": "https://api.github.com/users/dependabot%5Bbot%5D/orgs",
+    "received_events_url": "https://api.github.com/users/dependabot%5Bbot%5D/received_events",
+    "repos_url": "https://api.github.com/users/dependabot%5Bbot%5D/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dependabot%5Bbot%5D/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dependabot%5Bbot%5D/subscriptions",
+    "type": "Bot",
+    "url": "https://api.github.com/users/dependabot%5Bbot%5D",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/django-commons/django-prometheus/commits/e05be72a6ad6678732241ff4cb649f44c2f4830c/comments",
+   "commit": {
+    "author": {
+     "date": "2026-11-02T00:15:18Z",
+     "email": "49699333+dependabot[bot]@users.noreply.github.com",
+     "name": "dependabot[bot]"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-11-02T00:15:18Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Bump pytest from 9.1.1 to 9.2.0 (#547)",
+    "tree": {
+     "sha": "a5c26522a4bd127fc6fde2cb8f0ed6f0d1aea8e0",
+     "url": "https://api.github.com/repos/django-commons/django-prometheus/git/trees/a5c26522a4bd127fc6fde2cb8f0ed6f0d1aea8e0"
+    },
+    "url": "https://api.github.com/repos/django-commons/django-prometheus/git/commits/e05be72a6ad6678732241ff4cb649f44c2f4830c",
+    "verification": {
+     "payload": "tree a5c26522a4bd127fc6fde2cb8f0ed6f0d1aea8e0\nparent c04929aac027bde8410bde20af6ca864a1e6929d\nauthor dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 1793578518 -0500\ncommitter GitHub <noreply@github.com> 1793578518 -0500\n\nBump pytest from 9.1.1 to 9.2.0 (#547)",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJq59YWCRC1aQ7uu5UhlAAApvEQADluO7x1PQFE4IrLR8JD7qQg\nxtVm85trZbhpqbxT815i8W8vxp5njFAu1e99+p+VSnnig3Zgl5uP1+0Nb5DjNjMp\nQyYqBghh/q33dhhuiz9U+Gt1wu/bouMr/vaEXPmhddU56iciemcG/2tiyU3M2ZJf\nJzJf05TLyF1SuM8Vhv7BGvrzCQZ8G4/Y8M9zbQkgJn+P6J2aXu1ofW4M+uAzTWUi\nRBEb3ElYsFa6b9sl0GP4IGTi/1EuBkMGctbvpI/J1k7zqYZ92wqky/6flM+pNRNW\nu23l202SGAqgLwbnRXb5waTkBZQ9MfDWh6CfCUgWI4E923PXdbZpyaa3j3Nz04yG\nDxifNN4sWkeZ8BGS1105LX88botreNJWgxQumnqznmZ9+fBOtX9AgUOlhJcUFAVS\nxxFuu3kxpeCwt1RuI5pdQk8PLo7AY2fZse3jAVm7+C6e+xGn3xHywAqx4dcGx0Rw\n1Vm22YamZagxxCem6CQei/jFly5IAzOhY/oW359guj6K0mTl5z8YY5qHfkStzgE0\nCHnmCCptuQ/14stWtC7WE1emMHi310GcBdkyyOdYDg3JoauE70Hmk727ywQ5fa6z\nIc3XWLlknsL9HsSbWUNfoSsvOFZT8xxC0VY89IvnUX1AntPi5RzC36f9eXQDRIre\nxsM8lTOjIUjDsSztCPcy\n=v98x\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-11-02T00:15:18Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/django-commons/django-prometheus/commit/e05be72a6ad6678732241ff4cb649f44c2f4830c",
+   "node_id": "C_kwDOAf4mBNoAKGUwNWJlNzJhNmFkNjY3ODczMjI0MWZmNGNiNjQ5ZjQ0YzJmNDgzMGM",
+   "parents": [
+    {
+     "html_url": "https://github.com/django-commons/django-prometheus/commit/c04929aac027bde8410bde20af6ca864a1e6929d",
+     "sha": "c04929aac027bde8410bde20af6ca864a1e6929d",
+     "url": "https://api.github.com/repos/django-commons/django-prometheus/commits/c04929aac027bde8410bde20af6ca864a1e6929d"
+    }
+   ],
+   "sha": "e05be72a6ad6678732241ff4cb649f44c2f4830c",
+   "url": "https://api.github.com/repos/django-commons/django-prometheus/commits/e05be72a6ad6678732241ff4cb649f44c2f4830c"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1268088?v=4",
+    "events_url": "https://api.github.com/users/asherf/events{/privacy}",
+    "followers_url": "https://api.github.com/users/asherf/followers",
+    "following_url": "https://api.github.com/users/asherf/following{/other_user}",
+    "gists_url": "https://api.github.com/users/asherf/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/asherf",
+    "id": 1268088,
+    "login": "asherf",
+    "node_id": "MDQ6VXNlcjEyNjgwODg=",
+    "organizations_url": "https://api.github.com/users/asherf/orgs",
+    "received_events_url": "https://api.github.com/users/asherf/received_events",
+    "repos_url": "https://api.github.com/users/asherf/repos",
+    "site_admin": true,
+    "starred_url": "https://api.github.com/users/asherf/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/asherf/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/asherf",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/django-commons/django-prometheus/commits/c04929aac027bde8410bde20af6ca864a1e6929d/comments",
+   "commit": {
+    "author": {
+     "date": "2026-09-19T15:57:51Z",
+     "email": "asher@asherfoa.com",
+     "name": "Asher Foa"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-09-19T15:57:51Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Update to latest setuptools, fix usage (#535)",
+    "tree": {
+     "sha": "e90807ae9d4b5577711b4e0854974491a39bba42",
+     "url": "https://api.github.com/repos/django-commons/django-prometheus/git/trees/e90807ae9d4b5577711b4e0854974491a39bba42"
+    },
+    "url": "https://api.github.com/repos/django-commons/django-prometheus/git/commits/c04929aac027bde8410bde20af6ca864a1e6929d",
+    "verification": {
+     "payload": "tree e90807ae9d4b5577711b4e0854974491a39bba42\nparent 6aef6070696a5db4910aef6e505217f355cbd41d\nauthor Asher Foa <asher@asherfoa.com> 1789833471 -0400\ncommitter GitHub <noreply@github.com> 1789833471 +0000\n\nUpdate to latest setuptools, fix usage (#535)",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqrrD/CRC1aQ7uu5UhlAAAxQEQAHs/WrwW4czTuscE5uUuLDU/\nQkueCWXEC2KPA4cmSjao30MWnI5AMAQQQG3U5I+LaWjiXZemMfU04gu034iSmUt7\n2wtAWNqxV4OP5b6EoD2AuwyeNzSU2GwPw91BC/p3Os7067YE8qmQwVY7K3HA1jGb\n8wfhl+JHl/d5IiHBW0lrict/Qzjsh1Ria5W0wi5rLguibKNfKiQ4pJ056GPbSXUf\na44u/cQarY6fOiYFcCGZTVOl9XgDC2uYUCVIx7kg8FrGL5J246yzhVlZCMg8pl1E\n8UE8GpzE+BNeH8SPFyo5iJIYmxDEoznRtA4nVB0vt/gb5p1y6rgXIZJB+Ry257hU\nUCUCtjZg3aP5Xl2t4Fqp5YBlbJ955M18prQGeJnDDcOILUxaAm4cZOUvQZgqjZh+\n53svhWFmr421I4v6q3MeBswji9/tT/TUM0b7vRZF1cAf9yVrSNDIXp8dV+fwk5Wa\nqchnH4YyAlLvqVcIYjTGsafgzdzCDuF6V+fh1H67A9bT0s97+t9YL7oOPQRHb04a\nRVDh+blA+PAzdClI3P2ohKFDwc5iKE/XIkQQQDD4v+EWh0RyPBVRZyKcpZ/L5qP2\nOHZs7cXTCbXllylP9vqr8rl657YZNXSoH5PjjbAupjnu0oIm3U6+D/LXidGiUpmz\nE7KLyAwsdtxk+yizQVSX\n=/d9H\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-09-19T15:57:51Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/django-commons/django-prometheus/commit/c04929aac027bde8410bde20af6ca864a1e6929d",
+   "node_id": "C_kwDOAf4mBNoAKGMwNDkyOWFhYzAyN2JkZTg0MTBiZGUyMGFmNmNhODY0YTFlNjkyOWQ",
+   "parents": [
+    {
+     "html_url": "https://github.com/django-commons/django-prometheus/commit/6aef6070696a5db4910aef6e505217f355cbd41d",
+     "sha": "6aef6070696a5db4910aef6e505217f355cbd41d",
+     "url": "https://api.github.com/repos/django-commons/django-prometheus/commits/6aef6070696a5db4910aef6e505217f355cbd41d"
+    }
+   ],
+   "sha": "c04929aac027bde8410bde20af6ca864a1e6929d",
+   "url": "https://api.github.com/repos/django-commons/django-prometheus/commits/c04929aac027bde8410bde20af6ca864a1e6929d"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+    "events_url": "https://api.github.com/users/dependabot%5Bbot%5D/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dependabot%5Bbot%5D/followers",
+    "following_url": "https://api.github.com/users/dependabot%5Bbot%5D/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dependabot%5Bbot%5D/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/apps/dependabot",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "node_id": "MDM6Qm90NDk2OTkzMzM=",
+    "organizations_url": "https://api.github.com/users/dependabot%5Bbot%5D/orgs",
+    "received_events_url": "https://api.github.com/users/dependabot%5Bbot%5D/received_events",
+    "repos_url": "https://api.github.com/users/dependabot%5Bbot%5D/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dependabot%5Bbot%5D/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dependabot%5Bbot%5D/subscriptions",
+    "type": "Bot",
+    "url": "https://api.github.com/users/dependabot%5Bbot%5D",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/django-commons/django-prometheus/commits/6aef6070696a5db4910aef6e505217f355cbd41d/comments",
+   "commit": {
+    "author": {
+     "date": "2026-09-19T15:50:30Z",
+     "email": "49699333+dependabot[bot]@users.noreply.github.com",
+     "name": "dependabot[bot]"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-09-19T15:50:30Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Bump https://github.com/astral-sh/ruff-pre-commit (#531)\n\nBumps [https://github.com/astral-sh/ruff-pre-commit](https://github.com/astral-sh/ruff-pre-commit) from v0.11.13 to 0.16.7.\n- [Release notes](https://github.com/astral-sh/ruff-pre-commit/releases)\n- [Commits](https://github.com/astral-sh/ruff-pre-commit/compare/v0.11.13...v0.16.7)\n\n---\nupdated-dependencies:\n- dependency-name: https://github.com/astral-sh/ruff-pre-commit\n  dependency-version: 0.16.7\n  dependency-type: direct:production\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>\nCo-authored-by: Asher Foa <asher@asherfoa.com>",
+    "tree": {
+     "sha": "849d4ab7e1bec1815ae39031073c512c0f94dadc",
+     "url": "https://api.github.com/repos/django-commons/django-prometheus/git/trees/849d4ab7e1bec1815ae39031073c512c0f94dadc"
+    },
+    "url": "https://api.github.com/repos/django-commons/django-prometheus/git/commits/6aef6070696a5db4910aef6e505217f355cbd41d",
+    "verification": {
+     "payload": "tree 849d4ab7e1bec1815ae39031073c512c0f94dadc\nparent eea1555dafcc58bb2dd970857ec93b6b7d3acf71\nauthor dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 1789833030 +0000\ncommitter GitHub <noreply@github.com> 1789833030 +0000\n\nBump https://github.com/astral-sh/ruff-pre-commit (#531)\n\nBumps [https://github.com/astral-sh/ruff-pre-commit](https://github.com/astral-sh/ruff-pre-commit) from v0.11.13 to 0.16.7.\n- [Release notes](https://github.com/astral-sh/ruff-pre-commit/releases)\n- [Commits](https://github.com/astral-sh/ruff-pre-commit/compare/v0.11.13...v0.16.7)\n\n---\nupdated-dependencies:\n- dependency-name: https://github.com/astral-sh/ruff-pre-commit\n  dependency-version: 0.16.7\n  dependency-type: direct:production\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>\nCo-authored-by: Asher Foa <asher@asherfoa.com>",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqrq9GCRC1aQ7uu5UhlAAABNgQAJ6Oh5KXPKL/iXbFRmKmMhzH\nptZ4jBwxiRp6Fiju8AJP1W9W5cwJ65liAvyL+Y9GxSrSGjCcAcX5fdX3aqjnhw2S\nCtIVspt8knmD8N2l+X6pku4Dms5w/xdUkwWybIcUshRWBeJboDRU3yTvxoPyh9ly\nLrNFEl2DXnnMV0UqV31r7gnQUT+vSyyni29lbcS9rWqdYSuxUlipY8wJvwkv1a4q\nEcGAgU9v+F/agKenATU7Ud1apgHT5iz9AQJRg1Tkj/ahmduETt0uRt4jlFr699nN\nI0XiArAXpr1Qpd8MeukKc37/SeZjMcF3lY7RkeyM5ztOgO+REsmFXAzTNRQjlqqw\nyFiXvKeOEDxW2KBib9ZQafEVJ+YKWzwa8R2/GYK7Ap+7CWR9V32rwVrJvlbMcQQU\nEg6EAn2PFq4hO+pSYuQ1fBjoLBuHlxozdZHhxfWezyzLLYimkS3U2NFU3vMrD6Eu\nlI7zf/w76Ei/b4OXCvSVpV8O+HSmbiDXtklKt4HMYwR+ZYrAFK+25YUiNDaLdKEM\nVcV33sD2JcA9CG6XfbY7FkawmoPcJYDBjXXD/9GQvfeZJUquP88pdnD+b69L/on2\nju8Q9hRVYRdyPgyWuUdVu7B5ujHW0wVInYZVpxaO2qYcNAufCY8Qw2yN6zhIn/RC\nTn+u7w0vz4artvbt2qZ9\n=2q34\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-09-19T15:50:30Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/django-commons/django-prometheus/commit/6aef6070696a5db4910aef6e505217f355cbd41d",
+   "node_id": "C_kwDOAf4mBNoAKDZhZWY2MDcwNjk2YTVkYjQ5MTBhZWY2ZTUwNTIxN2YzNTVjYmQ0MWQ",
+   "parents": [
+    {
+     "html_url": "https://github.com/django-commons/django-prometheus/commit/eea1555dafcc58bb2dd970857ec93b6b7d3acf71",
+     "sha": "eea1555dafcc58bb2dd970857ec93b6b7d3acf71",
+     "url": "https://api.github.com/repos/django-commons/django-prometheus/commits/eea1555dafcc58bb2dd970857ec93b6b7d3acf71"
+    }
+   ],
+   "sha": "6aef6070696a5db4910aef6e505217f355cbd41d",
+   "url": "https://api.github.com/repos/django-commons/django-prometheus/commits/6aef6070696a5db4910aef6e505217f355cbd41d"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1268088?v=4",
+    "events_url": "https://api.github.com/users/asherf/events{/privacy}",
+    "followers_url": "https://api.github.com/users/asherf/followers",
+    "following_url": "https://api.github.com/users/asherf/following{/other_user}",
+    "gists_url": "https://api.github.com/users/asherf/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/asherf",
+    "id": 1268088,
+    "login": "asherf",
+    "node_id": "MDQ6VXNlcjEyNjgwODg=",
+    "organizations_url": "https://api.github.com/users/asherf/orgs",
+    "received_events_url": "https://api.github.com/users/asherf/received_events",
+    "repos_url": "https://api.github.com/users/asherf/repos",
+    "site_admin": true,
+    "starred_url": "https://api.github.com/users/asherf/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/asherf/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/asherf",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/django-commons/django-prometheus/commits/eea1555dafcc58bb2dd970857ec93b6b7d3acf71/comments",
+   "commit": {
+    "author": {
+     "date": "2026-09-19T15:46:37Z",
+     "email": "asher@asherfoa.com",
+     "name": "Asher Foa"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-09-19T15:46:37Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "reformat examples (#534)",
+    "tree": {
+     "sha": "bbf22baf9b6d92ae8281505f99bd21e0a43cf80e",
+     "url": "https://api.github.com/repos/django-commons/django-prometheus/git/trees/bbf22baf9b6d92ae8281505f99bd21e0a43cf80e"
+    },
+    "url": "https://api.github.com/repos/django-commons/django-prometheus/git/commits/eea1555dafcc58bb2dd970857ec93b6b7d3acf71",
+    "verification": {
+     "payload": "tree bbf22baf9b6d92ae8281505f99bd21e0a43cf80e\nparent 2af29a651acf31a4415626c42f2f93bf4171a0b2\nauthor Asher Foa <asher@asherfoa.com> 1789832797 -0400\ncommitter GitHub <noreply@github.com> 1789832797 +0000\n\nreformat examples (#534)",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqrq5dCRC1aQ7uu5UhlAAAHDIQAG6ZprvyKV9hxFuVPphMhEox\nWuDCUXdcd7SEXTGTNGtWy0UPLjECGwVdD6f/RdSvhelwCVKiGY3zklN9RtXL5xTg\nZC/XAcZT8scqYpKo81gTYcspB/BM/LU16iSR7k+Y3EK7/4lJyidXKb3E9a0XsXIY\nfC+JaCr6S9ugdHogxTbhGAMiVmRIPB2m3XqAhe5rUTD3P+CXQZ2FkDTxn2Nylz1+\ndkPzCTPmn3p0nAXaxb0uwl8TbMrlfkFhEu6cgOIB+YO1KLZUDS/bxDkZqxGOMFEX\n/vcE2hNwAbich/7Zcmm7roOKDDxE5PYwS2cKYFdx0cVmSVfFqh5lPj4EyxYWHdp3\nOUPGcEZmpvFqZfOD0/PrI3S98hoJnieLID4J1ktFVfxr7y3afTaDK3FPYoRnvzNr\nIuCvucahELEYylwT/gFId3csUy6bl/xz7O5uGaVTxv8EQTkwTwdL/WyRqw2xRJiD\nUew8t9A8fgPhRftUV5izHScUon45RsfGODrVUaZRekB25NA5XNydT9Uhy78S3amW\nR8Yl2PhPb7a1E/bDMaP9eSwFX24r4+mIa8j8sOQoVOwz6mnD/yV+88as3CMXCHtC\nsT/VopfgDi5tip4yC1X8a1sRzsCxeKGcbSImdYeHSxXzFnQom1G08B56vg3TPhK0\n+V9NL8/ESfWRztjQSoSu\n=3rmx\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-09-19T15:46:37Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/django-commons/django-prometheus/commit/eea1555dafcc58bb2dd970857ec93b6b7d3acf71",
+   "node_id": "C_kwDOAf4mBNoAKGVlYTE1NTVkYWZjYzU4YmIyZGQ5NzA4NTdlYzkzYjZiN2QzYWNmNzE",
+   "parents": [
+    {
+     "html_url": "https://github.com/django-commons/django-prometheus/commit/2af29a651acf31a4415626c42f2f93bf4171a0b2",
+     "sha": "2af29a651acf31a4415626c42f2f93bf4171a0b2",
+     "url": "https://api.github.com/repos/django-commons/django-prometheus/commits/2af29a651acf31a4415626c42f2f93bf4171a0b2"
+    }
+   ],
+   "sha": "eea1555dafcc58bb2dd970857ec93b6b7d3acf71",
+   "url": "https://api.github.com/repos/django-commons/django-prometheus/commits/eea1555dafcc58bb2dd970857ec93b6b7d3acf71"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+    "events_url": "https://api.github.com/users/dependabot%5Bbot%5D/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dependabot%5Bbot%5D/followers",
+    "following_url": "https://api.github.com/users/dependabot%5Bbot%5D/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dependabot%5Bbot%5D/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/apps/dependabot",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "node_id": "MDM6Qm90NDk2OTkzMzM=",
+    "organizations_url": "https://api.github.com/users/dependabot%5Bbot%5D/orgs",
+    "received_events_url": "https://api.github.com/users/dependabot%5Bbot%5D/received_events",
+    "repos_url": "https://api.github.com/users/dependabot%5Bbot%5D/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dependabot%5Bbot%5D/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dependabot%5Bbot%5D/subscriptions",
+    "type": "Bot",
+    "url": "https://api.github.com/users/dependabot%5Bbot%5D",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/django-commons/django-prometheus/commits/2af29a651acf31a4415626c42f2f93bf4171a0b2/comments",
+   "commit": {
+    "author": {
+     "date": "2026-09-19T15:19:03Z",
+     "email": "49699333+dependabot[bot]@users.noreply.github.com",
+     "name": "dependabot[bot]"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-09-19T15:19:03Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Update prometheus-client requirement from >=0.12.0 to >=0.26.0 (#533)\n\nUpdates the requirements on [prometheus-client](https://github.com/prometheus/client_python) to permit the latest version.\n- [Release notes](https://github.com/prometheus/client_python/releases)\n- [Commits](https://github.com/prometheus/client_python/compare/v0.12.0...v0.26.0)\n\n---\nupdated-dependencies:\n- dependency-name: prometheus-client\n  dependency-version: 0.26.0\n  dependency-type: direct:production\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>\nCo-authored-by: Asher Foa <asher@asherfoa.com>",
+    "tree": {
+     "sha": "dfd8166c4383d1fa668f3bbccf33505b5e1abe3d",
+     "url": "https://api.github.com/repos/django-commons/django-prometheus/git/trees/dfd8166c4383d1fa668f3bbccf33505b5e1abe3d"
+    },
+    "url": "https://api.github.com/repos/django-commons/django-prometheus/git/commits/2af29a651acf31a4415626c42f2f93bf4171a0b2",
+    "verification": {
+     "payload": "tree dfd8166c4383d1fa668f3bbccf33505b5e1abe3d\nparent 7203d18d2ac67c4cf3a93cc2038e693fd2d88c4b\nauthor dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 1789831143 +0000\ncommitter GitHub <noreply@github.com> 1789831143 +0000\n\nUpdate prometheus-client requirement from >=0.12.0 to >=0.26.0 (#533)\n\nUpdates the requirements on [prometheus-client](https://github.com/prometheus/client_python) to permit the latest version.\n- [Release notes](https://github.com/prometheus/client_python/releases)\n- [Commits](https://github.com/prometheus/client_python/compare/v0.12.0...v0.26.0)\n\n---\nupdated-dependencies:\n- dependency-name: prometheus-client\n  dependency-version: 0.26.0\n  dependency-type: direct:production\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>\nCo-authored-by: Asher Foa <asher@asherfoa.com>",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqrqfnCRC1aQ7uu5UhlAAAkR8QAAHAqHQz1En5DchqH3IIa03M\nvPtA/526oaE+vW82H5ZpdM3H5LuSTjiJ1qaeEQohW4E3S4+nF0w/l79+kb2ue6Nf\n/2fcK99r4wQI1G12rmyizMYNd8RsFos/VaGMgI8dmdaacBXeHsKzXXhvZz+mo3Eu\nD5ft8pl0MFYDMIcf/wMTjkAFRht3eG/8DcWI5FUZcLZ/5l/feMeGglw1E5kKPpbv\n+x6ChWaqX1spE6/l4arIMr9lt3TwMmZq7pscmFtAi2bu6DyH9KAP47pgNWPFtOKr\naIQbsn1NdGTbyXVlJazxDkafxTivoYoUCZj45Y9/TVI6xZJthbfOH+NTrMd1BP+4\n9N/7Pd/cAapqWbQ96ObSIdy4ewrvterPRzKAM1uhK1WrlZlBMnbjoXlVnbGqgD0x\nVzNmFTuRAm0cB5ltujekf+p/g2dbukGvy4T1z++b1dijBx2e71dXnvJ4L5DVeJX7\nYs6bSOw0XQ88k1RPkpmjGPkR7Quvl6vmHu9XDGzliPkalxC1ViOPOlgSZk31ffg/\nin0IueKqmxjR992aY9mdVCjHO1ts6+m+TqF1j5vaBA80JkQy8Ngs6pX/qoVMRp7D\nMn0hfzD76kIuY9wZyREdPiawb+YofvRsdcM+e3XU9zFkcSl4KY+KmS6s+J41Zd8F\nefDiHhRA4xr3rstjggwr\n=nr9l\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-09-19T15:19:03Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/django-commons/django-prometheus/commit/2af29a651acf31a4415626c42f2f93bf4171a0b2",
+   "node_id": "C_kwDOAf4mBNoAKDJhZjI5YTY1MWFjZjMxYTQ0MTU2MjZjNDJmMmY5M2JmNDE3MWEwYjI",
+   "parents": [
+    {
+     "html_url": "https://github.com/django-commons/django-prometheus/commit/7203d18d2ac67c4cf3a93cc2038e693fd2d88c4b",
+     "sha": "7203d18d2ac67c4cf3a93cc2038e693fd2d88c4b",
+     "url": "https://api.github.com/repos/django-commons/django-prometheus/commits/7203d18d2ac67c4cf3a93cc2038e693fd2d88c4b"
+    }
+   ],
+   "sha": "2af29a651acf31a4415626c42f2f93bf4171a0b2",
+   "url": "https://api.github.com/repos/django-commons/django-prometheus/commits/2af29a651acf31a4415626c42f2f93bf4171a0b2"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+    "events_url": "https://api.github.com/users/dependabot%5Bbot%5D/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dependabot%5Bbot%5D/followers",
+    "following_url": "https://api.github.com/users/dependabot%5Bbot%5D/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dependabot%5Bbot%5D/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/apps/dependabot",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "node_id": "MDM6Qm90NDk2OTkzMzM=",
+    "organizations_url": "https://api.github.com/users/dependabot%5Bbot%5D/orgs",
+    "received_events_url": "https://api.github.com/users/dependabot%5Bbot%5D/received_events",
+    "repos_url": "https://api.github.com/users/dependabot%5Bbot%5D/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dependabot%5Bbot%5D/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dependabot%5Bbot%5D/subscriptions",
+    "type": "Bot",
+    "url": "https://api.github.com/users/dependabot%5Bbot%5D",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/django-commons/django-prometheus/commits/7203d18d2ac67c4cf3a93cc2038e693fd2d88c4b/comments",
+   "commit": {
+    "author": {
+     "date": "2026-09-19T15:14:53Z",
+     "email": "49699333+dependabot[bot]@users.noreply.github.com",
+     "name": "dependabot[bot]"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-09-19T15:14:53Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Bump https://github.com/asottile/pyupgrade from v3.20.0 to 3.21.2 (#529)",
+    "tree": {
+     "sha": "c46d671d526abb821f4cf54706f65e815761dbfe",
+     "url": "https://api.github.com/repos/django-commons/django-prometheus/git/trees/c46d671d526abb821f4cf54706f65e815761dbfe"
+    },
+    "url": "https://api.github.com/repos/django-commons/django-prometheus/git/commits/7203d18d2ac67c4cf3a93cc2038e693fd2d88c4b",
+    "verification": {
+     "payload": "tree c46d671d526abb821f4cf54706f65e815761dbfe\nparent e5ec4cf7e62eee3e70d611eb567f5636236a6f18\nauthor dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 1789830893 -0400\ncommitter GitHub <noreply@github.com> 1789830893 -0400\n\nBump https://github.com/asottile/pyupgrade from v3.20.0 to 3.21.2 (#529)",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqrqbtCRC1aQ7uu5UhlAAALOYQAHzpCw9VuanTjFssJBoma9Dq\nIxvQXs81aXZ1ysIUYVQMuR77266waa0Ukj3swncAm3ZE++k8W+S4WGR1Yeql/w2J\n2X81mMxIaq4iWyYyjNmGRhREdspCWbmDeW73UDu2zPMH1F0I5mjaMaaVkQf372xD\nOv3MhdFPJf8pjtjqvzHqZvJRWW1C6Cpu++wjwb+kDZw3huHWd9QlIN4omjsvNqgw\nn3g2TIz0WyoI6NS5Au6kknsD2QuFUxDARDjkrdwJSBSIWSNJ8HG3aTpUGfVSySY8\nKH56oBF+ImAlwLRvqm2knEy6chsAgFVXvS3pRGIslImmUK6GkEL4XlxwRnHn42Ia\nHzFU7s2YJAGIyjT75bc+iR1+rlljhNhLCqZVyIuG+rZxop8BUgxuKyA1BaNC6rKU\nh9LZpoiw+GuozlbP7V9FAWg3d1lIGlVZFARWDcjgKSS8PTOvBOHlcYDBuBU+Xudn\nFAWbNMQ+8BHSkpvavDAcCUUkIOxsbWvFURcfgpXWmIad/S8Hdv2a0QK0xdqZ1E9d\n5+VKtbwVkS0wmojqFL96UQN/IX0sK0QE/I459WLq6rpjGldpbUT3lEqG8AhM2qCl\nSSnQ0ygc6ok5Un+HpPNfS2/4/Tg4eJgFZPa9Y0ZA3Jyo7OF02sqM5WusCE6eTxtw\n3+SwtLfjlCALOm4NT4ml\n=4LbV\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-09-19T15:14:54Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/django-commons/django-prometheus/commit/7203d18d2ac67c4cf3a93cc2038e693fd2d88c4b",
+   "node_id": "C_kwDOAf4mBNoAKDcyMDNkMThkMmFjNjdjNGNmM2E5M2NjMjAzOGU2OTNmZDJkODhjNGI",
+   "parents": [
+    {
+     "html_url": "https://github.com/django-commons/django-prometheus/commit/e5ec4cf7e62eee3e70d611eb567f5636236a6f18",
+     "sha": "e5ec4cf7e62eee3e70d611eb567f5636236a6f18",
+     "url": "https://api.github.com/repos/django-commons/django-prometheus/commits/e5ec4cf7e62eee3e70d611eb567f5636236a6f18"
+    }
+   ],
+   "sha": "7203d18d2ac67c4cf3a93cc2038e693fd2d88c4b",
+   "url": "https://api.github.com/repos/django-commons/django-prometheus/commits/7203d18d2ac67c4cf3a93cc2038e693fd2d88c4b"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+    "events_url": "https://api.github.com/users/dependabot%5Bbot%5D/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dependabot%5Bbot%5D/followers",
+    "following_url": "https://api.github.com/users/dependabot%5Bbot%5D/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dependabot%5Bbot%5D/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/apps/dependabot",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "node_id": "MDM6Qm90NDk2OTkzMzM=",
+    "organizations_url": "https://api.github.com/users/dependabot%5Bbot%5D/orgs",
+    "received_events_url": "https://api.github.com/users/dependabot%5Bbot%5D/received_events",
+    "repos_url": "https://api.github.com/users/dependabot%5Bbot%5D/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dependabot%5Bbot%5D/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dependabot%5Bbot%5D/subscriptions",
+    "type": "Bot",
+    "url": "https://api.github.com/users/dependabot%5Bbot%5D",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/django-commons/django-prometheus/commits/e5ec4cf7e62eee3e70d611eb567f5636236a6f18/comments",
+   "commit": {
+    "author": {
+     "date": "2026-09-19T14:56:11Z",
+     "email": "49699333+dependabot[bot]@users.noreply.github.com",
+     "name": "dependabot[bot]"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-09-19T14:56:11Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Bump https://github.com/google/yamlfmt from v0.17.0 to 0.21.0 (#527)\n\nBumps [https://github.com/google/yamlfmt](https://github.com/google/yamlfmt) from v0.17.0 to 0.21.0.\n- [Release notes](https://github.com/google/yamlfmt/releases)\n- [Commits](https://github.com/google/yamlfmt/compare/v0.17.0...v0.21.0)\n\n---\nupdated-dependencies:\n- dependency-name: https://github.com/google/yamlfmt\n  dependency-version: 0.21.0\n  dependency-type: direct:production\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
+    "tree": {
+     "sha": "3a433ebb0e943dac0d5d8d24d5bb7e04c333f559",
+     "url": "https://api.github.com/repos/django-commons/django-prometheus/git/trees/3a433ebb0e943dac0d5d8d24d5bb7e04c333f559"
+    },
+    "url": "https://api.github.com/repos/django-commons/django-prometheus/git/commits/e5ec4cf7e62eee3e70d611eb567f5636236a6f18",
+    "verification": {
+     "payload": "tree 3a433ebb0e943dac0d5d8d24d5bb7e04c333f559\nparent 9e279e287f6a899ead434088e49dac91c528dc23\nauthor dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 1789829771 +0000\ncommitter GitHub <noreply@github.com> 1789829771 +0000\n\nBump https://github.com/google/yamlfmt from v0.17.0 to 0.21.0 (#527)\n\nBumps [https://github.com/google/yamlfmt](https://github.com/google/yamlfmt) from v0.17.0 to 0.21.0.\n- [Release notes](https://github.com/google/yamlfmt/releases)\n- [Commits](https://github.com/google/yamlfmt/compare/v0.17.0...v0.21.0)\n\n---\nupdated-dependencies:\n- dependency-name: https://github.com/google/yamlfmt\n  dependency-version: 0.21.0\n  dependency-type: direct:production\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqrqKLCRC1aQ7uu5UhlAAAPyYQAJb+9dP4JUESr5otegz4wEg2\nnUY1cH47S1GdGvJPnlN0aCDsy5f+oiIbhmmCFBaScjS6150VT0aKAFT5bzsi60qz\nc5fPi3y4rEeSsoytdPiWi8fFBGPe375jn4UCLBr6wwvATD5EZ6feLOX7iSZVPxlZ\nGj5Uw4FWpm5JaC+41dzC6ccsqrqAkhIsOsAauYdrnzk1my28YY47GbSj5iw8kZZS\nv5HiwCIDhI7+6JfhQ2MAWfQ3CDpCmBmAhlYhmmU5IMwznzz9leRoPeXBBCVpwr5s\noOoW5/2wHK7ZXbRElveN8z3Cip6G9BjdwopP0hgqaJ6UD//EGaisAWZK4XW2rlOF\n/Nwx+XEDnUJPtJPkFNjDKuUodeuZu7++nPGtA7LVkP4X0ko8jf8uZBdroeYfiC9c\nIBv69VTJ7OkKEXjMmATowqU7p4GLixLaiG80tggkZepm/WBP/g2jPyjQfg0vq/9c\nebSjOWP0c8LJTxyYwBsTfMZA1HzPbzOnk80MnC3C8oewxoXSN3RlsJW11l/OWnjl\naChVxwkdEKfKR5dykrKv5aHBmj81Frwpm7EtWZMgLrobpMGxxrQFoa9/zHg/Ihv1\n4KaMV6Y36GrM/GvTQ5mcYadpLqIJXbjHs1M8pumThl6jErDzEcMLkfua1LzYWwoO\n3hhxAX23RUd1LOl3rxX9\n=/6L/\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-09-19T14:56:12Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/django-commons/django-prometheus/commit/e5ec4cf7e62eee3e70d611eb567f5636236a6f18",
+   "node_id": "C_kwDOAf4mBNoAKGU1ZWM0Y2Y3ZTYyZWVlM2U3MGQ2MTFlYjU2N2Y1NjM2MjM2YTZmMTg",
+   "parents": [
+    {
+     "html_url": "https://github.com/django-commons/django-prometheus/commit/9e279e287f6a899ead434088e49dac91c528dc23",
+     "sha": "9e279e287f6a899ead434088e49dac91c528dc23",
+     "url": "https://api.github.com/repos/django-commons/django-prometheus/commits/9e279e287f6a899ead434088e49dac91c528dc23"
+    }
+   ],
+   "sha": "e5ec4cf7e62eee3e70d611eb567f5636236a6f18",
+   "url": "https://api.github.com/repos/django-commons/django-prometheus/commits/e5ec4cf7e62eee3e70d611eb567f5636236a6f18"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+    "events_url": "https://api.github.com/users/dependabot%5Bbot%5D/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dependabot%5Bbot%5D/followers",
+    "following_url": "https://api.github.com/users/dependabot%5Bbot%5D/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dependabot%5Bbot%5D/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/apps/dependabot",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "node_id": "MDM6Qm90NDk2OTkzMzM=",
+    "organizations_url": "https://api.github.com/users/dependabot%5Bbot%5D/orgs",
+    "received_events_url": "https://api.github.com/users/dependabot%5Bbot%5D/received_events",
+    "repos_url": "https://api.github.com/users/dependabot%5Bbot%5D/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dependabot%5Bbot%5D/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dependabot%5Bbot%5D/subscriptions",
+    "type": "Bot",
+    "url": "https://api.github.com/users/dependabot%5Bbot%5D",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/django-commons/django-prometheus/commits/9e279e287f6a899ead434088e49dac91c528dc23/comments",
+   "commit": {
+    "author": {
+     "date": "2026-09-19T14:45:10Z",
+     "email": "49699333+dependabot[bot]@users.noreply.github.com",
+     "name": "dependabot[bot]"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-09-19T14:45:10Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Update wheel requirement from >=0.40.0 to >=0.48.0 (#530)\n\nUpdates the requirements on [wheel](https://github.com/pypa/wheel) to permit the latest version.\n- [Release notes](https://github.com/pypa/wheel/releases)\n- [Changelog](https://github.com/pypa/wheel/blob/main/docs/news.rst)\n- [Commits](https://github.com/pypa/wheel/compare/0.40.0...0.48.0)\n\n---\nupdated-dependencies:\n- dependency-name: wheel\n  dependency-version: 0.48.0\n  dependency-type: direct:production\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
+    "tree": {
+     "sha": "d748768eee3cc80ff64f747fb7657cb8d8f86172",
+     "url": "https://api.github.com/repos/django-commons/django-prometheus/git/trees/d748768eee3cc80ff64f747fb7657cb8d8f86172"
+    },
+    "url": "https://api.github.com/repos/django-commons/django-prometheus/git/commits/9e279e287f6a899ead434088e49dac91c528dc23",
+    "verification": {
+     "payload": "tree d748768eee3cc80ff64f747fb7657cb8d8f86172\nparent 5d03eecb6ce7c9a65857423a53d828f918f29ca4\nauthor dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 1789829110 +0000\ncommitter GitHub <noreply@github.com> 1789829110 +0000\n\nUpdate wheel requirement from >=0.40.0 to >=0.48.0 (#530)\n\nUpdates the requirements on [wheel](https://github.com/pypa/wheel) to permit the latest version.\n- [Release notes](https://github.com/pypa/wheel/releases)\n- [Changelog](https://github.com/pypa/wheel/blob/main/docs/news.rst)\n- [Commits](https://github.com/pypa/wheel/compare/0.40.0...0.48.0)\n\n---\nupdated-dependencies:\n- dependency-name: wheel\n  dependency-version: 0.48.0\n  dependency-type: direct:production\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqrp/2CRC1aQ7uu5UhlAAASnUQAJgHuy+UiAAyO4YtbVLrAjMl\ntF1USypNhAlf/GQ1FRY27XLQKvgPHYjY5BFj6K/O4wy9RwRLg0B5zSvEmgM6JNfW\nqNsIa+3u0r/4N0YW5ndi/OujUy6kJfFMlep2u29q+ndSc7xw8YOcrmjjcAYrtJTz\nW4udX9zCyP6LstI3C2S1fitC4FbPUCPlSfnaW0jFm+GUhqrRJnkXirMSOiTFFouD\n9UEimaW2+oSHk3gnuj5pSSrVDdVVkLXZhJUOgTTfXrioIqqR9i6ZPQoFa4RpJR/D\n1/O+3mjjzwrQPVZCUe7NcbvxbdWOYU95uf6uMRECJrvLAXBFeRwwQe5wgpTsfepX\nMXmpghc72sK4JG3B1exUoyHliEYAT+6xjugENvluY90yVjklUXDVzmLEQa69rLl6\n5Rk/oqYt63tBAd3XhssIbbSs4NsmpvLc2SXLCDEUW51oCnDX3NXLvuKGPFg/pYs2\ndKgzInHdTTXvWVgyMF0ssTv3JmCabYNggTixGBFocIl1fBfi8vlja9WLiJ9SmRtN\nAQAfy7EcV2LqMZcN2GMiYpbjeM9K5BLWowCK0DdokzhcnwlRIs7ihII9UBxlNQDK\niEWBJ19hSJOK4tPruAkXWDrrYAW2yeZ9Ho798jqruCg5+07AuhksaYCs3a+Ad4B2\n7FONN47HAJPCFINHxTM4\n=jV75\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-09-19T14:45:10Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/django-commons/django-prometheus/commit/9e279e287f6a899ead434088e49dac91c528dc23",
+   "node_id": "C_kwDOAf4mBNoAKDllMjc5ZTI4N2Y2YTg5OWVhZDQzNDA4OGU0OWRhYzkxYzUyOGRjMjM",
+   "parents": [
+    {
+     "html_url": "https://github.com/django-commons/django-prometheus/commit/5d03eecb6ce7c9a65857423a53d828f918f29ca4",
+     "sha": "5d03eecb6ce7c9a65857423a53d828f918f29ca4",
+     "url": "https://api.github.com/repos/django-commons/django-prometheus/commits/5d03eecb6ce7c9a65857423a53d828f918f29ca4"
+    }
+   ],
+   "sha": "9e279e287f6a899ead434088e49dac91c528dc23",
+   "url": "https://api.github.com/repos/django-commons/django-prometheus/commits/9e279e287f6a899ead434088e49dac91c528dc23"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+    "events_url": "https://api.github.com/users/dependabot%5Bbot%5D/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dependabot%5Bbot%5D/followers",
+    "following_url": "https://api.github.com/users/dependabot%5Bbot%5D/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dependabot%5Bbot%5D/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/apps/dependabot",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "node_id": "MDM6Qm90NDk2OTkzMzM=",
+    "organizations_url": "https://api.github.com/users/dependabot%5Bbot%5D/orgs",
+    "received_events_url": "https://api.github.com/users/dependabot%5Bbot%5D/received_events",
+    "repos_url": "https://api.github.com/users/dependabot%5Bbot%5D/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dependabot%5Bbot%5D/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dependabot%5Bbot%5D/subscriptions",
+    "type": "Bot",
+    "url": "https://api.github.com/users/dependabot%5Bbot%5D",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/django-commons/django-prometheus/commits/5d03eecb6ce7c9a65857423a53d828f918f29ca4/comments",
+   "commit": {
+    "author": {
+     "date": "2026-09-19T14:41:14Z",
+     "email": "49699333+dependabot[bot]@users.noreply.github.com",
+     "name": "dependabot[bot]"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-09-19T14:41:14Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Bump https://github.com/adamchainz/django-upgrade from 1.25.0 to 1.32.0 (#524)\n\nBumps [https://github.com/adamchainz/django-upgrade](https://github.com/adamchainz/django-upgrade) from 1.25.0 to 1.32.0.\n- [Changelog](https://github.com/adamchainz/django-upgrade/blob/main/docs/changelog.rst)\n- [Commits](https://github.com/adamchainz/django-upgrade/compare/1.25.0...1.32.0)\n\n---\nupdated-dependencies:\n- dependency-name: https://github.com/adamchainz/django-upgrade\n  dependency-version: 1.32.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
+    "tree": {
+     "sha": "5de14d83cfcc451970d5cdb345dbc223039fd554",
+     "url": "https://api.github.com/repos/django-commons/django-prometheus/git/trees/5de14d83cfcc451970d5cdb345dbc223039fd554"
+    },
+    "url": "https://api.github.com/repos/django-commons/django-prometheus/git/commits/5d03eecb6ce7c9a65857423a53d828f918f29ca4",
+    "verification": {
+     "payload": "tree 5de14d83cfcc451970d5cdb345dbc223039fd554\nparent da2061ce58e050e305a4acd78007b9b2c1f4c63e\nauthor dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 1789828874 +0000\ncommitter GitHub <noreply@github.com> 1789828874 +0000\n\nBump https://github.com/adamchainz/django-upgrade from 1.25.0 to 1.32.0 (#524)\n\nBumps [https://github.com/adamchainz/django-upgrade](https://github.com/adamchainz/django-upgrade) from 1.25.0 to 1.32.0.\n- [Changelog](https://github.com/adamchainz/django-upgrade/blob/main/docs/changelog.rst)\n- [Commits](https://github.com/adamchainz/django-upgrade/compare/1.25.0...1.32.0)\n\n---\nupdated-dependencies:\n- dependency-name: https://github.com/adamchainz/django-upgrade\n  dependency-version: 1.32.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqrp8KCRC1aQ7uu5UhlAAA7lgQAF4b+E76r1DGE8otSzVzck4Y\nEc5Iz/AS6fWKRTDF2atH/Vm2+QxrhhD7JXvRpcRJJaEXQOhM2EYl1794xUYG8X0i\nE+HDBPi+IFbTfqrx+Es5wrT+b8hdE2dcCRxfbXakHRsNxBn8bqop6we+oqyaSX4t\nBuDojQ/tJvJqbvaVkURzNI5c1lppVZagH6ukJW65pMz+f3d2WSYtnTbDPm246qnd\nfqLkSfopcK644LoTl+T8t6ivQMZUCqvyWm/+BIelaCpLRENh/K3u9tm/fMEwhQv9\nlw3+q3JqjXxj57RSjyn3zUXW18+/WDtIuHyTTGq7cJKXjZ7jEIP7UWn0zpuzKXfk\nh9LA5x4N9DnOMrypZZnrtCCVmH4jfnEyqdlLudumzzQniKvjOOIIycoY7Uq41a8B\nwLouRKdixjiRRf6IYnvi+N7UfRTxFGvRieLadQtqcuGABAK3V7fB37TMW43Vs2t8\n1PLn2CDuhWKq6YaCjQRkpH2F5S36ZJiLTxIMoRpDnddqNogohQEt8R156m5zmUg2\nY3hqXr5vc0yU0noN36WF3vNXz9ZOobT36LqS2ZPZZvzpWs5BqX6LWV0W+sqFNJ2e\nctYJkH40jbuR9g6NTBK1q0q77bCgUoeecujgVdh/Ld/MqYqQy5aLLZmWz2YaE1cr\nlYE+SxfYQxKCI36a+ENY\n=piCK\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-09-19T14:41:14Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/django-commons/django-prometheus/commit/5d03eecb6ce7c9a65857423a53d828f918f29ca4",
+   "node_id": "C_kwDOAf4mBNoAKDVkMDNlZWNiNmNlN2M5YTY1ODU3NDIzYTUzZDgyOGY5MThmMjljYTQ",
+   "parents": [
+    {
+     "html_url": "https://github.com/django-commons/django-prometheus/commit/da2061ce58e050e305a4acd78007b9b2c1f4c63e",
+     "sha": "da2061ce58e050e305a4acd78007b9b2c1f4c63e",
+     "url": "https://api.github.com/repos/django-commons/django-prometheus/commits/da2061ce58e050e305a4acd78007b9b2c1f4c63e"
+    }
+   ],
+   "sha": "5d03eecb6ce7c9a65857423a53d828f918f29ca4",
+   "url": "https://api.github.com/repos/django-commons/django-prometheus/commits/5d03eecb6ce7c9a65857423a53d828f918f29ca4"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+    "events_url": "https://api.github.com/users/dependabot%5Bbot%5D/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dependabot%5Bbot%5D/followers",
+    "following_url": "https://api.github.com/users/dependabot%5Bbot%5D/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dependabot%5Bbot%5D/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/apps/dependabot",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "node_id": "MDM6Qm90NDk2OTkzMzM=",
+    "organizations_url": "https://api.github.com/users/dependabot%5Bbot%5D/orgs",
+    "received_events_url": "https://api.github.com/users/dependabot%5Bbot%5D/received_events",
+    "repos_url": "https://api.github.com/users/dependabot%5Bbot%5D/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dependabot%5Bbot%5D/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dependabot%5Bbot%5D/subscriptions",
+    "type": "Bot",
+    "url": "https://api.github.com/users/dependabot%5Bbot%5D",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/django-commons/django-prometheus/commits/da2061ce58e050e305a4acd78007b9b2c1f4c63e/comments",
+   "commit": {
+    "author": {
+     "date": "2026-09-19T14:37:49Z",
+     "email": "49699333+dependabot[bot]@users.noreply.github.com",
+     "name": "dependabot[bot]"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-09-19T14:37:49Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Bump https://github.com/pre-commit/pre-commit-hooks from v5.0.0 to 6.0.0 (#526)\n\nBumps [https://github.com/pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) from v5.0.0 to 6.0.0.\n- [Release notes](https://github.com/pre-commit/pre-commit-hooks/releases)\n- [Changelog](https://github.com/pre-commit/pre-commit-hooks/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/pre-commit/pre-commit-hooks/compare/v5.0.0...v6.0.0)\n\n---\nupdated-dependencies:\n- dependency-name: https://github.com/pre-commit/pre-commit-hooks\n  dependency-version: 6.0.0\n  dependency-type: direct:production\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
+    "tree": {
+     "sha": "f8d9f02be1e8b981067349689aee11aaa1a3b606",
+     "url": "https://api.github.com/repos/django-commons/django-prometheus/git/trees/f8d9f02be1e8b981067349689aee11aaa1a3b606"
+    },
+    "url": "https://api.github.com/repos/django-commons/django-prometheus/git/commits/da2061ce58e050e305a4acd78007b9b2c1f4c63e",
+    "verification": {
+     "payload": "tree f8d9f02be1e8b981067349689aee11aaa1a3b606\nparent 8ed08fcfef9d31b3e1820f1b689482da09e41f02\nauthor dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 1789828669 +0000\ncommitter GitHub <noreply@github.com> 1789828669 +0000\n\nBump https://github.com/pre-commit/pre-commit-hooks from v5.0.0 to 6.0.0 (#526)\n\nBumps [https://github.com/pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) from v5.0.0 to 6.0.0.\n- [Release notes](https://github.com/pre-commit/pre-commit-hooks/releases)\n- [Changelog](https://github.com/pre-commit/pre-commit-hooks/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/pre-commit/pre-commit-hooks/compare/v5.0.0...v6.0.0)\n\n---\nupdated-dependencies:\n- dependency-name: https://github.com/pre-commit/pre-commit-hooks\n  dependency-version: 6.0.0\n  dependency-type: direct:production\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqrp49CRC1aQ7uu5UhlAAAHgwQAEeRINwmu+YXUoxcbYUuInoc\nEkh2A0dIj4h7bCSgEWD3v2Zco4Y+TVxiitRdaIX827XBwlxqrunXByR6TQMr9EZs\nyCDbSeVfsEqMl1D8iL1rlWQT6RxkYTQgHK55x+EVjiwl8fErhxvXN55IhFO9XiyH\n1Ok8pOxDR0Oa4rha1O9gzyxpHbDkz00C77wKxKcVPyOz36VP5FgsPGGKkgJFa8Dc\nCudNkrGJGGzFjoa5Y2EBTLLXHrr4MzbLKoGiAodOmJGvbBrjaj2eQFmOl4lSZkD7\ne+dUrUU3G1NE7zoP7gO/ksAsED7YaqgB2K1izk6CBQvvtN0nxqzb+uUzCKiCDZne\n3mMtIIygICnxiIxE9FFxpZj+7iWga3THjqAbDOv2RKo1W6tVGZVBXeN9JyHd37fy\nC10lQDpH0Z0dg1jAkAFCS7zHsoF8043MSjUDzBQptC3fIMzuDjTRZMc6r0b8pPWS\nIu/730EfoWfd3Rp2tMFtSOoQ0VmR0LcreyIYX8ZNyT6+MjKqCKnq1AcfPYEC6LEP\nrf1xEkOdNYl0bYelmaP6k7WSQZ2/wrBL8kowiFebxVY+MK9/hJLJwE7V7d0DJzMl\nY+MEQg2NxiW3dsZkXPH6LNeMMOpaPMBVE34vwuIES+J3c7ediRrUBOj9KKcS36Wz\n1x2MDRFggyE7Wq9RG3/a\n=CGZ5\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-09-19T14:37:50Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/django-commons/django-prometheus/commit/da2061ce58e050e305a4acd78007b9b2c1f4c63e",
+   "node_id": "C_kwDOAf4mBNoAKGRhMjA2MWNlNThlMDUwZTMwNWE0YWNkNzgwMDdiOWIyYzFmNGM2M2U",
+   "parents": [
+    {
+     "html_url": "https://github.com/django-commons/django-prometheus/commit/8ed08fcfef9d31b3e1820f1b689482da09e41f02",
+     "sha": "8ed08fcfef9d31b3e1820f1b689482da09e41f02",
+     "url": "https://api.github.com/repos/django-commons/django-prometheus/commits/8ed08fcfef9d31b3e1820f1b689482da09e41f02"
+    }
+   ],
+   "sha": "da2061ce58e050e305a4acd78007b9b2c1f4c63e",
+   "url": "https://api.github.com/repos/django-commons/django-prometheus/commits/da2061ce58e050e305a4acd78007b9b2c1f4c63e"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+    "events_url": "https://api.github.com/users/dependabot%5Bbot%5D/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dependabot%5Bbot%5D/followers",
+    "following_url": "https://api.github.com/users/dependabot%5Bbot%5D/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dependabot%5Bbot%5D/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/apps/dependabot",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "node_id": "MDM6Qm90NDk2OTkzMzM=",
+    "organizations_url": "https://api.github.com/users/dependabot%5Bbot%5D/orgs",
+    "received_events_url": "https://api.github.com/users/dependabot%5Bbot%5D/received_events",
+    "repos_url": "https://api.github.com/users/dependabot%5Bbot%5D/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dependabot%5Bbot%5D/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dependabot%5Bbot%5D/subscriptions",
+    "type": "Bot",
+    "url": "https://api.github.com/users/dependabot%5Bbot%5D",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/django-commons/django-prometheus/commits/8ed08fcfef9d31b3e1820f1b689482da09e41f02/comments",
+   "commit": {
+    "author": {
+     "date": "2026-09-19T14:32:05Z",
+     "email": "49699333+dependabot[bot]@users.noreply.github.com",
+     "name": "dependabot[bot]"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-09-19T14:32:05Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Bump pytest from 9.0.3 to 9.1.1 (#528)\n\nBumps [pytest](https://github.com/pytest-dev/pytest) from 9.0.3 to 9.1.1.\n- [Release notes](https://github.com/pytest-dev/pytest/releases)\n- [Changelog](https://github.com/pytest-dev/pytest/blob/main/CHANGELOG.rst)\n- [Commits](https://github.com/pytest-dev/pytest/compare/9.0.3...9.1.1)\n\n---\nupdated-dependencies:\n- dependency-name: pytest\n  dependency-version: 9.1.1\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
+    "tree": {
+     "sha": "08736045ebad5d4b1db59d42361511b8ef22a643",
+     "url": "https://api.github.com/repos/django-commons/django-prometheus/git/trees/08736045ebad5d4b1db59d42361511b8ef22a643"
+    },
+    "url": "https://api.github.com/repos/django-commons/django-prometheus/git/commits/8ed08fcfef9d31b3e1820f1b689482da09e41f02",
+    "verification": {
+     "payload": "tree 08736045ebad5d4b1db59d42361511b8ef22a643\nparent d83dda70d2bd6b351f8ebc695e66839d539afb45\nauthor dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 1789828325 -0400\ncommitter GitHub <noreply@github.com> 1789828325 -0400\n\nBump pytest from 9.0.3 to 9.1.1 (#528)\n\nBumps [pytest](https://github.com/pytest-dev/pytest) from 9.0.3 to 9.1.1.\n- [Release notes](https://github.com/pytest-dev/pytest/releases)\n- [Changelog](https://github.com/pytest-dev/pytest/blob/main/CHANGELOG.rst)\n- [Commits](https://github.com/pytest-dev/pytest/compare/9.0.3...9.1.1)\n\n---\nupdated-dependencies:\n- dependency-name: pytest\n  dependency-version: 9.1.1\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqrpzlCRC1aQ7uu5UhlAAAX6YQAHwH/2Gc9zrIqejARJWr2NMk\nkEGF2vYqiG047rN9lcPlTwC8e50Q84sigT3W37bqoLYfFlJtKjIbuijiAY1IHdUF\nlfZ3U71EW7u9W9VxV1cdjz8/CJbE7ljW2EIQisM4vQzCH0UYequaB5C5jtZDXr8W\nK9F1Z4GOAsBcWIAnL6S62HmT+dv7hKRHv6oBNx2NRMHACcDSbNcxKy2zTUiJ6ZCs\n214/i5Iqrzz9hptFuInYvFYE/geQ/McNJrAPXi10TfapziIWyBjFBCAA0TnCWN4p\nIWB1WUcldvSM45AlDRDVaszOwo/4G/B8mogiZTakxtvT0UE8SC6mCKiYfpHTGfwz\n7/AMaTzrvK5uCuo5fm616PU4zp+IiwZtdV/vbghxxyiRCffr/UV//AvVM17g80/f\nZA+4mB+YfT0gU5G8fzPhKJHX4REZxaJj3/4kKbe9MteoA/5//cXey8yeGEjUlclS\nkd1obOX6snlZHkZtjdhMfYcHHbzuRY/EwnKkd7/bDbotI+Y55j7lL1ZQZebzYljd\nunEbLGo/NyqYHbqURp6G1TYEr5uoclnXDKOBO6HeZS1pklcwFmsipLQRgkl8jMR0\nJ2ZupKYBwBUji+pxFbJHJxYBDIDdPOVdm5J4LPvxpDY+odn/TLVaUxAho4jd8OMA\nbHnmbJBF6zp6LX9/uh6+\n=RJo0\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-09-19T14:32:05Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/django-commons/django-prometheus/commit/8ed08fcfef9d31b3e1820f1b689482da09e41f02",
+   "node_id": "C_kwDOAf4mBNoAKDhlZDA4ZmNmZWY5ZDMxYjNlMTgyMGYxYjY4OTQ4MmRhMDllNDFmMDI",
+   "parents": [
+    {
+     "html_url": "https://github.com/django-commons/django-prometheus/commit/d83dda70d2bd6b351f8ebc695e66839d539afb45",
+     "sha": "d83dda70d2bd6b351f8ebc695e66839d539afb45",
+     "url": "https://api.github.com/repos/django-commons/django-prometheus/commits/d83dda70d2bd6b351f8ebc695e66839d539afb45"
+    }
+   ],
+   "sha": "8ed08fcfef9d31b3e1820f1b689482da09e41f02",
+   "url": "https://api.github.com/repos/django-commons/django-prometheus/commits/8ed08fcfef9d31b3e1820f1b689482da09e41f02"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+    "events_url": "https://api.github.com/users/dependabot%5Bbot%5D/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dependabot%5Bbot%5D/followers",
+    "following_url": "https://api.github.com/users/dependabot%5Bbot%5D/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dependabot%5Bbot%5D/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/apps/dependabot",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "node_id": "MDM6Qm90NDk2OTkzMzM=",
+    "organizations_url": "https://api.github.com/users/dependabot%5Bbot%5D/orgs",
+    "received_events_url": "https://api.github.com/users/dependabot%5Bbot%5D/received_events",
+    "repos_url": "https://api.github.com/users/dependabot%5Bbot%5D/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dependabot%5Bbot%5D/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dependabot%5Bbot%5D/subscriptions",
+    "type": "Bot",
+    "url": "https://api.github.com/users/dependabot%5Bbot%5D",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/django-commons/django-prometheus/commits/d83dda70d2bd6b351f8ebc695e66839d539afb45/comments",
+   "commit": {
+    "author": {
+     "date": "2026-09-19T14:29:15Z",
+     "email": "49699333+dependabot[bot]@users.noreply.github.com",
+     "name": "dependabot[bot]"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-09-19T14:29:15Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Bump actions/checkout from 4 to 7 (#523)\n\nBumps [actions/checkout](https://github.com/actions/checkout) from 4 to 7.\n- [Release notes](https://github.com/actions/checkout/releases)\n- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/actions/checkout/compare/v4...v7)\n\n---\nupdated-dependencies:\n- dependency-name: actions/checkout\n  dependency-version: '7'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
+    "tree": {
+     "sha": "f081ea315b99f1fe9c1c4ac502d5886807e3815a",
+     "url": "https://api.github.com/repos/django-commons/django-prometheus/git/trees/f081ea315b99f1fe9c1c4ac502d5886807e3815a"
+    },
+    "url": "https://api.github.com/repos/django-commons/django-prometheus/git/commits/d83dda70d2bd6b351f8ebc695e66839d539afb45",
+    "verification": {
+     "payload": "tree f081ea315b99f1fe9c1c4ac502d5886807e3815a\nparent 36a81bdd302f0b0dbcd192ff915845f5d4c1291d\nauthor dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 1789828155 -0400\ncommitter GitHub <noreply@github.com> 1789828155 -0400\n\nBump actions/checkout from 4 to 7 (#523)\n\nBumps [actions/checkout](https://github.com/actions/checkout) from 4 to 7.\n- [Release notes](https://github.com/actions/checkout/releases)\n- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/actions/checkout/compare/v4...v7)\n\n---\nupdated-dependencies:\n- dependency-name: actions/checkout\n  dependency-version: '7'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqrpw7CRC1aQ7uu5UhlAAAgH8QAGUaUcpnTsv2PyhbGUxPtEoL\nFWnD/mTmI89Hoi8xsQU7izxcmpMi9j4kX+ilSGEkGwqM7jYkeMkCU0UQjv1iQu9q\nkgYOWzzN2uJRyIV713dMjPtxlYjkqPdXBHdvjGZNr9ULQ0f76zlhJPC4Fx7oPDkD\noMcpRPwgvKd8bV6UemuYN8RmN9+zTuAWs4kqzlEhIRxSQkFEj2A384tD+iSs9waa\nxACWq4YYVHJDwgBtKlEuMFAo89qCxSUI9gAEBeXANruHTbKsoc5l5lhkINhFtuF4\nJlEV22ByeE/2/bUapgqvgM1b+Jvy3Y10wDMVkDqAGZ5gdH79MDofMDEuJjTxrEtS\nCDOMD5jQvlKUPYZcdtJyomKoDkJ+GTACzgE/7kWKD1GoaV2ONnRQPxY1FVeDVIlL\nKYS43c7l1Q5Lvvauxnm97StojafOKND2uyNQAcsfpUnpUxXlrpOELBt9vyiNs1eG\nhOXEo7UdRh+CdsQBNLo0fK6sFCAHTXznFzVM46Nlp8d76hAKobj9SWGvWp1W9eAx\nsDAcv/GdFFmWXLDBNjpzf3ff7uwBt8h3ev2+NacfVyIm4hBr3bKRtJ+4A+S2ntQB\nT7rHUZNH2MsrosmEth/kiYwPc7oYNooZrLmTjF0aRWxv1SXXnv6Y0pjH1JlRZFjt\nAoGlbvssjlq2DUcEbi2+\n=3KWL\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-09-19T14:29:15Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/django-commons/django-prometheus/commit/d83dda70d2bd6b351f8ebc695e66839d539afb45",
+   "node_id": "C_kwDOAf4mBNoAKGQ4M2RkYTcwZDJiZDZiMzUxZjhlYmM2OTVlNjY4MzlkNTM5YWZiNDU",
+   "parents": [
+    {
+     "html_url": "https://github.com/django-commons/django-prometheus/commit/36a81bdd302f0b0dbcd192ff915845f5d4c1291d",
+     "sha": "36a81bdd302f0b0dbcd192ff915845f5d4c1291d",
+     "url": "https://api.github.com/repos/django-commons/django-prometheus/commits/36a81bdd302f0b0dbcd192ff915845f5d4c1291d"
+    }
+   ],
+   "sha": "d83dda70d2bd6b351f8ebc695e66839d539afb45",
+   "url": "https://api.github.com/repos/django-commons/django-prometheus/commits/d83dda70d2bd6b351f8ebc695e66839d539afb45"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+    "events_url": "https://api.github.com/users/dependabot%5Bbot%5D/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dependabot%5Bbot%5D/followers",
+    "following_url": "https://api.github.com/users/dependabot%5Bbot%5D/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dependabot%5Bbot%5D/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/apps/dependabot",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "node_id": "MDM6Qm90NDk2OTkzMzM=",
+    "organizations_url": "https://api.github.com/users/dependabot%5Bbot%5D/orgs",
+    "received_events_url": "https://api.github.com/users/dependabot%5Bbot%5D/received_events",
+    "repos_url": "https://api.github.com/users/dependabot%5Bbot%5D/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dependabot%5Bbot%5D/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dependabot%5Bbot%5D/subscriptions",
+    "type": "Bot",
+    "url": "https://api.github.com/users/dependabot%5Bbot%5D",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/django-commons/django-prometheus/commits/36a81bdd302f0b0dbcd192ff915845f5d4c1291d/comments",
+   "commit": {
+    "author": {
+     "date": "2026-09-19T14:29:06Z",
+     "email": "49699333+dependabot[bot]@users.noreply.github.com",
+     "name": "dependabot[bot]"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-09-19T14:29:06Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Bump actions/setup-python from 5 to 7 (#522)\n\nBumps [actions/setup-python](https://github.com/actions/setup-python) from 5 to 7.\n- [Release notes](https://github.com/actions/setup-python/releases)\n- [Commits](https://github.com/actions/setup-python/compare/v5...v7)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-python\n  dependency-version: '7'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
+    "tree": {
+     "sha": "9f21573ab729cf3e4ad675a4446d6fd3a1e55bdc",
+     "url": "https://api.github.com/repos/django-commons/django-prometheus/git/trees/9f21573ab729cf3e4ad675a4446d6fd3a1e55bdc"
+    },
+    "url": "https://api.github.com/repos/django-commons/django-prometheus/git/commits/36a81bdd302f0b0dbcd192ff915845f5d4c1291d",
+    "verification": {
+     "payload": "tree 9f21573ab729cf3e4ad675a4446d6fd3a1e55bdc\nparent 849fe7c39efa9efd19743e610ba4a4569ae119d6\nauthor dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 1789828146 -0400\ncommitter GitHub <noreply@github.com> 1789828146 -0400\n\nBump actions/setup-python from 5 to 7 (#522)\n\nBumps [actions/setup-python](https://github.com/actions/setup-python) from 5 to 7.\n- [Release notes](https://github.com/actions/setup-python/releases)\n- [Commits](https://github.com/actions/setup-python/compare/v5...v7)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-python\n  dependency-version: '7'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqrpwyCRC1aQ7uu5UhlAAA6SsQAIC/emkKgOug2ddNqAmoGBV/\n3VUM1Ik0cuU2fuelHLe3nCY3OZGeqLQqw739CTH3o+FZiQFT5jd8VrNU9rQc78xi\nhWysWvGRf37OTdH/oGEulN4SV2tJDgUa+EE4vj0PGaysfteqR9MxGNyeFzxrSKGu\nBA1sOnuap8rXW+TwP4h5AnfTddfuRfOus3km+aMJTyHXw2pMxlhZa1Q5adczv5/8\ngBSCa9XiRBJ1VUtH+dFitW9c+HpnxYwwJ0qtJswKYn0KdEUdHUZeZDNGihORVC4r\neCgVTSPUVo5q+LCmJarUEGtwamD3YQ3YNithV3e2V1mZ3cdY+zxlgyj/K/FAS+9/\nK+ZQWA6Ob0a/yqTmAyTp7xVKJCJ5WtF5Itky3NzjkpC2qYvoAaIQtpGLxN2AEMgy\ne0bScwJGaZYLu8chV5+/Hw6TwaL/nmwnxXgPD7Q6UJ8VyXUCn6zr+q0ICjFTe2sA\nXJvGackC9+dMRvTHc3F0gli98ejlZ1xcCZL0jAjxyTPzeFVzOtcSEeOGSEQs2KLL\ndhWsmKY/OvmbZtqCpBhY45fZ5lOCqgMFvvbB4YQBaSC+e9+b6Bx/oh+BBxNG3RW/\nc3Qf4f0j1USWJ+XmxLBF+GScWx3kW6nhj/IEH55j4T6gyxsbcDG8l1xuwTKd3yQb\nPS8SWOvmI/s1Fx17vp+a\n=Sf7W\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-09-19T14:29:07Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/django-commons/django-prometheus/commit/36a81bdd302f0b0dbcd192ff915845f5d4c1291d",
+   "node_id": "C_kwDOAf4mBNoAKDM2YTgxYmRkMzAyZjBiMGRiY2QxOTJmZjkxNTg0NWY1ZDRjMTI5MWQ",
+   "parents": [
+    {
+     "html_url": "https://github.com/django-commons/django-prometheus/commit/849fe7c39efa9efd19743e610ba4a4569ae119d6",
+     "sha": "849fe7c39efa9efd19743e610ba4a4569ae119d6",
+     "url": "https://api.github.com/repos/django-commons/django-prometheus/commits/849fe7c39efa9efd19743e610ba4a4569ae119d6"
+    }
+   ],
+   "sha": "36a81bdd302f0b0dbcd192ff915845f5d4c1291d",
+   "url": "https://api.github.com/repos/django-commons/django-prometheus/commits/36a81bdd302f0b0dbcd192ff915845f5d4c1291d"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+    "events_url": "https://api.github.com/users/dependabot%5Bbot%5D/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dependabot%5Bbot%5D/followers",
+    "following_url": "https://api.github.com/users/dependabot%5Bbot%5D/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dependabot%5Bbot%5D/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/apps/dependabot",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "node_id": "MDM6Qm90NDk2OTkzMzM=",
+    "organizations_url": "https://api.github.com/users/dependabot%5Bbot%5D/orgs",
+    "received_events_url": "https://api.github.com/users/dependabot%5Bbot%5D/received_events",
+    "repos_url": "https://api.github.com/users/dependabot%5Bbot%5D/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dependabot%5Bbot%5D/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dependabot%5Bbot%5D/subscriptions",
+    "type": "Bot",
+    "url": "https://api.github.com/users/dependabot%5Bbot%5D",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/django-commons/django-prometheus/commits/849fe7c39efa9efd19743e610ba4a4569ae119d6/comments",
+   "commit": {
+    "author": {
+     "date": "2026-09-19T14:28:58Z",
+     "email": "49699333+dependabot[bot]@users.noreply.github.com",
+     "name": "dependabot[bot]"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-09-19T14:28:58Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Bump pypa/gh-action-pypi-publish from 1.13.0 to 1.14.2 (#521)\n\nBumps [pypa/gh-action-pypi-publish](https://github.com/pypa/gh-action-pypi-publish) from 1.13.0 to 1.14.2.\n- [Release notes](https://github.com/pypa/gh-action-pypi-publish/releases)\n- [Commits](https://github.com/pypa/gh-action-pypi-publish/compare/v1.13.0...v1.14.2)\n\n---\nupdated-dependencies:\n- dependency-name: pypa/gh-action-pypi-publish\n  dependency-version: 1.14.2\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
+    "tree": {
+     "sha": "482b03f3635c2b1fb6947a7b6b1efefdd0109e6d",
+     "url": "https://api.github.com/repos/django-commons/django-prometheus/git/trees/482b03f3635c2b1fb6947a7b6b1efefdd0109e6d"
+    },
+    "url": "https://api.github.com/repos/django-commons/django-prometheus/git/commits/849fe7c39efa9efd19743e610ba4a4569ae119d6",
+    "verification": {
+     "payload": "tree 482b03f3635c2b1fb6947a7b6b1efefdd0109e6d\nparent 559f99870292dd155f05407582311930d6d2f69a\nauthor dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 1789828138 -0400\ncommitter GitHub <noreply@github.com> 1789828138 -0400\n\nBump pypa/gh-action-pypi-publish from 1.13.0 to 1.14.2 (#521)\n\nBumps [pypa/gh-action-pypi-publish](https://github.com/pypa/gh-action-pypi-publish) from 1.13.0 to 1.14.2.\n- [Release notes](https://github.com/pypa/gh-action-pypi-publish/releases)\n- [Commits](https://github.com/pypa/gh-action-pypi-publish/compare/v1.13.0...v1.14.2)\n\n---\nupdated-dependencies:\n- dependency-name: pypa/gh-action-pypi-publish\n  dependency-version: 1.14.2\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqrpwqCRC1aQ7uu5UhlAAAy8EQAC8M04thqZRkvyCWFpHMY7ms\nr/DHj24q3xjOY7pUKMlaYHZWHOH/W86jbwrQmp+lSJHGxiGyvbu5uEZlLHwNw1Lw\njHcmms+PVRHmEToSNSkH4Zf0fs2DQiCvqc9fniwz9qJ5SOXr7TErHEjdhaqEvFPu\ni0LIe4edykz0TBaQp9m1gh+PV8sDIaxRnJnRcakL38ZEcaDAEY720oAbXVsRgwl7\nefBX1w9ut8zMl72se2BIEV+/jdxkXk22Ugh1n37PMEFpm2a/wVIyVOv/zVlGbxW4\npkTCQGjNu6nSXvqwGFUT5LtfrEtx4sbeifzDuA5wePwhBmZctg0sjjLqfWmRrvNd\n1vTt1bcVuwXaOOQ2u5eYpex8Z/kV4ak8ZupwOw+I9o3gxnauZIdC5C817htRCokF\n951yLPJm0qk7/M33rzdKrP1emj6bm4GmS1S60O6qioED1ClrQ19LRSFzJ93BA/BH\ntBBM65gChIbh/bMtR9TznxPeS2t9HwkwKEUCk+SVlbXGI+bQFRLsvyJpiBjTJjuJ\nh7Q5L3KVXJTe3d2Gse3t2SJA1ttXXh/Y1XbYfPSg5so6754iILq2htLgbfUSUBBA\nPEjYR+2gW0TDODPt8+xYV0sUbrW1QTkFgDaDUCp58cpMjDVypvcB3DkOXbHyskgJ\nJyYM+GvP48pfEC9TpqwX\n=Vkut\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-09-19T14:28:58Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/django-commons/django-prometheus/commit/849fe7c39efa9efd19743e610ba4a4569ae119d6",
+   "node_id": "C_kwDOAf4mBNoAKDg0OWZlN2MzOWVmYTllZmQxOTc0M2U2MTBiYTRhNDU2OWFlMTE5ZDY",
+   "parents": [
+    {
+     "html_url": "https://github.com/django-commons/django-prometheus/commit/559f99870292dd155f05407582311930d6d2f69a",
+     "sha": "559f99870292dd155f05407582311930d6d2f69a",
+     "url": "https://api.github.com/repos/django-commons/django-prometheus/commits/559f99870292dd155f05407582311930d6d2f69a"
+    }
+   ],
+   "sha": "849fe7c39efa9efd19743e610ba4a4569ae119d6",
+   "url": "https://api.github.com/repos/django-commons/django-prometheus/commits/849fe7c39efa9efd19743e610ba4a4569ae119d6"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1268088?v=4",
+    "events_url": "https://api.github.com/users/asherf/events{/privacy}",
+    "followers_url": "https://api.github.com/users/asherf/followers",
+    "following_url": "https://api.github.com/users/asherf/following{/other_user}",
+    "gists_url": "https://api.github.com/users/asherf/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/asherf",
+    "id": 1268088,
+    "login": "asherf",
+    "node_id": "MDQ6VXNlcjEyNjgwODg=",
+    "organizations_url": "https://api.github.com/users/asherf/orgs",
+    "received_events_url": "https://api.github.com/users/asherf/received_events",
+    "repos_url": "https://api.github.com/users/asherf/repos",
+    "site_admin": true,
+    "starred_url": "https://api.github.com/users/asherf/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/asherf/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/asherf",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/django-commons/django-prometheus/commits/559f99870292dd155f05407582311930d6d2f69a/comments",
+   "commit": {
+    "author": {
+     "date": "2026-09-19T14:24:19Z",
+     "email": "asher@asherfoa.com",
+     "name": "Asher Foa"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-09-19T14:24:19Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Configure monthly Dependabot updates (#520)\n\nCo-authored-by: Copilot <223556219+Copilot@users.noreply.github.com>",
+    "tree": {
+     "sha": "e431a4914fd710a1de8b6f9dca34869cfc4af8d8",
+     "url": "https://api.github.com/repos/django-commons/django-prometheus/git/trees/e431a4914fd710a1de8b6f9dca34869cfc4af8d8"
+    },
+    "url": "https://api.github.com/repos/django-commons/django-prometheus/git/commits/559f99870292dd155f05407582311930d6d2f69a",
+    "verification": {
+     "payload": "tree e431a4914fd710a1de8b6f9dca34869cfc4af8d8\nparent 7e4e3d922003c43707e2806f10973559124a31c7\nauthor Asher Foa <asher@asherfoa.com> 1789827859 -0400\ncommitter GitHub <noreply@github.com> 1789827859 -0400\n\nConfigure monthly Dependabot updates (#520)\n\nCo-authored-by: Copilot <223556219+Copilot@users.noreply.github.com>",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqrpsTCRC1aQ7uu5UhlAAAiiYQACkIZY99dRFcENBlAgTwjCEP\nXKInjM5ZogUD9TXifkz/HmLTxZVKFL8AnAGaWyuEkfJg8F86djOa9ahLKeY+owzA\n/45YDwwOp1N5XwWd8aQqo/qLIRTdF69fbyNLIn0VGn2xU8jKfmNx9bSc/lBHQEsD\nsd0XVkKkBNMuZ734zmn94hdWC4grkr0Js+/LJ6Z1TbZRwitq7W5P7gtD+pgJhu0O\nocADIPflJxGiQbaavr25bFDYFJ5unIvsCBCB3XFREOG1lVMlZZN8RJZWTgsXKZSj\nterWVxvqt+fULz3kUbxFKG9KBwmSN4jl6pVZTtwgcoFqGtWpE33/yPqwPVhWnw3m\nbvdD+mzcqvmmhUglxB3RH1ij1Xy5wKHUJdID4II0XeYOWVnyBpVO3mPJcJGvXa+I\nqpD9f61gdQkvMFiiLP7nNcHpPp6K4DEABpjvcwsk5uGJWNTAKykOPLO1Kej4NJNz\npfF3zkxBx0uX1rRk9fJjf5n2PYwvnE1mY7K+XTmHjGm82z1rYKIPAGqfW//oTMlu\nQDmz5o8cwAFLxElC105jBMJeBpReiGCMOVf172uDqrpUkmJRFxYgbuSPzCPoYuok\ngPHvyOVAR05XaWtvekHVQllpZKGKKjQHD1aIqnLuUlKUcA9PKaTy4t8et1lmaQNL\n+vQ1J7eon7xqNs7EzH4g\n=eqEY\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-09-19T14:24:19Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/django-commons/django-prometheus/commit/559f99870292dd155f05407582311930d6d2f69a",
+   "node_id": "C_kwDOAf4mBNoAKDU1OWY5OTg3MDI5MmRkMTU1ZjA1NDA3NTgyMzExOTMwZDZkMmY2OWE",
+   "parents": [
+    {
+     "html_url": "https://github.com/django-commons/django-prometheus/commit/7e4e3d922003c43707e2806f10973559124a31c7",
+     "sha": "7e4e3d922003c43707e2806f10973559124a31c7",
+     "url": "https://api.github.com/repos/django-commons/django-prometheus/commits/7e4e3d922003c43707e2806f10973559124a31c7"
+    }
+   ],
+   "sha": "559f99870292dd155f05407582311930d6d2f69a",
+   "url": "https://api.github.com/repos/django-commons/django-prometheus/commits/559f99870292dd155f05407582311930d6d2f69a"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/9463439?v=4",
+    "events_url": "https://api.github.com/users/fddn/events{/privacy}",
+    "followers_url": "https://api.github.com/users/fddn/followers",
+    "following_url": "https://api.github.com/users/fddn/following{/other_user}",
+    "gists_url": "https://api.github.com/users/fddn/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/fddn",
+    "id": 9463439,
+    "login": "fddn",
+    "node_id": "MDQ6VXNlcjk0NjM0Mzk=",
+    "organizations_url": "https://api.github.com/users/fddn/orgs",
+    "received_events_url": "https://api.github.com/users/fddn/received_events",
+    "repos_url": "https://api.github.com/users/fddn/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/fddn/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/fddn/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/fddn",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/django-commons/django-prometheus/commits/7e4e3d922003c43707e2806f10973559124a31c7/comments",
+   "commit": {
+    "author": {
+     "date": "2026-09-19T14:23:09Z",
+     "email": "fadden@byteslabs.nl",
+     "name": "Csaba Istvan Berta"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-09-19T14:23:09Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "feat: update django to 6.1 (non-rc) (#516)\n\nSigned-off-by: Csaba Istvan Berta <fadden@byteslabs.nl>\nCo-authored-by: Asher Foa <asher@asherfoa.com>",
+    "tree": {
+     "sha": "325e0f2bfbb4cf89d0af312979ac985ac1b67cdc",
+     "url": "https://api.github.com/repos/django-commons/django-prometheus/git/trees/325e0f2bfbb4cf89d0af312979ac985ac1b67cdc"
+    },
+    "url": "https://api.github.com/repos/django-commons/django-prometheus/git/commits/7e4e3d922003c43707e2806f10973559124a31c7",
+    "verification": {
+     "payload": "tree 325e0f2bfbb4cf89d0af312979ac985ac1b67cdc\nparent eb0f2e242a7b27471b99fa0ba8eabc34d4b79c27\nauthor Csaba Istvan Berta <fadden@byteslabs.nl> 1789827789 +0200\ncommitter GitHub <noreply@github.com> 1789827789 -0400\n\nfeat: update django to 6.1 (non-rc) (#516)\n\nSigned-off-by: Csaba Istvan Berta <fadden@byteslabs.nl>\nCo-authored-by: Asher Foa <asher@asherfoa.com>",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqrprNCRC1aQ7uu5UhlAAAaE8QAE6lgTCz36bb35wPi05su5Hb\nKqn3K/2NHqKXLwzcVynk1zdkGooA/FjOVn1XeHjGW4xftymuOLXKBvVq2V8SXpy/\nzaCOsSG00ilYeimZZnr3nTbxIIbto5Uwt+uWlZKFs5729PXXJ9ZSqJ6OD0p3reMA\nb60pSTnWxphbhMwL8Y4NE7rIZlahWoXbGdjTZpFz4ny6NmhRbWjtbCUYsdK8V5k+\nZqMuUP+iX2nv66vhp0NwlBC9uKFZ5wkhNMQ+rTZPPKsmGn4AE48QkzF51fkNMrm+\nFBDqTLI2NLKVfK9FRmDmw7uJ6mhGmGXfZQrNZF6+D43VsCBjkmwalGSCb8yb7Ayb\nCFQRKs5sDZRmh5pdTSBcX2qPTSxBfh8y6AkffVkL21bXygKfMxdXX+zRa2xk3lkd\nVgaKDeW96E9tK5qXqKKE+iuaNFNRKBVCS+CWX3rTL6YXu/Xxh569Su+UjoZ6CUct\nXdnXznxY0wXY7DcSTKAYb5vyutxorMTkbjgwCMOGnffJoUlPAPcXg9qV1fDqAkr/\nQec6fiI4SeigPgqLpJuFVqMxm9z0eV4BfYWFd/0DGUyk6IyMd8wFjb4iAuV26jk5\n/9hRbji+bi4/54yPtvLByjhKh+ebo8WmjOUXU5CBdy1epRd7ZhZPd3O2E1E2mYfb\nIJ77qL4QPpSqiSH3gYB6\n=TBJh\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-09-19T14:23:10Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/django-commons/django-prometheus/commit/7e4e3d922003c43707e2806f10973559124a31c7",
+   "node_id": "C_kwDOAf4mBNoAKDdlNGUzZDkyMjAwM2M0MzcwN2UyODA2ZjEwOTczNTU5MTI0YTMxYzc",
+   "parents": [
+    {
+     "html_url": "https://github.com/django-commons/django-prometheus/commit/eb0f2e242a7b27471b99fa0ba8eabc34d4b79c27",
+     "sha": "eb0f2e242a7b27471b99fa0ba8eabc34d4b79c27",
+     "url": "https://api.github.com/repos/django-commons/django-prometheus/commits/eb0f2e242a7b27471b99fa0ba8eabc34d4b79c27"
+    }
+   ],
+   "sha": "7e4e3d922003c43707e2806f10973559124a31c7",
+   "url": "https://api.github.com/repos/django-commons/django-prometheus/commits/7e4e3d922003c43707e2806f10973559124a31c7"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+    "events_url": "https://api.github.com/users/dependabot%5Bbot%5D/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dependabot%5Bbot%5D/followers",
+    "following_url": "https://api.github.com/users/dependabot%5Bbot%5D/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dependabot%5Bbot%5D/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/apps/dependabot",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "node_id": "MDM6Qm90NDk2OTkzMzM=",
+    "organizations_url": "https://api.github.com/users/dependabot%5Bbot%5D/orgs",
+    "received_events_url": "https://api.github.com/users/dependabot%5Bbot%5D/received_events",
+    "repos_url": "https://api.github.com/users/dependabot%5Bbot%5D/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dependabot%5Bbot%5D/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dependabot%5Bbot%5D/subscriptions",
+    "type": "Bot",
+    "url": "https://api.github.com/users/dependabot%5Bbot%5D",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/django-commons/django-prometheus/commits/eb0f2e242a7b27471b99fa0ba8eabc34d4b79c27/comments",
+   "commit": {
+    "author": {
+     "date": "2026-09-19T14:17:12Z",
+     "email": "49699333+dependabot[bot]@users.noreply.github.com",
+     "name": "dependabot[bot]"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-09-19T14:17:12Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Bump pytest from 7.4.3 to 9.0.3 (#508)\n\nBumps [pytest](https://github.com/pytest-dev/pytest) from 7.4.3 to 9.0.3.\n- [Release notes](https://github.com/pytest-dev/pytest/releases)\n- [Changelog](https://github.com/pytest-dev/pytest/blob/main/CHANGELOG.rst)\n- [Commits](https://github.com/pytest-dev/pytest/compare/7.4.3...9.0.3)\n\n---\nupdated-dependencies:\n- dependency-name: pytest\n  dependency-version: 9.0.3\n  dependency-type: direct:production\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
+    "tree": {
+     "sha": "16e77d061669dccf905761e09f73e128c1a2f6fc",
+     "url": "https://api.github.com/repos/django-commons/django-prometheus/git/trees/16e77d061669dccf905761e09f73e128c1a2f6fc"
+    },
+    "url": "https://api.github.com/repos/django-commons/django-prometheus/git/commits/eb0f2e242a7b27471b99fa0ba8eabc34d4b79c27",
+    "verification": {
+     "payload": "tree 16e77d061669dccf905761e09f73e128c1a2f6fc\nparent 216f9a3eba2fe053add0a13f1f817183a39944f9\nauthor dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 1789827432 -0400\ncommitter GitHub <noreply@github.com> 1789827432 -0400\n\nBump pytest from 7.4.3 to 9.0.3 (#508)\n\nBumps [pytest](https://github.com/pytest-dev/pytest) from 7.4.3 to 9.0.3.\n- [Release notes](https://github.com/pytest-dev/pytest/releases)\n- [Changelog](https://github.com/pytest-dev/pytest/blob/main/CHANGELOG.rst)\n- [Commits](https://github.com/pytest-dev/pytest/compare/7.4.3...9.0.3)\n\n---\nupdated-dependencies:\n- dependency-name: pytest\n  dependency-version: 9.0.3\n  dependency-type: direct:production\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqrploCRC1aQ7uu5UhlAAA6msQAAdQnGLphP7HFDDG2dOYIJ4F\nZvZRSVKaMpXK9F016a4SCBc2dwgyhuUHTwx9WaREs4Ocm/FswXUPE1aqRHCF0yPe\nGF5qZB8zJi6FIPagZQcHT+Q+x84oX95cI1G25oylxYRiUzGjJR6F/nu/MXv6jDHV\nkwK/Hr3eTxFx8JyKrBRa+ilZpZ4YCml4pX3AL6yiny5Lu/GMboRnnuAVFa14cgeA\n5rJqqYLumRnDJ81A5xKWomejRMbXSv+z5938vPKFNeGjd53NEI5UuuPWmVAOqoEw\nCmFeIfPUXwwtFUhdIGYZedCku+9HFPRtOH+QWXGAKmd7MZUd1dvDhiPqKKvA/eZU\n9Jr5zRv0gBO35ZgmXKAMCjEyOfMJOocDukRKr3BndNPwAoVzdvrQyAyMu5Fh2Jdj\nppN/v4H2eErdu0YR64IXJUIlFwJrfCi3+obcyjB1XYxZbVP4gR0neum/cxBzP+bC\nHfAnw4R0ktGoMXKeaHgNWh82qTaPO1JlKINkKVdp8t28yCi5NnwyGCUpn5Wk6bUM\nUhznTrsR2PHIEGZDsSSPZJM7xaztqG3wA0aDne5bCbu5jwnU8CDKRdS6SGCMtzEr\nCTHuI8C93SD+nulrqAKvQq0uT9On8GtVIp4T6UDNSkdMFnOVJ4lHscMxdzi3FvdH\n8B0nGTzyfIXQyXVL+toq\n=K+sP\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-09-19T14:17:12Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/django-commons/django-prometheus/commit/eb0f2e242a7b27471b99fa0ba8eabc34d4b79c27",
+   "node_id": "C_kwDOAf4mBNoAKGViMGYyZTI0MmE3YjI3NDcxYjk5ZmEwYmE4ZWFiYzM0ZDRiNzljMjc",
+   "parents": [
+    {
+     "html_url": "https://github.com/django-commons/django-prometheus/commit/216f9a3eba2fe053add0a13f1f817183a39944f9",
+     "sha": "216f9a3eba2fe053add0a13f1f817183a39944f9",
+     "url": "https://api.github.com/repos/django-commons/django-prometheus/commits/216f9a3eba2fe053add0a13f1f817183a39944f9"
+    }
+   ],
+   "sha": "eb0f2e242a7b27471b99fa0ba8eabc34d4b79c27",
+   "url": "https://api.github.com/repos/django-commons/django-prometheus/commits/eb0f2e242a7b27471b99fa0ba8eabc34d4b79c27"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1268088?v=4",
+    "events_url": "https://api.github.com/users/asherf/events{/privacy}",
+    "followers_url": "https://api.github.com/users/asherf/followers",
+    "following_url": "https://api.github.com/users/asherf/following{/other_user}",
+    "gists_url": "https://api.github.com/users/asherf/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/asherf",
+    "id": 1268088,
+    "login": "asherf",
+    "node_id": "MDQ6VXNlcjEyNjgwODg=",
+    "organizations_url": "https://api.github.com/users/asherf/orgs",
+    "received_events_url": "https://api.github.com/users/asherf/received_events",
+    "repos_url": "https://api.github.com/users/asherf/repos",
+    "site_admin": true,
+    "starred_url": "https://api.github.com/users/asherf/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/asherf/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/asherf",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/django-commons/django-prometheus/commits/216f9a3eba2fe053add0a13f1f817183a39944f9/comments",
+   "commit": {
+    "author": {
+     "date": "2026-09-19T14:11:44Z",
+     "email": "asher@asherfoa.com",
+     "name": "Asher Foa"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-09-19T14:11:44Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Remove support for Python 3.9 (EOL) (#517)",
+    "tree": {
+     "sha": "696810a4a5a0a475e7b2ffa7977e067cb505edf3",
+     "url": "https://api.github.com/repos/django-commons/django-prometheus/git/trees/696810a4a5a0a475e7b2ffa7977e067cb505edf3"
+    },
+    "url": "https://api.github.com/repos/django-commons/django-prometheus/git/commits/216f9a3eba2fe053add0a13f1f817183a39944f9",
+    "verification": {
+     "payload": "tree 696810a4a5a0a475e7b2ffa7977e067cb505edf3\nparent a90094f073bfe169206c4256521be87e4a070b9b\nauthor Asher Foa <asher@asherfoa.com> 1789827104 -0400\ncommitter GitHub <noreply@github.com> 1789827104 -0400\n\nRemove support for Python 3.9 (EOL) (#517)",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqrpggCRC1aQ7uu5UhlAAAoMkQABnCDwTxPfTElTHSPjHOVfja\nCmrGoCUDkIN/DGC9XZQdnXBHdFvBUH8V0nFopzkjidg8sBo6SrhSM7RCSt6FvrK2\n/rwgyDtWRWq4RLVExcwcg0Os7PL42cbMHEZ3imn67aZPmAHBojdT8JEvPLnK6erW\nPSHzppTapAZnal4UVWRPQVMC9YjnGnR2hx+d7xDJD9J7iNBMSSuIX4ku7MHybGwn\njs/Vvoby6eLQnLAaRo6sPqFSRxLMrc4QnqrlRaGlxqzGOIyzAQTj496rYL2LEup3\nfZohKX/45rpndYkUYytVlY8cO/cLLmP3etOkYL5f0MvyQtOgylxARmmSsBftgieB\nPTK0vFK5lysHqLvW/5V4Dpx4KGPk86dEIgJeN69BizI3VC5QzPQpMJGSjhJ7iabB\n9vRLr8AMiGMROrw8xi0TVTrL5qdFeb7cKmjjmyzILPHB89e1ZEhqaO3yAgLgzf8M\nehUPzAkuCHk+biClUk0fpE+/Slpjzy6UUnAJSRPjhqp/rqyuDtHOJD8rFDQWr6KA\nLx6jCbyWLqkzVdXGlEm8uCsj3qtl8cJRFqdiy7PhAJ8oAbkKlYDPa3irarELvURu\n2c5Y+yIB4YlvKMoCvZbg8MHHcheddbaHXSlys1FHoEI4hVIGvTC9zNQo7zxuydWK\njnU+piIYAhF4GyNG2BHB\n=NM6s\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-09-19T14:11:44Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/django-commons/django-prometheus/commit/216f9a3eba2fe053add0a13f1f817183a39944f9",
+   "node_id": "C_kwDOAf4mBNoAKDIxNmY5YTNlYmEyZmUwNTNhZGQwYTEzZjFmODE3MTgzYTM5OTQ0Zjk",
+   "parents": [
+    {
+     "html_url": "https://github.com/django-commons/django-prometheus/commit/a90094f073bfe169206c4256521be87e4a070b9b",
+     "sha": "a90094f073bfe169206c4256521be87e4a070b9b",
+     "url": "https://api.github.com/repos/django-commons/django-prometheus/commits/a90094f073bfe169206c4256521be87e4a070b9b"
+    }
+   ],
+   "sha": "216f9a3eba2fe053add0a13f1f817183a39944f9",
+   "url": "https://api.github.com/repos/django-commons/django-prometheus/commits/216f9a3eba2fe053add0a13f1f817183a39944f9"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/63233752?v=4",
+    "events_url": "https://api.github.com/users/mgstabrani/events{/privacy}",
+    "followers_url": "https://api.github.com/users/mgstabrani/followers",
+    "following_url": "https://api.github.com/users/mgstabrani/following{/other_user}",
+    "gists_url": "https://api.github.com/users/mgstabrani/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/mgstabrani",
+    "id": 63233752,
+    "login": "mgstabrani",
+    "node_id": "MDQ6VXNlcjYzMjMzNzUy",
+    "organizations_url": "https://api.github.com/users/mgstabrani/orgs",
+    "received_events_url": "https://api.github.com/users/mgstabrani/received_events",
+    "repos_url": "https://api.github.com/users/mgstabrani/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/mgstabrani/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/mgstabrani/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/mgstabrani",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/django-commons/django-prometheus/commits/a90094f073bfe169206c4256521be87e4a070b9b/comments",
+   "commit": {
+    "author": {
+     "date": "2026-09-19T13:57:28Z",
+     "email": "mgstabrani19@gmail.com",
+     "name": "Mgs. Tabrani"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-09-19T13:57:28Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "test: add unit tests for utils (Time, TimeSince, PowersOf) (#513)\n\n* test: add unit tests for utils (Time, TimeSince, PowersOf)\n\n* test: address review feedback on utils test\n\n---------\n\nCo-authored-by: Asher Foa <asher@asherfoa.com>",
+    "tree": {
+     "sha": "941b719b55e7917b775e4cff3ea8a839df35b283",
+     "url": "https://api.github.com/repos/django-commons/django-prometheus/git/trees/941b719b55e7917b775e4cff3ea8a839df35b283"
+    },
+    "url": "https://api.github.com/repos/django-commons/django-prometheus/git/commits/a90094f073bfe169206c4256521be87e4a070b9b",
+    "verification": {
+     "payload": "tree 941b719b55e7917b775e4cff3ea8a839df35b283\nparent ebfd4d6f8a5f92bbe503bd9dc93ddbfa9d8e43da\nauthor Mgs. Tabrani <mgstabrani19@gmail.com> 1789826248 +0700\ncommitter GitHub <noreply@github.com> 1789826248 -0400\n\ntest: add unit tests for utils (Time, TimeSince, PowersOf) (#513)\n\n* test: add unit tests for utils (Time, TimeSince, PowersOf)\n\n* test: address review feedback on utils test\n\n---------\n\nCo-authored-by: Asher Foa <asher@asherfoa.com>",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqrpTICRC1aQ7uu5UhlAAAolYQAHvfUPTLvzTm/hXeEMSqxnPL\nZBb0dnH7iPFqbP4SLHutIpCjGhEjAGixqO9FigkPbt0ZVY3CkYreIgPLCKY8W9PW\npAU5pisMqMShAMv8QqlK2aU67f9JDmz2dcUhUKlpRXIfJhpL16z8qa23FflVVn/8\nSrWYwNd/x/UdRbugjwAIEnVb3PhlJH1Ug3Uq4KOrT+C+HD/X5smEpdKd1MBGXpc5\n5ikc7La9WPDfiR0O6ypbBR7zgJ7murto7in8BdPTJNoIAmRCDel3i1X0B+X+LIZg\nUF8tX66Iprti2AjZ2t5OzeGlntGC9klOOLM3MtgMBMstpRY2CZhods9d2zZU9vtY\ntd31UZCBvr1DJVd01Gtd1tygV5QqvbVzGDwJLquOC6wRHK4XWs4Di3egnVb0trso\nZvoPKBJZ/Ziebp4cQ11GD+fv1CichDieN3yYIGef7MssgH+b3Pv/7ZBlI8t2weOc\nM9y49vR68RvIhGWunRXj2CVfnljORHaJA5pK3kcZjzFAFkBRIEKuo5Jl6eF08Wwk\nezMDtDNaEf/G9okPHcz3RSLI7T41V4/V0TaDn3ctDtRnYpOGW2SNnSJH/x1PB0Ih\n2oWZ4py/1qBKb++UeFtCxhvaqN+ZqvRJAgDTzwFm3fbJ0MKVdd1zxytm0FegNdNx\nw++MgCT5xHX6CGHGVZ3s\n=83bF\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-09-19T13:57:28Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/django-commons/django-prometheus/commit/a90094f073bfe169206c4256521be87e4a070b9b",
+   "node_id": "C_kwDOAf4mBNoAKGE5MDA5NGYwNzNiZmUxNjkyMDZjNDI1NjUyMWJlODdlNGEwNzBiOWI",
+   "parents": [
+    {
+     "html_url": "https://github.com/django-commons/django-prometheus/commit/ebfd4d6f8a5f92bbe503bd9dc93ddbfa9d8e43da",
+     "sha": "ebfd4d6f8a5f92bbe503bd9dc93ddbfa9d8e43da",
+     "url": "https://api.github.com/repos/django-commons/django-prometheus/commits/ebfd4d6f8a5f92bbe503bd9dc93ddbfa9d8e43da"
+    }
+   ],
+   "sha": "a90094f073bfe169206c4256521be87e4a070b9b",
+   "url": "https://api.github.com/repos/django-commons/django-prometheus/commits/a90094f073bfe169206c4256521be87e4a070b9b"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/7999692?v=4",
+    "events_url": "https://api.github.com/users/OscarVanL/events{/privacy}",
+    "followers_url": "https://api.github.com/users/OscarVanL/followers",
+    "following_url": "https://api.github.com/users/OscarVanL/following{/other_user}",
+    "gists_url": "https://api.github.com/users/OscarVanL/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/OscarVanL",
+    "id": 7999692,
+    "login": "OscarVanL",
+    "node_id": "MDQ6VXNlcjc5OTk2OTI=",
+    "organizations_url": "https://api.github.com/users/OscarVanL/orgs",
+    "received_events_url": "https://api.github.com/users/OscarVanL/received_events",
+    "repos_url": "https://api.github.com/users/OscarVanL/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/OscarVanL/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/OscarVanL/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/OscarVanL",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/django-commons/django-prometheus/commits/ebfd4d6f8a5f92bbe503bd9dc93ddbfa9d8e43da/comments",
+   "commit": {
+    "author": {
+     "date": "2026-07-30T16:35:53Z",
+     "email": "oscarvanleusen@gmail.com",
+     "name": "Oscar van Leusen"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-07-30T16:35:53Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Fix skipping of uninitialised default database to still include other legitimate databases (#501)\n\nApply Copilot's suggestion\n\nRevert \"Apply Copilot's suggestion\"\n\nThis reverts commit bca65e288744feebe3b01f38a1ef90e2d6ca2594.",
+    "tree": {
+     "sha": "791bce4e5dea19622c1b2f41698bfa70142b3221",
+     "url": "https://api.github.com/repos/django-commons/django-prometheus/git/trees/791bce4e5dea19622c1b2f41698bfa70142b3221"
+    },
+    "url": "https://api.github.com/repos/django-commons/django-prometheus/git/commits/ebfd4d6f8a5f92bbe503bd9dc93ddbfa9d8e43da",
+    "verification": {
+     "payload": "tree 791bce4e5dea19622c1b2f41698bfa70142b3221\nparent 6be69b14f4b62a91dec16af9eed18cc35272ae57\nauthor Oscar van Leusen <oscarvanleusen@gmail.com> 1785429353 +0100\ncommitter GitHub <noreply@github.com> 1785429353 -0400\n\nFix skipping of uninitialised default database to still include other legitimate databases (#501)\n\nApply Copilot's suggestion\n\nRevert \"Apply Copilot's suggestion\"\n\nThis reverts commit bca65e288744feebe3b01f38a1ef90e2d6ca2594.",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqa31pCRC1aQ7uu5UhlAAA93sQAKs8NdeLBjYZRIh59yYn2TJC\nzim7IxUEjS/feWr2LVGluRHxcEFjpinomBj4WlRVrf2PZdNsm1uZXpLpBGSAkU07\nCkJsVi2CyKBWpzc3JnS7F2kChiVeL6zWP4aLOcKmRFqk2moFYmK5kFnlLwlQ3n5n\niCz9c3p69W0y7x6ZWwOxFTQ8fK08E8QPuiXj7eXcJ3i52NLPD+B0CAut7TgWIezT\nbatg8QS1Thsc5oe64ZUH9YZUBX7SvaM3Rf+cTQSlKpkYwhzGEreJXky9ok6W0XDw\n1sQ6CRF5myLbaDD4yXuc753zZV2NWcgc79/L/HI6HiqPnAvuk/Sz4FioHxufYgxW\nHXdFJq9tpEsee9SyjhvzBjyYzDLE0Ic4BWfumVRqZH9Zdc7Yx7Kc9/7iRT9nqx5k\nlY5ffGq51Vpx2jWoAnDGSMys5cyEEkXtAlLkfzMX5uTLSSJimSXXKKTQTsJvR5MF\nqJkVOg04vl+jIH+6yVm0zJok+b/Pf8pHLsEX4N7iHq15V3Jheals2Wv6PbzajCCA\ng9zw7GowmuAu5/62WpJSQ/ACg30KGnNunr+rgkC7QbCql5Qw7mEQZ4Eatu3fyeb1\n0F5M+v7uff0to59g2jTKLHYCVm1C+hSANIXHJO33Qj23hImHQdNVbbKJG1zfNe9Z\nQjMsJmjxAY/9E7vsX8dd\n=6Yqu\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-07-30T16:35:54Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/django-commons/django-prometheus/commit/ebfd4d6f8a5f92bbe503bd9dc93ddbfa9d8e43da",
+   "node_id": "C_kwDOAf4mBNoAKGViZmQ0ZDZmOGE1ZjkyYmJlNTAzYmQ5ZGM5M2RkYmZhOWQ4ZTQzZGE",
+   "parents": [
+    {
+     "html_url": "https://github.com/django-commons/django-prometheus/commit/6be69b14f4b62a91dec16af9eed18cc35272ae57",
+     "sha": "6be69b14f4b62a91dec16af9eed18cc35272ae57",
+     "url": "https://api.github.com/repos/django-commons/django-prometheus/commits/6be69b14f4b62a91dec16af9eed18cc35272ae57"
+    }
+   ],
+   "sha": "ebfd4d6f8a5f92bbe503bd9dc93ddbfa9d8e43da",
+   "url": "https://api.github.com/repos/django-commons/django-prometheus/commits/ebfd4d6f8a5f92bbe503bd9dc93ddbfa9d8e43da"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/29039?v=4",
+    "events_url": "https://api.github.com/users/gvangool/events{/privacy}",
+    "followers_url": "https://api.github.com/users/gvangool/followers",
+    "following_url": "https://api.github.com/users/gvangool/following{/other_user}",
+    "gists_url": "https://api.github.com/users/gvangool/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/gvangool",
+    "id": 29039,
+    "login": "gvangool",
+    "node_id": "MDQ6VXNlcjI5MDM5",
+    "organizations_url": "https://api.github.com/users/gvangool/orgs",
+    "received_events_url": "https://api.github.com/users/gvangool/received_events",
+    "repos_url": "https://api.github.com/users/gvangool/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/gvangool/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/gvangool/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/gvangool",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/django-commons/django-prometheus/commits/6be69b14f4b62a91dec16af9eed18cc35272ae57/comments",
+   "commit": {
+    "author": {
+     "date": "2026-07-29T19:30:02Z",
+     "email": "gertvangool@gmail.com",
+     "name": "Gert Van Gool"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-07-29T19:30:02Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Add Django 6.1 to tests (#514)\n\n* Add Django 6.1 to tests\n\n* Add CHANGELOG entry",
+    "tree": {
+     "sha": "3c9449e6324c7feb68be77b47542d847dca89fc0",
+     "url": "https://api.github.com/repos/django-commons/django-prometheus/git/trees/3c9449e6324c7feb68be77b47542d847dca89fc0"
+    },
+    "url": "https://api.github.com/repos/django-commons/django-prometheus/git/commits/6be69b14f4b62a91dec16af9eed18cc35272ae57",
+    "verification": {
+     "payload": "tree 3c9449e6324c7feb68be77b47542d847dca89fc0\nparent 26a5ac84d1790ffd643e0a60c83ea71f00dfa92e\nauthor Gert Van Gool <gertvangool@gmail.com> 1785353402 -0700\ncommitter GitHub <noreply@github.com> 1785353402 -0400\n\nAdd Django 6.1 to tests (#514)\n\n* Add Django 6.1 to tests\n\n* Add CHANGELOG entry",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqalS6CRC1aQ7uu5UhlAAATSsQAAZYhVK55HCV6Xc0YUTOXtmX\nhD0jO5rKjBnXaeR50197PXsZuLRRdc7Wj7O2qU+NrQnRAvcTGSY4wrMc4djBLYHB\nwIqB/d2wtyClEPsRAmgMJZ1k2YUkTsdwrj1vS62cDdA8JwcNyUapH4ol3coVnnEn\nu8jJQcsxUXXM+0rhBk1mgig9IsKHmWtUNA63oUeJO9g1EDm5cyqC6IMbnD4H5CuO\nDNb2UBREWmc8pRGkfEf1d2x7B9IFXL+uOUch8oyMJlyCtXTRQZHv9GLaTJ24y+mq\nhFzDXOybKxLyPt7d1157PKaKerUIoFwu2W7J6WZmy7LGEsJKVwRZoymr/ixQQnUB\nEDDFUEvK/nuTQ8xHsSbhUHs5Vs/FMnxSPvr7ntpuoUCENfJIFomHRu5wwn+zOdZA\n1YcpP5QYYE79rCz9MqDMsdBDokBZEsnPKj7YWNdqgKBKQsbCaD2utTbHpf9xdsb9\n8IkASY0q9AeCA6TKcctjl17FwuPsJEp+uHR+wdyJni9WPoZ/fx5hIiLLb/dhT6zz\ns4ZpfPEptW2+rFxXnf1DYoCCXUm077Mun5Txz6r2D/nwARPtnIJfgTEKCAP5k0hv\np65meyri//Y+QX9rT2eH5HuhO/iwQ276QhduYtwrdscsZbYVeePRsjb593V0LX5n\n/sWAa/D1FEynbnC9z0zb\n=zCYe\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-07-29T19:30:03Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/django-commons/django-prometheus/commit/6be69b14f4b62a91dec16af9eed18cc35272ae57",
+   "node_id": "C_kwDOAf4mBNoAKDZiZTY5YjE0ZjRiNjJhOTFkZWMxNmFmOWVlZDE4Y2MzNTI3MmFlNTc",
+   "parents": [
+    {
+     "html_url": "https://github.com/django-commons/django-prometheus/commit/26a5ac84d1790ffd643e0a60c83ea71f00dfa92e",
+     "sha": "26a5ac84d1790ffd643e0a60c83ea71f00dfa92e",
+     "url": "https://api.github.com/repos/django-commons/django-prometheus/commits/26a5ac84d1790ffd643e0a60c83ea71f00dfa92e"
+    }
+   ],
+   "sha": "6be69b14f4b62a91dec16af9eed18cc35272ae57",
+   "url": "https://api.github.com/repos/django-commons/django-prometheus/commits/6be69b14f4b62a91dec16af9eed18cc35272ae57"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/108475356?v=4",
+    "events_url": "https://api.github.com/users/romanek-adam-b2c2/events{/privacy}",
+    "followers_url": "https://api.github.com/users/romanek-adam-b2c2/followers",
+    "following_url": "https://api.github.com/users/romanek-adam-b2c2/following{/other_user}",
+    "gists_url": "https://api.github.com/users/romanek-adam-b2c2/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/romanek-adam-b2c2",
+    "id": 108475356,
+    "login": "romanek-adam-b2c2",
+    "node_id": "U_kgDOBncz3A",
+    "organizations_url": "https://api.github.com/users/romanek-adam-b2c2/orgs",
+    "received_events_url": "https://api.github.com/users/romanek-adam-b2c2/received_events",
+    "repos_url": "https://api.github.com/users/romanek-adam-b2c2/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/romanek-adam-b2c2/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/romanek-adam-b2c2/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/romanek-adam-b2c2",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/django-commons/django-prometheus/commits/26a5ac84d1790ffd643e0a60c83ea71f00dfa92e/comments",
+   "commit": {
+    "author": {
+     "date": "2026-06-09T15:09:42Z",
+     "email": "108475356+romanek-adam-b2c2@users.noreply.github.com",
+     "name": "Adam Romanek"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-06-09T15:09:42Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Add comprehensive documentation of metrics exported by this library (#497)\n\n* Add comprehensive documentation of metrics exported by this library\n\n* Fixed description of one metric\n\n* Add documentation for cache metrics\n\n* Tweak some descriptions to match others",
+    "tree": {
+     "sha": "95e16a84a73129cd70c1e88483ac27c996743676",
+     "url": "https://api.github.com/repos/django-commons/django-prometheus/git/trees/95e16a84a73129cd70c1e88483ac27c996743676"
+    },
+    "url": "https://api.github.com/repos/django-commons/django-prometheus/git/commits/26a5ac84d1790ffd643e0a60c83ea71f00dfa92e",
+    "verification": {
+     "payload": "tree 95e16a84a73129cd70c1e88483ac27c996743676\nparent d63a6d8803d5d88e4939788192edbebb2de354f0\nauthor Adam Romanek <108475356+romanek-adam-b2c2@users.noreply.github.com> 1781017782 +0200\ncommitter GitHub <noreply@github.com> 1781017782 -0400\n\nAdd comprehensive documentation of metrics exported by this library (#497)\n\n* Add comprehensive documentation of metrics exported by this library\n\n* Fixed description of one metric\n\n* Add documentation for cache metrics\n\n* Tweak some descriptions to match others",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqKCy2CRC1aQ7uu5UhlAAAGnAQAG12Ya1Dw+1u1L0+9dKajExV\nN6raIF2uWOfwsg0dMWma+jgSe2Qj6gi1+OP35U6lWL4OyWlFY5/QTVW1MfqYHL0r\nc+YrhDqevbDouFJQGvqLX/Hpgyl20NTgnQtEUSKUUGY9YMnHDPxNBaTsdIvllafk\nss3GhckhC0D6ChGmRa33PdOLxYExJeduJDpB+SUjlSLtUmlWeODH2OgD+p1oudVD\nW4icTak1wmL7/DUAVRXRnurJgok9LsTErlGz9RZ/Uo59VjuKCSdDXGd1KJ3BwdaC\nYOjTdxqHp3LNmrlujwsmgDpcGo5aEysSlOTOgXi2oU8puDS0aILABgZdXFAX2PEC\n00sbHDCb0h+1f20kBqV8dPcJRdiZc6mo5bunxAVwxGgA2Z1lqZ/+Emtg9miX7tZc\nxjncLdZEHzVdMPLwhnFsOe6oSTA66XcQ7BtnjXeWZOJdtPINXQF8rN2s3OYQNoux\nNMbpPZiGvqFPnVVp3+BLgtCHH2cwDMfSMUCKJo89U29kHs/DdJZnsculiZqvdUND\nqPayksxRmxGwJsbp5V4cU+MPEC1hdx1xkqfchneyC1LC54ID5LwUG6w04UPJS/5c\neBYhCHub6WgUOT4O1tjerwmewPVVYumb1h8sCTCkCA0svRZeHO6g8ck6gE/w2c13\n2hkHQa97nn1YCYoCQK5o\n=AI5+\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-06-09T15:09:42Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/django-commons/django-prometheus/commit/26a5ac84d1790ffd643e0a60c83ea71f00dfa92e",
+   "node_id": "C_kwDOAf4mBNoAKDI2YTVhYzg0ZDE3OTBmZmQ2NDNlMGE2MGM4M2VhNzFmMDBkZmE5MmU",
+   "parents": [
+    {
+     "html_url": "https://github.com/django-commons/django-prometheus/commit/d63a6d8803d5d88e4939788192edbebb2de354f0",
+     "sha": "d63a6d8803d5d88e4939788192edbebb2de354f0",
+     "url": "https://api.github.com/repos/django-commons/django-prometheus/commits/d63a6d8803d5d88e4939788192edbebb2de354f0"
+    }
+   ],
+   "sha": "26a5ac84d1790ffd643e0a60c83ea71f00dfa92e",
+   "url": "https://api.github.com/repos/django-commons/django-prometheus/commits/26a5ac84d1790ffd643e0a60c83ea71f00dfa92e"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1268088?v=4",
+    "events_url": "https://api.github.com/users/asherf/events{/privacy}",
+    "followers_url": "https://api.github.com/users/asherf/followers",
+    "following_url": "https://api.github.com/users/asherf/following{/other_user}",
+    "gists_url": "https://api.github.com/users/asherf/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/asherf",
+    "id": 1268088,
+    "login": "asherf",
+    "node_id": "MDQ6VXNlcjEyNjgwODg=",
+    "organizations_url": "https://api.github.com/users/asherf/orgs",
+    "received_events_url": "https://api.github.com/users/asherf/received_events",
+    "repos_url": "https://api.github.com/users/asherf/repos",
+    "site_admin": true,
+    "starred_url": "https://api.github.com/users/asherf/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/asherf/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/asherf",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/django-commons/django-prometheus/commits/d63a6d8803d5d88e4939788192edbebb2de354f0/comments",
+   "commit": {
+    "author": {
+     "date": "2026-06-03T17:52:40Z",
+     "email": "asher@asherfoa.com",
+     "name": "Asher Foa"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-06-03T17:52:40Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "back to pre-release for 2.6.0devX (#511)",
+    "tree": {
+     "sha": "aeabcb939282b52f6d9321fbed1a7bf61db155a6",
+     "url": "https://api.github.com/repos/django-commons/django-prometheus/git/trees/aeabcb939282b52f6d9321fbed1a7bf61db155a6"
+    },
+    "url": "https://api.github.com/repos/django-commons/django-prometheus/git/commits/d63a6d8803d5d88e4939788192edbebb2de354f0",
+    "verification": {
+     "payload": "tree aeabcb939282b52f6d9321fbed1a7bf61db155a6\nparent febae2cd614ed45baf128476319be01964f0281d\nauthor Asher Foa <asher@asherfoa.com> 1780509160 -0400\ncommitter GitHub <noreply@github.com> 1780509160 -0400\n\nback to pre-release for 2.6.0devX (#511)",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqIGnoCRC1aQ7uu5UhlAAAeN4QACrut2ivFULq2hQplmxO5r8m\nXSUHtytpQEjz7xi32jDtpekxLZD0sSzDvHlFuWNAlUZsJWDw5uWWhGC83CVZsI2C\nnTobSXRaW6jn3Y7cJ5OHmtJom5ZHf9nxca/Ldjbn27tTRJr8KZyAm3r9spLgXMHH\n2VAFSr4j269K93D6em9cqBYDY/4yQrMTmp2J8XgyGfwmIDtM08l9F22rwO3S56xc\ngpF3l2GnS19NQuDIRMrReRD0st8W7gr06V/FQTGRgaXbST7x//3TLzvEobjnAEe4\n8XtUPNXBkBQ6walBnmFhm88m8vhC1PwanrBjyAGcZDpAjjEGixd9xg2uARErEtBs\n9Ag9m+yoqJ7T2Fv8DJrpX76XPvdzBxHczpDhocrvPsNitxW9Zt9+xMCe+0GQtBd5\nPLJmnT/1F5Oe6VL02EnLHrMZUO8cVjAa+xzx3y6BMi7zM2I6gbtamrRqoqf0a04H\ntKRaYXQdxgYrArgqAR3Eqsj3e1JoJBSs5iycyhz+JlaHr2Jn72V9051JZjVPievk\n+LGm+EIiBquajeBCyzHUjQB5OQ7F63GNlQ4S/pvJQ8l7hBZlKpeLtHdHK08oJfON\nPQBg1rYI6uy3tx1/qkeXcQQ3O+IdwPnhsPC2JfsFkP7EuXXe11HgudUU62uf6qas\nkehPzg17yDb3uo5KOn3M\n=AVTy\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-06-03T17:52:40Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/django-commons/django-prometheus/commit/d63a6d8803d5d88e4939788192edbebb2de354f0",
+   "node_id": "C_kwDOAf4mBNoAKGQ2M2E2ZDg4MDNkNWQ4OGU0OTM5Nzg4MTkyZWRiZWJiMmRlMzU0ZjA",
+   "parents": [
+    {
+     "html_url": "https://github.com/django-commons/django-prometheus/commit/febae2cd614ed45baf128476319be01964f0281d",
+     "sha": "febae2cd614ed45baf128476319be01964f0281d",
+     "url": "https://api.github.com/repos/django-commons/django-prometheus/commits/febae2cd614ed45baf128476319be01964f0281d"
+    }
+   ],
+   "sha": "d63a6d8803d5d88e4939788192edbebb2de354f0",
+   "url": "https://api.github.com/repos/django-commons/django-prometheus/commits/d63a6d8803d5d88e4939788192edbebb2de354f0"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1281215?v=4",
+    "events_url": "https://api.github.com/users/tim-schilling/events{/privacy}",
+    "followers_url": "https://api.github.com/users/tim-schilling/followers",
+    "following_url": "https://api.github.com/users/tim-schilling/following{/other_user}",
+    "gists_url": "https://api.github.com/users/tim-schilling/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/tim-schilling",
+    "id": 1281215,
+    "login": "tim-schilling",
+    "node_id": "MDQ6VXNlcjEyODEyMTU=",
+    "organizations_url": "https://api.github.com/users/tim-schilling/orgs",
+    "received_events_url": "https://api.github.com/users/tim-schilling/received_events",
+    "repos_url": "https://api.github.com/users/tim-schilling/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/tim-schilling/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/tim-schilling/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/tim-schilling",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/django-commons/django-prometheus/commits/febae2cd614ed45baf128476319be01964f0281d/comments",
+   "commit": {
+    "author": {
+     "date": "2026-05-26T19:02:03Z",
+     "email": "schillingt@better-simple.com",
+     "name": "Tim Schilling"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-05-26T19:02:03Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Version 2.5.0 (#507)\n\n* Version 2.5.0\n\nSet date on the changelog and dropped the dev version suffix.\n\n* update date\n\n---------\n\nCo-authored-by: Asher Foa <asher@asherfoa.com>",
+    "tree": {
+     "sha": "d6fb5e786d8d9480f7b2fbe2dab8e1ebb2dd8e17",
+     "url": "https://api.github.com/repos/django-commons/django-prometheus/git/trees/d6fb5e786d8d9480f7b2fbe2dab8e1ebb2dd8e17"
+    },
+    "url": "https://api.github.com/repos/django-commons/django-prometheus/git/commits/febae2cd614ed45baf128476319be01964f0281d",
+    "verification": {
+     "payload": "tree d6fb5e786d8d9480f7b2fbe2dab8e1ebb2dd8e17\nparent 1fd36e643b8d90f938f816a3b3e53ad9431b6795\nauthor Tim Schilling <schillingt@better-simple.com> 1779822123 -0500\ncommitter GitHub <noreply@github.com> 1779822123 -0400\n\nVersion 2.5.0 (#507)\n\n* Version 2.5.0\n\nSet date on the changelog and dropped the dev version suffix.\n\n* update date\n\n---------\n\nCo-authored-by: Asher Foa <asher@asherfoa.com>",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqFe4rCRC1aQ7uu5UhlAAAhkgQAIiZ0r8V9Rdro3O7rH2QVZMo\nh0eRRPyiWSJ0DOhEOrZbAzZNgmlN1wpiZf6OMVTYkA9TUmPMCurnqQrb5mjiY8X0\n0hxD8wk1a+z/tnzr/kW9aGuxoyORnkM3MW2MEW9BqLqpD5WOoO/pGNf9S+XEx6v5\nUE6XIRvthl7BKJwayD8fYJMbJW4rIJSB41VFZQFa51ar89SM37CNjthIi5me2T/Y\npFBN4kaQMP0awBe++GDMve6RcDtXFBtiLJ7BeHJgQJaHyNthaQMe/el0KpX+LJOa\nibqDsrwrzQdbJWakU4xuK4wEnFTahOOm7WVN7QkGYacacVqvBX43apxrgGY5FUVU\nwmVeU5kKuHHnVuGWWYW72RyDmEFa9OFS/381TunFAVOLKqBjBnKd/+4HL47HbSb4\nW9yYbn0yh4nomeBcb2kDTHaj7zQ2Qw23rYFT3FDZNR50wBZR0g+/x7RgXmKt2NAU\nx9Fx8Ofu+1r0nikhrh8U7F4O3wF0b4RQd1dc/2uGJLqlQ8JvFev6sRoYZBLraEAp\nqqG/iW+9+PpxlQm+0ZfaYkUlA5Yx9SBLlPeDC0QyYYzuIeOeQ6C4LSlvrmS/UVCD\n+d5DvCnpgtBBs3faf8QR3UcEiPbaf/No79WMn3MLt/O1D4pWiaVULIA2d1aug9ro\nvFywCfmiApsrINrsyZjS\n=GYJ0\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-05-26T19:02:03Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/django-commons/django-prometheus/commit/febae2cd614ed45baf128476319be01964f0281d",
+   "node_id": "C_kwDOAf4mBNoAKGZlYmFlMmNkNjE0ZWQ0NWJhZjEyODQ3NjMxOWJlMDE5NjRmMDI4MWQ",
+   "parents": [
+    {
+     "html_url": "https://github.com/django-commons/django-prometheus/commit/1fd36e643b8d90f938f816a3b3e53ad9431b6795",
+     "sha": "1fd36e643b8d90f938f816a3b3e53ad9431b6795",
+     "url": "https://api.github.com/repos/django-commons/django-prometheus/commits/1fd36e643b8d90f938f816a3b3e53ad9431b6795"
+    }
+   ],
+   "sha": "febae2cd614ed45baf128476319be01964f0281d",
+   "url": "https://api.github.com/repos/django-commons/django-prometheus/commits/febae2cd614ed45baf128476319be01964f0281d"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1281215?v=4",
+    "events_url": "https://api.github.com/users/tim-schilling/events{/privacy}",
+    "followers_url": "https://api.github.com/users/tim-schilling/followers",
+    "following_url": "https://api.github.com/users/tim-schilling/following{/other_user}",
+    "gists_url": "https://api.github.com/users/tim-schilling/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/tim-schilling",
+    "id": 1281215,
+    "login": "tim-schilling",
+    "node_id": "MDQ6VXNlcjEyODEyMTU=",
+    "organizations_url": "https://api.github.com/users/tim-schilling/orgs",
+    "received_events_url": "https://api.github.com/users/tim-schilling/received_events",
+    "repos_url": "https://api.github.com/users/tim-schilling/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/tim-schilling/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/tim-schilling/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/tim-schilling",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/django-commons/django-prometheus/commits/1fd36e643b8d90f938f816a3b3e53ad9431b6795/comments",
+   "commit": {
+    "author": {
+     "date": "2026-04-30T14:03:38Z",
+     "email": "schilling711@gmail.com",
+     "name": "Tim Schilling"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-04-30T14:03:38Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Bump the pre-release version for 2.5.0. (#506)",
+    "tree": {
+     "sha": "9ff07e79d5a81a094d0291a0579f36c05bea3ba8",
+     "url": "https://api.github.com/repos/django-commons/django-prometheus/git/trees/9ff07e79d5a81a094d0291a0579f36c05bea3ba8"
+    },
+    "url": "https://api.github.com/repos/django-commons/django-prometheus/git/commits/1fd36e643b8d90f938f816a3b3e53ad9431b6795",
+    "verification": {
+     "payload": "tree 9ff07e79d5a81a094d0291a0579f36c05bea3ba8\nparent 77a983e676ab85d2419ae4612852bf08837526e2\nauthor Tim Schilling <schilling711@gmail.com> 1777557818 -0500\ncommitter GitHub <noreply@github.com> 1777557818 -0400\n\nBump the pre-release version for 2.5.0. (#506)",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJp82E6CRC1aQ7uu5UhlAAA0gQQAFs0VpZYSxpv0MtWmMqnd6vE\nI3NUMu/gSokwhG6BhK61S1cEHk5raosVGatUhcEJpJlHCQhLF3w3J+EE5Tb95VIg\npj/pighIWfyoWsguS2WzyimliWvFVzhGAx0gNnoeog93Hj4KbsCx+8KSZ1KlkGP0\nk05mE5k4EbCOxC94st5Nu+ksbaj1FqKTFViPWTaRwn24AMUG6ab7WGBopY1kZh9y\nQpgdiS9+ACZZQoY1itQN7jQGNZpfE4hP1zxbdNDV8cdPTCBlsak585MUa2AOkQrZ\ne8j0rBaiGMEmNb0QnNF398HnOV+4lE4/bN+B+ywRkIik48bL/7UmwHN67PfgrnYH\nFxYigcWgjjBqxfxjMYE74EZvO1trY2+8JDglyKnm8caQxyNbvwNkUuexMWzChG6k\ntVrcWmJossSXESbltkC6gpSiLguAhzZ/L68NwaBb/bNYVCpeQW2vzJi/U7Ey7JET\nJVvuGdLkQOHnE33dTNJSAwzcGSzZ4kkYfM6HX96nQafFA41bGWhGJHL2vbq//RMQ\nddsRQfHJiWa1xCfnhCOtsdqOITv72+BV+6BkmaUeOeRJ+mUG6qDMTsHpAGy3t1ty\nmyCTMNxdtlxx0Meo/2wRUaygzzDHrpKUgPDiXSipCKrm7nRiJjh9Eotq8YFscqMv\nXsbEoS/+AeWxJuOM4Cdt\n=stkk\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-04-30T14:03:40Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/django-commons/django-prometheus/commit/1fd36e643b8d90f938f816a3b3e53ad9431b6795",
+   "node_id": "C_kwDOAf4mBNoAKDFmZDM2ZTY0M2I4ZDkwZjkzOGY4MTZhM2IzZTUzYWQ5NDMxYjY3OTU",
+   "parents": [
+    {
+     "html_url": "https://github.com/django-commons/django-prometheus/commit/77a983e676ab85d2419ae4612852bf08837526e2",
+     "sha": "77a983e676ab85d2419ae4612852bf08837526e2",
+     "url": "https://api.github.com/repos/django-commons/django-prometheus/commits/77a983e676ab85d2419ae4612852bf08837526e2"
+    }
+   ],
+   "sha": "1fd36e643b8d90f938f816a3b3e53ad9431b6795",
+   "url": "https://api.github.com/repos/django-commons/django-prometheus/commits/1fd36e643b8d90f938f816a3b3e53ad9431b6795"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/173805824?v=4",
+    "events_url": "https://api.github.com/users/karalarmehmet/events{/privacy}",
+    "followers_url": "https://api.github.com/users/karalarmehmet/followers",
+    "following_url": "https://api.github.com/users/karalarmehmet/following{/other_user}",
+    "gists_url": "https://api.github.com/users/karalarmehmet/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/karalarmehmet",
+    "id": 173805824,
+    "login": "karalarmehmet",
+    "node_id": "U_kgDOClwRAA",
+    "organizations_url": "https://api.github.com/users/karalarmehmet/orgs",
+    "received_events_url": "https://api.github.com/users/karalarmehmet/received_events",
+    "repos_url": "https://api.github.com/users/karalarmehmet/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/karalarmehmet/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/karalarmehmet/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/karalarmehmet",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/django-commons/django-prometheus/commits/77a983e676ab85d2419ae4612852bf08837526e2/comments",
+   "commit": {
+    "author": {
+     "date": "2026-03-05T20:44:42Z",
+     "email": "mehmetkaralarm@gmail.com",
+     "name": "Mehmet Karalar"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-03-05T20:44:42Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Fix cursor_factory re-wrapping with connection pooling (#505)\n\n* Fix cursor_factory re-wrapping with connection pooling\n\n* Add unit tests for cursor_factory wrapping fix",
+    "tree": {
+     "sha": "ea019a67b9a289e66947b6f8b959f96116407274",
+     "url": "https://api.github.com/repos/django-commons/django-prometheus/git/trees/ea019a67b9a289e66947b6f8b959f96116407274"
+    },
+    "url": "https://api.github.com/repos/django-commons/django-prometheus/git/commits/77a983e676ab85d2419ae4612852bf08837526e2",
+    "verification": {
+     "payload": "tree ea019a67b9a289e66947b6f8b959f96116407274\nparent 72f013155d4d9022bb2eea23bf13da302bb7e559\nauthor Mehmet Karalar <mehmetkaralarm@gmail.com> 1772743482 +0300\ncommitter GitHub <noreply@github.com> 1772743482 -0500\n\nFix cursor_factory re-wrapping with connection pooling (#505)\n\n* Fix cursor_factory re-wrapping with connection pooling\n\n* Add unit tests for cursor_factory wrapping fix",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJpqes6CRC1aQ7uu5UhlAAAMjgQAJe4X5mIWJxKKh0EDwc5HJ78\nn4hrQ04wSCvofrGKh0eXvugi9hweL3T5nZ4hKCQ2Urjc7G+ZpiKuxfLS3/4AZLfi\nojerX/luGuUoFItll96yqxnPblE/glS1XnvLJzoWfG4M/TNxLcKTM6AET4FJ3SsD\nyxJ3rCZnEhadMzCMq/sWKjwaFmjoZOgyBFYPiKQjrGePU5YB8qQFVH/unAx7mGgr\nX6YTdjtMYqg+LrNvu5lAOtkRFzDzZdBrrDepaITzQu+/qRkC+LHkct8mvizpLPUJ\ngkqL3hf5P1wCfFzneY2Irb5Fs1hY3THufmX/L1iXOLGMFfGIApEmO8ixG0k2F8U/\njqjHk6HPlDtA437LtbpD8J2P6XiBU5kIMMjukogF3PfPJzFJF4SHWg9B2kep7bY3\n+VDtVtaUpYzl3AtnxqM0jD9NqfwLgXN4T05CxhC41EkVHo3bRH1QWAPtQgfsCTg0\nUitTShINhw+MLEF33fyYkOiwp+XOF8rvNaKkZ6qsjxTdkDnC8gLj/AHNdD9pQbMf\nyL/oSiNYecDA6fmrfyOrpc7WMlgO6zS5gslzGtAfHyoffkke5TwOdpVVvpVsrDSx\nhyssEjfXKoDSJOMpscR/wFsfxFhGGCfltrPZYtWTul9Un3ueNecpPRFa8sTZpfNP\njXtI9f11UZC54Yu+ejIf\n=eXba\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-03-05T20:44:43Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/django-commons/django-prometheus/commit/77a983e676ab85d2419ae4612852bf08837526e2",
+   "node_id": "C_kwDOAf4mBNoAKDc3YTk4M2U2NzZhYjg1ZDI0MTlhZTQ2MTI4NTJiZjA4ODM3NTI2ZTI",
+   "parents": [
+    {
+     "html_url": "https://github.com/django-commons/django-prometheus/commit/72f013155d4d9022bb2eea23bf13da302bb7e559",
+     "sha": "72f013155d4d9022bb2eea23bf13da302bb7e559",
+     "url": "https://api.github.com/repos/django-commons/django-prometheus/commits/72f013155d4d9022bb2eea23bf13da302bb7e559"
+    }
+   ],
+   "sha": "77a983e676ab85d2419ae4612852bf08837526e2",
+   "url": "https://api.github.com/repos/django-commons/django-prometheus/commits/77a983e676ab85d2419ae4612852bf08837526e2"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/82761530?v=4",
+    "events_url": "https://api.github.com/users/EliShteinman/events{/privacy}",
+    "followers_url": "https://api.github.com/users/EliShteinman/followers",
+    "following_url": "https://api.github.com/users/EliShteinman/following{/other_user}",
+    "gists_url": "https://api.github.com/users/EliShteinman/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/EliShteinman",
+    "id": 82761530,
+    "login": "EliShteinman",
+    "node_id": "MDQ6VXNlcjgyNzYxNTMw",
+    "organizations_url": "https://api.github.com/users/EliShteinman/orgs",
+    "received_events_url": "https://api.github.com/users/EliShteinman/received_events",
+    "repos_url": "https://api.github.com/users/EliShteinman/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/EliShteinman/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/EliShteinman/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/EliShteinman",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/django-commons/django-prometheus/commits/72f013155d4d9022bb2eea23bf13da302bb7e559/comments",
+   "commit": {
+    "author": {
+     "date": "2026-03-02T19:05:11Z",
+     "email": "82761530+EliShteinman@users.noreply.github.com",
+     "name": "Eli Shteinman"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-03-02T19:05:11Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Fix Python version format in pre-release workflow (#504)\n\n* Fix Python version format in pre-release workflow\n\n* Update .github/workflows/pre-release.yml\n\nCo-authored-by: Copilot <175728472+Copilot@users.noreply.github.com>\n\n---------\n\nCo-authored-by: Copilot <175728472+Copilot@users.noreply.github.com>",
+    "tree": {
+     "sha": "106a0598da076345bcd6cdd680b2f730197f9bfa",
+     "url": "https://api.github.com/repos/django-commons/django-prometheus/git/trees/106a0598da076345bcd6cdd680b2f730197f9bfa"
+    },
+    "url": "https://api.github.com/repos/django-commons/django-prometheus/git/commits/72f013155d4d9022bb2eea23bf13da302bb7e559",
+    "verification": {
+     "payload": "tree 106a0598da076345bcd6cdd680b2f730197f9bfa\nparent ea2d559476675a688f82cc37fac22b796ec7bcba\nauthor Eli Shteinman <82761530+EliShteinman@users.noreply.github.com> 1772478311 +0200\ncommitter GitHub <noreply@github.com> 1772478311 -0500\n\nFix Python version format in pre-release workflow (#504)\n\n* Fix Python version format in pre-release workflow\n\n* Update .github/workflows/pre-release.yml\n\nCo-authored-by: Copilot <175728472+Copilot@users.noreply.github.com>\n\n---------\n\nCo-authored-by: Copilot <175728472+Copilot@users.noreply.github.com>",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJppd9nCRC1aQ7uu5UhlAAA49oQAH81thbG09G+2epxymKg2nh8\nusIQm1l0tWy9LiKYg5CsS3kaq5Tq29HsmgudQu89350l6D7OsbTLbFgiZYhta0sk\nmTIV52upJSH+TAnS2pBLVdiNUIkpxC04YtDsWrxyTznZQhof/o3UUqouiuxzodcF\nwYjBD8TdtrUci5QULPsIwvXC7FLyunhydaIRAfPzDKb5pNQilpIScu9kenZRdO0/\nviCqLjtDc+aIgl9nRrMfRdh7LkBJpnmq3Ga+fYQZIAXxbZ47HFZYXuJ/Tljpr/Nx\nZNCbTuJd1ke/5frL6QzVa8L7UgrrVejsWAMxsvP9936BWdqluvgRfDcFh5o9AcWv\nHBcbN7IMA+jY1/X6cH1/PaqXP9hSGH+dsP4/Wjdd/YQHMrVnDw6BTtlOk5DfdkOK\nwNPts9Xlj7/LmPzu4LGjrGFOVWfqQMMCqNrsg2O7710uOWJOPX5vP/qMH3maNyj4\nQKOVvek6Jiz6hEvdz7xwjxXwqSxfUxZWvR77WD6ALv3HdjljKA9ib5AHwHgbh2+C\nki0Uhda+1+01ie6pI0FGdVo5EdYjXWvTE/LsW3rkFq4uOijwvx4QS7NfN3YmYDo0\n9TmW4899ZeObLSxIDoDJhNtmBivnYk8yxZtU/eI6MYXN/KHlQLfh0nxA4BybEx4X\nDu5MuH5/d+TJPIpRK1hp\n=aoSy\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-03-02T19:05:12Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/django-commons/django-prometheus/commit/72f013155d4d9022bb2eea23bf13da302bb7e559",
+   "node_id": "C_kwDOAf4mBNoAKDcyZjAxMzE1NWQ0ZDkwMjJiYjJlZWEyM2JmMTNkYTMwMmJiN2U1NTk",
+   "parents": [
+    {
+     "html_url": "https://github.com/django-commons/django-prometheus/commit/ea2d559476675a688f82cc37fac22b796ec7bcba",
+     "sha": "ea2d559476675a688f82cc37fac22b796ec7bcba",
+     "url": "https://api.github.com/repos/django-commons/django-prometheus/commits/ea2d559476675a688f82cc37fac22b796ec7bcba"
+    }
+   ],
+   "sha": "72f013155d4d9022bb2eea23bf13da302bb7e559",
+   "url": "https://api.github.com/repos/django-commons/django-prometheus/commits/72f013155d4d9022bb2eea23bf13da302bb7e559"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/53856555?v=4",
+    "events_url": "https://api.github.com/users/DhavalGojiya/events{/privacy}",
+    "followers_url": "https://api.github.com/users/DhavalGojiya/followers",
+    "following_url": "https://api.github.com/users/DhavalGojiya/following{/other_user}",
+    "gists_url": "https://api.github.com/users/DhavalGojiya/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/DhavalGojiya",
+    "id": 53856555,
+    "login": "DhavalGojiya",
+    "node_id": "MDQ6VXNlcjUzODU2NTU1",
+    "organizations_url": "https://api.github.com/users/DhavalGojiya/orgs",
+    "received_events_url": "https://api.github.com/users/DhavalGojiya/received_events",
+    "repos_url": "https://api.github.com/users/DhavalGojiya/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/DhavalGojiya/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/DhavalGojiya/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/DhavalGojiya",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/django-commons/django-prometheus/commits/ea2d559476675a688f82cc37fac22b796ec7bcba/comments",
+   "commit": {
+    "author": {
+     "date": "2025-12-23T14:36:24Z",
+     "email": "dhavalgojiya10@gmail.com",
+     "name": "Dhaval Gojiya"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2025-12-23T14:36:24Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "feat: Add pyproject.toml validator hook to pre-commit (#491)",
+    "tree": {
+     "sha": "d8ab43352154c666aa17e1baa0d55b119843209e",
+     "url": "https://api.github.com/repos/django-commons/django-prometheus/git/trees/d8ab43352154c666aa17e1baa0d55b119843209e"
+    },
+    "url": "https://api.github.com/repos/django-commons/django-prometheus/git/commits/ea2d559476675a688f82cc37fac22b796ec7bcba",
+    "verification": {
+     "payload": "tree d8ab43352154c666aa17e1baa0d55b119843209e\nparent ffb249c7858106dd48c23ce99bf11b4c8a25dd9f\nauthor Dhaval Gojiya <dhavalgojiya10@gmail.com> 1766500584 +0530\ncommitter GitHub <noreply@github.com> 1766500584 -0500\n\nfeat: Add pyproject.toml validator hook to pre-commit (#491)\n\n",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJpSqjoCRC1aQ7uu5UhlAAAfC8QALHW0LfL5osB41NzHGQAtwI+\nQaHeRHO7nE6/LG50WStClnKSsasljisTfAEk3UFrk2e2kYbls6TgOC1sXnhzHzb+\n7tqJdhveTPiDHxbJvY4yoaGJZJHFujR6Iku6cRQoszjGYGJ5Z2Nnk3I5yFVlBLDl\nXOivKBQANpI190hEc/HUCRNw//Ha8PQaKUXRef0AVsrkRiLE2hi1QQ7KEud1JF5B\nIPlVP7h24ZvNW3l7L8/qLCUnlolbb+VS3hRvOGKlkxQi06tCEgFtJWgRoFYCjykx\nZk51yMy/kZgfqOVwUM+y/lVxxmv1Yv02KEevoBcqQEWEbGrHWfSH7VXcK1sGTf1m\nJeZ/5zDEibtTa1BF0mRd6/Xfae6+UZotN7a7E3wJE5B30OcHAiTjTJy4aFb8N7ZW\nOepxfbwUEwUHPzpqrumfx4HPQUskAwFbo/vQc3SIPhjtQ21NP3b/2ziW/Bhl2/0+\noWe64OoITV5D6iFWtrMmIS6k+Kvb7MutWmEBuHU+VR23CoJJ9pU+I2iT7UZmHjJ7\nQ+EQWcawFqmfzV9Uy+0iLLxc8qCMkA5RYs56g1gKog8tkyZjEEeOo/1ZqVvBnJl/\njRvGY1tvogy6YX7Ns/o+yBzwDx4kd80fvqhorj4z5CmT2i7splrYZqmcY50anoVf\nJ6DNLubQcAuKpFLDjh/2\n=mJeJ\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2025-12-23T14:36:24Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/django-commons/django-prometheus/commit/ea2d559476675a688f82cc37fac22b796ec7bcba",
+   "node_id": "C_kwDOAf4mBNoAKGVhMmQ1NTk0NzY2NzVhNjg4ZjgyY2MzN2ZhYzIyYjc5NmVjN2JjYmE",
+   "parents": [
+    {
+     "html_url": "https://github.com/django-commons/django-prometheus/commit/ffb249c7858106dd48c23ce99bf11b4c8a25dd9f",
+     "sha": "ffb249c7858106dd48c23ce99bf11b4c8a25dd9f",
+     "url": "https://api.github.com/repos/django-commons/django-prometheus/commits/ffb249c7858106dd48c23ce99bf11b4c8a25dd9f"
+    }
+   ],
+   "sha": "ea2d559476675a688f82cc37fac22b796ec7bcba",
+   "url": "https://api.github.com/repos/django-commons/django-prometheus/commits/ea2d559476675a688f82cc37fac22b796ec7bcba"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/166637?v=4",
+    "events_url": "https://api.github.com/users/ulgens/events{/privacy}",
+    "followers_url": "https://api.github.com/users/ulgens/followers",
+    "following_url": "https://api.github.com/users/ulgens/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ulgens/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/ulgens",
+    "id": 166637,
+    "login": "ulgens",
+    "node_id": "MDQ6VXNlcjE2NjYzNw==",
+    "organizations_url": "https://api.github.com/users/ulgens/orgs",
+    "received_events_url": "https://api.github.com/users/ulgens/received_events",
+    "repos_url": "https://api.github.com/users/ulgens/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/ulgens/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ulgens/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/ulgens",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/django-commons/django-prometheus/commits/ffb249c7858106dd48c23ce99bf11b4c8a25dd9f/comments",
+   "commit": {
+    "author": {
+     "date": "2025-12-23T14:35:54Z",
+     "email": "ulgens@users.noreply.github.com",
+     "name": "Ülgen Sarıkavak"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2025-12-23T14:35:54Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Add Django 6.0 to tests (#489)",
+    "tree": {
+     "sha": "0eb2783dc247eaa805e1ef6522ff0373b7863f77",
+     "url": "https://api.github.com/repos/django-commons/django-prometheus/git/trees/0eb2783dc247eaa805e1ef6522ff0373b7863f77"
+    },
+    "url": "https://api.github.com/repos/django-commons/django-prometheus/git/commits/ffb249c7858106dd48c23ce99bf11b4c8a25dd9f",
+    "verification": {
+     "payload": "tree 0eb2783dc247eaa805e1ef6522ff0373b7863f77\nparent df29fd3d30a51678382906848482ac3b3bad85e8\nauthor Ülgen Sarıkavak <ulgens@users.noreply.github.com> 1766500554 +0300\ncommitter GitHub <noreply@github.com> 1766500554 -0500\n\nAdd Django 6.0 to tests (#489)\n\n",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJpSqjKCRC1aQ7uu5UhlAAA2CcQAIAuCLq8DmwLZ76jzGN1Eagb\nI27quUfPDhTJz8O0wHZZ/c+wfhsgojbQwHX2jz2nnFMNFFnUqMa1kVYEkNP0CRFF\nUXA7K8VxesTtL4wrKzk/rirC4fJMacdQ6l245yYmmbiIMpAiwuLOvAJi4yJJOuqm\nBcLu3TvQVeFiUXBK23zQrqgENoZHZ6Y8eWCmoD7HkoMoWft8yqHsAn2l6z7aBnxx\n93bO7yXNDUMv0+2/v8HUsxOxuY3tL1ZT3hQ4yBcWw8WRKgd959iaMLnUkA4DT/9S\nTa18yqfwyS/DWqcqbyB2bODc34g4KOL2XNsuieIBoJ61634Y0DwE5Hdm+AVLI6+7\n4gCxSxABreKH9WToq/gecFp7gyD8lu2JKIEaUK+kx5oJl9Grhsy/56e4Xegl9tuq\nnYf1HHa4QXIEfCI/PWtBxvcllPi8kYS6QcBwe3eiLyBeQKU5ds2e5bzCYFuOCxEV\nbWq1BgQHkalG2aZxDfeEW6qCbMd2KvftAsSHNO1EfTUkVaLxgqAoApKGF/Qa5WyX\nQ4ZNIos+bjWniWEW6OTt6B/VULdqyz2fGseutqiEyRuHHsozwLrcW34wBEjZ+Oh+\nq8d7jIjaQOyB4587gcZaqRlal+VtPhnj2PbmYs3d0htM8qGWdc1Cy1bsYIw6gVof\nn6D6EJ9PMixgMH+e2LCY\n=5X3o\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2025-12-23T14:35:55Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/django-commons/django-prometheus/commit/ffb249c7858106dd48c23ce99bf11b4c8a25dd9f",
+   "node_id": "C_kwDOAf4mBNoAKGZmYjI0OWM3ODU4MTA2ZGQ0OGMyM2NlOTliZjExYjRjOGEyNWRkOWY",
+   "parents": [
+    {
+     "html_url": "https://github.com/django-commons/django-prometheus/commit/df29fd3d30a51678382906848482ac3b3bad85e8",
+     "sha": "df29fd3d30a51678382906848482ac3b3bad85e8",
+     "url": "https://api.github.com/repos/django-commons/django-prometheus/commits/df29fd3d30a51678382906848482ac3b3bad85e8"
+    }
+   ],
+   "sha": "ffb249c7858106dd48c23ce99bf11b4c8a25dd9f",
+   "url": "https://api.github.com/repos/django-commons/django-prometheus/commits/ffb249c7858106dd48c23ce99bf11b4c8a25dd9f"
+  }
+ ],
+ "recorded_at": "2026-11-16T18:38:46Z",
+ "recorded_with": "deadledger 0.1.0",
+ "status": 200,
+ "url": "https://api.github.com/repos/django-commons/django-prometheus/commits?since=<window>&per_page=100"
+}

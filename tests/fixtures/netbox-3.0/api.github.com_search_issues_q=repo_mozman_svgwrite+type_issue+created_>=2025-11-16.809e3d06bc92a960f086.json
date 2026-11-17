@@ -1,0 +1,12 @@
+{
+ "body": {
+  "incomplete_results": false,
+  "items": [],
+  "search_type": "lexical",
+  "total_count": 0
+ },
+ "recorded_at": "2026-11-16T18:38:46Z",
+ "recorded_with": "deadledger 0.1.0",
+ "status": 200,
+ "url": "https://api.github.com/search/issues?q=repo:mozman/svgwrite+type:issue+created:>=2025-11-16"
+}

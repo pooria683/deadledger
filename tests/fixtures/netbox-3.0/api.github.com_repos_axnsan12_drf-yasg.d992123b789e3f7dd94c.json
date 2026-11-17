@@ -1,0 +1,15 @@
+{
+ "body": {
+  "archived": false,
+  "default_branch": "master",
+  "full_name": "axnsan12/drf-yasg",
+  "html_url": "https://github.com/axnsan12/drf-yasg",
+  "open_issues_count": 218,
+  "pushed_at": "2026-10-09T16:44:27Z",
+  "stargazers_count": 3547
+ },
+ "recorded_at": "2026-11-16T18:38:46Z",
+ "recorded_with": "deadledger 0.1.0",
+ "status": 200,
+ "url": "https://api.github.com/repos/axnsan12/drf-yasg"
+}

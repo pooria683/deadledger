@@ -1,0 +1,15 @@
+{
+ "body": {
+  "archived": false,
+  "default_branch": "main",
+  "full_name": "graphql-python/graphene-django",
+  "html_url": "https://github.com/graphql-python/graphene-django",
+  "open_issues_count": 166,
+  "pushed_at": "2026-06-24T23:46:54Z",
+  "stargazers_count": 4394
+ },
+ "recorded_at": "2026-11-16T18:38:46Z",
+ "recorded_with": "deadledger 0.1.0",
+ "status": 200,
+ "url": "https://api.github.com/repos/graphql-python/graphene-django"
+}

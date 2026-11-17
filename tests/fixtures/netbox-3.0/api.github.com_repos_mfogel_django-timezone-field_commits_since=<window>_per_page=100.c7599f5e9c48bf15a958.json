@@ -1,0 +1,910 @@
+{
+ "body": [
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/69902?v=4",
+    "events_url": "https://api.github.com/users/mfogel/events{/privacy}",
+    "followers_url": "https://api.github.com/users/mfogel/followers",
+    "following_url": "https://api.github.com/users/mfogel/following{/other_user}",
+    "gists_url": "https://api.github.com/users/mfogel/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/mfogel",
+    "id": 69902,
+    "login": "mfogel",
+    "node_id": "MDQ6VXNlcjY5OTAy",
+    "organizations_url": "https://api.github.com/users/mfogel/orgs",
+    "received_events_url": "https://api.github.com/users/mfogel/received_events",
+    "repos_url": "https://api.github.com/users/mfogel/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/mfogel/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/mfogel/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/mfogel",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/mfogel/django-timezone-field/commits/d568270af05af26b99e3d33aebc57af9771090a1/comments",
+   "commit": {
+    "author": {
+     "date": "2026-06-06T05:26:52Z",
+     "email": "mike@fogel.ca",
+     "name": "Mike Fogel"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-06-06T05:26:52Z",
+     "email": "mike@fogel.ca",
+     "name": "Mike Fogel"
+    },
+    "message": "Release v7.2.2",
+    "tree": {
+     "sha": "795b44ba4b3aff13183148872ec89a5412d009da",
+     "url": "https://api.github.com/repos/mfogel/django-timezone-field/git/trees/795b44ba4b3aff13183148872ec89a5412d009da"
+    },
+    "url": "https://api.github.com/repos/mfogel/django-timezone-field/git/commits/d568270af05af26b99e3d33aebc57af9771090a1",
+    "verification": {
+     "payload": "tree 795b44ba4b3aff13183148872ec89a5412d009da\nparent e38429353fb5e1c1c5b8f040cbdf95ecca579dea\nauthor Mike Fogel <mike@fogel.ca> 1780723612 -0700\ncommitter Mike Fogel <mike@fogel.ca> 1780723612 -0700\n\nRelease v7.2.2\n",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCAAdFiEEtN83y8qmG0wNkFXy/02j+b+BmaoFAmojr5wACgkQ/02j+b+B\nmaoKew/+PiGFFeJMf3BGrp3qI0mAAz0DmAw0Wv54t7t84F2PqZi8d/ujX00F0zKY\nf8hgWtbzsozvA1xfAbmbYzU3/9lGNaP1vzeiNlrX4du5Jy7xQ8cULsc6ql3yKhA+\nsHZJ/rZNIQ3q9cleLShtsbDLkSWQnTcMmc3g0TXQUocmuCRIRzOuDW1C5oLLjpBY\nxgCrx3hjL9xDr9lWEip3bm1b+wJqII29Cfu6fobkJf7fXmIy/gcIiqW4aLPxEqXh\n9bdE8lINppmJ0M8RilCPC/Vy7mNynn0MxRHhp6TSMTH2qmvlERqyrYYaGRe3m5mB\n8qq2MPV//OJ62b5mVRhm8t8JEAMFoiQBCIFKfBWwcrCJ64xWEpWe9XIIFFny2JLp\nbIz1ZB9PNy1ae6EuSV2cpqkGhgBN0EGp9ac4PZcnJrQ5R13pcgmNkKemDSJUv9IY\nHjP0ebKMop5tD39kGp5j2OvlZbcLfF8LCRXhNtC8tnCyNkHoUW9wUwKcz0OTbs3Z\nawaWXSmmb4WjkRqsnKGE+FiE5Ayq4jGzLzmaZR5AFj1zhMvQjdTVLwAZTZ42Dy/e\nbl7YXarD3OElg1+i5x9DbI+8liGeHE56CxUn7qkonM90QpWoCi9pBpK898R8nPWV\nnZDrg9CFDxnB/wAkLtP8A6UOj5iYCcX6dddjkpt5u3KXFtshmjI=\n=M8wX\n-----END PGP SIGNATURE-----",
+     "verified": true,
+     "verified_at": "2026-06-06T05:28:06Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/69902?v=4",
+    "events_url": "https://api.github.com/users/mfogel/events{/privacy}",
+    "followers_url": "https://api.github.com/users/mfogel/followers",
+    "following_url": "https://api.github.com/users/mfogel/following{/other_user}",
+    "gists_url": "https://api.github.com/users/mfogel/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/mfogel",
+    "id": 69902,
+    "login": "mfogel",
+    "node_id": "MDQ6VXNlcjY5OTAy",
+    "organizations_url": "https://api.github.com/users/mfogel/orgs",
+    "received_events_url": "https://api.github.com/users/mfogel/received_events",
+    "repos_url": "https://api.github.com/users/mfogel/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/mfogel/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/mfogel/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/mfogel",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/mfogel/django-timezone-field/commit/d568270af05af26b99e3d33aebc57af9771090a1",
+   "node_id": "C_kwDOAD0yZNoAKGQ1NjgyNzBhZjA1YWYyNmI5OWUzZDMzYWViYzU3YWY5NzcxMDkwYTE",
+   "parents": [
+    {
+     "html_url": "https://github.com/mfogel/django-timezone-field/commit/e38429353fb5e1c1c5b8f040cbdf95ecca579dea",
+     "sha": "e38429353fb5e1c1c5b8f040cbdf95ecca579dea",
+     "url": "https://api.github.com/repos/mfogel/django-timezone-field/commits/e38429353fb5e1c1c5b8f040cbdf95ecca579dea"
+    }
+   ],
+   "sha": "d568270af05af26b99e3d33aebc57af9771090a1",
+   "url": "https://api.github.com/repos/mfogel/django-timezone-field/commits/d568270af05af26b99e3d33aebc57af9771090a1"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/69902?v=4",
+    "events_url": "https://api.github.com/users/mfogel/events{/privacy}",
+    "followers_url": "https://api.github.com/users/mfogel/followers",
+    "following_url": "https://api.github.com/users/mfogel/following{/other_user}",
+    "gists_url": "https://api.github.com/users/mfogel/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/mfogel",
+    "id": 69902,
+    "login": "mfogel",
+    "node_id": "MDQ6VXNlcjY5OTAy",
+    "organizations_url": "https://api.github.com/users/mfogel/orgs",
+    "received_events_url": "https://api.github.com/users/mfogel/received_events",
+    "repos_url": "https://api.github.com/users/mfogel/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/mfogel/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/mfogel/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/mfogel",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/mfogel/django-timezone-field/commits/e38429353fb5e1c1c5b8f040cbdf95ecca579dea/comments",
+   "commit": {
+    "author": {
+     "date": "2026-06-06T04:26:16Z",
+     "email": "mike@fogel.ca",
+     "name": "Mike Fogel"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-06-06T04:26:16Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Update dev dependencies, clears a security advisory (#163)\n\n* Update dependencies, clears a security advisory\n\n* Try using a more recent poetry version in CI\n\n* Go back to poetry 1.8.5",
+    "tree": {
+     "sha": "62e88dd1d00d6bf1cddee347b95fe26fab608dd0",
+     "url": "https://api.github.com/repos/mfogel/django-timezone-field/git/trees/62e88dd1d00d6bf1cddee347b95fe26fab608dd0"
+    },
+    "url": "https://api.github.com/repos/mfogel/django-timezone-field/git/commits/e38429353fb5e1c1c5b8f040cbdf95ecca579dea",
+    "verification": {
+     "payload": "tree 62e88dd1d00d6bf1cddee347b95fe26fab608dd0\nparent 4f483d31f08d1af982827ca05a111e8eb9a5d50b\nauthor Mike Fogel <mike@fogel.ca> 1780719976 -0700\ncommitter GitHub <noreply@github.com> 1780719976 -0700\n\nUpdate dev dependencies, clears a security advisory (#163)\n\n* Update dependencies, clears a security advisory\n\n* Try using a more recent poetry version in CI\n\n* Go back to poetry 1.8.5",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqI6FoCRC1aQ7uu5UhlAAAs1IQAGqsxWguuUykTvSsD4C8XPh3\n6lY6KCX34uZJFHhu4mls5Gozz5xWTPBVFrObJCS9qd8dfmaBtBi1lQhd2OOmKiKU\n2u+iF886VFWGMLGAK2oME44GrrIUH7Hh+xrryEVlM04Ze2i2c8OhQPe55QT4BDGb\n8fD51UzbPV91W8rRtxRd89N71ZnWaalOgMjF6yosbtLkRcvTRgvGTSmOybFLRzam\nLZCtOSMm/B4Ul9901lpgJk8+XRrsfsEMe/3NSjaguaGIU5zoRy9/qP8sX+gdghOR\n8L93MEiQWrNXLTJlWzuUiZxrGXIt10mC8LzN5x96vSCdBeIaKjm9KzqgPdrCkMXs\nNUtAZFBTLAjJ6bWFKBjnwjgWe+cZM3wJiOi2SfVn6ucVO1z1dFLdxKlEEeOc9o3V\noyGi5qOGhQ7sBLEUobptXU9s763S8kR5M5p15hv8KDc+JCC9PN1O8TspQw2R2Vir\naqZm7uolvi0HN4Jds80lJSvBAdebpq4pt3KOaeidNOmnWXcPHxSjrFWcKD0anRed\nEipUOIx9fJYCw01RdUDOZUNxml8acKzoWExiYM73LmWwKlh+xcsg5DQNEEv9+biP\nQCzvyRUA/Z209CAesKoXYTUeeoBjIoL233bMj58IQV2i+AoGycK5waCu2znfPXyU\nNFi8g8WJgptiR4V2jXox\n=aw+u\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-06-06T04:26:16Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/mfogel/django-timezone-field/commit/e38429353fb5e1c1c5b8f040cbdf95ecca579dea",
+   "node_id": "C_kwDOAD0yZNoAKGUzODQyOTM1M2ZiNWUxYzFjNWI4ZjA0MGNiZGY5NWVjY2E1NzlkZWE",
+   "parents": [
+    {
+     "html_url": "https://github.com/mfogel/django-timezone-field/commit/4f483d31f08d1af982827ca05a111e8eb9a5d50b",
+     "sha": "4f483d31f08d1af982827ca05a111e8eb9a5d50b",
+     "url": "https://api.github.com/repos/mfogel/django-timezone-field/commits/4f483d31f08d1af982827ca05a111e8eb9a5d50b"
+    }
+   ],
+   "sha": "e38429353fb5e1c1c5b8f040cbdf95ecca579dea",
+   "url": "https://api.github.com/repos/mfogel/django-timezone-field/commits/e38429353fb5e1c1c5b8f040cbdf95ecca579dea"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/2865885?v=4",
+    "events_url": "https://api.github.com/users/felixxm/events{/privacy}",
+    "followers_url": "https://api.github.com/users/felixxm/followers",
+    "following_url": "https://api.github.com/users/felixxm/following{/other_user}",
+    "gists_url": "https://api.github.com/users/felixxm/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/felixxm",
+    "id": 2865885,
+    "login": "felixxm",
+    "node_id": "MDQ6VXNlcjI4NjU4ODU=",
+    "organizations_url": "https://api.github.com/users/felixxm/orgs",
+    "received_events_url": "https://api.github.com/users/felixxm/received_events",
+    "repos_url": "https://api.github.com/users/felixxm/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/felixxm/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/felixxm/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/felixxm",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/mfogel/django-timezone-field/commits/4f483d31f08d1af982827ca05a111e8eb9a5d50b/comments",
+   "commit": {
+    "author": {
+     "date": "2026-06-03T23:45:58Z",
+     "email": "felisiak.mariusz@gmail.com",
+     "name": "Mariusz Felisiak"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-06-03T23:45:58Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Confirm Django 6.1 support (#159)\n\n* Confirm Django 6.1 support\n\n* Revert change to pyproject.toml\n\n* Fix CI Django version specifier to pin to intended minor version\n\nThe ~= specifier (e.g. ~=5.0) means >=5.0,==5.*, which installs the\nlatest 5.x release rather than the intended 5.0.x. Change to\n>=X.Y.dev0,==X.Y.* to correctly pin each matrix entry to its minor\nversion while still allowing pre-releases.\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>\n\n* Add Django 6.1 framework classifier\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>\n\n* Fix tests on Django 6.1.\n\nBlank option description was changed in Django 6.1.\n\n* Update poetry lock file hash\n\n* Add changelog entry\n\n---------\n\nCo-authored-by: Mike Fogel <mike@fogel.ca>\nCo-authored-by: Claude Opus 4.6 <noreply@anthropic.com>",
+    "tree": {
+     "sha": "18975c30c6501f9536354642c50cd578eb2b813b",
+     "url": "https://api.github.com/repos/mfogel/django-timezone-field/git/trees/18975c30c6501f9536354642c50cd578eb2b813b"
+    },
+    "url": "https://api.github.com/repos/mfogel/django-timezone-field/git/commits/4f483d31f08d1af982827ca05a111e8eb9a5d50b",
+    "verification": {
+     "payload": "tree 18975c30c6501f9536354642c50cd578eb2b813b\nparent b67805e7e91949fddf030c738936259bb3924bf2\nauthor Mariusz Felisiak <felisiak.mariusz@gmail.com> 1780530358 +0200\ncommitter GitHub <noreply@github.com> 1780530358 -0700\n\nConfirm Django 6.1 support (#159)\n\n* Confirm Django 6.1 support\n\n* Revert change to pyproject.toml\n\n* Fix CI Django version specifier to pin to intended minor version\n\nThe ~= specifier (e.g. ~=5.0) means >=5.0,==5.*, which installs the\nlatest 5.x release rather than the intended 5.0.x. Change to\n>=X.Y.dev0,==X.Y.* to correctly pin each matrix entry to its minor\nversion while still allowing pre-releases.\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>\n\n* Add Django 6.1 framework classifier\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>\n\n* Fix tests on Django 6.1.\n\nBlank option description was changed in Django 6.1.\n\n* Update poetry lock file hash\n\n* Add changelog entry\n\n---------\n\nCo-authored-by: Mike Fogel <mike@fogel.ca>\nCo-authored-by: Claude Opus 4.6 <noreply@anthropic.com>",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqILy2CRC1aQ7uu5UhlAAAMS0QAA+/EnF2eHKnZ/mo4c0FRBvA\nHqLXn2vi80HUj2zT8c6FY+lHgCAFFX17FmNSx1bG/48DZYxBxePSoFlJaSEfd3fW\nFUj7L421InGeXjzdbvOe53velqzsuPYznliwyKRWPLUq4DGLBwoGL+7MBtVTU+Wh\neB/9wEwwlw7+ia/MRLwPS1xr/sqVbeKob6t5Y1Z2hKRc/D5jQM4sul9cfDdGolch\n2CK2y0MCN9YoI9V5dg1cT1cbDF4ByzWxCeDveKacqRE+muK50tpPe+YV0y178eWN\n0Ih/5L1DmzFbNx2cQfOdN6YqfvB3Do0TLfp9Y5S0Eyjn6El7D3omjRUp4eyYUKyH\nR9+evxZDa9R0F1JrlBOxUgmLR7PJo+Q0zL87S1PTPydYhBxcc2LcR8yPHdpXbl1G\nLdrUEYcRfrKssIpxqbC2LlycYGDL0KZwMuzFFz+yFTGvn1Zqi4SLOs8O/kVO8z54\nwlUEzMQF4CZIoOW570XVLufdlfv1OdU0HyeYHJQvUc9zcNw7UtwxcSzFMljrAoZp\naf9DpJc6qveFvCaUHHAizdoXlzr8kncOFk5of4g/Dapv4E0zHXpflRPunBOZ5e2a\nTqF6kzB5RT3nBnIXqjbrRZf1kzi1mvI7oKw0LzPRxGUGvviIIORg3CM9Y0eV78dN\naoktJEbYjnNsuqDrsPu+\n=tJNy\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-06-03T23:45:59Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/mfogel/django-timezone-field/commit/4f483d31f08d1af982827ca05a111e8eb9a5d50b",
+   "node_id": "C_kwDOAD0yZNoAKDRmNDgzZDMxZjA4ZDFhZjk4MjgyN2NhMDVhMTExZThlYjlhNWQ1MGI",
+   "parents": [
+    {
+     "html_url": "https://github.com/mfogel/django-timezone-field/commit/b67805e7e91949fddf030c738936259bb3924bf2",
+     "sha": "b67805e7e91949fddf030c738936259bb3924bf2",
+     "url": "https://api.github.com/repos/mfogel/django-timezone-field/commits/b67805e7e91949fddf030c738936259bb3924bf2"
+    }
+   ],
+   "sha": "4f483d31f08d1af982827ca05a111e8eb9a5d50b",
+   "url": "https://api.github.com/repos/mfogel/django-timezone-field/commits/4f483d31f08d1af982827ca05a111e8eb9a5d50b"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/69902?v=4",
+    "events_url": "https://api.github.com/users/mfogel/events{/privacy}",
+    "followers_url": "https://api.github.com/users/mfogel/followers",
+    "following_url": "https://api.github.com/users/mfogel/following{/other_user}",
+    "gists_url": "https://api.github.com/users/mfogel/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/mfogel",
+    "id": 69902,
+    "login": "mfogel",
+    "node_id": "MDQ6VXNlcjY5OTAy",
+    "organizations_url": "https://api.github.com/users/mfogel/orgs",
+    "received_events_url": "https://api.github.com/users/mfogel/received_events",
+    "repos_url": "https://api.github.com/users/mfogel/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/mfogel/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/mfogel/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/mfogel",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/mfogel/django-timezone-field/commits/b67805e7e91949fddf030c738936259bb3924bf2/comments",
+   "commit": {
+    "author": {
+     "date": "2026-06-03T05:54:01Z",
+     "email": "mike@fogel.ca",
+     "name": "Mike Fogel"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-06-03T05:54:01Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Update Django dependency lower bound from 3.2 to 4.2 (#162)\n\n* Update Django dependency lower bound from 3.2 to 4.2\n\nThe project no longer supports Django < 4.2 (classifiers and CI matrix\nboth start at 4.2), but the dependency specifier still allowed 3.2+.\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>\n\n* Update poetry lockfile\n\n---------\n\nCo-authored-by: Claude Opus 4.6 <noreply@anthropic.com>",
+    "tree": {
+     "sha": "523f395d875f61da30fa742ed530a26af4b75553",
+     "url": "https://api.github.com/repos/mfogel/django-timezone-field/git/trees/523f395d875f61da30fa742ed530a26af4b75553"
+    },
+    "url": "https://api.github.com/repos/mfogel/django-timezone-field/git/commits/b67805e7e91949fddf030c738936259bb3924bf2",
+    "verification": {
+     "payload": "tree 523f395d875f61da30fa742ed530a26af4b75553\nparent 8879188468d91c10e2e2c2c75af1ad3320a58bf4\nauthor Mike Fogel <mike@fogel.ca> 1780466041 -0700\ncommitter GitHub <noreply@github.com> 1780466041 -0700\n\nUpdate Django dependency lower bound from 3.2 to 4.2 (#162)\n\n* Update Django dependency lower bound from 3.2 to 4.2\n\nThe project no longer supports Django < 4.2 (classifiers and CI matrix\nboth start at 4.2), but the dependency specifier still allowed 3.2+.\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>\n\n* Update poetry lockfile\n\n---------\n\nCo-authored-by: Claude Opus 4.6 <noreply@anthropic.com>",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqH8F5CRC1aQ7uu5UhlAAA/C0QAD+KuGSmpbxYfL4JkaBQAjWq\nSi3KoRBDwaJsw6bSISMP5/K86/bsvAVkgfL687r7ceIQz5jwkis+N/5yhWSaWpHj\nd9nUuxcPogkLG2yhqvqD8uKEHTp37GniNhRu0FMCvtW7rslCTcHufAvq3Lu3GuPC\n/MJVid9t1jeMk7fgzn0/UAtevdh+xkrXBIYjVjk5JMwS7V/BZvqbWVIx2+uRpyPc\n+wRqUl7rVbZ2jWrOju0tvyhorMIsWjiobznAFRLwAl0ochtNdtdOEaIuqoVJ1jeY\nlvwlxsCfTkBGwc1edarFSPurEWq8vTiPVfR+W04rt5cSgoKTyoNxc0LbzVH+E+xa\nMksPZzyiZcLPZVNY3VNYRz7ZX1rlFI3TeUSyCDAmWsjYsj+ktda/k/wEy4LZ73UC\n0E5wj1pYEF3T+Cv2Qs5kBgOVeno8wSgF5twVhkUx9suPNS/XB/MBm12hpzPXxSmc\ny/OnYtdjEVPbovaG41eYDIv/og2gQYDwIJrx5AHCvVk2xA4uc0QqLnLvhAe3HJeh\nqnQa2J+m00zdepzP+EoTQMDsEFc3YsNJtt1ErAcJuBaogBUucoR9VEK6hCzV4i45\nBytoaJ0iqREPZyy3A79Aw+FEhAsjgY/xcHZZHPNQawEu4DUE2m11pSkF0lA5SAWZ\nr8gS//4J5XQURXIzCqCC\n=DoGf\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-06-03T05:54:01Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/mfogel/django-timezone-field/commit/b67805e7e91949fddf030c738936259bb3924bf2",
+   "node_id": "C_kwDOAD0yZNoAKGI2NzgwNWU3ZTkxOTQ5ZmRkZjAzMGM3Mzg5MzYyNTliYjM5MjRiZjI",
+   "parents": [
+    {
+     "html_url": "https://github.com/mfogel/django-timezone-field/commit/8879188468d91c10e2e2c2c75af1ad3320a58bf4",
+     "sha": "8879188468d91c10e2e2c2c75af1ad3320a58bf4",
+     "url": "https://api.github.com/repos/mfogel/django-timezone-field/commits/8879188468d91c10e2e2c2c75af1ad3320a58bf4"
+    }
+   ],
+   "sha": "b67805e7e91949fddf030c738936259bb3924bf2",
+   "url": "https://api.github.com/repos/mfogel/django-timezone-field/commits/b67805e7e91949fddf030c738936259bb3924bf2"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/69902?v=4",
+    "events_url": "https://api.github.com/users/mfogel/events{/privacy}",
+    "followers_url": "https://api.github.com/users/mfogel/followers",
+    "following_url": "https://api.github.com/users/mfogel/following{/other_user}",
+    "gists_url": "https://api.github.com/users/mfogel/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/mfogel",
+    "id": 69902,
+    "login": "mfogel",
+    "node_id": "MDQ6VXNlcjY5OTAy",
+    "organizations_url": "https://api.github.com/users/mfogel/orgs",
+    "received_events_url": "https://api.github.com/users/mfogel/received_events",
+    "repos_url": "https://api.github.com/users/mfogel/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/mfogel/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/mfogel/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/mfogel",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/mfogel/django-timezone-field/commits/8879188468d91c10e2e2c2c75af1ad3320a58bf4/comments",
+   "commit": {
+    "author": {
+     "date": "2026-06-03T05:31:11Z",
+     "email": "mike@fogel.ca",
+     "name": "Mike Fogel"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-06-03T05:31:11Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Fix CI Django version specifier to pin to intended minor version (#161)\n\nThe ~= specifier (e.g. ~=5.0) means >=5.0,==5.*, which installs the\nlatest 5.x release rather than the intended 5.0.x. Change to\n>=X.Y.dev0,==X.Y.* to correctly pin each matrix entry to its minor\nversion while still allowing pre-releases.\n\nCo-authored-by: Claude Opus 4.6 <noreply@anthropic.com>",
+    "tree": {
+     "sha": "12727db35e131655fb88f3599af91a95432e360f",
+     "url": "https://api.github.com/repos/mfogel/django-timezone-field/git/trees/12727db35e131655fb88f3599af91a95432e360f"
+    },
+    "url": "https://api.github.com/repos/mfogel/django-timezone-field/git/commits/8879188468d91c10e2e2c2c75af1ad3320a58bf4",
+    "verification": {
+     "payload": "tree 12727db35e131655fb88f3599af91a95432e360f\nparent 8255408528a726a150dc882c2814760d8ccca10f\nauthor Mike Fogel <mike@fogel.ca> 1780464671 -0700\ncommitter GitHub <noreply@github.com> 1780464671 -0700\n\nFix CI Django version specifier to pin to intended minor version (#161)\n\nThe ~= specifier (e.g. ~=5.0) means >=5.0,==5.*, which installs the\nlatest 5.x release rather than the intended 5.0.x. Change to\n>=X.Y.dev0,==X.Y.* to correctly pin each matrix entry to its minor\nversion while still allowing pre-releases.\n\nCo-authored-by: Claude Opus 4.6 <noreply@anthropic.com>",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqH7wfCRC1aQ7uu5UhlAAATUAQAJIHhJgD8A6mvyyi6IvUDWvw\nu1mFHgGIA3Ijp+T1vrzRD4cpnzEoTupBg2yh7hw/D4XSyAGu/hSW2dV6LJTqbpbX\nbOt4nkQrrhElF/Wi0FGuGZq+csUKm6VlPkyJK1W/XykN+9xeXyFsc5xPUJkSlbuk\nU/caYK0FquS5LLHYn4iy4x3ueMl9U04ZV4KrtdFctnVPC4TaA6uWcUHrGAkQIJLM\npBSCQ7XK2dhj/JVxKczu/GACYLlznxXJRRhrEAi0k3LHdOxePrJ29J5hmtxus2a5\nS8mFADu4E90lYBcdzM4jWFd62EZqML+G3up2NomRxzld9nu8ZRATB7mpEw1RQ6zf\ne4GV+6HAqtaxrLzDprMcGAVgUwkEOnDIqR6oiKcmeSPH6bj35fSoncZFkKOcuc9N\nJVaaO3vjVoC6rrroZWsFGv4vsdjWTdHOmXVVbUom4erYgt3w9ogE/o+1mZAhlAj3\nVVbLjCyGwC/CH3G4rBKoprhZA3XNDs28AeEG8OZl9ldg9JhHnV30K6JHjlQa9hIU\nhdAM6mCwt9+MCXCRBANz4yF50YH4VhNgfOW2l+2pA5CC3P7lr1gUSaYxwcDAsEkU\nfEP669hTMd9PMBMgrQYj/x5D1B/90nyMlChuvdMhXJwqDFpYOk0k/uuHSuekS87E\n/G3qnUZyJX8Z9JXirZNo\n=Ioa6\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-06-03T05:31:11Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/mfogel/django-timezone-field/commit/8879188468d91c10e2e2c2c75af1ad3320a58bf4",
+   "node_id": "C_kwDOAD0yZNoAKDg4NzkxODg0NjhkOTFjMTBlMmUyYzJjNzVhZjFhZDMzMjBhNThiZjQ",
+   "parents": [
+    {
+     "html_url": "https://github.com/mfogel/django-timezone-field/commit/8255408528a726a150dc882c2814760d8ccca10f",
+     "sha": "8255408528a726a150dc882c2814760d8ccca10f",
+     "url": "https://api.github.com/repos/mfogel/django-timezone-field/commits/8255408528a726a150dc882c2814760d8ccca10f"
+    }
+   ],
+   "sha": "8879188468d91c10e2e2c2c75af1ad3320a58bf4",
+   "url": "https://api.github.com/repos/mfogel/django-timezone-field/commits/8879188468d91c10e2e2c2c75af1ad3320a58bf4"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/69902?v=4",
+    "events_url": "https://api.github.com/users/mfogel/events{/privacy}",
+    "followers_url": "https://api.github.com/users/mfogel/followers",
+    "following_url": "https://api.github.com/users/mfogel/following{/other_user}",
+    "gists_url": "https://api.github.com/users/mfogel/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/mfogel",
+    "id": 69902,
+    "login": "mfogel",
+    "node_id": "MDQ6VXNlcjY5OTAy",
+    "organizations_url": "https://api.github.com/users/mfogel/orgs",
+    "received_events_url": "https://api.github.com/users/mfogel/received_events",
+    "repos_url": "https://api.github.com/users/mfogel/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/mfogel/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/mfogel/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/mfogel",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/mfogel/django-timezone-field/commits/8255408528a726a150dc882c2814760d8ccca10f/comments",
+   "commit": {
+    "author": {
+     "date": "2025-12-06T23:45:28Z",
+     "email": "mike@fogel.ca",
+     "name": "Mike Fogel"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2025-12-06T23:45:28Z",
+     "email": "mike@fogel.ca",
+     "name": "Mike Fogel"
+    },
+    "message": "Release v7.2.1",
+    "tree": {
+     "sha": "ed387f71338755bd0020c4170e2df6ab956d92c7",
+     "url": "https://api.github.com/repos/mfogel/django-timezone-field/git/trees/ed387f71338755bd0020c4170e2df6ab956d92c7"
+    },
+    "url": "https://api.github.com/repos/mfogel/django-timezone-field/git/commits/8255408528a726a150dc882c2814760d8ccca10f",
+    "verification": {
+     "payload": "tree ed387f71338755bd0020c4170e2df6ab956d92c7\nparent a09fd2f0c36667ea96a7e82ec1759ac524a73f67\nauthor Mike Fogel <mike@fogel.ca> 1765064728 -0800\ncommitter Mike Fogel <mike@fogel.ca> 1765064728 -0800\n\nRelease v7.2.1\n",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCAAdFiEEtN83y8qmG0wNkFXy/02j+b+BmaoFAmk0wB8ACgkQ/02j+b+B\nmarVPhAAvwXWA0gC6KHwoq2WExmmmkUIiyNx/3IA14cGA6WHCwuexVfwVCTNTnqK\nS3K9fL5lFZbi3ayuEEIUrxAel5GsC7yiYPfdjwckqiuiT4rm+bL72JwM1o25yydm\n05YQcu9YoARiZl/cCuWKs0bZLgGh4DSvGC5bdaSTtuKS2SyWN2WUVl7nPKPEL48V\nLqO4OkaNocD88ldOvbJwEDLy84cx42KRNN028hsf3vLbDTGAWXMxlf5RfPLgTsDf\ng08aCmVqh8FzI5DtJ32cCAXCOq55mnDMyMzpDRBxHJqxS9+1lVP0dvPZGhX0OKQx\nN/xSg69rIUsfAYLWMPhUu51L+Fir0WU3iZ1Hdv5lOoSTTh1ToN2+LMiKds6YXWwv\nUSGQ6RSYF9AVxP9+a7buv3DhExu/iOzynlkn4bOj4pMTWbxTu+YsIVim2vE4udGr\nYkpue3WQ5E1uph2aUPxSRksK31pQqVRY4BeaGwFwe9Z+4quYXPco4uRoQv0SOCP7\ncW+Iuna7wUD4ETwbeIV3NT+8oyXOLBXremJx2LDmGG03YZn4mXoVWydYPsGlTx1y\n4mnExC9kZefHU0UAQJAJeuYM8z72H6YrNbqAkpNRi8BnAJSSPUAGtC+T2rlV13i9\nKUyIvKVXJXUSDTqhtS1FngE5TLYGG4AlIhzkUB/48ZIUgDgm0xM=\n=jUiJ\n-----END PGP SIGNATURE-----",
+     "verified": true,
+     "verified_at": "2025-12-06T23:50:02Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/69902?v=4",
+    "events_url": "https://api.github.com/users/mfogel/events{/privacy}",
+    "followers_url": "https://api.github.com/users/mfogel/followers",
+    "following_url": "https://api.github.com/users/mfogel/following{/other_user}",
+    "gists_url": "https://api.github.com/users/mfogel/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/mfogel",
+    "id": 69902,
+    "login": "mfogel",
+    "node_id": "MDQ6VXNlcjY5OTAy",
+    "organizations_url": "https://api.github.com/users/mfogel/orgs",
+    "received_events_url": "https://api.github.com/users/mfogel/received_events",
+    "repos_url": "https://api.github.com/users/mfogel/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/mfogel/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/mfogel/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/mfogel",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/mfogel/django-timezone-field/commit/8255408528a726a150dc882c2814760d8ccca10f",
+   "node_id": "C_kwDOAD0yZNoAKDgyNTU0MDg1MjhhNzI2YTE1MGRjODgyYzI4MTQ3NjBkOGNjY2ExMGY",
+   "parents": [
+    {
+     "html_url": "https://github.com/mfogel/django-timezone-field/commit/a09fd2f0c36667ea96a7e82ec1759ac524a73f67",
+     "sha": "a09fd2f0c36667ea96a7e82ec1759ac524a73f67",
+     "url": "https://api.github.com/repos/mfogel/django-timezone-field/commits/a09fd2f0c36667ea96a7e82ec1759ac524a73f67"
+    }
+   ],
+   "sha": "8255408528a726a150dc882c2814760d8ccca10f",
+   "url": "https://api.github.com/repos/mfogel/django-timezone-field/commits/8255408528a726a150dc882c2814760d8ccca10f"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/69902?v=4",
+    "events_url": "https://api.github.com/users/mfogel/events{/privacy}",
+    "followers_url": "https://api.github.com/users/mfogel/followers",
+    "following_url": "https://api.github.com/users/mfogel/following{/other_user}",
+    "gists_url": "https://api.github.com/users/mfogel/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/mfogel",
+    "id": 69902,
+    "login": "mfogel",
+    "node_id": "MDQ6VXNlcjY5OTAy",
+    "organizations_url": "https://api.github.com/users/mfogel/orgs",
+    "received_events_url": "https://api.github.com/users/mfogel/received_events",
+    "repos_url": "https://api.github.com/users/mfogel/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/mfogel/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/mfogel/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/mfogel",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/mfogel/django-timezone-field/commits/a09fd2f0c36667ea96a7e82ec1759ac524a73f67/comments",
+   "commit": {
+    "author": {
+     "date": "2025-12-06T23:13:56Z",
+     "email": "mike@fogel.ca",
+     "name": "Mike Fogel"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2025-12-06T23:13:56Z",
+     "email": "mike@fogel.ca",
+     "name": "Mike Fogel"
+    },
+    "message": "Release v7.2",
+    "tree": {
+     "sha": "f4d563b130f0594cbdf76dc883440e756b888edf",
+     "url": "https://api.github.com/repos/mfogel/django-timezone-field/git/trees/f4d563b130f0594cbdf76dc883440e756b888edf"
+    },
+    "url": "https://api.github.com/repos/mfogel/django-timezone-field/git/commits/a09fd2f0c36667ea96a7e82ec1759ac524a73f67",
+    "verification": {
+     "payload": "tree f4d563b130f0594cbdf76dc883440e756b888edf\nparent 02be2293c669f15f5323dc049084af5396ead43d\nauthor Mike Fogel <mike@fogel.ca> 1765062836 -0800\ncommitter Mike Fogel <mike@fogel.ca> 1765062836 -0800\n\nRelease v7.2\n",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCAAdFiEEtN83y8qmG0wNkFXy/02j+b+BmaoFAmk0uLQACgkQ/02j+b+B\nmap9JA//WzZxeZLKrnbTzcA3ZQIAchOMRBhT2ZW742FmA0NUG1GANRteOKtk7J0z\n8GwwiIdPULpplvQHrTC5n/w5DgTff/ByJJH2HO9B8y33sJ0RHwdWvZkC2tABJd3D\na22if1D+Yvi4eaVigY3H1EDcP//RyP8cTWT/W/ed6NmBRdjFTSjjlmBZndQ0afCB\n8Ua6PIa0SO64fjisY2YgCnkHTKRm/z8NPvfocr8bzWK9zkyx/83nmzql2BOdevZ9\nzsxs3UtQ/l6ujK+OJZVh7dXgFtmdzjGCLUFokXNM0amL0ftcLHojZO13QRSRBpQC\nSNPxD60wJ6+VOeeH3R5WaHmx3RyD/axD6iB5PRuIK9vGCX50Ubxt5U48bzBj+Cxb\nTNpV6S93rtD6FEjTdGtEnjC2LKgNMkJQshXGbX6ddY6DdYOQYn0qQNct9C+wHovR\nSpQhs8D0n7DIAA5Q+sqbAe/TTmxEwj43TstD5Wq2yglF8kx0ZGR6cqdsQCFxkKnH\n/UgzXr0Qmiq2E03FdbVOqgH7D465hqIHAMyV5GiLp1ClBWYSbqzW7Ayj0siNVnuX\nCvUqvim+Iqk1xDB0pwesuCSXnFU/8ayfnbwwN9RBCmf9+kxKLnSfIJ5XGLJgJbxl\nCCzG6DwchnTR+s9/yz3SI+bC+zooHL2WzAx2DE8IHXShepYYmmQ=\n=8q2b\n-----END PGP SIGNATURE-----",
+     "verified": true,
+     "verified_at": "2025-12-06T23:16:18Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/69902?v=4",
+    "events_url": "https://api.github.com/users/mfogel/events{/privacy}",
+    "followers_url": "https://api.github.com/users/mfogel/followers",
+    "following_url": "https://api.github.com/users/mfogel/following{/other_user}",
+    "gists_url": "https://api.github.com/users/mfogel/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/mfogel",
+    "id": 69902,
+    "login": "mfogel",
+    "node_id": "MDQ6VXNlcjY5OTAy",
+    "organizations_url": "https://api.github.com/users/mfogel/orgs",
+    "received_events_url": "https://api.github.com/users/mfogel/received_events",
+    "repos_url": "https://api.github.com/users/mfogel/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/mfogel/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/mfogel/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/mfogel",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/mfogel/django-timezone-field/commit/a09fd2f0c36667ea96a7e82ec1759ac524a73f67",
+   "node_id": "C_kwDOAD0yZNoAKGEwOWZkMmYwYzM2NjY3ZWE5NmE3ZTgyZWMxNzU5YWM1MjRhNzNmNjc",
+   "parents": [
+    {
+     "html_url": "https://github.com/mfogel/django-timezone-field/commit/02be2293c669f15f5323dc049084af5396ead43d",
+     "sha": "02be2293c669f15f5323dc049084af5396ead43d",
+     "url": "https://api.github.com/repos/mfogel/django-timezone-field/commits/02be2293c669f15f5323dc049084af5396ead43d"
+    }
+   ],
+   "sha": "a09fd2f0c36667ea96a7e82ec1759ac524a73f67",
+   "url": "https://api.github.com/repos/mfogel/django-timezone-field/commits/a09fd2f0c36667ea96a7e82ec1759ac524a73f67"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/69902?v=4",
+    "events_url": "https://api.github.com/users/mfogel/events{/privacy}",
+    "followers_url": "https://api.github.com/users/mfogel/followers",
+    "following_url": "https://api.github.com/users/mfogel/following{/other_user}",
+    "gists_url": "https://api.github.com/users/mfogel/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/mfogel",
+    "id": 69902,
+    "login": "mfogel",
+    "node_id": "MDQ6VXNlcjY5OTAy",
+    "organizations_url": "https://api.github.com/users/mfogel/orgs",
+    "received_events_url": "https://api.github.com/users/mfogel/received_events",
+    "repos_url": "https://api.github.com/users/mfogel/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/mfogel/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/mfogel/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/mfogel",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/mfogel/django-timezone-field/commits/02be2293c669f15f5323dc049084af5396ead43d/comments",
+   "commit": {
+    "author": {
+     "date": "2025-12-06T22:49:02Z",
+     "email": "mike@fogel.ca",
+     "name": "Mike Fogel"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2025-12-06T22:49:02Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Update lockfile of dev dependencies (#153)\n\n* Update lockfile of dev dependencies\n\n* Use latest poetry compatible with python 3.8",
+    "tree": {
+     "sha": "3811d0ab35e6505f174beb5a436e701bc48f096e",
+     "url": "https://api.github.com/repos/mfogel/django-timezone-field/git/trees/3811d0ab35e6505f174beb5a436e701bc48f096e"
+    },
+    "url": "https://api.github.com/repos/mfogel/django-timezone-field/git/commits/02be2293c669f15f5323dc049084af5396ead43d",
+    "verification": {
+     "payload": "tree 3811d0ab35e6505f174beb5a436e701bc48f096e\nparent d7832dee663196bb31ae1b6cab6b046704f94d30\nauthor Mike Fogel <mike@fogel.ca> 1765061342 -0800\ncommitter GitHub <noreply@github.com> 1765061342 -0800\n\nUpdate lockfile of dev dependencies (#153)\n\n* Update lockfile of dev dependencies\n\n* Use latest poetry compatible with python 3.8",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJpNLLeCRC1aQ7uu5UhlAAAAP8QAAXhJLxHJPBZheC2vhDX4eZY\ndzTNsjYgVEFEuvTNYK4k4vsYsMYfLE+ftDbSsrfsy7V5vRe/WPfWH3ZFZ5Gtvlhk\nCIcHjJRduqN4t/Z7AOkFAcr6KicixDEaoV2ZwjleL9p4EMcwRUCf4V1hLuDRLy0F\nuNYj4SO6zO7DH0Co0zqqpnyDY3+rAbhamzUEMbnppDbSrBXQn+EAT0FwzoDIF/CS\nM9P5gBt1AeiFriPO+8aU55dnwgUgR8wtcKLmxf6WGT7wrdxbdOYq/kwHVyc606zI\nMirg5N5fduR9oArA5jmgu3u1x8uNUjEPkoiSAAvCUuuqqWJVDpmzbn3MLxzOLWZt\nG7MGKc3JznPj98oNDBq8Oi59yVQHsyfLd+mSh0pkjI34Jan3qDdxa3J3w4xn1nuk\nZAxQU4WZ75SJ6sYzow39mi8TquvlHVAY3GZ/aYp6gp6iy1qq1jlwHSWWJ8euDX/Q\n3lgIf/Gq6V5lPRNYsANpmy509K9gc3Mznm0ftKrlXcsNqJrzupRq19+fkplalvuo\n2TAfxdDivSp00ftxbqdb8QK3+K4AUVKuIJGp/Ex+/LavIYQJU8SYzyd0T+4OYTsy\nIKYGHP1uDd4b1Fdt9hqwewcKe2mI/zZzU1iYU43Y9Q4PIF2XRowsDH/9CkF27GVZ\nTtITn8jOjPO5pLQnPBIn\n=HZVo\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2025-12-06T22:49:02Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/mfogel/django-timezone-field/commit/02be2293c669f15f5323dc049084af5396ead43d",
+   "node_id": "C_kwDOAD0yZNoAKDAyYmUyMjkzYzY2OWYxNWY1MzIzZGMwNDkwODRhZjUzOTZlYWQ0M2Q",
+   "parents": [
+    {
+     "html_url": "https://github.com/mfogel/django-timezone-field/commit/d7832dee663196bb31ae1b6cab6b046704f94d30",
+     "sha": "d7832dee663196bb31ae1b6cab6b046704f94d30",
+     "url": "https://api.github.com/repos/mfogel/django-timezone-field/commits/d7832dee663196bb31ae1b6cab6b046704f94d30"
+    }
+   ],
+   "sha": "02be2293c669f15f5323dc049084af5396ead43d",
+   "url": "https://api.github.com/repos/mfogel/django-timezone-field/commits/02be2293c669f15f5323dc049084af5396ead43d"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/69902?v=4",
+    "events_url": "https://api.github.com/users/mfogel/events{/privacy}",
+    "followers_url": "https://api.github.com/users/mfogel/followers",
+    "following_url": "https://api.github.com/users/mfogel/following{/other_user}",
+    "gists_url": "https://api.github.com/users/mfogel/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/mfogel",
+    "id": 69902,
+    "login": "mfogel",
+    "node_id": "MDQ6VXNlcjY5OTAy",
+    "organizations_url": "https://api.github.com/users/mfogel/orgs",
+    "received_events_url": "https://api.github.com/users/mfogel/received_events",
+    "repos_url": "https://api.github.com/users/mfogel/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/mfogel/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/mfogel/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/mfogel",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/mfogel/django-timezone-field/commits/d7832dee663196bb31ae1b6cab6b046704f94d30/comments",
+   "commit": {
+    "author": {
+     "date": "2025-12-06T22:08:59Z",
+     "email": "mike@fogel.ca",
+     "name": "Mike Fogel"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2025-12-06T22:08:59Z",
+     "email": "mike@fogel.ca",
+     "name": "Mike Fogel"
+    },
+    "message": "Update changelog",
+    "tree": {
+     "sha": "584e93658ad0015ed9eacc441f900f93f2ffa02d",
+     "url": "https://api.github.com/repos/mfogel/django-timezone-field/git/trees/584e93658ad0015ed9eacc441f900f93f2ffa02d"
+    },
+    "url": "https://api.github.com/repos/mfogel/django-timezone-field/git/commits/d7832dee663196bb31ae1b6cab6b046704f94d30",
+    "verification": {
+     "payload": "tree 584e93658ad0015ed9eacc441f900f93f2ffa02d\nparent 83c1c90cdb4bd613d659497520b5b3d06399cc08\nauthor Mike Fogel <mike@fogel.ca> 1765058939 -0800\ncommitter Mike Fogel <mike@fogel.ca> 1765058939 -0800\n\nUpdate changelog\n",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCAAdFiEEtN83y8qmG0wNkFXy/02j+b+BmaoFAmk0qYAACgkQ/02j+b+B\nmao+tQ/9GwPv5yEOXezs2yyUgrhRH0TgoiEGE149YV9q/LL0+JgE1v0MCrE4vcj/\nwVHzne+Nlp3ClAsar6MOWYYmgz/J2/SM+NnNxyTtPyAwq4Wh+FYve1ifCCbW5eXN\na4tuzSHAB5turxoAL3lNEJyVQ7Be6+qbUgqIgQFIYyddYB5DmFuAYKW19G+AqF5t\n+BcQz4TytY3QwLRQsKzSR1EjCdnQiE+vcz2VQ4qrH3/09oxiH9ELJucCXnL5SNGJ\nnoBEuzetfklZop4Zt8p+Ct8FNh7radXjrSjiiCuislsvcaWL8ffeyQOvvRiULsq5\n25T8qpE/pwSkPplJeE9G8EjpQ8Z5RpnKGPcTDTbjySOdO/Yy+jZ2WZTSszuXKcpr\n14J82Y2rG49TXrnbJE4Hyc6IfMt5K2SR/P4lmDKSrQeRsd7NeHuuhwFoRq2K+DXA\nbO4QFSsGPilb3dyxbA9OS55saXK9IscAep5gGDQI8i7WDx4kaU1R2sGx70Lkwzm4\ny/cjoYWk0jEg/8rHFFA3wFCnTRl6/HzCgyXtsBS3LH3TeQC8Pm+Ti5dDxI7USZAf\ncDzY3P0ld/FRxk+ls6DCG30yfbFg2AsTvuxfYBmZlvg+uQaKyrWKu8w5DekdKb+o\nLn2ogrFczDnDgash2zsFK5/yNxAE0Fz82iZX9SrzjWCtNIaja+k=\n=dHtc\n-----END PGP SIGNATURE-----",
+     "verified": true,
+     "verified_at": "2025-12-06T22:09:09Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/69902?v=4",
+    "events_url": "https://api.github.com/users/mfogel/events{/privacy}",
+    "followers_url": "https://api.github.com/users/mfogel/followers",
+    "following_url": "https://api.github.com/users/mfogel/following{/other_user}",
+    "gists_url": "https://api.github.com/users/mfogel/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/mfogel",
+    "id": 69902,
+    "login": "mfogel",
+    "node_id": "MDQ6VXNlcjY5OTAy",
+    "organizations_url": "https://api.github.com/users/mfogel/orgs",
+    "received_events_url": "https://api.github.com/users/mfogel/received_events",
+    "repos_url": "https://api.github.com/users/mfogel/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/mfogel/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/mfogel/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/mfogel",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/mfogel/django-timezone-field/commit/d7832dee663196bb31ae1b6cab6b046704f94d30",
+   "node_id": "C_kwDOAD0yZNoAKGQ3ODMyZGVlNjYzMTk2YmIzMWFlMWI2Y2FiNmIwNDY3MDRmOTRkMzA",
+   "parents": [
+    {
+     "html_url": "https://github.com/mfogel/django-timezone-field/commit/83c1c90cdb4bd613d659497520b5b3d06399cc08",
+     "sha": "83c1c90cdb4bd613d659497520b5b3d06399cc08",
+     "url": "https://api.github.com/repos/mfogel/django-timezone-field/commits/83c1c90cdb4bd613d659497520b5b3d06399cc08"
+    }
+   ],
+   "sha": "d7832dee663196bb31ae1b6cab6b046704f94d30",
+   "url": "https://api.github.com/repos/mfogel/django-timezone-field/commits/d7832dee663196bb31ae1b6cab6b046704f94d30"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/29039?v=4",
+    "events_url": "https://api.github.com/users/gvangool/events{/privacy}",
+    "followers_url": "https://api.github.com/users/gvangool/followers",
+    "following_url": "https://api.github.com/users/gvangool/following{/other_user}",
+    "gists_url": "https://api.github.com/users/gvangool/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/gvangool",
+    "id": 29039,
+    "login": "gvangool",
+    "node_id": "MDQ6VXNlcjI5MDM5",
+    "organizations_url": "https://api.github.com/users/gvangool/orgs",
+    "received_events_url": "https://api.github.com/users/gvangool/received_events",
+    "repos_url": "https://api.github.com/users/gvangool/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/gvangool/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/gvangool/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/gvangool",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/mfogel/django-timezone-field/commits/83c1c90cdb4bd613d659497520b5b3d06399cc08/comments",
+   "commit": {
+    "author": {
+     "date": "2025-12-06T22:06:52Z",
+     "email": "gertvangool@gmail.com",
+     "name": "Gert Van Gool"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2025-12-06T22:06:52Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Support Django 6.0 (#150)\n\n* Support Django 6.0\n\n* Test against Django 6.0\n\n* Update poetry.loc",
+    "tree": {
+     "sha": "2520a1526e5a6260fba81cb6275cfef30453c02d",
+     "url": "https://api.github.com/repos/mfogel/django-timezone-field/git/trees/2520a1526e5a6260fba81cb6275cfef30453c02d"
+    },
+    "url": "https://api.github.com/repos/mfogel/django-timezone-field/git/commits/83c1c90cdb4bd613d659497520b5b3d06399cc08",
+    "verification": {
+     "payload": "tree 2520a1526e5a6260fba81cb6275cfef30453c02d\nparent 4fb0dd1ccc6b7ef21cdf8f292afd28ee2eac3d39\nauthor Gert Van Gool <gertvangool@gmail.com> 1765058812 -0800\ncommitter GitHub <noreply@github.com> 1765058812 -0800\n\nSupport Django 6.0 (#150)\n\n* Support Django 6.0\n\n* Test against Django 6.0\n\n* Update poetry.loc",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJpNKj8CRC1aQ7uu5UhlAAARa8QAKCNc8Fi7t0dt5tBtsJwQ19C\nwqKUGaIGVK8pAocukmhJ9geC6xUCkF1enyv1UQk6P7t9vLkKvmQyzBVdKQcDHJuh\nAdNhDQNBbbQccvIQF1y1Iagwpzg7vqH3SCBorLGMwlLakapYesFh9SG+2VIiIFOf\nQtGz7EzTfuKl2eIgV5mE5jOheuEyC7nYr/kKw/lOK7P+oAX47wXdf0VGU14dgsNz\nk3l7DU4xKlgHyOKdeKYR2zfh1Q5KKqLbzJSZStMEBsSZfyF4blaUTrfGaJ0K2Q58\npmg5+nuQf/BIuczk82HDtKKAYvUDw7WkuyIgs+TVrfT7YZ/NfJxeM8nHZQab5BGC\nzW1+w9eYTwFu/mUJkOiYV70WiuNKw9FgW3e3WKTkFjkvdhz+bpniUq0dtEQjng/7\nOSW9C/2TmkKiimOSZ4CD5R8Pp/RTn6TKrUVvy1/9+Fq0LsGYNBDpLmujsiS+a4bQ\nGInzmtdZQk9b96GSi9uQfv7KRKFvkUm/JT9M0fd+UeN25q6SfpEqxly2uT3O8clA\nmXWUr6hKF4EpyW+JekhYDdAQ0u36zB2nTB9kDVEZoVZLWQQ5mCY4Su3Sh7OVRY+L\njZ2XNBCPg3pqUuA97QLCE95zMBO7+s12YrqAX4cNCeSOiRLeZBt6cL+/HLT516K6\n7EJVEeHke5Z7ZetTVyuZ\n=Ad8D\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2025-12-06T22:06:53Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/mfogel/django-timezone-field/commit/83c1c90cdb4bd613d659497520b5b3d06399cc08",
+   "node_id": "C_kwDOAD0yZNoAKDgzYzFjOTBjZGI0YmQ2MTNkNjU5NDk3NTIwYjViM2QwNjM5OWNjMDg",
+   "parents": [
+    {
+     "html_url": "https://github.com/mfogel/django-timezone-field/commit/4fb0dd1ccc6b7ef21cdf8f292afd28ee2eac3d39",
+     "sha": "4fb0dd1ccc6b7ef21cdf8f292afd28ee2eac3d39",
+     "url": "https://api.github.com/repos/mfogel/django-timezone-field/commits/4fb0dd1ccc6b7ef21cdf8f292afd28ee2eac3d39"
+    }
+   ],
+   "sha": "83c1c90cdb4bd613d659497520b5b3d06399cc08",
+   "url": "https://api.github.com/repos/mfogel/django-timezone-field/commits/83c1c90cdb4bd613d659497520b5b3d06399cc08"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/29039?v=4",
+    "events_url": "https://api.github.com/users/gvangool/events{/privacy}",
+    "followers_url": "https://api.github.com/users/gvangool/followers",
+    "following_url": "https://api.github.com/users/gvangool/following{/other_user}",
+    "gists_url": "https://api.github.com/users/gvangool/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/gvangool",
+    "id": 29039,
+    "login": "gvangool",
+    "node_id": "MDQ6VXNlcjI5MDM5",
+    "organizations_url": "https://api.github.com/users/gvangool/orgs",
+    "received_events_url": "https://api.github.com/users/gvangool/received_events",
+    "repos_url": "https://api.github.com/users/gvangool/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/gvangool/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/gvangool/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/gvangool",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/mfogel/django-timezone-field/commits/4fb0dd1ccc6b7ef21cdf8f292afd28ee2eac3d39/comments",
+   "commit": {
+    "author": {
+     "date": "2025-12-06T17:39:42Z",
+     "email": "gertvangool@gmail.com",
+     "name": "Gert Van Gool"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2025-12-06T17:39:42Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Run tests against Python 3.14 (#151)",
+    "tree": {
+     "sha": "955e9e7160d29e8befb07c6160a9d4b62a09a1cc",
+     "url": "https://api.github.com/repos/mfogel/django-timezone-field/git/trees/955e9e7160d29e8befb07c6160a9d4b62a09a1cc"
+    },
+    "url": "https://api.github.com/repos/mfogel/django-timezone-field/git/commits/4fb0dd1ccc6b7ef21cdf8f292afd28ee2eac3d39",
+    "verification": {
+     "payload": "tree 955e9e7160d29e8befb07c6160a9d4b62a09a1cc\nparent 65401a30b1ea07d9389838ee5628bc47bb6cda0e\nauthor Gert Van Gool <gertvangool@gmail.com> 1765042782 -0800\ncommitter GitHub <noreply@github.com> 1765042782 -0800\n\nRun tests against Python 3.14 (#151)\n\n",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJpNGpeCRC1aQ7uu5UhlAAAppsQAAxKVNDluBh/ylQeRBJn+5TI\ne0mL6HHVezKiORI7bW3jxOeLXqzc8sPjB2aVvlAfdj+LmTv2p8NL254fz+hFRT/b\nR89BwpX8hRZLF0rd5opd3UWRoaNV5cIv+k7ko3Px9dMUll3lzCZvEhGuTHbubwYM\ndlldRryk9RJbrfZtE25dGcbkLcQIEj9a3qQ0nzrRaXr8qf9q4oGbchJZ13gXyMux\n3+asVA0fbxeKNGF7XuFLt+2P88KsLLjbgqoLvXr+QXLjj8ZVSSyJ1SiUUdLDyZtx\nvjt/8KbFwtpHicayeyzARey5SMhlDlxgnp95YpM80gaaSKDu75AdlCQ4pxqdu28Q\ni+uaX7qGIlMtOJIi8jqb7hbx3m7x87cRIvybvUXxRVN5L7mSwWjPGmcdryBtqdaO\nuo+VToJa+e4GWa09VnA0uddzWxRHg3Q1C0S43PL/LcT7XWGSoY38uafLG3gZVIGI\ntAZPENRCcPXYBXdmAbAg+DclY673HHazncgCGTR4sOFiaI7d3Rssp+oJalHpNeNk\nqYnrImULTvDzwj3KHDHw/oZbZeFvfXnv3EKCrvQAoLHD7SneC8XsCNeXvoU62mrr\ndWuUKRDilnXwWs/5EFu1DvE9/68szR8Zy888Z6pOyoGYYFHaXyAiesUigbFoQWTz\nsIuBI0BOTzpzs1WBja6n\n=Acji\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2025-12-06T17:39:42Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/mfogel/django-timezone-field/commit/4fb0dd1ccc6b7ef21cdf8f292afd28ee2eac3d39",
+   "node_id": "C_kwDOAD0yZNoAKDRmYjBkZDFjY2M2YjdlZjIxY2RmOGYyOTJhZmQyOGVlMmVhYzNkMzk",
+   "parents": [
+    {
+     "html_url": "https://github.com/mfogel/django-timezone-field/commit/65401a30b1ea07d9389838ee5628bc47bb6cda0e",
+     "sha": "65401a30b1ea07d9389838ee5628bc47bb6cda0e",
+     "url": "https://api.github.com/repos/mfogel/django-timezone-field/commits/65401a30b1ea07d9389838ee5628bc47bb6cda0e"
+    }
+   ],
+   "sha": "4fb0dd1ccc6b7ef21cdf8f292afd28ee2eac3d39",
+   "url": "https://api.github.com/repos/mfogel/django-timezone-field/commits/4fb0dd1ccc6b7ef21cdf8f292afd28ee2eac3d39"
+  }
+ ],
+ "recorded_at": "2026-11-16T18:38:46Z",
+ "recorded_with": "deadledger 0.1.0",
+ "status": 200,
+ "url": "https://api.github.com/repos/mfogel/django-timezone-field/commits?since=<window>&per_page=100"
+}

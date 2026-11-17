@@ -1,0 +1,6 @@
+{
+ "error": "http: ConnectError: TLS/SSL connection has been closed (EOF) (_ssl.c:992)",
+ "recorded_at": "2026-11-16T18:38:46Z",
+ "status": 0,
+ "url": "https://pypistats.org/api/packages/markdown-include/overall"
+}

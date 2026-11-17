@@ -1,0 +1,15 @@
+{
+ "body": {
+  "archived": false,
+  "default_branch": "main",
+  "full_name": "pallets/jinja",
+  "html_url": "https://github.com/pallets/jinja",
+  "open_issues_count": 105,
+  "pushed_at": "2025-06-14T20:35:04Z",
+  "stargazers_count": 11819
+ },
+ "recorded_at": "2026-11-16T18:38:46Z",
+ "recorded_with": "deadledger 0.1.0",
+ "status": 200,
+ "url": "https://api.github.com/repos/pallets/jinja"
+}

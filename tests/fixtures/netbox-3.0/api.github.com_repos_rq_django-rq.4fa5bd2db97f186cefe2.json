@@ -1,0 +1,15 @@
+{
+ "body": {
+  "archived": false,
+  "default_branch": "master",
+  "full_name": "rq/django-rq",
+  "html_url": "https://github.com/rq/django-rq",
+  "open_issues_count": 115,
+  "pushed_at": "2026-11-16T04:52:45Z",
+  "stargazers_count": 1952
+ },
+ "recorded_at": "2026-11-16T18:38:46Z",
+ "recorded_with": "deadledger 0.1.0",
+ "status": 200,
+ "url": "https://api.github.com/repos/rq/django-rq"
+}

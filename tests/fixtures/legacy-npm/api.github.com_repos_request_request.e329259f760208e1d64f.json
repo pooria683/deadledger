@@ -1,0 +1,15 @@
+{
+ "body": {
+  "archived": false,
+  "default_branch": "master",
+  "full_name": "request/request",
+  "html_url": "https://github.com/request/request",
+  "open_issues_count": 145,
+  "pushed_at": "2024-08-14T00:09:41Z",
+  "stargazers_count": 25477
+ },
+ "recorded_at": "2026-11-16T18:12:21Z",
+ "recorded_with": "deadledger 0.1.0",
+ "status": 200,
+ "url": "https://api.github.com/repos/request/request"
+}

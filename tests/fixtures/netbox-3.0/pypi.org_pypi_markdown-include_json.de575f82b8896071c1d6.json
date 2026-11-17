@@ -1,0 +1,179 @@
+{
+ "body": {
+  "info": {
+   "bugtrack_url": null,
+   "classifiers": [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",
+    "Programming Language :: Python",
+    "Topic :: Internet :: WWW/HTTP :: Site Management",
+    "Topic :: Software Development :: Documentation",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+    "Topic :: Text Processing :: Filters",
+    "Topic :: Text Processing :: Markup :: HTML"
+   ],
+   "home_page": "",
+   "license": "GNU General Public License v3 (GPLv3)",
+   "license_expression": null,
+   "name": "markdown-include",
+   "project_url": "https://pypi.org/project/markdown-include/",
+   "project_urls": {
+    "project": "https://github.com/cmacmackin/markdown-include"
+   },
+   "summary": "A Python-Markdown extension which provides an 'include' function",
+   "version": "0.8.1",
+   "yanked": false,
+   "yanked_reason": null
+  },
+  "ownership": {
+   "organization": null,
+   "roles": [
+    {
+     "role": "Owner",
+     "user": "cmacmackin"
+    },
+    {
+     "role": "Maintainer",
+     "user": "yossarian"
+    }
+   ]
+  },
+  "releases": {
+   "0.1": [
+    {
+     "packagetype": "sdist",
+     "upload_time": "2015-01-12T04:57:43",
+     "upload_time_iso_8601": "2015-01-12T04:57:43.765022Z",
+     "yanked": false
+    }
+   ],
+   "0.1.1": [
+    {
+     "packagetype": "sdist",
+     "upload_time": "2022-07-19T19:32:36",
+     "upload_time_iso_8601": "2022-07-19T19:32:36.701511Z",
+     "yanked": false
+    }
+   ],
+   "0.2": [
+    {
+     "packagetype": "sdist",
+     "upload_time": "2015-01-17T02:15:27",
+     "upload_time_iso_8601": "2015-01-17T02:15:27.277458Z",
+     "yanked": false
+    }
+   ],
+   "0.3": [
+    {
+     "packagetype": "sdist",
+     "upload_time": "2015-01-20T05:17:57",
+     "upload_time_iso_8601": "2015-01-20T05:17:57.180173Z",
+     "yanked": false
+    }
+   ],
+   "0.4": [
+    {
+     "packagetype": "sdist",
+     "upload_time": "2015-01-21T21:20:38",
+     "upload_time_iso_8601": "2015-01-21T21:20:38.060011Z",
+     "yanked": false
+    }
+   ],
+   "0.4.1": [
+    {
+     "packagetype": "sdist",
+     "upload_time": "2015-01-21T21:22:13",
+     "upload_time_iso_8601": "2015-01-21T21:22:13.626518Z",
+     "yanked": false
+    }
+   ],
+   "0.4.2": [
+    {
+     "packagetype": "sdist",
+     "upload_time": "2015-01-27T02:21:38",
+     "upload_time_iso_8601": "2015-01-27T02:21:38.292211Z",
+     "yanked": false
+    }
+   ],
+   "0.5.0": [
+    {
+     "packagetype": "sdist",
+     "upload_time": "2015-04-21T23:01:57",
+     "upload_time_iso_8601": "2015-04-21T23:01:57.163532Z",
+     "yanked": false
+    }
+   ],
+   "0.5.1": [
+    {
+     "packagetype": "sdist",
+     "upload_time": "2015-04-26T12:54:34",
+     "upload_time_iso_8601": "2015-04-26T12:54:34.527911Z",
+     "yanked": false
+    }
+   ],
+   "0.6.0": [
+    {
+     "packagetype": "sdist",
+     "upload_time": "2020-08-20T23:10:25",
+     "upload_time_iso_8601": "2020-08-20T23:10:25.382961Z",
+     "yanked": false
+    }
+   ],
+   "0.7.0": [
+    {
+     "packagetype": "bdist_wheel",
+     "upload_time": "2022-07-19T19:32:34",
+     "upload_time_iso_8601": "2022-07-19T19:32:34.952239Z",
+     "yanked": false
+    }
+   ],
+   "0.7.2": [
+    {
+     "packagetype": "bdist_wheel",
+     "upload_time": "2022-11-23T11:29:51",
+     "upload_time_iso_8601": "2022-11-23T11:29:51.330587Z",
+     "yanked": false
+    },
+    {
+     "packagetype": "sdist",
+     "upload_time": "2022-11-23T11:29:53",
+     "upload_time_iso_8601": "2022-11-23T11:29:53.276371Z",
+     "yanked": false
+    }
+   ],
+   "0.8.0": [
+    {
+     "packagetype": "bdist_wheel",
+     "upload_time": "2022-11-23T18:02:17",
+     "upload_time_iso_8601": "2022-11-23T18:02:17.863524Z",
+     "yanked": false
+    },
+    {
+     "packagetype": "sdist",
+     "upload_time": "2022-11-23T18:02:19",
+     "upload_time_iso_8601": "2022-11-23T18:02:19.434826Z",
+     "yanked": false
+    }
+   ],
+   "0.8.1": [
+    {
+     "packagetype": "bdist_wheel",
+     "upload_time": "2023-02-07T09:47:25",
+     "upload_time_iso_8601": "2023-02-07T09:47:25.030368Z",
+     "yanked": false
+    },
+    {
+     "packagetype": "sdist",
+     "upload_time": "2023-02-07T09:47:26",
+     "upload_time_iso_8601": "2023-02-07T09:47:26.608092Z",
+     "yanked": false
+    }
+   ]
+  }
+ },
+ "recorded_at": "2026-11-16T18:38:46Z",
+ "recorded_with": "deadledger 0.1.0",
+ "status": 200,
+ "url": "https://pypi.org/pypi/markdown-include/json"
+}

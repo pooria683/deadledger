@@ -1,0 +1,15 @@
+{
+ "body": {
+  "archived": false,
+  "default_branch": "main",
+  "full_name": "uuidjs/uuid",
+  "html_url": "https://github.com/uuidjs/uuid",
+  "open_issues_count": 9,
+  "pushed_at": "2026-11-01T16:11:41Z",
+  "stargazers_count": 15346
+ },
+ "recorded_at": "2026-11-16T18:12:21Z",
+ "recorded_with": "deadledger 0.1.0",
+ "status": 200,
+ "url": "https://api.github.com/repos/uuidjs/uuid"
+}

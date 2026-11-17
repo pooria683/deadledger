@@ -1,0 +1,72 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    name: test (python ${{ matrix.python }})
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        python: ["3.11", "3.12", "3.13"]
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python }}
+          cache: pip
+
+      - name: Install
+        run: |
+          python -m pip install --upgrade pip
+          pip install -e '.[dev]'
+
+      # The suite must pass with no network. If a test ever starts reaching for
+      # a registry, this is the job that tells us.
+      - name: Tests (offline)
+        run: pytest -q --cov=deadledger --cov-report=term-missing
+
+      # Our own CI should be honest about its own dependencies.
+      - name: Map lint
+        run: deadledger map lint
+
+      - name: Docs contract
+        run: pytest tests/test_docs.py -q
+
+  dogfood:
+    name: audit this project
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -e '.[dev]'
+
+      # Baseline a ledger on the first run, then fail only on NEW deaths.
+      # `--offline` first so a registry outage cannot fail the build; the
+      # ledger is what makes a repeated run quiet.
+      - name: Mortality check
+        run: |
+          mkdir -p .deadledger
+          deadledger ci --report mortality.md --fail-on critical || status=$?
+          cat mortality.md >> "$GITHUB_STEP_SUMMARY"
+          exit ${status:-0}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: mortality-report
+          path: mortality.md
+          if-no-files-found: ignore

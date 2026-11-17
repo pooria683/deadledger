@@ -1,0 +1,15 @@
+{
+ "body": {
+  "archived": false,
+  "default_branch": "master",
+  "full_name": "psycopg/psycopg2",
+  "html_url": "https://github.com/psycopg/psycopg2",
+  "open_issues_count": 23,
+  "pushed_at": "2026-11-01T23:48:15Z",
+  "stargazers_count": 3667
+ },
+ "recorded_at": "2026-11-16T18:38:46Z",
+ "recorded_with": "deadledger 0.1.0",
+ "status": 200,
+ "url": "https://api.github.com/repos/psycopg/psycopg2"
+}

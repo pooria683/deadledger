@@ -1,0 +1,15 @@
+{
+ "body": {
+  "archived": false,
+  "default_branch": "develop",
+  "full_name": "moment/moment",
+  "html_url": "https://github.com/moment/moment",
+  "open_issues_count": 73,
+  "pushed_at": "2026-10-08T16:26:56Z",
+  "stargazers_count": 47872
+ },
+ "recorded_at": "2026-11-16T18:12:21Z",
+ "recorded_with": "deadledger 0.1.0",
+ "status": 200,
+ "url": "https://api.github.com/repos/moment/moment"
+}

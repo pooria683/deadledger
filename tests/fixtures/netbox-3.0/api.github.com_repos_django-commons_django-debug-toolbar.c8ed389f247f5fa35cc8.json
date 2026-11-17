@@ -1,0 +1,15 @@
+{
+ "body": {
+  "archived": false,
+  "default_branch": "main",
+  "full_name": "django-commons/django-debug-toolbar",
+  "html_url": "https://github.com/django-commons/django-debug-toolbar",
+  "open_issues_count": 71,
+  "pushed_at": "2026-11-15T10:33:03Z",
+  "stargazers_count": 8378
+ },
+ "recorded_at": "2026-11-16T18:38:46Z",
+ "recorded_with": "deadledger 0.1.0",
+ "status": 200,
+ "url": "https://api.github.com/repos/django-commons/django-debug-toolbar"
+}

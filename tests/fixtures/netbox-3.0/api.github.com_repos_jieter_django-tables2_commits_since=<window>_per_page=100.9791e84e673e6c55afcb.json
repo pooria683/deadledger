@@ -1,0 +1,2632 @@
+{
+ "body": [
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/20720673?v=4",
+    "events_url": "https://api.github.com/users/jihtsan/events{/privacy}",
+    "followers_url": "https://api.github.com/users/jihtsan/followers",
+    "following_url": "https://api.github.com/users/jihtsan/following{/other_user}",
+    "gists_url": "https://api.github.com/users/jihtsan/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/jihtsan",
+    "id": 20720673,
+    "login": "jihtsan",
+    "node_id": "MDQ6VXNlcjIwNzIwNjcz",
+    "organizations_url": "https://api.github.com/users/jihtsan/orgs",
+    "received_events_url": "https://api.github.com/users/jihtsan/received_events",
+    "repos_url": "https://api.github.com/users/jihtsan/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/jihtsan/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/jihtsan/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/jihtsan",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jieter/django-tables2/commits/51a5d56462400cd79c5ddf35ddfef6d23a7b47c0/comments",
+   "commit": {
+    "author": {
+     "date": "2026-10-27T13:29:53Z",
+     "email": "15151999611@163.com",
+     "name": "joo00der"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-10-27T13:29:53Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Show SingleTableMixin directly in its documentation example (#1051)\n\nFixes #977",
+    "tree": {
+     "sha": "a51802c4fe0f4e65b08c57582dccaa1457d9ffcf",
+     "url": "https://api.github.com/repos/jieter/django-tables2/git/trees/a51802c4fe0f4e65b08c57582dccaa1457d9ffcf"
+    },
+    "url": "https://api.github.com/repos/jieter/django-tables2/git/commits/51a5d56462400cd79c5ddf35ddfef6d23a7b47c0",
+    "verification": {
+     "payload": "tree a51802c4fe0f4e65b08c57582dccaa1457d9ffcf\nparent 0ca78768d8c3c7856fe35343065cd7b421f93bc0\nauthor joo00der <15151999611@163.com> 1793107793 -0700\ncommitter GitHub <noreply@github.com> 1793107793 +0100\n\nShow SingleTableMixin directly in its documentation example (#1051)\n\nFixes #977",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJq4KdRCRC1aQ7uu5UhlAAA9tEQAGayplsMwDXUB+zo20MDiSGE\nkaivi9f10bs1bcADDi7bLbKIhib7GShBJf4Pdqt/68sZit3dTYqlUaosFZXg1qIB\nRJzNt3ZhrVEHkd4oZLMzD8OQOc+qWFAnBsICLJmCW69h0OwAM7T8VyXdlLLWT5Vu\nXW/7O85DsOnKfbfJIaUIMagTrSdz+4ltEc8LNvb6R/FAvtFWcV3UixdNRoOnHijQ\n5+OiCcCxa8mSm/oozaLEGPjESNHcLQA0GczdRULHMi2b9Tqcw2eLdPQjQ92SxPku\nMxnQ2Tuas27qB8d77EmUBBWEN8/Inwo6F8+nYDDb6P4TY/7dRFY/+r8GSWv2Ntx6\nmUo/cq36R7TwubDsFL3cV2bu7WFSoyBkaT51eUyIVXF3Vgah3RJSvN/FXMI6voux\nw/aQZ6020pj0Vz1UaOgkCT6XAxoyIz4CAUtCFNifNaqMWC8CDVryoyvDfRHU4tDq\n2douN4HzoWrmt0svyiUJwrXrH2IXI2avkKW2tQzgvyK6Ewav1EZH4YxVM/6iYLMV\nbr1pmUZv7f9sslDAQtn0YQOS/ONSca/oy49ks2dulnKfiZIgKMeFy0IQf/L5JmV6\nYkWei485ydmum5rbmaAiUQ8tZoqwIonZ22NsOxfeb1vzQ58m0jZK5VQB1PbK4g6p\nyS9oSJp/Xkci5EwDZ5S1\n=id8q\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-10-27T13:29:54Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jieter/django-tables2/commit/51a5d56462400cd79c5ddf35ddfef6d23a7b47c0",
+   "node_id": "C_kwDOABF67doAKDUxYTVkNTY0NjI0MDBjZDc5YzVkZGYzNWRkZmVmNmQyM2E3YjQ3YzA",
+   "parents": [
+    {
+     "html_url": "https://github.com/jieter/django-tables2/commit/0ca78768d8c3c7856fe35343065cd7b421f93bc0",
+     "sha": "0ca78768d8c3c7856fe35343065cd7b421f93bc0",
+     "url": "https://api.github.com/repos/jieter/django-tables2/commits/0ca78768d8c3c7856fe35343065cd7b421f93bc0"
+    }
+   ],
+   "sha": "51a5d56462400cd79c5ddf35ddfef6d23a7b47c0",
+   "url": "https://api.github.com/repos/jieter/django-tables2/commits/51a5d56462400cd79c5ddf35ddfef6d23a7b47c0"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/426541?v=4",
+    "events_url": "https://api.github.com/users/Azd325/events{/privacy}",
+    "followers_url": "https://api.github.com/users/Azd325/followers",
+    "following_url": "https://api.github.com/users/Azd325/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Azd325/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/Azd325",
+    "id": 426541,
+    "login": "Azd325",
+    "node_id": "MDQ6VXNlcjQyNjU0MQ==",
+    "organizations_url": "https://api.github.com/users/Azd325/orgs",
+    "received_events_url": "https://api.github.com/users/Azd325/received_events",
+    "repos_url": "https://api.github.com/users/Azd325/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/Azd325/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Azd325/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/Azd325",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jieter/django-tables2/commits/0ca78768d8c3c7856fe35343065cd7b421f93bc0/comments",
+   "commit": {
+    "author": {
+     "date": "2026-10-27T13:09:26Z",
+     "email": "tim.kleinschmidt@gmail.com",
+     "name": "Tim Kleinschmidt"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-10-27T13:09:26Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Add trove classifier for Django 6.1 (#1049)",
+    "tree": {
+     "sha": "a62b48951cdeb71275ff873f4e5a5b83da6d8615",
+     "url": "https://api.github.com/repos/jieter/django-tables2/git/trees/a62b48951cdeb71275ff873f4e5a5b83da6d8615"
+    },
+    "url": "https://api.github.com/repos/jieter/django-tables2/git/commits/0ca78768d8c3c7856fe35343065cd7b421f93bc0",
+    "verification": {
+     "payload": "tree a62b48951cdeb71275ff873f4e5a5b83da6d8615\nparent 34cdba3e13d7ee2aa15f07321ff2f3c8a7d259af\nauthor Tim Kleinschmidt <tim.kleinschmidt@gmail.com> 1793106566 +0100\ncommitter GitHub <noreply@github.com> 1793106566 +0100\n\nAdd trove classifier for Django 6.1 (#1049)",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJq4KKGCRC1aQ7uu5UhlAAAZAUQAHfaLKCQBFsBVL90F1jpSqoI\niPikSoqfYZueXkpo9EHFRppHJ5hd/uaQsVu5PqnDKXG/2EHVwmnHmTNf8szPoMgi\nwjuaaOmfe63LnVS/B2613/AOlGqQypjknhXyhS5q6hSeNxhkh3tWzxwAxxxIRQjO\n1DWIRtwv/lrJMQxcUshz5AhBoaFpUrvXhEaESeLmSx0lAkwxDh8LCL5zF1ek2/pS\nwDWm/+oKClxc79guIKDgZC1tKo849x+Cm/YSunt5cibiMV6rY3eXtzsHaqIvhaIS\nZZYXKLh6ga/WI16LYBZXMApDElXNpC82LVTqg4OXf1t8wf6A/NSW1AO/e4900gaW\nxR/ohQI3+YtO+E/ao1SaCWbHfNkKV8QPJvD13Y9k0RcWXKCKcuAsOrm91BZ8rEc0\n1FZEElm67141F3hECLjdvOqRqpkBezgc29qkw8VM7UNMGNpOV8f1a/0j1BOH6bBu\nM6Rti9jR0TU0hKsXqoAjnVAqz0MoXpd4nUkPvxww/FqfDrDetcfQakSf5op09D3o\n7YBkHgPJhXGb/dj/arS3pjIMHsAgAaFtFtwHfp1J9VOwD49HZNLlh/DJdn52MFcW\nX9WwXmM1Psk1soqc64IlyAYB0NttFSHCt83CW7oLC7eXpiKBRFBsOqQa9jcL+pu/\nLCcEcklxpScr5n6gEXmd\n=3dxc\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-10-27T13:09:27Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jieter/django-tables2/commit/0ca78768d8c3c7856fe35343065cd7b421f93bc0",
+   "node_id": "C_kwDOABF67doAKDBjYTc4NzY4ZDhjM2M3ODU2ZmUzNTM0MzA2NWNkN2I0MjFmOTNiYzA",
+   "parents": [
+    {
+     "html_url": "https://github.com/jieter/django-tables2/commit/34cdba3e13d7ee2aa15f07321ff2f3c8a7d259af",
+     "sha": "34cdba3e13d7ee2aa15f07321ff2f3c8a7d259af",
+     "url": "https://api.github.com/repos/jieter/django-tables2/commits/34cdba3e13d7ee2aa15f07321ff2f3c8a7d259af"
+    }
+   ],
+   "sha": "0ca78768d8c3c7856fe35343065cd7b421f93bc0",
+   "url": "https://api.github.com/repos/jieter/django-tables2/commits/0ca78768d8c3c7856fe35343065cd7b421f93bc0"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/35773677?v=4",
+    "events_url": "https://api.github.com/users/ericbstie/events{/privacy}",
+    "followers_url": "https://api.github.com/users/ericbstie/followers",
+    "following_url": "https://api.github.com/users/ericbstie/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ericbstie/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/ericbstie",
+    "id": 35773677,
+    "login": "ericbstie",
+    "node_id": "MDQ6VXNlcjM1NzczNjc3",
+    "organizations_url": "https://api.github.com/users/ericbstie/orgs",
+    "received_events_url": "https://api.github.com/users/ericbstie/received_events",
+    "repos_url": "https://api.github.com/users/ericbstie/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/ericbstie/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ericbstie/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/ericbstie",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jieter/django-tables2/commits/34cdba3e13d7ee2aa15f07321ff2f3c8a7d259af/comments",
+   "commit": {
+    "author": {
+     "date": "2026-08-31T08:06:45Z",
+     "email": "35773677+ericbstie@users.noreply.github.com",
+     "name": "Eric Bieszczad-Stie"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-08-31T08:06:45Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Restore previous table.context after rendering instead of deleting it (#1037)",
+    "tree": {
+     "sha": "4089940b55c390887552e022cbbb0c543c1e0c17",
+     "url": "https://api.github.com/repos/jieter/django-tables2/git/trees/4089940b55c390887552e022cbbb0c543c1e0c17"
+    },
+    "url": "https://api.github.com/repos/jieter/django-tables2/git/commits/34cdba3e13d7ee2aa15f07321ff2f3c8a7d259af",
+    "verification": {
+     "payload": "tree 4089940b55c390887552e022cbbb0c543c1e0c17\nparent 874e04776e129d0992dace8e322049588f09fb56\nauthor Eric Bieszczad-Stie <35773677+ericbstie@users.noreply.github.com> 1788163605 +0200\ncommitter GitHub <noreply@github.com> 1788163605 +0200\n\nRestore previous table.context after rendering instead of deleting it (#1037)",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqlTYVCRC1aQ7uu5UhlAAAMKIQACDkmLQzIwXyKIDxUUJ0PMpj\n4+r6Ab2saJvxxC3pbM02+cwzhq/GjpweqXzeXbe45hsikA7JWRbhh/OxnzBxZuCE\nmnn+FXLN94MtCKt5SoI8IP0P3dODIJxZOAfBXujVI+4RFXxmU+Y8IvPjIMefMs9Q\ndUt44i1nwGMsMpDgKphDAND3MGzYoQWCiQX4Q+NoFnzx4YfblsbwiQq+fFS/whcq\nW7Jy3Tk3hCxVn29YwpbpB3iLu/edgCqRui5Chd8s5m4btNGhaiWSSW+GYEUQeFRC\ngGcIcs+OPLi+U3JNSGwcxmAkjd7sByfc9pVQGwKjDJM7zUI0YSkZEVW9isaWe6L+\nnyY2wC3DeTmXzxhxMpIJeYYJtbJkUIzyHsGoDNoG+ePLr6Tul6hnkXBPUcHyK3Ug\niJnRguvBKuvdRgily1mOk96fq5dYcGG573dewXCTqmcrWI1pTHKRSjbonvnBe43A\n+iUA8nUfzoK+23/5x7luJ1iinkzoqPhpNtG1jZo6a6TqHi73A5UHK5i942VE1JWm\nkWi5WUdP/MD8/e1xk1M2pLBBFbFfh84+eX3253Qnd858Z+VXNwI8U+p9+EDCxgYX\nxkf/eh4KjZvJHrKLEx3nmzWVTIhANhuGY4I/P75ikAwLoK9AQpGbtiktPbniCwrB\niQRbEKje3HBTWk2W7Zkw\n=Rp6U\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-08-31T08:06:45Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jieter/django-tables2/commit/34cdba3e13d7ee2aa15f07321ff2f3c8a7d259af",
+   "node_id": "C_kwDOABF67doAKDM0Y2RiYTNlMTNkN2VlMmFhMTVmMDczMjFmZjJmM2M4YTdkMjU5YWY",
+   "parents": [
+    {
+     "html_url": "https://github.com/jieter/django-tables2/commit/874e04776e129d0992dace8e322049588f09fb56",
+     "sha": "874e04776e129d0992dace8e322049588f09fb56",
+     "url": "https://api.github.com/repos/jieter/django-tables2/commits/874e04776e129d0992dace8e322049588f09fb56"
+    }
+   ],
+   "sha": "34cdba3e13d7ee2aa15f07321ff2f3c8a7d259af",
+   "url": "https://api.github.com/repos/jieter/django-tables2/commits/34cdba3e13d7ee2aa15f07321ff2f3c8a7d259af"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1470389?v=4",
+    "events_url": "https://api.github.com/users/jieter/events{/privacy}",
+    "followers_url": "https://api.github.com/users/jieter/followers",
+    "following_url": "https://api.github.com/users/jieter/following{/other_user}",
+    "gists_url": "https://api.github.com/users/jieter/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/jieter",
+    "id": 1470389,
+    "login": "jieter",
+    "node_id": "MDQ6VXNlcjE0NzAzODk=",
+    "organizations_url": "https://api.github.com/users/jieter/orgs",
+    "received_events_url": "https://api.github.com/users/jieter/received_events",
+    "repos_url": "https://api.github.com/users/jieter/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/jieter/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/jieter/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/jieter",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jieter/django-tables2/commits/874e04776e129d0992dace8e322049588f09fb56/comments",
+   "commit": {
+    "author": {
+     "date": "2026-08-30T11:07:19Z",
+     "email": "jieter@jieter.nl",
+     "name": "Jan Pieter Waagmeester"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-08-30T11:07:19Z",
+     "email": "jieter@jieter.nl",
+     "name": "Jan Pieter Waagmeester"
+    },
+    "message": "Remove trove classifier for Django 6.1 (does not exist yet), remove unsupported django versions from tox.ini",
+    "tree": {
+     "sha": "7acdad6d132fb4f8bf9c8220842bfc4b4e534407",
+     "url": "https://api.github.com/repos/jieter/django-tables2/git/trees/7acdad6d132fb4f8bf9c8220842bfc4b4e534407"
+    },
+    "url": "https://api.github.com/repos/jieter/django-tables2/git/commits/874e04776e129d0992dace8e322049588f09fb56",
+    "verification": {
+     "payload": "tree 7acdad6d132fb4f8bf9c8220842bfc4b4e534407\nparent 6b830fac77cc302544b9f48dcc2a6b84bc7a07d5\nauthor Jan Pieter Waagmeester <jieter@jieter.nl> 1788088039 +0200\ncommitter Jan Pieter Waagmeester <jieter@jieter.nl> 1788088039 +0200\n\nRemove trove classifier for Django 6.1 (does not exist yet), remove unsupported django versions from tox.ini\n",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\niQJPBAABCAA5FiEE9BCtyJpvCnfXZDrMn0kSyH7jhKIFAmqUDukbFIAAAAAABAAO\nbWFudTIsMi41KzEuMTIsMCwzAAoJEJ9JEsh+44Si044P/3UOp2NHH1bgM7X3IRUM\nw67Yr+PF68OullVJnVk2KPr2Bbs10dGlH2X/I4MbgbLjHGsXtqIrduynQupfAoE2\noqQcTPBMWZvbyDuQ7Fn3/A10YUhafVEEslljX+z6v8UPiXr+CErR7+7tgxCwMCfr\nWGuj+F0yC2WLOeczGtjjVwubNSD/XIi+sojv6/KAguD6R/BoAV5pJLfWJ5W+r+G0\nd941YSRZAFjWBGwqcognWYzzZ2LbmUuSCTtjVOSrAKuu68trHUdv0ZP9W3qgdOqu\n/tNZ/n00sk8P9KUj8s2tY+plPX0vxDL9TwByp5VilvInyL92GYsEd4gpQzxRp1G4\nB1folAqm5WI17oehl0RUnQVF9qqqm6tihh/nXzMPKQnlB4GuVfv2oJmX9b9uV0vh\nv7oSesXEDMZvnG6ynFWmLwduMxkQ3J286ldQmetgm3OBRdUQv1pWwqTu6E8jEobQ\n1uBSBgYJBDCu8PJU1Rln88ocETUtYdFdWriKaWzXsfDgKHUu/dondFplQNaOEkwS\nVwJecGpaaG7BLORU1Fyg0DDC+XNngoz2NIsE/Wb1ngink1am8wU/SmfA/ZOo21um\nrudJg5LzzjGe5aeoVTA2oYLIbpjMKhMUW6mvfleDD4ovvdYkQLt3df8foh3G7zsA\nEF4K8hAUEWqyDrvLq87n1UjT\n=LZWJ\n-----END PGP SIGNATURE-----",
+     "verified": true,
+     "verified_at": "2026-08-30T11:07:40Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1470389?v=4",
+    "events_url": "https://api.github.com/users/jieter/events{/privacy}",
+    "followers_url": "https://api.github.com/users/jieter/followers",
+    "following_url": "https://api.github.com/users/jieter/following{/other_user}",
+    "gists_url": "https://api.github.com/users/jieter/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/jieter",
+    "id": 1470389,
+    "login": "jieter",
+    "node_id": "MDQ6VXNlcjE0NzAzODk=",
+    "organizations_url": "https://api.github.com/users/jieter/orgs",
+    "received_events_url": "https://api.github.com/users/jieter/received_events",
+    "repos_url": "https://api.github.com/users/jieter/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/jieter/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/jieter/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/jieter",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jieter/django-tables2/commit/874e04776e129d0992dace8e322049588f09fb56",
+   "node_id": "C_kwDOABF67doAKDg3NGUwNDc3NmUxMjlkMDk5MmRhY2U4ZTMyMjA0OTU4OGYwOWZiNTY",
+   "parents": [
+    {
+     "html_url": "https://github.com/jieter/django-tables2/commit/6b830fac77cc302544b9f48dcc2a6b84bc7a07d5",
+     "sha": "6b830fac77cc302544b9f48dcc2a6b84bc7a07d5",
+     "url": "https://api.github.com/repos/jieter/django-tables2/commits/6b830fac77cc302544b9f48dcc2a6b84bc7a07d5"
+    }
+   ],
+   "sha": "874e04776e129d0992dace8e322049588f09fb56",
+   "url": "https://api.github.com/repos/jieter/django-tables2/commits/874e04776e129d0992dace8e322049588f09fb56"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1470389?v=4",
+    "events_url": "https://api.github.com/users/jieter/events{/privacy}",
+    "followers_url": "https://api.github.com/users/jieter/followers",
+    "following_url": "https://api.github.com/users/jieter/following{/other_user}",
+    "gists_url": "https://api.github.com/users/jieter/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/jieter",
+    "id": 1470389,
+    "login": "jieter",
+    "node_id": "MDQ6VXNlcjE0NzAzODk=",
+    "organizations_url": "https://api.github.com/users/jieter/orgs",
+    "received_events_url": "https://api.github.com/users/jieter/received_events",
+    "repos_url": "https://api.github.com/users/jieter/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/jieter/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/jieter/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/jieter",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jieter/django-tables2/commits/6b830fac77cc302544b9f48dcc2a6b84bc7a07d5/comments",
+   "commit": {
+    "author": {
+     "date": "2026-08-29T12:10:12Z",
+     "email": "jieter@jieter.nl",
+     "name": "Jan Pieter Waagmeester"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-08-29T12:10:12Z",
+     "email": "jieter@jieter.nl",
+     "name": "Jan Pieter Waagmeester"
+    },
+    "message": "Bump version to 3.0.1",
+    "tree": {
+     "sha": "7542f04a28ed1c87a6e1a21a9463c3f9ebf6966a",
+     "url": "https://api.github.com/repos/jieter/django-tables2/git/trees/7542f04a28ed1c87a6e1a21a9463c3f9ebf6966a"
+    },
+    "url": "https://api.github.com/repos/jieter/django-tables2/git/commits/6b830fac77cc302544b9f48dcc2a6b84bc7a07d5",
+    "verification": {
+     "payload": "tree 7542f04a28ed1c87a6e1a21a9463c3f9ebf6966a\nparent c28fd5166631e943f67768c08eab424ee634d7b9\nauthor Jan Pieter Waagmeester <jieter@jieter.nl> 1788005412 +0200\ncommitter Jan Pieter Waagmeester <jieter@jieter.nl> 1788005412 +0200\n\nBump version to 3.0.1\n",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\niQJPBAABCAA5FiEE9BCtyJpvCnfXZDrMn0kSyH7jhKIFAmqSzCYbFIAAAAAABAAO\nbWFudTIsMi41KzEuMTIsMCwzAAoJEJ9JEsh+44SiaBYQAJDLtguid0Uddpam1HTO\nFdbpGnLYekwCYkZM+pPvoAGZhAdx9CHDPIExfkNyKVFxqy/ldz2V6YE4hyTdwU9s\nfIqu560nmO4dAVHyGZmN0WshT6zxG/p+x2zO2GNqozdgknVAAj+ZPKV3I2VSIJNI\n4mAf2KMXIg6Ws6BQhwct2q87ZoUvyJ27KKuKUSthAhP/6k886Po3wsd7UCrjIq02\nJp45HsOtavpmNrrHRnajCb2J3HqMXwX6mTMqqujxHP3//T7CkGA3mjE99+Jn8T45\n3oDX1tL8JwrYnl1Y7UaBOOqt8fetDKTUWRln4y9h/3225rtRpq/LU0lIrBYWNq6j\nDBQ+7AQWlj8I6/ggQmAe7xduAI04Ot9wFGvQTye4ZByripk9bB4jw2Fie8BquWXG\nfmlEZd2SN5XGgINHse08hwep840ttKdEP35hTcFLDiZbJ27wBDOJZao+W7Kt/XFy\nq2AZaEauxXyGmZzHha0X80aqM0M0MZZhy1OxwxUzBB/n1LASdp7gZZEeG993Y1QA\nhOgeRdU4+92iGSLcOBhzh0dRLxlSDWo/iwETzvQRKNEFXn9g/RaJtNNMpEpV7UEl\nNWxfIaEZgq1JjeSf+akpg08Q/GJrTXBUhTSM9tQzkrzcZG5zfK4d0IXetEka6UWY\nMJYh6cEiVHa8om/rGoilY08+\n=21NT\n-----END PGP SIGNATURE-----",
+     "verified": true,
+     "verified_at": "2026-08-29T12:11:15Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1470389?v=4",
+    "events_url": "https://api.github.com/users/jieter/events{/privacy}",
+    "followers_url": "https://api.github.com/users/jieter/followers",
+    "following_url": "https://api.github.com/users/jieter/following{/other_user}",
+    "gists_url": "https://api.github.com/users/jieter/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/jieter",
+    "id": 1470389,
+    "login": "jieter",
+    "node_id": "MDQ6VXNlcjE0NzAzODk=",
+    "organizations_url": "https://api.github.com/users/jieter/orgs",
+    "received_events_url": "https://api.github.com/users/jieter/received_events",
+    "repos_url": "https://api.github.com/users/jieter/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/jieter/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/jieter/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/jieter",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jieter/django-tables2/commit/6b830fac77cc302544b9f48dcc2a6b84bc7a07d5",
+   "node_id": "C_kwDOABF67doAKDZiODMwZmFjNzdjYzMwMjU0NGI5ZjQ4ZGNjMmE2Yjg0YmM3YTA3ZDU",
+   "parents": [
+    {
+     "html_url": "https://github.com/jieter/django-tables2/commit/c28fd5166631e943f67768c08eab424ee634d7b9",
+     "sha": "c28fd5166631e943f67768c08eab424ee634d7b9",
+     "url": "https://api.github.com/repos/jieter/django-tables2/commits/c28fd5166631e943f67768c08eab424ee634d7b9"
+    }
+   ],
+   "sha": "6b830fac77cc302544b9f48dcc2a6b84bc7a07d5",
+   "url": "https://api.github.com/repos/jieter/django-tables2/commits/6b830fac77cc302544b9f48dcc2a6b84bc7a07d5"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1470389?v=4",
+    "events_url": "https://api.github.com/users/jieter/events{/privacy}",
+    "followers_url": "https://api.github.com/users/jieter/followers",
+    "following_url": "https://api.github.com/users/jieter/following{/other_user}",
+    "gists_url": "https://api.github.com/users/jieter/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/jieter",
+    "id": 1470389,
+    "login": "jieter",
+    "node_id": "MDQ6VXNlcjE0NzAzODk=",
+    "organizations_url": "https://api.github.com/users/jieter/orgs",
+    "received_events_url": "https://api.github.com/users/jieter/received_events",
+    "repos_url": "https://api.github.com/users/jieter/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/jieter/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/jieter/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/jieter",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jieter/django-tables2/commits/c28fd5166631e943f67768c08eab424ee634d7b9/comments",
+   "commit": {
+    "author": {
+     "date": "2026-08-29T12:00:26Z",
+     "email": "jieter@waarneming.nl",
+     "name": "Jan Pieter Waagmeester"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-08-29T12:00:26Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Add support for django 6.1, drop python 3.10 support (#1047)",
+    "tree": {
+     "sha": "2099ae6a24aaae7e202d913c998eb19ec121b1db",
+     "url": "https://api.github.com/repos/jieter/django-tables2/git/trees/2099ae6a24aaae7e202d913c998eb19ec121b1db"
+    },
+    "url": "https://api.github.com/repos/jieter/django-tables2/git/commits/c28fd5166631e943f67768c08eab424ee634d7b9",
+    "verification": {
+     "payload": "tree 2099ae6a24aaae7e202d913c998eb19ec121b1db\nparent 47c5cd2a6015a6bdec176610adde479071bd58c7\nauthor Jan Pieter Waagmeester <jieter@waarneming.nl> 1788004826 +0200\ncommitter GitHub <noreply@github.com> 1788004826 +0200\n\nAdd support for django 6.1, drop python 3.10 support (#1047)",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqksnaCRC1aQ7uu5UhlAAAymgQAJtLd7KKP6FM0eZTg1oYWvEj\n4YNFL0b0jgzZVw1H9PPF5xaN+Ww6mnXux4AcbAxxYMPV0/Stjqb8s29ziwMiFxOK\nI0wOBhK9sUnfKfaxmJmr6r5s7pgWkiohvaLwr36ZKY+rtvORNQo+5UrgzqeuS77x\n3trlMRrX0s1hZD1xef0m8wVnrFYmxXebmdUwKnX2bzuNXh33Mbq2if4pntrtqn13\nCoEaU6kPqLHx26/iCqNz6hjgPLC/tnNVBJx1deiWX3QBFFDPirZZIVkEy3wCJRvX\nlaf8XX0gI/UvPTMeC1EeOJO2suqSzzZ/dh5szPXOTQ9uDAQWGWqLJ38FkgoSvXBY\nLUWW/QLphy5OTkFx8nd6apVx0Q9bsMEY+7oM/yiFKyO5NZNrX4Rm82NJztgHDNNy\nIc4KYxR7VhifB9WRzzZ3ByNsQzOqP8fUOhd5iKZc9TAlDkafX2dVAx6xo0ql5VxT\nFwlz6dWlJoNPKyh+M5g7r/TQDlIsdYwOiXTr7judKnf1iAwBWno0z7dUQpY/fE1A\nolziJzfQM7idi1r2nFJCn5n8mWGqkxoBLlFeWNqt5Hu6YrlK7JtMY7OCwyXSHdjw\nYEof3vdxmrBWZlTPbnww0xgF7QksLN60mVPR1C97VJmJYW7wIZz8hA8nSa0tqhAI\nuFhDkZ/GBCqd46p24ZQO\n=hgQa\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-08-29T12:00:27Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jieter/django-tables2/commit/c28fd5166631e943f67768c08eab424ee634d7b9",
+   "node_id": "C_kwDOABF67doAKGMyOGZkNTE2NjYzMWU5NDNmNjc3NjhjMDhlYWI0MjRlZTYzNGQ3Yjk",
+   "parents": [
+    {
+     "html_url": "https://github.com/jieter/django-tables2/commit/47c5cd2a6015a6bdec176610adde479071bd58c7",
+     "sha": "47c5cd2a6015a6bdec176610adde479071bd58c7",
+     "url": "https://api.github.com/repos/jieter/django-tables2/commits/47c5cd2a6015a6bdec176610adde479071bd58c7"
+    }
+   ],
+   "sha": "c28fd5166631e943f67768c08eab424ee634d7b9",
+   "url": "https://api.github.com/repos/jieter/django-tables2/commits/c28fd5166631e943f67768c08eab424ee634d7b9"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+    "events_url": "https://api.github.com/users/dependabot%5Bbot%5D/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dependabot%5Bbot%5D/followers",
+    "following_url": "https://api.github.com/users/dependabot%5Bbot%5D/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dependabot%5Bbot%5D/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/apps/dependabot",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "node_id": "MDM6Qm90NDk2OTkzMzM=",
+    "organizations_url": "https://api.github.com/users/dependabot%5Bbot%5D/orgs",
+    "received_events_url": "https://api.github.com/users/dependabot%5Bbot%5D/received_events",
+    "repos_url": "https://api.github.com/users/dependabot%5Bbot%5D/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dependabot%5Bbot%5D/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dependabot%5Bbot%5D/subscriptions",
+    "type": "Bot",
+    "url": "https://api.github.com/users/dependabot%5Bbot%5D",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jieter/django-tables2/commits/47c5cd2a6015a6bdec176610adde479071bd58c7/comments",
+   "commit": {
+    "author": {
+     "date": "2026-08-29T11:58:22Z",
+     "email": "49699333+dependabot[bot]@users.noreply.github.com",
+     "name": "dependabot[bot]"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-08-29T11:58:22Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Bump actions/setup-python from 6 to 7 (#1046)\n\nBumps [actions/setup-python](https://github.com/actions/setup-python) from 6 to 7.\n- [Release notes](https://github.com/actions/setup-python/releases)\n- [Commits](https://github.com/actions/setup-python/compare/v6...v7)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-python\n  dependency-version: '7'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
+    "tree": {
+     "sha": "a736b9fdf3cc4fd01b2010639e4eee72868958a6",
+     "url": "https://api.github.com/repos/jieter/django-tables2/git/trees/a736b9fdf3cc4fd01b2010639e4eee72868958a6"
+    },
+    "url": "https://api.github.com/repos/jieter/django-tables2/git/commits/47c5cd2a6015a6bdec176610adde479071bd58c7",
+    "verification": {
+     "payload": "tree a736b9fdf3cc4fd01b2010639e4eee72868958a6\nparent 2d53383c39e2605d8172af2b02ebfd0c25578fca\nauthor dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 1788004702 +0200\ncommitter GitHub <noreply@github.com> 1788004702 +0200\n\nBump actions/setup-python from 6 to 7 (#1046)\n\nBumps [actions/setup-python](https://github.com/actions/setup-python) from 6 to 7.\n- [Release notes](https://github.com/actions/setup-python/releases)\n- [Commits](https://github.com/actions/setup-python/compare/v6...v7)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-python\n  dependency-version: '7'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqksleCRC1aQ7uu5UhlAAAtRMQAEcabbmraNyrQan0b17SSTHk\nCv6yFiAdib93G8ue2CQ4d2zuj4SVi5ay8FLUFNki2VrxnGGs8OSAhZyxwCoGOxTt\nEz57DhJboJFELLAE6JzthalDTYg8YrMkjBLZujEzw3V2Z+cRANBGSzF9hiz80dhT\nddCFie8ETiZ8YWJtFF6EKEeQIWKTdIZk6jw0+kcYa3RiW0M0d92BhA3pkg+F3EbL\nf+i4oqC1012bY6Q4RcvZ5EbaiJYhAo+sVBOC4HG5n8Rv3hqg8qfy7rTxLttaNQwo\nAAU43/N64BeE8TpeNQFyhfNyWfiBM4uz5OvcBw7kFCIHfsf71gIpI60sHeKkt/2v\nRfDMxbfDslqACVIcEFMsrBCWCWxut0Iu4Xo3ErBLgVGaIlZ7GwXNK7oysCIBvJyj\nIEFG0XkM2/sCBp0FFacpAHiDiYDY51Hg2ju9ymXNoPU3QiJa1x/vD+ZEhZ5exb1C\nXnrFXrhRVjJbjOb3GhzmHMCE3YsN8m4uToActTyrBZeBeyvi5t8iNvzALVhfh8l/\ndofF4bJravpotbVbLYJ5FY7h8sbjN+Eui1E18EdXsE6f9XBa5ssyUWq20JJSsNl0\ne+no+Ro8bWkOFyv019LAv1RJ63CuDffxeQ7cQZTr247OVDMURq33iW51JBSQqoar\nEO8VeKUWnH8hXqHYrSPn\n=+jHR\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-08-29T11:58:22Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jieter/django-tables2/commit/47c5cd2a6015a6bdec176610adde479071bd58c7",
+   "node_id": "C_kwDOABF67doAKDQ3YzVjZDJhNjAxNWE2YmRlYzE3NjYxMGFkZGU0NzkwNzFiZDU4Yzc",
+   "parents": [
+    {
+     "html_url": "https://github.com/jieter/django-tables2/commit/2d53383c39e2605d8172af2b02ebfd0c25578fca",
+     "sha": "2d53383c39e2605d8172af2b02ebfd0c25578fca",
+     "url": "https://api.github.com/repos/jieter/django-tables2/commits/2d53383c39e2605d8172af2b02ebfd0c25578fca"
+    }
+   ],
+   "sha": "47c5cd2a6015a6bdec176610adde479071bd58c7",
+   "url": "https://api.github.com/repos/jieter/django-tables2/commits/47c5cd2a6015a6bdec176610adde479071bd58c7"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+    "events_url": "https://api.github.com/users/dependabot%5Bbot%5D/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dependabot%5Bbot%5D/followers",
+    "following_url": "https://api.github.com/users/dependabot%5Bbot%5D/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dependabot%5Bbot%5D/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/apps/dependabot",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "node_id": "MDM6Qm90NDk2OTkzMzM=",
+    "organizations_url": "https://api.github.com/users/dependabot%5Bbot%5D/orgs",
+    "received_events_url": "https://api.github.com/users/dependabot%5Bbot%5D/received_events",
+    "repos_url": "https://api.github.com/users/dependabot%5Bbot%5D/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dependabot%5Bbot%5D/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dependabot%5Bbot%5D/subscriptions",
+    "type": "Bot",
+    "url": "https://api.github.com/users/dependabot%5Bbot%5D",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jieter/django-tables2/commits/2d53383c39e2605d8172af2b02ebfd0c25578fca/comments",
+   "commit": {
+    "author": {
+     "date": "2026-08-29T11:40:14Z",
+     "email": "49699333+dependabot[bot]@users.noreply.github.com",
+     "name": "dependabot[bot]"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-08-29T11:40:14Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Bump actions/cache from 5.0.5 to 6.1.0 (#1042)\n\nBumps [actions/cache](https://github.com/actions/cache) from 5.0.5 to 6.1.0.\n- [Release notes](https://github.com/actions/cache/releases)\n- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)\n- [Commits](https://github.com/actions/cache/compare/v5.0.5...v6.1.0)\n\n---\nupdated-dependencies:\n- dependency-name: actions/cache\n  dependency-version: 6.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
+    "tree": {
+     "sha": "5505ff66476ba78abd7b910e5fd4add5eb5c5c0f",
+     "url": "https://api.github.com/repos/jieter/django-tables2/git/trees/5505ff66476ba78abd7b910e5fd4add5eb5c5c0f"
+    },
+    "url": "https://api.github.com/repos/jieter/django-tables2/git/commits/2d53383c39e2605d8172af2b02ebfd0c25578fca",
+    "verification": {
+     "payload": "tree 5505ff66476ba78abd7b910e5fd4add5eb5c5c0f\nparent b2dc2cb57a163cd3a17772fc7d2ef51a4441c3ee\nauthor dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 1788003614 +0200\ncommitter GitHub <noreply@github.com> 1788003614 +0200\n\nBump actions/cache from 5.0.5 to 6.1.0 (#1042)\n\nBumps [actions/cache](https://github.com/actions/cache) from 5.0.5 to 6.1.0.\n- [Release notes](https://github.com/actions/cache/releases)\n- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)\n- [Commits](https://github.com/actions/cache/compare/v5.0.5...v6.1.0)\n\n---\nupdated-dependencies:\n- dependency-name: actions/cache\n  dependency-version: 6.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqksUeCRC1aQ7uu5UhlAAA03kQAFto/AHHb0sqUs2i9fWLvsNs\naCfr5AY11IATm7lVzE8WuefvCborioUAnXbu2R8jj1b8w1OzVTsaQB4Dk40IPs+c\nSP/NUva3Sx3Glo2pj2mGibUWDEWmP3gDbmC8gE5dVbD2j4AUb665uCMrG/gu+pN9\np+uRDUFEDgk7WRtyqMdMmcQZ0kJsGiG4iBiBUbDBxujyLDvKfNmzzS9mGpqSFC0W\nQ42tPGqtxvyH59lOTFp3yYGpZyG+njEhVo4/13v2ZR6bIQHCtcckohX7KqY1ruR8\nz7qbuwr6Y1VYv+3iWbVRENyZFPvehG32gB2A2XQ1ypJ1KcYm3VOeuqw7pfCyyagP\nAhLwZIS7JknsELeKQ4msOmQ8AG2p5feSt0AHeoQGCizoBUIWEse/WnWaaQz26Inm\nneyztjvmRIhHYkZ3drCPbqp+JsJyB5P3GDtoSUSgwYI+hoBnEfrbTYmPKSepHT8T\nuF6Dt27MhSmqYCa7YKDzG8j842KwEu2nFW/QtTbIXhD1OgbL1JD08Ne/X07D7bp2\n0lo0x5bW+wgLnnD9t5Tq2v/dy/UVD753iRRIBQkqXJed9wNinkwVBFMJdl2SvZJc\nc+BVSwQOtG2wB1DQIPurq2tGhJr9sD9Q4+I+pqa5h6SFd0mjOc9RZBm36Hg4lAgi\nIkSx5BdYhqp5t72L1Ch/\n=1pdP\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-08-29T11:40:14Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jieter/django-tables2/commit/2d53383c39e2605d8172af2b02ebfd0c25578fca",
+   "node_id": "C_kwDOABF67doAKDJkNTMzODNjMzllMjYwNWQ4MTcyYWYyYjAyZWJmZDBjMjU1NzhmY2E",
+   "parents": [
+    {
+     "html_url": "https://github.com/jieter/django-tables2/commit/b2dc2cb57a163cd3a17772fc7d2ef51a4441c3ee",
+     "sha": "b2dc2cb57a163cd3a17772fc7d2ef51a4441c3ee",
+     "url": "https://api.github.com/repos/jieter/django-tables2/commits/b2dc2cb57a163cd3a17772fc7d2ef51a4441c3ee"
+    }
+   ],
+   "sha": "2d53383c39e2605d8172af2b02ebfd0c25578fca",
+   "url": "https://api.github.com/repos/jieter/django-tables2/commits/2d53383c39e2605d8172af2b02ebfd0c25578fca"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+    "events_url": "https://api.github.com/users/dependabot%5Bbot%5D/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dependabot%5Bbot%5D/followers",
+    "following_url": "https://api.github.com/users/dependabot%5Bbot%5D/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dependabot%5Bbot%5D/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/apps/dependabot",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "node_id": "MDM6Qm90NDk2OTkzMzM=",
+    "organizations_url": "https://api.github.com/users/dependabot%5Bbot%5D/orgs",
+    "received_events_url": "https://api.github.com/users/dependabot%5Bbot%5D/received_events",
+    "repos_url": "https://api.github.com/users/dependabot%5Bbot%5D/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dependabot%5Bbot%5D/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dependabot%5Bbot%5D/subscriptions",
+    "type": "Bot",
+    "url": "https://api.github.com/users/dependabot%5Bbot%5D",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jieter/django-tables2/commits/b2dc2cb57a163cd3a17772fc7d2ef51a4441c3ee/comments",
+   "commit": {
+    "author": {
+     "date": "2026-08-29T11:29:55Z",
+     "email": "49699333+dependabot[bot]@users.noreply.github.com",
+     "name": "dependabot[bot]"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-08-29T11:29:55Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Bump actions/checkout from 6 to 7 (#1039)\n\nBumps [actions/checkout](https://github.com/actions/checkout) from 6 to 7.\n- [Release notes](https://github.com/actions/checkout/releases)\n- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/actions/checkout/compare/v6...v7)\n\n---\nupdated-dependencies:\n- dependency-name: actions/checkout\n  dependency-version: '7'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
+    "tree": {
+     "sha": "b4e92520bab78c4fa9db89e2123404f5123a9c04",
+     "url": "https://api.github.com/repos/jieter/django-tables2/git/trees/b4e92520bab78c4fa9db89e2123404f5123a9c04"
+    },
+    "url": "https://api.github.com/repos/jieter/django-tables2/git/commits/b2dc2cb57a163cd3a17772fc7d2ef51a4441c3ee",
+    "verification": {
+     "payload": "tree b4e92520bab78c4fa9db89e2123404f5123a9c04\nparent e52d5bc1b770f36935774261c3fb475a6e63ac4e\nauthor dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 1788002995 +0200\ncommitter GitHub <noreply@github.com> 1788002995 +0200\n\nBump actions/checkout from 6 to 7 (#1039)\n\nBumps [actions/checkout](https://github.com/actions/checkout) from 6 to 7.\n- [Release notes](https://github.com/actions/checkout/releases)\n- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/actions/checkout/compare/v6...v7)\n\n---\nupdated-dependencies:\n- dependency-name: actions/checkout\n  dependency-version: '7'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqksKzCRC1aQ7uu5UhlAAA4e4QACDcmJPZ61103Nk2037zppRH\ni+UTNK9jb7OgAvci9V941uzl+s1eFAq6Wv5z83ppi5RgjQ4VsigxCiu4aeS6R2ta\nZoyV32BO+8ADvYvQc/h9Nb+HEPAQN1wVuS01wJblkoq4WAEFWIb4JMxDhDQbqtG3\niD1Ap3RhcSjwYIp4a6Ai7RrOeHzxMcNJ6hc+IL7S1oeKyeFfFGr9CdBzqPku/uwJ\nYde3Y+4JXrrfu4hnIO49GuqhF+gp4z8ceD+bkbe5c0EjNQfHc8TLeSLk6fE+c/PS\nE8tcR6aTNGI+O1kdaKc1obm0Un4bM+XQ5EKgovxyhDWT0Vv0x4k5rrfP5DAdg6nu\nFb5X/ZLrybYeE+jeqfy2Q0K7YI76E499/J/UqMbmhUqgyxsGiGrxS30WLfgL5rXM\ni8r2QXWPLCuRar2LasINoSqLmpqZxIJAjaEAHQin2EgkvEP+/HngYcBIfd/Z2ZsY\npKOVuAf/rpYCXvp+UIgrCPG3nO+NH+8VyIeFQppBF8zzfm9EgzN7qwViNwakLa8d\nuyQHWQLVJetQH75kd3ty7ZgNC+EB3HC0o0WwNqymqq/UuKEilmJmLlNQnWGcm2E/\nsQrK33mtdwt+MBCpyBsVhGS1RyBvDBTL7tG2Z9k0RGg9Ddq6k2yPmofTE26mcByM\nR0HDiUU47kjaAKfYlRu2\n=3Ewp\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-08-29T11:29:55Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jieter/django-tables2/commit/b2dc2cb57a163cd3a17772fc7d2ef51a4441c3ee",
+   "node_id": "C_kwDOABF67doAKGIyZGMyY2I1N2ExNjNjZDNhMTc3NzJmYzdkMmVmNTFhNDQ0MWMzZWU",
+   "parents": [
+    {
+     "html_url": "https://github.com/jieter/django-tables2/commit/e52d5bc1b770f36935774261c3fb475a6e63ac4e",
+     "sha": "e52d5bc1b770f36935774261c3fb475a6e63ac4e",
+     "url": "https://api.github.com/repos/jieter/django-tables2/commits/e52d5bc1b770f36935774261c3fb475a6e63ac4e"
+    }
+   ],
+   "sha": "b2dc2cb57a163cd3a17772fc7d2ef51a4441c3ee",
+   "url": "https://api.github.com/repos/jieter/django-tables2/commits/b2dc2cb57a163cd3a17772fc7d2ef51a4441c3ee"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+    "events_url": "https://api.github.com/users/dependabot%5Bbot%5D/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dependabot%5Bbot%5D/followers",
+    "following_url": "https://api.github.com/users/dependabot%5Bbot%5D/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dependabot%5Bbot%5D/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/apps/dependabot",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "node_id": "MDM6Qm90NDk2OTkzMzM=",
+    "organizations_url": "https://api.github.com/users/dependabot%5Bbot%5D/orgs",
+    "received_events_url": "https://api.github.com/users/dependabot%5Bbot%5D/received_events",
+    "repos_url": "https://api.github.com/users/dependabot%5Bbot%5D/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dependabot%5Bbot%5D/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dependabot%5Bbot%5D/subscriptions",
+    "type": "Bot",
+    "url": "https://api.github.com/users/dependabot%5Bbot%5D",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jieter/django-tables2/commits/e52d5bc1b770f36935774261c3fb475a6e63ac4e/comments",
+   "commit": {
+    "author": {
+     "date": "2026-04-14T06:17:29Z",
+     "email": "49699333+dependabot[bot]@users.noreply.github.com",
+     "name": "dependabot[bot]"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-04-14T06:17:29Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Bump actions/cache from 5.0.4 to 5.0.5 (#1034)\n\nBumps [actions/cache](https://github.com/actions/cache) from 5.0.4 to 5.0.5.\n- [Release notes](https://github.com/actions/cache/releases)\n- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)\n- [Commits](https://github.com/actions/cache/compare/v5.0.4...v5.0.5)\n\n---\nupdated-dependencies:\n- dependency-name: actions/cache\n  dependency-version: 5.0.5\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
+    "tree": {
+     "sha": "60162f6d6d2476bea3673335532d4079cdf5a9a4",
+     "url": "https://api.github.com/repos/jieter/django-tables2/git/trees/60162f6d6d2476bea3673335532d4079cdf5a9a4"
+    },
+    "url": "https://api.github.com/repos/jieter/django-tables2/git/commits/e52d5bc1b770f36935774261c3fb475a6e63ac4e",
+    "verification": {
+     "payload": "tree 60162f6d6d2476bea3673335532d4079cdf5a9a4\nparent bae55f2da2903f4613f177e56e18a2944cd3383d\nauthor dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 1776147449 +0200\ncommitter GitHub <noreply@github.com> 1776147449 +0200\n\nBump actions/cache from 5.0.4 to 5.0.5 (#1034)\n\nBumps [actions/cache](https://github.com/actions/cache) from 5.0.4 to 5.0.5.\n- [Release notes](https://github.com/actions/cache/releases)\n- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)\n- [Commits](https://github.com/actions/cache/compare/v5.0.4...v5.0.5)\n\n---\nupdated-dependencies:\n- dependency-name: actions/cache\n  dependency-version: 5.0.5\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJp3dv5CRC1aQ7uu5UhlAAApREQAJ1n1Gb9vJINBC+gcMPxZH03\n2kgE5GbIK5lCHLe+RdYb3DJvtBCm44Ikgoup5orPpGin9uAz9Yq2iXWkFob9zBpx\nYrb0CoXsIBNhtOrMoTq2qj0Zo3xkTcYUf+I7feGEVzvS/bsi5epSLBdxW32aBsKf\n0sQ7Zvr83XmouGQLBtOrAYn3DuR1FWO+GZ9ogh5aN/G+ZXedPT/Uhxrui2qN+idp\nknb1+Wz+hxSTaEclrq8XqK8ig+U3Hx9WzixQCQffRsid7CgJOgs6+ECfbPuug7px\nWPA7EbcdCsbUIUl3JER2YsU0bE9Wf3eS696u57ZLuSr0ZyCsIlzMcnY19g6CPoHP\nB/A9Syzrk5fXByYLYZpXDMo5au1HZMVGT+zO7Q36ZhFzaIvWrI8DT3nr9dnQ+BVN\nIdLQZ90iQTL9d7zrPkINqCGY8mEAlrjQrom/T8OHPtMwBMRq7Q2gmMLNQn3Ernn6\n2qJ/f3y1X2FGwxJ7Wvn+5Ydesy4H4xuZ9zM9a0S3mEsXUD7aQYI64OuB3zj0/Eov\nF3ECz+7rO0M/va4M8UJ9BP+UCDyRhEsdYP8POxw43ZME58v0KsbjEcui0r9EXXyu\n9uKv+smoD5I52g5gpJnWeysPl81NmQELYmnE2buhNcBegYu5HizJ84lWHQK8ueIr\njej4EIonIyovzyyyj1aC\n=pbhc\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-04-14T06:17:30Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jieter/django-tables2/commit/e52d5bc1b770f36935774261c3fb475a6e63ac4e",
+   "node_id": "C_kwDOABF67doAKGU1MmQ1YmMxYjc3MGYzNjkzNTc3NDI2MWMzZmI0NzVhNmU2M2FjNGU",
+   "parents": [
+    {
+     "html_url": "https://github.com/jieter/django-tables2/commit/bae55f2da2903f4613f177e56e18a2944cd3383d",
+     "sha": "bae55f2da2903f4613f177e56e18a2944cd3383d",
+     "url": "https://api.github.com/repos/jieter/django-tables2/commits/bae55f2da2903f4613f177e56e18a2944cd3383d"
+    }
+   ],
+   "sha": "e52d5bc1b770f36935774261c3fb475a6e63ac4e",
+   "url": "https://api.github.com/repos/jieter/django-tables2/commits/e52d5bc1b770f36935774261c3fb475a6e63ac4e"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1470389?v=4",
+    "events_url": "https://api.github.com/users/jieter/events{/privacy}",
+    "followers_url": "https://api.github.com/users/jieter/followers",
+    "following_url": "https://api.github.com/users/jieter/following{/other_user}",
+    "gists_url": "https://api.github.com/users/jieter/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/jieter",
+    "id": 1470389,
+    "login": "jieter",
+    "node_id": "MDQ6VXNlcjE0NzAzODk=",
+    "organizations_url": "https://api.github.com/users/jieter/orgs",
+    "received_events_url": "https://api.github.com/users/jieter/received_events",
+    "repos_url": "https://api.github.com/users/jieter/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/jieter/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/jieter/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/jieter",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jieter/django-tables2/commits/bae55f2da2903f4613f177e56e18a2944cd3383d/comments",
+   "commit": {
+    "author": {
+     "date": "2026-04-13T07:41:20Z",
+     "email": "jieter@jieter.nl",
+     "name": "Jan Pieter Waagmeester"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-04-13T07:41:32Z",
+     "email": "jieter@jieter.nl",
+     "name": "Jan Pieter Waagmeester"
+    },
+    "message": "Prepare release 3.0.0\n\nRefs: #1031, 2.9.0 will be yanked later.",
+    "tree": {
+     "sha": "c67638f5148f5c9c4e44bd6412b4d099dadfbec3",
+     "url": "https://api.github.com/repos/jieter/django-tables2/git/trees/c67638f5148f5c9c4e44bd6412b4d099dadfbec3"
+    },
+    "url": "https://api.github.com/repos/jieter/django-tables2/git/commits/bae55f2da2903f4613f177e56e18a2944cd3383d",
+    "verification": {
+     "payload": "tree c67638f5148f5c9c4e44bd6412b4d099dadfbec3\nparent a2869f3a1e040f8e40c1dddddd2d68f7b02ba1da\nauthor Jan Pieter Waagmeester <jieter@jieter.nl> 1776066080 +0200\ncommitter Jan Pieter Waagmeester <jieter@jieter.nl> 1776066092 +0200\n\nPrepare release 3.0.0\n\nRefs: #1031, 2.9.0 will be yanked later.\n",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCAAdFiEE9BCtyJpvCnfXZDrMn0kSyH7jhKIFAmncnkIACgkQn0kSyH7j\nhKJgqA//TiwsoQ3wIPUGVEuu+5odC46CV7IFAO0kBdn0X8kZmKYLzxoUyE9pOWNP\nsuAsCdWks3PaquPQT3OD5NMEI1hP/TZ1IXW3fzFhNgD94SIZi7JWAuCcRBjMk2+Q\nm1TjPTcz3JziabpXf3wHObQv+fWeeRE1xjq16wyPxHrugjo/uo3dapnKCmflJm8e\nm4VBthVnYdLdU7ckbMTRc+Jw9wT+yg+onlG5qXeRkD5xmvYmFgBVazBUWmwM0ZUO\n363Tw0+yTOzCRIVWwrbf+oUzLe5B/h6dOilZyot8G6vchv+nD2qnEof7TKX0VWev\n7JpuxnE2hrStr/ZgLUdCT2P2np0P9BAq/LAJFvbIHiHHcmX27LjXMkIe7VXNq/aL\nv8XGAbubE8FFCO+pvtydGv99InrsLkMCwN65SetOz4o4qszodRVcXkikKb389Ut1\n+qdahr20ZGxcuIAhNwB5hlX9By/jmLGkwhqrwkfWtSQM95Ies3CPqgqCInDBPB9j\n5ZcZHIii6sMp1gMTSwvj7Q0cTNEN2m2TwZgdTtlcpeWo1jW20GfN7gH05HNkYAb+\nkUiaXbfMqS4Frk2JAa1VWdgTTM6pYCsAGk5EW4NokDcSIGoR60GPmXAi8kPig+iB\ngdeSByPQbi5Jfg5tiI3BzLrk8WXGzrblkPQS3wb7J00UHl44PBs=\n=W9M/\n-----END PGP SIGNATURE-----",
+     "verified": true,
+     "verified_at": "2026-04-13T07:42:29Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1470389?v=4",
+    "events_url": "https://api.github.com/users/jieter/events{/privacy}",
+    "followers_url": "https://api.github.com/users/jieter/followers",
+    "following_url": "https://api.github.com/users/jieter/following{/other_user}",
+    "gists_url": "https://api.github.com/users/jieter/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/jieter",
+    "id": 1470389,
+    "login": "jieter",
+    "node_id": "MDQ6VXNlcjE0NzAzODk=",
+    "organizations_url": "https://api.github.com/users/jieter/orgs",
+    "received_events_url": "https://api.github.com/users/jieter/received_events",
+    "repos_url": "https://api.github.com/users/jieter/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/jieter/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/jieter/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/jieter",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jieter/django-tables2/commit/bae55f2da2903f4613f177e56e18a2944cd3383d",
+   "node_id": "C_kwDOABF67doAKGJhZTU1ZjJkYTI5MDNmNDYxM2YxNzdlNTZlMThhMjk0NGNkMzM4M2Q",
+   "parents": [
+    {
+     "html_url": "https://github.com/jieter/django-tables2/commit/a2869f3a1e040f8e40c1dddddd2d68f7b02ba1da",
+     "sha": "a2869f3a1e040f8e40c1dddddd2d68f7b02ba1da",
+     "url": "https://api.github.com/repos/jieter/django-tables2/commits/a2869f3a1e040f8e40c1dddddd2d68f7b02ba1da"
+    }
+   ],
+   "sha": "bae55f2da2903f4613f177e56e18a2944cd3383d",
+   "url": "https://api.github.com/repos/jieter/django-tables2/commits/bae55f2da2903f4613f177e56e18a2944cd3383d"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1470389?v=4",
+    "events_url": "https://api.github.com/users/jieter/events{/privacy}",
+    "followers_url": "https://api.github.com/users/jieter/followers",
+    "following_url": "https://api.github.com/users/jieter/following{/other_user}",
+    "gists_url": "https://api.github.com/users/jieter/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/jieter",
+    "id": 1470389,
+    "login": "jieter",
+    "node_id": "MDQ6VXNlcjE0NzAzODk=",
+    "organizations_url": "https://api.github.com/users/jieter/orgs",
+    "received_events_url": "https://api.github.com/users/jieter/received_events",
+    "repos_url": "https://api.github.com/users/jieter/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/jieter/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/jieter/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/jieter",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jieter/django-tables2/commits/a2869f3a1e040f8e40c1dddddd2d68f7b02ba1da/comments",
+   "commit": {
+    "author": {
+     "date": "2026-04-13T07:35:45Z",
+     "email": "jieter@waarneming.nl",
+     "name": "Jan Pieter Waagmeester"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-04-13T07:35:45Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Remove declared support for Django 4.2 and 5.1, upgrade pre-commit dependencies (#1030)",
+    "tree": {
+     "sha": "6ab69385818753ab461257ee3a3c7a7705960eb5",
+     "url": "https://api.github.com/repos/jieter/django-tables2/git/trees/6ab69385818753ab461257ee3a3c7a7705960eb5"
+    },
+    "url": "https://api.github.com/repos/jieter/django-tables2/git/commits/a2869f3a1e040f8e40c1dddddd2d68f7b02ba1da",
+    "verification": {
+     "payload": "tree 6ab69385818753ab461257ee3a3c7a7705960eb5\nparent 171d890ed6f57256bfa901a8036325681be562a2\nauthor Jan Pieter Waagmeester <jieter@waarneming.nl> 1776065745 +0200\ncommitter GitHub <noreply@github.com> 1776065745 +0200\n\nRemove declared support for Django 4.2 and 5.1, upgrade pre-commit dependencies (#1030)",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJp3JzRCRC1aQ7uu5UhlAAAA2IQACptyjc0yztBIBQ9XzZHd2qI\nOoGgQkhXn8QamtgVMuGPbJ5MUJGxzmMeSMnm4TYlM8FbuQivwv3tEzNDEvVOw3nR\nXCjhCFcY5B5uGfpgbfiFfUQSMOAOpo7T5iaN21q/Tv+SP0ITrW/poyvBlspoGIJ2\n7NNtyqsNOz9yah935ecZGvzJDF6Xqiw7jOGw5hP1cPPNmS7MrXaUAKfyuiZMhfTN\nL4BAD/RD5O1owZKnnXIthRLf1BPoCzuKWvtLrfUAZhs0P3g8y+t2Iz6paczArcIJ\nJDmUj3an9sJLVITLgNUgQlMnnhcyfjqLRLPPMzUd244SBdaZxcVDbX1EZsaqr5gh\ndyuhDzuRGfdGn8JU2RWncR0yx7TxsYb6VPXgSBDA5t4fEDhKMqF4rc7QBrBFhYRj\ngRrjDqACSWkwO2khkUnVPDW5XwmTPTzV7GfnPfmGi0SsJVzUAxQU0XTzEuZ6d0Gi\n7jfLDk6t2e+RWCzCFNRIwe4dTZl+To7Ll0TJbGcW0WSdZ9Nt7DFsN0L9bzJBQvff\noUA8VXQJ8LaLi9lHqLt1fS9vVCq8ZkIuq1yKoWdTruDiSkLOrILqs5GHInn7liHj\nTNWwcdK5qrM5jfI/kELp7/zcuhq6nCB1nfANfZuktjvPSZNoNrJo96GkJVUZ/IRf\nI2SLvvfLTUFt3iun2nv7\n=+rXg\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-04-13T07:35:45Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jieter/django-tables2/commit/a2869f3a1e040f8e40c1dddddd2d68f7b02ba1da",
+   "node_id": "C_kwDOABF67doAKGEyODY5ZjNhMWUwNDBmOGU0MGMxZGRkZGRkMmQ2OGY3YjAyYmExZGE",
+   "parents": [
+    {
+     "html_url": "https://github.com/jieter/django-tables2/commit/171d890ed6f57256bfa901a8036325681be562a2",
+     "sha": "171d890ed6f57256bfa901a8036325681be562a2",
+     "url": "https://api.github.com/repos/jieter/django-tables2/commits/171d890ed6f57256bfa901a8036325681be562a2"
+    }
+   ],
+   "sha": "a2869f3a1e040f8e40c1dddddd2d68f7b02ba1da",
+   "url": "https://api.github.com/repos/jieter/django-tables2/commits/a2869f3a1e040f8e40c1dddddd2d68f7b02ba1da"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/7236469?v=4",
+    "events_url": "https://api.github.com/users/gythaogg/events{/privacy}",
+    "followers_url": "https://api.github.com/users/gythaogg/followers",
+    "following_url": "https://api.github.com/users/gythaogg/following{/other_user}",
+    "gists_url": "https://api.github.com/users/gythaogg/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/gythaogg",
+    "id": 7236469,
+    "login": "gythaogg",
+    "node_id": "MDQ6VXNlcjcyMzY0Njk=",
+    "organizations_url": "https://api.github.com/users/gythaogg/orgs",
+    "received_events_url": "https://api.github.com/users/gythaogg/received_events",
+    "repos_url": "https://api.github.com/users/gythaogg/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/gythaogg/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/gythaogg/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/gythaogg",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jieter/django-tables2/commits/171d890ed6f57256bfa901a8036325681be562a2/comments",
+   "commit": {
+    "author": {
+     "date": "2026-04-13T07:22:53Z",
+     "email": "gythaogg@users.noreply.github.com",
+     "name": "Saranya Balasubramanian"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-04-13T07:22:53Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Restore signature of TemplateColumn.render() (#1033)",
+    "tree": {
+     "sha": "2a6a1c409fd8aba5785012f86f8cae07c2f8e2fd",
+     "url": "https://api.github.com/repos/jieter/django-tables2/git/trees/2a6a1c409fd8aba5785012f86f8cae07c2f8e2fd"
+    },
+    "url": "https://api.github.com/repos/jieter/django-tables2/git/commits/171d890ed6f57256bfa901a8036325681be562a2",
+    "verification": {
+     "payload": "tree 2a6a1c409fd8aba5785012f86f8cae07c2f8e2fd\nparent ba66a7f2253537d02fa7d297136ed7f91e1c7b60\nauthor Saranya Balasubramanian <gythaogg@users.noreply.github.com> 1776064973 +0200\ncommitter GitHub <noreply@github.com> 1776064973 +0200\n\nRestore signature of TemplateColumn.render() (#1033)",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJp3JnNCRC1aQ7uu5UhlAAAMp0QAH5HZBCcmCLEQGzWLiFozG3f\nvGSD3nxFkb+CmA2d96gEfZiDZu6IDr7nCfN93XQKbIAbuEByOF0o4CFi+dttXBZp\n113E8hQpfWZ3iZVAnBApay1lIWwt8BL62natdcQ0bfFdDXXiDHZkXWxmTV3wdpka\nFYilmoWi1m2m4NW5WVyAkqAgUS9iuz7JoqctdziH3Ufs0tY2RkvCkoQCcJcKalE4\ndeB0o4E6OIufojXkxOUQuzmLugnQ325tRp3SkIxw5vjcHXPPD2J2U567OxvnAyHl\nV2Usy80crIKgxNIIM8C1uUvNvHLn775pdH/KZvkBtvJKmtUN3sXS+zqPhl6rWnFR\nmAqegcKenUv+62BaNJ4qlRRKaXngub4NCI1ufX0zs5MPjrrmdCm4AKyql9aI7d26\ntB+jBY6LwDoWEcy8iFNaysh2RALjt44HFtZjdUJD/wT0nGn1Yn5Gq0EIwBTG9TEd\nJySs8/Iw2DSgDfgDZwRck9Kv90lwLcuqhiMSZ4++Bh7G93blcIAoLbq72pEZD41q\n1u1wlBfNhJ/28TRV6TDwiLNoFkrEhUTDH10agHiCyZfOtR1isNiq/si1fFlg5T7h\nYmnkLXFO4pIKN7Qd8rz7+Nq8kxlqEk2SqCNZ2TZBzGG4l/FMYkHqOPC//PvHyqEy\nF2pCBjqb4enRv7bD10/4\n=PNUc\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-04-13T07:22:53Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jieter/django-tables2/commit/171d890ed6f57256bfa901a8036325681be562a2",
+   "node_id": "C_kwDOABF67doAKDE3MWQ4OTBlZDZmNTcyNTZiZmE5MDFhODAzNjMyNTY4MWJlNTYyYTI",
+   "parents": [
+    {
+     "html_url": "https://github.com/jieter/django-tables2/commit/ba66a7f2253537d02fa7d297136ed7f91e1c7b60",
+     "sha": "ba66a7f2253537d02fa7d297136ed7f91e1c7b60",
+     "url": "https://api.github.com/repos/jieter/django-tables2/commits/ba66a7f2253537d02fa7d297136ed7f91e1c7b60"
+    }
+   ],
+   "sha": "171d890ed6f57256bfa901a8036325681be562a2",
+   "url": "https://api.github.com/repos/jieter/django-tables2/commits/171d890ed6f57256bfa901a8036325681be562a2"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1470389?v=4",
+    "events_url": "https://api.github.com/users/jieter/events{/privacy}",
+    "followers_url": "https://api.github.com/users/jieter/followers",
+    "following_url": "https://api.github.com/users/jieter/following{/other_user}",
+    "gists_url": "https://api.github.com/users/jieter/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/jieter",
+    "id": 1470389,
+    "login": "jieter",
+    "node_id": "MDQ6VXNlcjE0NzAzODk=",
+    "organizations_url": "https://api.github.com/users/jieter/orgs",
+    "received_events_url": "https://api.github.com/users/jieter/received_events",
+    "repos_url": "https://api.github.com/users/jieter/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/jieter/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/jieter/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/jieter",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jieter/django-tables2/commits/ba66a7f2253537d02fa7d297136ed7f91e1c7b60/comments",
+   "commit": {
+    "author": {
+     "date": "2026-04-06T09:55:06Z",
+     "email": "jieter@jieter.nl",
+     "name": "Jan Pieter Waagmeester"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-04-06T09:55:06Z",
+     "email": "jieter@jieter.nl",
+     "name": "Jan Pieter Waagmeester"
+    },
+    "message": "Prepare releasing version 2.9.0",
+    "tree": {
+     "sha": "268a48a431639836024d6fd6b874102144cd7deb",
+     "url": "https://api.github.com/repos/jieter/django-tables2/git/trees/268a48a431639836024d6fd6b874102144cd7deb"
+    },
+    "url": "https://api.github.com/repos/jieter/django-tables2/git/commits/ba66a7f2253537d02fa7d297136ed7f91e1c7b60",
+    "verification": {
+     "payload": "tree 268a48a431639836024d6fd6b874102144cd7deb\nparent aa626845dadcfb75f657a7d17f092a8341dcc840\nauthor Jan Pieter Waagmeester <jieter@jieter.nl> 1775469306 +0200\ncommitter Jan Pieter Waagmeester <jieter@jieter.nl> 1775469306 +0200\n\nPrepare releasing version 2.9.0\n",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCAAdFiEE9BCtyJpvCnfXZDrMn0kSyH7jhKIFAmnTgv0ACgkQn0kSyH7j\nhKJroQ//aS3K1+nJm03yUNOklZuonIhXjhIcf3v4J2pnZ5MvL9Fs+gEOxVmqH0NA\nlJdkmu1v0pCNVBE+GS9Sn/exXjD4wIN/g7scDwHUiq9raVzERa0AEPKzT+TrbAxX\nlWd5d/okgO3m+QH1dVNWk9CPA2af0PBbVS6ThsNJTJcyiYy8TrmLvevp/l8MpBlF\nzyhORwSvlf3DjjNByxY9xDkQ+O1+Y4Z4Em06x9PjX73eJQrdZMKDtJ+lbrOAE56Y\n9mbPbTAg0VuFxGrchdHViYovlHvoape+r214SczVyrMtUctorXsKVk3ofuRpn5rp\nOKdNCPmYrobNGVcU/bL0+UY5CJVkuc9prb40fOCeHG90FX6FnwQ7QswLffwGOLyY\nqbGiquGCHDpb8m03HUUzalAod7GCvWfTuyURSVVlNPRpSg/Xot0Gz3nFGorEEGBa\nNsqNmPZ4/0Wr0TeFI23JCqiB2kCwMcagLHbPCd4pWv1sgBE3vIySn2K5lSNQhgcs\n7XB+mI3kXfhT6LKHBgndan0a+0r0ZKFvEnqbysACtftJwLtG0Cn3IYkGX3c7Zkr2\n72KzY+2X7tocXlnsV5zBos1zPutKBQwTIl9kdDBXcYB/vn2ku99sWr8i3fd9xc4a\nSr7g5pxsjUOvTSE0auiqhd10bwByr3diUtoHxXZv2c2Nv6OmCzk=\n=R+8P\n-----END PGP SIGNATURE-----",
+     "verified": true,
+     "verified_at": "2026-04-06T09:55:21Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1470389?v=4",
+    "events_url": "https://api.github.com/users/jieter/events{/privacy}",
+    "followers_url": "https://api.github.com/users/jieter/followers",
+    "following_url": "https://api.github.com/users/jieter/following{/other_user}",
+    "gists_url": "https://api.github.com/users/jieter/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/jieter",
+    "id": 1470389,
+    "login": "jieter",
+    "node_id": "MDQ6VXNlcjE0NzAzODk=",
+    "organizations_url": "https://api.github.com/users/jieter/orgs",
+    "received_events_url": "https://api.github.com/users/jieter/received_events",
+    "repos_url": "https://api.github.com/users/jieter/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/jieter/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/jieter/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/jieter",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jieter/django-tables2/commit/ba66a7f2253537d02fa7d297136ed7f91e1c7b60",
+   "node_id": "C_kwDOABF67doAKGJhNjZhN2YyMjUzNTM3ZDAyZmE3ZDI5NzEzNmVkN2Y5MWUxYzdiNjA",
+   "parents": [
+    {
+     "html_url": "https://github.com/jieter/django-tables2/commit/aa626845dadcfb75f657a7d17f092a8341dcc840",
+     "sha": "aa626845dadcfb75f657a7d17f092a8341dcc840",
+     "url": "https://api.github.com/repos/jieter/django-tables2/commits/aa626845dadcfb75f657a7d17f092a8341dcc840"
+    }
+   ],
+   "sha": "ba66a7f2253537d02fa7d297136ed7f91e1c7b60",
+   "url": "https://api.github.com/repos/jieter/django-tables2/commits/ba66a7f2253537d02fa7d297136ed7f91e1c7b60"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1470389?v=4",
+    "events_url": "https://api.github.com/users/jieter/events{/privacy}",
+    "followers_url": "https://api.github.com/users/jieter/followers",
+    "following_url": "https://api.github.com/users/jieter/following{/other_user}",
+    "gists_url": "https://api.github.com/users/jieter/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/jieter",
+    "id": 1470389,
+    "login": "jieter",
+    "node_id": "MDQ6VXNlcjE0NzAzODk=",
+    "organizations_url": "https://api.github.com/users/jieter/orgs",
+    "received_events_url": "https://api.github.com/users/jieter/received_events",
+    "repos_url": "https://api.github.com/users/jieter/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/jieter/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/jieter/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/jieter",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jieter/django-tables2/commits/aa626845dadcfb75f657a7d17f092a8341dcc840/comments",
+   "commit": {
+    "author": {
+     "date": "2026-04-06T09:19:15Z",
+     "email": "jieter@jieter.nl",
+     "name": "Jan Pieter Waagmeester"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-04-06T09:49:29Z",
+     "email": "jieter@jieter.nl",
+     "name": "Jan Pieter Waagmeester"
+    },
+    "message": "Document merging #1027, #931",
+    "tree": {
+     "sha": "a230378e10248e44a0b551a044d921604433ff31",
+     "url": "https://api.github.com/repos/jieter/django-tables2/git/trees/a230378e10248e44a0b551a044d921604433ff31"
+    },
+    "url": "https://api.github.com/repos/jieter/django-tables2/git/commits/aa626845dadcfb75f657a7d17f092a8341dcc840",
+    "verification": {
+     "payload": "tree a230378e10248e44a0b551a044d921604433ff31\nparent 85f1050fe8cff94a91a4865534a79771f2febfcd\nauthor Jan Pieter Waagmeester <jieter@jieter.nl> 1775467155 +0200\ncommitter Jan Pieter Waagmeester <jieter@jieter.nl> 1775468969 +0200\n\nDocument merging #1027, #931\n",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCAAdFiEE9BCtyJpvCnfXZDrMn0kSyH7jhKIFAmnTgbEACgkQn0kSyH7j\nhKKQoQ//djuyuS/2iXQSLEMC/MUu97hQYJZvqaYK/04YrbsA/4mjP38FdJG+Sm6U\nuFnj2YehZEpqS+MfRKJ0JCAY5JlswWDI4Nr9LKOJq7IYDZoGNXrZMUwSRS10ZiGa\n64lQo8UDlBklXx6zg/aJr23GvYrey8LWOXmrCZWMMpqY9EFpIv4rgbfSalbvqfbx\nIUdS31Vker0ZZuZ1as8beoK/udz5VqfZPT5Gpu4oBuP9dBe5TUBa6vdSwbkW9hE6\nwYX2ElFG0ntFvnx0IdURJ8I5Up/OyO59QHDVfwBYUIb0mnEF/ylTWlfozJ+Bek8Q\nEieNAcntTlk0IRVviJ82BtXNeYQQWbyoxnEEG2DyUW4hHCLtO8Yxwm1mnIm5MOYo\nMw/6ECLsCrNOOF/N32Cw6txcTf/KtZGkOilOGZlVB7v9gtRGpmwlpSWVMKY5vzZu\ns/3VVCnzn5/OVdh9xjKg7SxIP2FvwAEuo1OLWO0n4q/UXVOP8qLgGYNf7E+Kr8y6\nswBqD9YTZll5581duKSSAQUrx59LCFHvrseLv9aSnu5c0qFR41LXBpJTuR4fxPP/\ncS/G6l1X45rABH9AEJ6uysikY49qlnCnb0qQPIrporSDmCmw6spfgGuUKZnj6sZw\n2zPmcjJFbS9tJjmUtZm4xMaKFyYbfdIJs/gi2iOPiSUvu6ftl58=\n=rdVp\n-----END PGP SIGNATURE-----",
+     "verified": true,
+     "verified_at": "2026-04-06T09:49:42Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1470389?v=4",
+    "events_url": "https://api.github.com/users/jieter/events{/privacy}",
+    "followers_url": "https://api.github.com/users/jieter/followers",
+    "following_url": "https://api.github.com/users/jieter/following{/other_user}",
+    "gists_url": "https://api.github.com/users/jieter/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/jieter",
+    "id": 1470389,
+    "login": "jieter",
+    "node_id": "MDQ6VXNlcjE0NzAzODk=",
+    "organizations_url": "https://api.github.com/users/jieter/orgs",
+    "received_events_url": "https://api.github.com/users/jieter/received_events",
+    "repos_url": "https://api.github.com/users/jieter/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/jieter/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/jieter/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/jieter",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jieter/django-tables2/commit/aa626845dadcfb75f657a7d17f092a8341dcc840",
+   "node_id": "C_kwDOABF67doAKGFhNjI2ODQ1ZGFkY2ZiNzVmNjU3YTdkMTdmMDkyYTgzNDFkY2M4NDA",
+   "parents": [
+    {
+     "html_url": "https://github.com/jieter/django-tables2/commit/85f1050fe8cff94a91a4865534a79771f2febfcd",
+     "sha": "85f1050fe8cff94a91a4865534a79771f2febfcd",
+     "url": "https://api.github.com/repos/jieter/django-tables2/commits/85f1050fe8cff94a91a4865534a79771f2febfcd"
+    }
+   ],
+   "sha": "aa626845dadcfb75f657a7d17f092a8341dcc840",
+   "url": "https://api.github.com/repos/jieter/django-tables2/commits/aa626845dadcfb75f657a7d17f092a8341dcc840"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1470389?v=4",
+    "events_url": "https://api.github.com/users/jieter/events{/privacy}",
+    "followers_url": "https://api.github.com/users/jieter/followers",
+    "following_url": "https://api.github.com/users/jieter/following{/other_user}",
+    "gists_url": "https://api.github.com/users/jieter/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/jieter",
+    "id": 1470389,
+    "login": "jieter",
+    "node_id": "MDQ6VXNlcjE0NzAzODk=",
+    "organizations_url": "https://api.github.com/users/jieter/orgs",
+    "received_events_url": "https://api.github.com/users/jieter/received_events",
+    "repos_url": "https://api.github.com/users/jieter/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/jieter/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/jieter/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/jieter",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jieter/django-tables2/commits/85f1050fe8cff94a91a4865534a79771f2febfcd/comments",
+   "commit": {
+    "author": {
+     "date": "2026-04-06T09:47:12Z",
+     "email": "jieter@waarneming.nl",
+     "name": "Jan Pieter Waagmeester"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-04-06T09:47:12Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Add optional `context_object_name` to `TemplateColumn` and make `extra_context` optionally callable (#931)\n\nfixes: #928",
+    "tree": {
+     "sha": "503eea40f8ceea4defa38246eaa7884805e0efff",
+     "url": "https://api.github.com/repos/jieter/django-tables2/git/trees/503eea40f8ceea4defa38246eaa7884805e0efff"
+    },
+    "url": "https://api.github.com/repos/jieter/django-tables2/git/commits/85f1050fe8cff94a91a4865534a79771f2febfcd",
+    "verification": {
+     "payload": "tree 503eea40f8ceea4defa38246eaa7884805e0efff\nparent 99fa41937c773fe25e7cce08a191601952b047b2\nauthor Jan Pieter Waagmeester <jieter@waarneming.nl> 1775468832 +0200\ncommitter GitHub <noreply@github.com> 1775468832 +0200\n\nAdd optional `context_object_name` to `TemplateColumn` and make `extra_context` optionally callable (#931)\n\nfixes: #928",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJp04EgCRC1aQ7uu5UhlAAAKCMQAF0nKHIAgNomS8KAizWOEdkp\nu71FvfsgHQRAe7hFVzBrJi4admV64bitwAdz7NRNRHeUoQE4MmAhuESBBm9+gSBV\nc33xPlMR+hzp2HWhOGZ1XxmNkvz4QAOuzUppE5YFKAOqGsWNERYFYQaeI+741iS5\nX0WLu9qqsgjXx+o/dzGxe2fNiUeJElpcBarGDbfZ5FkScGRm+UxHHbiriyGNmY40\n+2HL5njSct0rG8FYbJQAaumutJjPIOiAm+DjLIUZLRHRLRlOGjWIGMwtBfWzX0vt\n38Cfnm16zJw9o7eZK1RQJKmzZGrtB5u/nk8Wuf3otvE3WbxjLgti3/6SSOyot3hK\nyiDs4NuKhDmxvzoiWvDyr7A/b/lgkqGtFtrwn0HwbasrSY0Kyy/hjBFq7mE/21aB\niJlcsAHKDFuhRqphqITsK2cidHCXQR16/olGxijtCnHWjgqh8mcStQVU+BI2FDJJ\nUsI5Xk0uLbDezgIt1JBTE1PcAyx7c/gzFPZ9VHM0/SLGzcxoCjQVh2pEvFIBo+K+\naC9QpBDdIv7lrthRiWdVpiMD1BSpr8IP79ReX30B4kknGake3SsDii4rrXf5hAqa\nIhfqtNLut1NhPKaz7F3ECmdnyeI0TKW6RupfG/F16fzmYcIDfomQ6hiDXJtU9KOK\n+HQcIWB1TH1OcPhA/pUa\n=bO5M\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-04-06T09:47:12Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jieter/django-tables2/commit/85f1050fe8cff94a91a4865534a79771f2febfcd",
+   "node_id": "C_kwDOABF67doAKDg1ZjEwNTBmZThjZmY5NGE5MWE0ODY1NTM0YTc5NzcxZjJmZWJmY2Q",
+   "parents": [
+    {
+     "html_url": "https://github.com/jieter/django-tables2/commit/99fa41937c773fe25e7cce08a191601952b047b2",
+     "sha": "99fa41937c773fe25e7cce08a191601952b047b2",
+     "url": "https://api.github.com/repos/jieter/django-tables2/commits/99fa41937c773fe25e7cce08a191601952b047b2"
+    }
+   ],
+   "sha": "85f1050fe8cff94a91a4865534a79771f2febfcd",
+   "url": "https://api.github.com/repos/jieter/django-tables2/commits/85f1050fe8cff94a91a4865534a79771f2febfcd"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/9328433?v=4",
+    "events_url": "https://api.github.com/users/mschoettle/events{/privacy}",
+    "followers_url": "https://api.github.com/users/mschoettle/followers",
+    "following_url": "https://api.github.com/users/mschoettle/following{/other_user}",
+    "gists_url": "https://api.github.com/users/mschoettle/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/mschoettle",
+    "id": 9328433,
+    "login": "mschoettle",
+    "node_id": "MDQ6VXNlcjkzMjg0MzM=",
+    "organizations_url": "https://api.github.com/users/mschoettle/orgs",
+    "received_events_url": "https://api.github.com/users/mschoettle/received_events",
+    "repos_url": "https://api.github.com/users/mschoettle/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/mschoettle/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/mschoettle/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/mschoettle",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jieter/django-tables2/commits/99fa41937c773fe25e7cce08a191601952b047b2/comments",
+   "commit": {
+    "author": {
+     "date": "2026-04-06T09:16:31Z",
+     "email": "git@mattsch.com",
+     "name": "Matthias Schoettle"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-04-06T09:16:31Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Use string annotation_format in inspect.signature to prevent runtime errors with type annotations (#1027)",
+    "tree": {
+     "sha": "24a5d07e494836d52c4656bfabb24d3ccd4af70d",
+     "url": "https://api.github.com/repos/jieter/django-tables2/git/trees/24a5d07e494836d52c4656bfabb24d3ccd4af70d"
+    },
+    "url": "https://api.github.com/repos/jieter/django-tables2/git/commits/99fa41937c773fe25e7cce08a191601952b047b2",
+    "verification": {
+     "payload": "tree 24a5d07e494836d52c4656bfabb24d3ccd4af70d\nparent 82451a976a844fc852ac09ad7b3f16031924e386\nauthor Matthias Schoettle <git@mattsch.com> 1775466991 -0400\ncommitter GitHub <noreply@github.com> 1775466991 +0200\n\nUse string annotation_format in inspect.signature to prevent runtime errors with type annotations (#1027)",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJp03nvCRC1aQ7uu5UhlAAABDYQAHGB/ESCeAZQQ7zIiOXvYGjd\ntjIzimtVFfgapS50T3FGca1Wwa+mFurpT76SFA1EiQuR2MLS+q/qxZ1tFqkFDgsm\n+oQIxgkU3AkB/B8TrIU7TdYdXtEmTwY18Z/mRjSmhw5bNksaOPKt8UwZd28hI9xk\niiKgEuLbAZcIgKpB0MEyYEVnejJNKIcfo3w/0wapEquSHdiB3sGMeZqLHgNJ6/cB\nPcQJhe19o/xvmQ9Z/zzlgbDsG3I1yE/etVZxorZygs1bTtHWEI5xXgakM+k5PUR0\nyaHEQolbXt5BDRtQ2YE/+JwjFQOZFUmsfNj0lvVIjOAQ/2sydjMQHtq7fDot9bwA\nUlH6B/jLBuORi3rMJl02uJDy1LY8BbJufiJKtjtN/6HWV25BN2JNo5u9I68EQcFO\n7jLYT1okHlFD5iC1av5IeHg1VghlnqBvggw98zTkTbnOFyM4uJwRWzaZOKmfzA20\n8duyzFNE/VxAWyvZEoC6jYQesbnSn+yBj94ORwS1PcR5WTnBqh8XIUXHMeUofFHK\n44968hO5XRzEcd7wIyEa5MM8HbrCIZeHE0R1VLrO+Dw+hg4hRU5Jdv8UFWb1ptzC\nWIUfHd0tPz+nCoplc8YTJYxOfRH7vZQCIHewcN9vCKXwfAtfHhd9xSp5zsONxv9b\n8LW+Z6JZjUvhWgOMBKk0\n=/FTs\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-04-06T09:16:31Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jieter/django-tables2/commit/99fa41937c773fe25e7cce08a191601952b047b2",
+   "node_id": "C_kwDOABF67doAKDk5ZmE0MTkzN2M3NzNmZTI1ZTdjY2UwOGExOTE2MDE5NTJiMDQ3YjI",
+   "parents": [
+    {
+     "html_url": "https://github.com/jieter/django-tables2/commit/82451a976a844fc852ac09ad7b3f16031924e386",
+     "sha": "82451a976a844fc852ac09ad7b3f16031924e386",
+     "url": "https://api.github.com/repos/jieter/django-tables2/commits/82451a976a844fc852ac09ad7b3f16031924e386"
+    }
+   ],
+   "sha": "99fa41937c773fe25e7cce08a191601952b047b2",
+   "url": "https://api.github.com/repos/jieter/django-tables2/commits/99fa41937c773fe25e7cce08a191601952b047b2"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+    "events_url": "https://api.github.com/users/dependabot%5Bbot%5D/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dependabot%5Bbot%5D/followers",
+    "following_url": "https://api.github.com/users/dependabot%5Bbot%5D/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dependabot%5Bbot%5D/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/apps/dependabot",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "node_id": "MDM6Qm90NDk2OTkzMzM=",
+    "organizations_url": "https://api.github.com/users/dependabot%5Bbot%5D/orgs",
+    "received_events_url": "https://api.github.com/users/dependabot%5Bbot%5D/received_events",
+    "repos_url": "https://api.github.com/users/dependabot%5Bbot%5D/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dependabot%5Bbot%5D/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dependabot%5Bbot%5D/subscriptions",
+    "type": "Bot",
+    "url": "https://api.github.com/users/dependabot%5Bbot%5D",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jieter/django-tables2/commits/82451a976a844fc852ac09ad7b3f16031924e386/comments",
+   "commit": {
+    "author": {
+     "date": "2026-04-06T09:13:03Z",
+     "email": "49699333+dependabot[bot]@users.noreply.github.com",
+     "name": "dependabot[bot]"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-04-06T09:13:03Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Bump actions/cache from 5.0.1 to 5.0.4 (#1028)\n\nBumps [actions/cache](https://github.com/actions/cache) from 5.0.1 to 5.0.4.\n- [Release notes](https://github.com/actions/cache/releases)\n- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)\n- [Commits](https://github.com/actions/cache/compare/v5.0.1...v5.0.4)\n\n---\nupdated-dependencies:\n- dependency-name: actions/cache\n  dependency-version: 5.0.4\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
+    "tree": {
+     "sha": "d2f5327047154c136be279812398dbd11ee49101",
+     "url": "https://api.github.com/repos/jieter/django-tables2/git/trees/d2f5327047154c136be279812398dbd11ee49101"
+    },
+    "url": "https://api.github.com/repos/jieter/django-tables2/git/commits/82451a976a844fc852ac09ad7b3f16031924e386",
+    "verification": {
+     "payload": "tree d2f5327047154c136be279812398dbd11ee49101\nparent b1c08a35f3d80cfa38786ed4c239a5896da9cd23\nauthor dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 1775466783 +0200\ncommitter GitHub <noreply@github.com> 1775466783 +0200\n\nBump actions/cache from 5.0.1 to 5.0.4 (#1028)\n\nBumps [actions/cache](https://github.com/actions/cache) from 5.0.1 to 5.0.4.\n- [Release notes](https://github.com/actions/cache/releases)\n- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)\n- [Commits](https://github.com/actions/cache/compare/v5.0.1...v5.0.4)\n\n---\nupdated-dependencies:\n- dependency-name: actions/cache\n  dependency-version: 5.0.4\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJp03kfCRC1aQ7uu5UhlAAATPAQALCDhtx/z1s+aujRlblXHN7S\nQpZ8GLsgaMoCGMG7az/GKpGsThQfTqVqffSg0NJD+o/uU9dOVm8Pc7CCrtNPyGY0\nfBwxULEakzAGaSt3xl8EJyOwWcV6DSjBIlsUAgoZtw85uaf6MPrysBJWPgUweJNQ\nl5zYFcOpb0tyiupyNo8aM+NGt9EXHbaxF4E6VuT5lzisg0NNL1SdWaOWUti1sBg0\n0Xh2Z1yMBqijqxsecHjCpAoc70DMbcaLzDwl9czg1RvupLbSCM6ouJ0FHJSiGxrd\nS0rfGtkVhzw5MVmUFFRjct80tqcxgCsq0ok22xeK+74M4H0yeN1FZadxXktBlzOV\nL8n7cV16gMf2UR1t7OdkZ/YIDlBO6t1kWppdEWpkJ6r8hcp7s4nX03yKRLfB/b1y\nv8n1Bb3fYkn1rVhpIBUGAVBVLdoOWAbvvAFTqdc4nRqNW/LGXX2lWPM2vhY/XDF9\nj+6sUPQHVqydnUpv5Cqi3g2WTRDkjOac+wqkcXR828imNTmIsnBDIXB4veMnYN43\nzpvkLixsO8wXJXF+QIgGA6gPyx//SJbfLAofupvbjv2wTHtONpSpHIozfisH/XLV\nAe9OZ11/guB1EQHov/MovI5bTYwM4rGaH7Ls4NHQ4myhe9IXL9pdeIfIcycVEGtu\nyjqRtpSYo4Do1Xy1pG+C\n=ctH3\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-04-06T09:13:04Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jieter/django-tables2/commit/82451a976a844fc852ac09ad7b3f16031924e386",
+   "node_id": "C_kwDOABF67doAKDgyNDUxYTk3NmE4NDRmYzg1MmFjMDlhZDdiM2YxNjAzMTkyNGUzODY",
+   "parents": [
+    {
+     "html_url": "https://github.com/jieter/django-tables2/commit/b1c08a35f3d80cfa38786ed4c239a5896da9cd23",
+     "sha": "b1c08a35f3d80cfa38786ed4c239a5896da9cd23",
+     "url": "https://api.github.com/repos/jieter/django-tables2/commits/b1c08a35f3d80cfa38786ed4c239a5896da9cd23"
+    }
+   ],
+   "sha": "82451a976a844fc852ac09ad7b3f16031924e386",
+   "url": "https://api.github.com/repos/jieter/django-tables2/commits/82451a976a844fc852ac09ad7b3f16031924e386"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1470389?v=4",
+    "events_url": "https://api.github.com/users/jieter/events{/privacy}",
+    "followers_url": "https://api.github.com/users/jieter/followers",
+    "following_url": "https://api.github.com/users/jieter/following{/other_user}",
+    "gists_url": "https://api.github.com/users/jieter/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/jieter",
+    "id": 1470389,
+    "login": "jieter",
+    "node_id": "MDQ6VXNlcjE0NzAzODk=",
+    "organizations_url": "https://api.github.com/users/jieter/orgs",
+    "received_events_url": "https://api.github.com/users/jieter/received_events",
+    "repos_url": "https://api.github.com/users/jieter/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/jieter/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/jieter/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/jieter",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jieter/django-tables2/commits/b1c08a35f3d80cfa38786ed4c239a5896da9cd23/comments",
+   "commit": {
+    "author": {
+     "date": "2025-12-30T08:46:14Z",
+     "email": "jieter@jieter.nl",
+     "name": "Jan Pieter Waagmeester"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2025-12-30T08:46:14Z",
+     "email": "jieter@jieter.nl",
+     "name": "Jan Pieter Waagmeester"
+    },
+    "message": "Update changelog after merging #1016, #1022, #1021",
+    "tree": {
+     "sha": "fe153c7559389399435f2719bfb09d4fdae8f0ea",
+     "url": "https://api.github.com/repos/jieter/django-tables2/git/trees/fe153c7559389399435f2719bfb09d4fdae8f0ea"
+    },
+    "url": "https://api.github.com/repos/jieter/django-tables2/git/commits/b1c08a35f3d80cfa38786ed4c239a5896da9cd23",
+    "verification": {
+     "payload": "tree fe153c7559389399435f2719bfb09d4fdae8f0ea\nparent c4aff9be284cdc0a7ee03e6a966a8793214e0b74\nauthor Jan Pieter Waagmeester <jieter@jieter.nl> 1767084374 +0100\ncommitter Jan Pieter Waagmeester <jieter@jieter.nl> 1767084374 +0100\n\nUpdate changelog after merging #1016, #1022, #1021\n",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCAAdFiEE9BCtyJpvCnfXZDrMn0kSyH7jhKIFAmlTkVcACgkQn0kSyH7j\nhKL62A//aAdyNZ9BYR4KXPZpik4iVOPu+bKRNLybeLRAplAxIAlFDECtGQ0XEZRj\nw8lSoRHgyhXvQE3BdOewOxaOIgY6nGHocStRm0rrvAd1ELXWM8DUNKjbsgsU3j3U\n4AQ2T4vMhEjxDRNsWKTjMmuOT5Ttq73ZM1ehOSafToAnT3NQ18EPBXXAFOqtktP2\nPtM8FEqmhKQFO+zDPatVBTXi5lvfjJAC+kRNNWMKrnRjlov77EK9PE+KqKnyFyI0\nnyejqzL5JInP8h+bXuae7q5X576y4SQKGt7pgnv+XQXdm4JpeEnXzdN63g1KqTGR\n7KZOk9uTjw8ip5+Pt+swLKgZhh+L8UJk58C1VBuJIyZLvYZ5cTzEy8Us0VaaBzSY\nDHMt7YhyX+v3EOdt3fokLO72zM3Aah8P8mEr5jz6H3a4HRRhOhIJyCap8+rbqAmQ\nVx/TsjUQ8N53ojruNsCjjG+Omm/wo++Y7WtE87WF8ni8TS2tw5VMfyYykbksXGV1\nmBJ5SrCvRbaUP6TFrO4Sk83EBhgFrokUSHnAHAYtu8PN7tyQvdVc50piKCW+ioU0\nOHH38kbdfR/LATGfmw1o3Ipb2tq87fdBECsAtI0ZzzHvUnqveX8O8992T0VqpY7E\nzXCcFauVfRtSR2RgIuLO460caUO0+XizQG7YdXIfnCR82NfbTUc=\n=ZY7S\n-----END PGP SIGNATURE-----",
+     "verified": true,
+     "verified_at": "2025-12-30T08:46:22Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1470389?v=4",
+    "events_url": "https://api.github.com/users/jieter/events{/privacy}",
+    "followers_url": "https://api.github.com/users/jieter/followers",
+    "following_url": "https://api.github.com/users/jieter/following{/other_user}",
+    "gists_url": "https://api.github.com/users/jieter/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/jieter",
+    "id": 1470389,
+    "login": "jieter",
+    "node_id": "MDQ6VXNlcjE0NzAzODk=",
+    "organizations_url": "https://api.github.com/users/jieter/orgs",
+    "received_events_url": "https://api.github.com/users/jieter/received_events",
+    "repos_url": "https://api.github.com/users/jieter/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/jieter/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/jieter/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/jieter",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jieter/django-tables2/commit/b1c08a35f3d80cfa38786ed4c239a5896da9cd23",
+   "node_id": "C_kwDOABF67doAKGIxYzA4YTM1ZjNkODBjZmEzODc4NmVkNGMyMzlhNTg5NmRhOWNkMjM",
+   "parents": [
+    {
+     "html_url": "https://github.com/jieter/django-tables2/commit/c4aff9be284cdc0a7ee03e6a966a8793214e0b74",
+     "sha": "c4aff9be284cdc0a7ee03e6a966a8793214e0b74",
+     "url": "https://api.github.com/repos/jieter/django-tables2/commits/c4aff9be284cdc0a7ee03e6a966a8793214e0b74"
+    }
+   ],
+   "sha": "b1c08a35f3d80cfa38786ed4c239a5896da9cd23",
+   "url": "https://api.github.com/repos/jieter/django-tables2/commits/b1c08a35f3d80cfa38786ed4c239a5896da9cd23"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/138426?v=4",
+    "events_url": "https://api.github.com/users/federicobond/events{/privacy}",
+    "followers_url": "https://api.github.com/users/federicobond/followers",
+    "following_url": "https://api.github.com/users/federicobond/following{/other_user}",
+    "gists_url": "https://api.github.com/users/federicobond/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/federicobond",
+    "id": 138426,
+    "login": "federicobond",
+    "node_id": "MDQ6VXNlcjEzODQyNg==",
+    "organizations_url": "https://api.github.com/users/federicobond/orgs",
+    "received_events_url": "https://api.github.com/users/federicobond/received_events",
+    "repos_url": "https://api.github.com/users/federicobond/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/federicobond/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/federicobond/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/federicobond",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jieter/django-tables2/commits/c4aff9be284cdc0a7ee03e6a966a8793214e0b74/comments",
+   "commit": {
+    "author": {
+     "date": "2025-12-30T08:22:20Z",
+     "email": "federicobond@gmail.com",
+     "name": "Federico Bond"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2025-12-30T08:22:20Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Rename querystring templatetag to querystring_replace (#1021)",
+    "tree": {
+     "sha": "f834480319c69065de7fe0caca1b67b33387fedb",
+     "url": "https://api.github.com/repos/jieter/django-tables2/git/trees/f834480319c69065de7fe0caca1b67b33387fedb"
+    },
+    "url": "https://api.github.com/repos/jieter/django-tables2/git/commits/c4aff9be284cdc0a7ee03e6a966a8793214e0b74",
+    "verification": {
+     "payload": "tree f834480319c69065de7fe0caca1b67b33387fedb\nparent 3efc90e17b867bf7511c1dd8f0c116230d3e8d9c\nauthor Federico Bond <federicobond@gmail.com> 1767082940 -0300\ncommitter GitHub <noreply@github.com> 1767082940 +0100\n\nRename querystring templatetag to querystring_replace (#1021)\n\n",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJpU4u8CRC1aQ7uu5UhlAAA+3YQAKdNskVV2ZXz2Azl5CtVIIax\n1ns70AvWRWoc8RinScGRcbafsXuDlN8xPXzXyDJJJ/4K5Ia1kVLmz9iJNOnPGEp3\nSVU2shFJ1Q5n0BXLs9JNnSfVP18qy0/eZe5oU3XKXS05lZaHOI8cD1swxJ+/veuj\nvsVlPZ5dG0IavXKD1n8TZr53I2vclqwRVI8knBXQOBGXVomdfjqaxXkzezcBLKbb\nkcMVfxkOLZFDLbvNqAyPTU0WGGmny0jjwVRZG/ebTp4iF59DNpnYPd+pJOeannhy\nBlyXQuE0qADuwO8yS1xvN2Lfo/oZsNCGHtznZeXEEmsOI5amUHZFKG+Jvm/EFxV5\nFm/vb31Yb+OdX+zmv4yGxlMirJZOr3sucATNryu5CbFX10hTWaoholrKbmLbEHmw\nEDRujUlDF8YXy81ykJaFs+Rgl+zqX2a4RPUJhPLPAQxVGk2t3vogyM0j/Z5fyJzV\nMGql5epxGInvVY7y8m7hLB+kbjinh8gfWWCYwIylUDssEpuF6WYGEuJjj5O6xjfW\n4B3VHPiEmNxeK76eWCUz9jZ0luDHXrwblny7cNf2VN8bCmdbl74qV1S8AWNvhxiT\noTbhetxWGyRs7aEkVop15hZ8FMQcb79wjCWOraMOqNfr2+luVLATHuNRh7LFOIkC\nN5k0zB7OvgEhEpa5Jlj0\n=+tnG\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2025-12-30T08:22:20Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jieter/django-tables2/commit/c4aff9be284cdc0a7ee03e6a966a8793214e0b74",
+   "node_id": "C_kwDOABF67doAKGM0YWZmOWJlMjg0Y2RjMGE3ZWUwM2U2YTk2NmE4NzkzMjE0ZTBiNzQ",
+   "parents": [
+    {
+     "html_url": "https://github.com/jieter/django-tables2/commit/3efc90e17b867bf7511c1dd8f0c116230d3e8d9c",
+     "sha": "3efc90e17b867bf7511c1dd8f0c116230d3e8d9c",
+     "url": "https://api.github.com/repos/jieter/django-tables2/commits/3efc90e17b867bf7511c1dd8f0c116230d3e8d9c"
+    }
+   ],
+   "sha": "c4aff9be284cdc0a7ee03e6a966a8793214e0b74",
+   "url": "https://api.github.com/repos/jieter/django-tables2/commits/c4aff9be284cdc0a7ee03e6a966a8793214e0b74"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/3911074?v=4",
+    "events_url": "https://api.github.com/users/spapas/events{/privacy}",
+    "followers_url": "https://api.github.com/users/spapas/followers",
+    "following_url": "https://api.github.com/users/spapas/following{/other_user}",
+    "gists_url": "https://api.github.com/users/spapas/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/spapas",
+    "id": 3911074,
+    "login": "spapas",
+    "node_id": "MDQ6VXNlcjM5MTEwNzQ=",
+    "organizations_url": "https://api.github.com/users/spapas/orgs",
+    "received_events_url": "https://api.github.com/users/spapas/received_events",
+    "repos_url": "https://api.github.com/users/spapas/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/spapas/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/spapas/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/spapas",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jieter/django-tables2/commits/3efc90e17b867bf7511c1dd8f0c116230d3e8d9c/comments",
+   "commit": {
+    "author": {
+     "date": "2025-12-30T08:19:24Z",
+     "email": "spapas@gmail.com",
+     "name": "Serafeim Papastefanos"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2025-12-30T08:19:24Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Export Date/DateTime/TimeColumns in ISO format (#1022)",
+    "tree": {
+     "sha": "fbb67921e3a00277fa75211b390b419ee1b59302",
+     "url": "https://api.github.com/repos/jieter/django-tables2/git/trees/fbb67921e3a00277fa75211b390b419ee1b59302"
+    },
+    "url": "https://api.github.com/repos/jieter/django-tables2/git/commits/3efc90e17b867bf7511c1dd8f0c116230d3e8d9c",
+    "verification": {
+     "payload": "tree fbb67921e3a00277fa75211b390b419ee1b59302\nparent 8938db40281c521e3d50eb2204bdb412b86be85c\nauthor Serafeim Papastefanos <spapas@gmail.com> 1767082764 +0200\ncommitter GitHub <noreply@github.com> 1767082764 +0100\n\nExport Date/DateTime/TimeColumns in ISO format (#1022)\n\n",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJpU4sMCRC1aQ7uu5UhlAAAFv0QAF4DUSdL+C+JEjFEYHfAhh6s\nlcTxSGJbzeFk94QLGeWdz90jT4B274I/auBC28AXUBKCQVugaQtVei5GzOgejLlo\nFp74IE6moePwJtFUtlRPFgbJbRsQMVDOjags9wvtqdy4t+EEPnnwDkEXZvm9QQWe\nAzPAeCx/eG8T7vnHQA2qhFADJodScr6CGxtAy3Ko7kPmXg8039cKkdh3KK2wecVz\njoGeAj+A6j9QlSnKolwXeE/wGv4cvrGR+Dn6OxEr5RWKkOkCNa5S1xui7VgPTIxo\npY41ZBxHFinDBEmTcGKoGL9Fq2DIliziCEQ4rFE5VwZA8pBfQUJu/5fJFz3XiyBg\nMFywztwZEhEYhQ3ap5bFVEd2xkKNJmhfEvSvHcO05uP1TQvpoIXdCu5F1MX1rWXD\ne1i7oqj6Fo5Z3adfmgJLm5FyOzdq2Pe1VvI6rsnFRrjA9GccpPEF+2vm17XwiVyk\n8kYrN1gt6vqcDF4zFJQ6+P0njFR5nWKqPpERuuCJI+dWqVlHepR1XRCWmnGlN4IN\n9PFh+qKn648hF2g4Y4iFbkOZ0hJvL16Tm0VfUwZZ4qoS8YVKBMYNmPvUn6xBqT0G\nyHf2kP8qqfCh60l8eb6Eqfo7UgWdbviSt4S1GVJCKTkFy1kT8C8mtgs/uwdkRekp\nxDuVUmakN/Hu0rnGuoP8\n=bvvp\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2025-12-30T08:19:25Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jieter/django-tables2/commit/3efc90e17b867bf7511c1dd8f0c116230d3e8d9c",
+   "node_id": "C_kwDOABF67doAKDNlZmM5MGUxN2I4NjdiZjc1MTFjMWRkOGYwYzExNjIzMGQzZThkOWM",
+   "parents": [
+    {
+     "html_url": "https://github.com/jieter/django-tables2/commit/8938db40281c521e3d50eb2204bdb412b86be85c",
+     "sha": "8938db40281c521e3d50eb2204bdb412b86be85c",
+     "url": "https://api.github.com/repos/jieter/django-tables2/commits/8938db40281c521e3d50eb2204bdb412b86be85c"
+    }
+   ],
+   "sha": "3efc90e17b867bf7511c1dd8f0c116230d3e8d9c",
+   "url": "https://api.github.com/repos/jieter/django-tables2/commits/3efc90e17b867bf7511c1dd8f0c116230d3e8d9c"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1470389?v=4",
+    "events_url": "https://api.github.com/users/jieter/events{/privacy}",
+    "followers_url": "https://api.github.com/users/jieter/followers",
+    "following_url": "https://api.github.com/users/jieter/following{/other_user}",
+    "gists_url": "https://api.github.com/users/jieter/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/jieter",
+    "id": 1470389,
+    "login": "jieter",
+    "node_id": "MDQ6VXNlcjE0NzAzODk=",
+    "organizations_url": "https://api.github.com/users/jieter/orgs",
+    "received_events_url": "https://api.github.com/users/jieter/received_events",
+    "repos_url": "https://api.github.com/users/jieter/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/jieter/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/jieter/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/jieter",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jieter/django-tables2/commits/8938db40281c521e3d50eb2204bdb412b86be85c/comments",
+   "commit": {
+    "author": {
+     "date": "2025-12-22T14:31:57Z",
+     "email": "jieter@jieter.nl",
+     "name": "Jan Pieter Waagmeester"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2025-12-22T14:31:57Z",
+     "email": "jieter@jieter.nl",
+     "name": "Jan Pieter Waagmeester"
+    },
+    "message": "Django 6.0 is released",
+    "tree": {
+     "sha": "f65d0d153f09575afa4108afc13e6748990cc866",
+     "url": "https://api.github.com/repos/jieter/django-tables2/git/trees/f65d0d153f09575afa4108afc13e6748990cc866"
+    },
+    "url": "https://api.github.com/repos/jieter/django-tables2/git/commits/8938db40281c521e3d50eb2204bdb412b86be85c",
+    "verification": {
+     "payload": "tree f65d0d153f09575afa4108afc13e6748990cc866\nparent f9b9f83fa09c4537159312cc635914e8eefde930\nauthor Jan Pieter Waagmeester <jieter@jieter.nl> 1766413917 +0100\ncommitter Jan Pieter Waagmeester <jieter@jieter.nl> 1766413917 +0100\n\nDjango 6.0 is released\n",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCAAdFiEE9BCtyJpvCnfXZDrMn0kSyH7jhKIFAmlJVl8ACgkQn0kSyH7j\nhKKEEA//UmhxWKFG85vWdhJCwDJDkWWEsHwNt7MBnfU0xBd144ATIEEFBmSzF3pb\nZv3jVxq2nQxXJXOGH8QovIjbjLvwa470+g/jsWfwSo13pWbhHGjR6V6ueViU7px5\n5qt1MuJmCWeaUANXP6y5IilejV1sJPnxHAyYP2paWWx+QAVg1te03fihYDN0HkIg\n3F0DsRKlj1u3Vs8UXIGKHgSgPXa/t1MzCXZGw1cwxL37SY2lvN5Kztdi+V7rg0oe\nhJQgM/VnScRSOll+p0ldMCL+F7M3u2ZfGndSIO26jIApaMHvHxzIBcmg70lIsMMJ\nPd3FaB9qStJt2C6ULhjvN/Kiy39lzWvJ14agrndfdYlzmd5fbXEZ3MmlAhWP0aZg\nXM9bS7LtFaoZq6AqI7eWMeorLuoCWj8E+tpD0gyGRkW03Fm8dBobchXm7oH+Z1va\nmboz8ut7mHekNgoQd4jIKaPz+3aFcbeYAQa8jJhj68CY+ExSoQGG30yi7Qj/j2t2\nrSMnHPwceAYcWm9VyJtvPBiV2kImTAp7YHc6xPWyGja/e0ynhkx1C6OVr5CY0q+C\nV/OKpF8dPGM1Rw9Fuq1cl3d/KakUKLSryQjg1iROL0g2XlwFERNj+y3gAEaZvy8w\nMtQcI4M8jNnoZ5UaODeOIoCYBMQgt1FI3oIID/ARaC0/wImeWk4=\n=80Zu\n-----END PGP SIGNATURE-----",
+     "verified": true,
+     "verified_at": "2025-12-22T14:32:05Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1470389?v=4",
+    "events_url": "https://api.github.com/users/jieter/events{/privacy}",
+    "followers_url": "https://api.github.com/users/jieter/followers",
+    "following_url": "https://api.github.com/users/jieter/following{/other_user}",
+    "gists_url": "https://api.github.com/users/jieter/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/jieter",
+    "id": 1470389,
+    "login": "jieter",
+    "node_id": "MDQ6VXNlcjE0NzAzODk=",
+    "organizations_url": "https://api.github.com/users/jieter/orgs",
+    "received_events_url": "https://api.github.com/users/jieter/received_events",
+    "repos_url": "https://api.github.com/users/jieter/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/jieter/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/jieter/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/jieter",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jieter/django-tables2/commit/8938db40281c521e3d50eb2204bdb412b86be85c",
+   "node_id": "C_kwDOABF67doAKDg5MzhkYjQwMjgxYzUyMWUzZDUwZWIyMjA0YmRiNDEyYjg2YmU4NWM",
+   "parents": [
+    {
+     "html_url": "https://github.com/jieter/django-tables2/commit/f9b9f83fa09c4537159312cc635914e8eefde930",
+     "sha": "f9b9f83fa09c4537159312cc635914e8eefde930",
+     "url": "https://api.github.com/repos/jieter/django-tables2/commits/f9b9f83fa09c4537159312cc635914e8eefde930"
+    }
+   ],
+   "sha": "8938db40281c521e3d50eb2204bdb412b86be85c",
+   "url": "https://api.github.com/repos/jieter/django-tables2/commits/8938db40281c521e3d50eb2204bdb412b86be85c"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+    "events_url": "https://api.github.com/users/dependabot%5Bbot%5D/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dependabot%5Bbot%5D/followers",
+    "following_url": "https://api.github.com/users/dependabot%5Bbot%5D/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dependabot%5Bbot%5D/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/apps/dependabot",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "node_id": "MDM6Qm90NDk2OTkzMzM=",
+    "organizations_url": "https://api.github.com/users/dependabot%5Bbot%5D/orgs",
+    "received_events_url": "https://api.github.com/users/dependabot%5Bbot%5D/received_events",
+    "repos_url": "https://api.github.com/users/dependabot%5Bbot%5D/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dependabot%5Bbot%5D/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dependabot%5Bbot%5D/subscriptions",
+    "type": "Bot",
+    "url": "https://api.github.com/users/dependabot%5Bbot%5D",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jieter/django-tables2/commits/f9b9f83fa09c4537159312cc635914e8eefde930/comments",
+   "commit": {
+    "author": {
+     "date": "2025-12-22T14:30:13Z",
+     "email": "49699333+dependabot[bot]@users.noreply.github.com",
+     "name": "dependabot[bot]"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2025-12-22T14:30:13Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Bump actions/checkout from 5 to 6 (#1019)\n\nBumps [actions/checkout](https://github.com/actions/checkout) from 5 to 6.\n- [Release notes](https://github.com/actions/checkout/releases)\n- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/actions/checkout/compare/v5...v6)\n\n---\nupdated-dependencies:\n- dependency-name: actions/checkout\n  dependency-version: '6'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
+    "tree": {
+     "sha": "3018d82c363a93c0521a2e4dd56cff541f8d75e5",
+     "url": "https://api.github.com/repos/jieter/django-tables2/git/trees/3018d82c363a93c0521a2e4dd56cff541f8d75e5"
+    },
+    "url": "https://api.github.com/repos/jieter/django-tables2/git/commits/f9b9f83fa09c4537159312cc635914e8eefde930",
+    "verification": {
+     "payload": "tree 3018d82c363a93c0521a2e4dd56cff541f8d75e5\nparent 88d41c87e03180363cc28cf41dd67206498cdd47\nauthor dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 1766413813 +0100\ncommitter GitHub <noreply@github.com> 1766413813 +0100\n\nBump actions/checkout from 5 to 6 (#1019)\n\nBumps [actions/checkout](https://github.com/actions/checkout) from 5 to 6.\n- [Release notes](https://github.com/actions/checkout/releases)\n- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/actions/checkout/compare/v5...v6)\n\n---\nupdated-dependencies:\n- dependency-name: actions/checkout\n  dependency-version: '6'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJpSVX1CRC1aQ7uu5UhlAAAsgEQAG6jPt+4afGjFXfXb5+27tXC\nIiR3EGLLR7HAN43hcwy7lvxUlGWN2brR9dvPcDMuV9En7kSmpnYDJrbugySqdNvU\nBg5rKeZDaIZIadw4CQJiXWSvLdC996LTE7klPWzKECI5pD6fJkqTEzzfoKznRpxu\ncw0WmaVOgxRLrsy4EW1Nhq9o7M8lls87vKOO8hI8FFN8mQHEQVts1gDvJy4JCITT\nGoAW9eCpZpITIVotlkO2LlvMvipgSem8rbRsbx4PX80i6DLodxn8ajlHW3c2otI3\njJ8ftp9E9iALaWIIQBY6+BuznqZAqWDNwvheEliW6FjPm9BpESF6rMeFQw6UhBej\nTnAcyH7Bg7pc5MdSDhsJl5b4Dq/TEWKa9MCTQE9Y6Uro4iHtHUsiAjjsaialraDB\n+FC6eSnnX++51JWvelVZEevazne5tOrgXfh13pAXIlHcHdYCr+SQ5woVoR/DPoE7\nmdzhlpMFzH7rGzVQsmnBEmNC67FvFIpQYwrXDMpQ9dwBiGKOKK9K16UzeP/gJTFr\nuMb+i9UwhPEHXz6VbSUcMHP+U2ZfB2IvHaW8RwuqsYBeZ/RvIgJarlHCz13X5f1N\nuEWAZ+88Y0vXlzAKcCDA9uBjIRtslORQVVxBZ37rIcKyeHvgiFBnBNLp0KMDfCQ4\ndL/H4rEQJOAo//H4Naz3\n=glk+\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2025-12-22T14:30:13Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jieter/django-tables2/commit/f9b9f83fa09c4537159312cc635914e8eefde930",
+   "node_id": "C_kwDOABF67doAKGY5YjlmODNmYTA5YzQ1MzcxNTkzMTJjYzYzNTkxNGU4ZWVmZGU5MzA",
+   "parents": [
+    {
+     "html_url": "https://github.com/jieter/django-tables2/commit/88d41c87e03180363cc28cf41dd67206498cdd47",
+     "sha": "88d41c87e03180363cc28cf41dd67206498cdd47",
+     "url": "https://api.github.com/repos/jieter/django-tables2/commits/88d41c87e03180363cc28cf41dd67206498cdd47"
+    }
+   ],
+   "sha": "f9b9f83fa09c4537159312cc635914e8eefde930",
+   "url": "https://api.github.com/repos/jieter/django-tables2/commits/f9b9f83fa09c4537159312cc635914e8eefde930"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+    "events_url": "https://api.github.com/users/dependabot%5Bbot%5D/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dependabot%5Bbot%5D/followers",
+    "following_url": "https://api.github.com/users/dependabot%5Bbot%5D/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dependabot%5Bbot%5D/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/apps/dependabot",
+    "id": 49699333,
+    "login": "dependabot[bot]",
+    "node_id": "MDM6Qm90NDk2OTkzMzM=",
+    "organizations_url": "https://api.github.com/users/dependabot%5Bbot%5D/orgs",
+    "received_events_url": "https://api.github.com/users/dependabot%5Bbot%5D/received_events",
+    "repos_url": "https://api.github.com/users/dependabot%5Bbot%5D/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dependabot%5Bbot%5D/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dependabot%5Bbot%5D/subscriptions",
+    "type": "Bot",
+    "url": "https://api.github.com/users/dependabot%5Bbot%5D",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jieter/django-tables2/commits/88d41c87e03180363cc28cf41dd67206498cdd47/comments",
+   "commit": {
+    "author": {
+     "date": "2025-12-22T14:20:12Z",
+     "email": "49699333+dependabot[bot]@users.noreply.github.com",
+     "name": "dependabot[bot]"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2025-12-22T14:20:12Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Bump actions/cache from 4.3.0 to 5.0.1 (#1020)\n\nBumps [actions/cache](https://github.com/actions/cache) from 4.3.0 to 5.0.1.\n- [Release notes](https://github.com/actions/cache/releases)\n- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)\n- [Commits](https://github.com/actions/cache/compare/v4.3.0...v5.0.1)\n\n---\nupdated-dependencies:\n- dependency-name: actions/cache\n  dependency-version: 5.0.1\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
+    "tree": {
+     "sha": "e85ecb120bc5e6fca69e7baf3d56941aea20bac4",
+     "url": "https://api.github.com/repos/jieter/django-tables2/git/trees/e85ecb120bc5e6fca69e7baf3d56941aea20bac4"
+    },
+    "url": "https://api.github.com/repos/jieter/django-tables2/git/commits/88d41c87e03180363cc28cf41dd67206498cdd47",
+    "verification": {
+     "payload": "tree e85ecb120bc5e6fca69e7baf3d56941aea20bac4\nparent fc95c74894ea29cc8d23c11feeb0d9afe64e2183\nauthor dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 1766413212 +0100\ncommitter GitHub <noreply@github.com> 1766413212 +0100\n\nBump actions/cache from 4.3.0 to 5.0.1 (#1020)\n\nBumps [actions/cache](https://github.com/actions/cache) from 4.3.0 to 5.0.1.\n- [Release notes](https://github.com/actions/cache/releases)\n- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)\n- [Commits](https://github.com/actions/cache/compare/v4.3.0...v5.0.1)\n\n---\nupdated-dependencies:\n- dependency-name: actions/cache\n  dependency-version: 5.0.1\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJpSVOcCRC1aQ7uu5UhlAAAEqMQAGZSG9h6omVDEFUHgPxlYnEH\np21P7j8hxKBrmor8aEDe3VcOuuAV87wQ02AmRs8yddDHltYkp9h1ZIOAOFUbGizD\nBWsTjevTHBxB6N6P23LI1YJoxZn50bCMkoMqUBKSdD54wzT/DyujLk4J78VqJRlv\nniPh6e437GSnOk43ojTRI8s/VuNqtLXXw3xNDaP5G/pg3vOwZ7bHIY/MylzwPWGe\n/01vwEk7O1E1nfxJ4Kg6iW9CGj510sH9Ep6A7/qt/aR0bfDSmenbMAWjZmi0oKlu\niFmyazz1sO8HL0rkXSsyuqO0QpfZNygs9B1tnNGvOTJ1vrwdPG2AqyEnD/CGMKRQ\nP+9uIGv1jNWfezQVdzWryLxn3Suos23kYUVcW2Eq16ToGQmqxBUz5k1tuniM4EAi\ngviW8J59GD8S6nehMzhwLLYhQvksjb+Wr0NjfAnBhSY6chUP0umwQA4zARrPUjwG\n9n6YEfR7lbEhCKk4Ml7ZRAjEYAYis+wAJifxsubP8t0Jpbkomr3sXSu9j8kf4sqp\nRe/vvVhSnuLNwnjOt69Mr4xXZUNIqs0LmYn7JSAxEyenQqxwNuQ8VirCbUnS6sq5\n5G+ZDcj5N77w7u8/6VuVhBsvTwDkM+foOm0sZFdj3qVhWmbykXRuGLzlG6M1oZsC\nIOeoE1FagOCdJ4wRCtvj\n=NpmN\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2025-12-22T14:20:13Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jieter/django-tables2/commit/88d41c87e03180363cc28cf41dd67206498cdd47",
+   "node_id": "C_kwDOABF67doAKDg4ZDQxYzg3ZTAzMTgwMzYzY2MyOGNmNDFkZDY3MjA2NDk4Y2RkNDc",
+   "parents": [
+    {
+     "html_url": "https://github.com/jieter/django-tables2/commit/fc95c74894ea29cc8d23c11feeb0d9afe64e2183",
+     "sha": "fc95c74894ea29cc8d23c11feeb0d9afe64e2183",
+     "url": "https://api.github.com/repos/jieter/django-tables2/commits/fc95c74894ea29cc8d23c11feeb0d9afe64e2183"
+    }
+   ],
+   "sha": "88d41c87e03180363cc28cf41dd67206498cdd47",
+   "url": "https://api.github.com/repos/jieter/django-tables2/commits/88d41c87e03180363cc28cf41dd67206498cdd47"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/82315?v=4",
+    "events_url": "https://api.github.com/users/dyve/events{/privacy}",
+    "followers_url": "https://api.github.com/users/dyve/followers",
+    "following_url": "https://api.github.com/users/dyve/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dyve/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/dyve",
+    "id": 82315,
+    "login": "dyve",
+    "node_id": "MDQ6VXNlcjgyMzE1",
+    "organizations_url": "https://api.github.com/users/dyve/orgs",
+    "received_events_url": "https://api.github.com/users/dyve/received_events",
+    "repos_url": "https://api.github.com/users/dyve/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/dyve/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dyve/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/dyve",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jieter/django-tables2/commits/fc95c74894ea29cc8d23c11feeb0d9afe64e2183/comments",
+   "commit": {
+    "author": {
+     "date": "2025-11-23T17:51:05Z",
+     "email": "dylan@dyve.net",
+     "name": "Dylan Verheul"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2025-11-23T17:51:05Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Remove remnants of unsupported Python and Django versions (#1018)",
+    "tree": {
+     "sha": "4dedc8c4ac4f0962b041d2bbd5ca3909ce4a1c1d",
+     "url": "https://api.github.com/repos/jieter/django-tables2/git/trees/4dedc8c4ac4f0962b041d2bbd5ca3909ce4a1c1d"
+    },
+    "url": "https://api.github.com/repos/jieter/django-tables2/git/commits/fc95c74894ea29cc8d23c11feeb0d9afe64e2183",
+    "verification": {
+     "payload": "tree 4dedc8c4ac4f0962b041d2bbd5ca3909ce4a1c1d\nparent a320e675cbe46299b9f9388e8f28f7d06f6e12e5\nauthor Dylan Verheul <dylan@dyve.net> 1763920265 +0100\ncommitter GitHub <noreply@github.com> 1763920265 +0100\n\nRemove remnants of unsupported Python and Django versions (#1018)\n\n",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJpI0mJCRC1aQ7uu5UhlAAAuCQQAB8jfK03CdS34jsd2wOAg4KI\nOJ5FqH0uJat5SdtF6xBQnj3Vtyrhry3lOe1yzO8rEFXLwJ/n+FVx5x10NMkHhQ7U\n2zeYCp3wguPuGaeZQTmyrEqCKFkpFviq9ophy5v/rvC8by55PTcVY1MuQtTR900h\nvGLE9xtL0nilSSaVlXSDDOm3hWH+bU3eAWYt7HD1rytgi/7kSV3UuAkkdrMJUVSR\nbmvfXJUnk1zmwNLnqYvnfR1fZtDSxVzV5WrHY0aQ/DL11E+00aC8fx5VmxAWEJyK\n05PkVzw6y7lPTGgjhsAooW4aDfJk5Dm8n6FBQUS1BY9TgkqoIOkIOEnVO/A+/emu\nFCx3IJKDMTg+hGQUUCeHiIHx5hKDduysHMOtvhOiAe/+Q6hp9aDp4DLZ6140iwTR\nfQ+xQM2BixMQBZgRG9fCzCDdKh6KeQOfFsdsjMW49nGMqJiVmpfLU01Mx28wOWwP\n3o77/Rd6lN7lXbTYEbSJn0EKQr6PwXPh8UUmdJu8Dkwvm5dlEdogDXnYeEAdEkNk\nWWDZYgARCTZjZr4AgKTHH97E8zKjZen/on0QCjFSc3+qRJkj8f/Afsp5abMPu/Xa\nJdzcQOzp6nNl2XZTdQiNNvOJrjWv08hpOumK1tf9En2WXSLn9lZiH4zZxC0szSV7\nuOOC24fU0vY5BfpGYUJb\n=yI13\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2025-11-23T17:51:06Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jieter/django-tables2/commit/fc95c74894ea29cc8d23c11feeb0d9afe64e2183",
+   "node_id": "C_kwDOABF67doAKGZjOTVjNzQ4OTRlYTI5Y2M4ZDIzYzExZmVlYjBkOWFmZTY0ZTIxODM",
+   "parents": [
+    {
+     "html_url": "https://github.com/jieter/django-tables2/commit/a320e675cbe46299b9f9388e8f28f7d06f6e12e5",
+     "sha": "a320e675cbe46299b9f9388e8f28f7d06f6e12e5",
+     "url": "https://api.github.com/repos/jieter/django-tables2/commits/a320e675cbe46299b9f9388e8f28f7d06f6e12e5"
+    }
+   ],
+   "sha": "fc95c74894ea29cc8d23c11feeb0d9afe64e2183",
+   "url": "https://api.github.com/repos/jieter/django-tables2/commits/fc95c74894ea29cc8d23c11feeb0d9afe64e2183"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1470389?v=4",
+    "events_url": "https://api.github.com/users/jieter/events{/privacy}",
+    "followers_url": "https://api.github.com/users/jieter/followers",
+    "following_url": "https://api.github.com/users/jieter/following{/other_user}",
+    "gists_url": "https://api.github.com/users/jieter/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/jieter",
+    "id": 1470389,
+    "login": "jieter",
+    "node_id": "MDQ6VXNlcjE0NzAzODk=",
+    "organizations_url": "https://api.github.com/users/jieter/orgs",
+    "received_events_url": "https://api.github.com/users/jieter/received_events",
+    "repos_url": "https://api.github.com/users/jieter/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/jieter/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/jieter/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/jieter",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jieter/django-tables2/commits/a320e675cbe46299b9f9388e8f28f7d06f6e12e5/comments",
+   "commit": {
+    "author": {
+     "date": "2025-11-22T13:49:18Z",
+     "email": "jieter@jieter.nl",
+     "name": "Jan Pieter Waagmeester"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2025-11-22T13:49:18Z",
+     "email": "jieter@jieter.nl",
+     "name": "Jan Pieter Waagmeester"
+    },
+    "message": "Remove readthedocs.yml, fixes: #1012",
+    "tree": {
+     "sha": "ad182b046539daaba941d0277c690083140a7aa0",
+     "url": "https://api.github.com/repos/jieter/django-tables2/git/trees/ad182b046539daaba941d0277c690083140a7aa0"
+    },
+    "url": "https://api.github.com/repos/jieter/django-tables2/git/commits/a320e675cbe46299b9f9388e8f28f7d06f6e12e5",
+    "verification": {
+     "payload": "tree ad182b046539daaba941d0277c690083140a7aa0\nparent 90e563067353ec7e216473abc77b8ad04ed08504\nauthor Jan Pieter Waagmeester <jieter@jieter.nl> 1763819358 +0100\ncommitter Jan Pieter Waagmeester <jieter@jieter.nl> 1763819358 +0100\n\nRemove readthedocs.yml, fixes: #1012\n",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCAAdFiEE9BCtyJpvCnfXZDrMn0kSyH7jhKIFAmkhv2AACgkQn0kSyH7j\nhKJfAA/+MLoT9Etju0XUrLjOSr21hzKDID+QieZsZxVxGDlhJ9uEDIf0yS4yz2SL\nwycGxbSXDEHFCIs6iU2HHHLjdND3MBYxgmwF1MU6fwa/0LWMy8FRtkpHF/nortx+\nebDfSoSB6KAE+1zvlMClJNC5IG8SELO01OcYEKPTPS9nBsM1VPurI96hcsJlbWz4\nu/NXkTTwFxhaNBy3tIlYHjUXmPmNxzgQRFgl0hvzXnooviIYGpptQRQHDTlFfCNc\n1fcPJnb+tiO/c0vel4CCeIOUEU4838LIUPsMLbBcUDWsBrNKskPEBX7wvruHbtil\nP+o+/SaJR35rH6+P/OuA4tbiHhlgK3qnfqdVFNYn1VWP7bytimSX9byGqlNx0MwP\nP088z1gqignJOXRq0+lcreYOJQbwsSalSfMpa20fN8oVkHvDssgO4d/N0+NvCnvM\nsk0sKvBNNXn0jDAoW5smu5qjnja2HpUT1z+bd0/DU2TJYKwMW5ND5hwiZewpH1Mx\npwIvf+pVz584P6F4OKzL7mc2ytJiybLYB/EeVnW70kijt92QOQRgz+ryF2HpqcJU\neUtV5dmj/C+26Zg/++ZuMHr5ElAS93FKvrzT+AZ3pueEXujJektqXGTeacL6YnO0\n7MhAAeehcHOvu/OnDnMjAccMFj3RMZuR/T+SWcdZf5ULRDv3O4A=\n=aksW\n-----END PGP SIGNATURE-----",
+     "verified": true,
+     "verified_at": "2025-11-22T13:49:25Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1470389?v=4",
+    "events_url": "https://api.github.com/users/jieter/events{/privacy}",
+    "followers_url": "https://api.github.com/users/jieter/followers",
+    "following_url": "https://api.github.com/users/jieter/following{/other_user}",
+    "gists_url": "https://api.github.com/users/jieter/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/jieter",
+    "id": 1470389,
+    "login": "jieter",
+    "node_id": "MDQ6VXNlcjE0NzAzODk=",
+    "organizations_url": "https://api.github.com/users/jieter/orgs",
+    "received_events_url": "https://api.github.com/users/jieter/received_events",
+    "repos_url": "https://api.github.com/users/jieter/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/jieter/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/jieter/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/jieter",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jieter/django-tables2/commit/a320e675cbe46299b9f9388e8f28f7d06f6e12e5",
+   "node_id": "C_kwDOABF67doAKGEzMjBlNjc1Y2JlNDYyOTliOWY5Mzg4ZThmMjhmN2QwNmY2ZTEyZTU",
+   "parents": [
+    {
+     "html_url": "https://github.com/jieter/django-tables2/commit/90e563067353ec7e216473abc77b8ad04ed08504",
+     "sha": "90e563067353ec7e216473abc77b8ad04ed08504",
+     "url": "https://api.github.com/repos/jieter/django-tables2/commits/90e563067353ec7e216473abc77b8ad04ed08504"
+    }
+   ],
+   "sha": "a320e675cbe46299b9f9388e8f28f7d06f6e12e5",
+   "url": "https://api.github.com/repos/jieter/django-tables2/commits/a320e675cbe46299b9f9388e8f28f7d06f6e12e5"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1470389?v=4",
+    "events_url": "https://api.github.com/users/jieter/events{/privacy}",
+    "followers_url": "https://api.github.com/users/jieter/followers",
+    "following_url": "https://api.github.com/users/jieter/following{/other_user}",
+    "gists_url": "https://api.github.com/users/jieter/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/jieter",
+    "id": 1470389,
+    "login": "jieter",
+    "node_id": "MDQ6VXNlcjE0NzAzODk=",
+    "organizations_url": "https://api.github.com/users/jieter/orgs",
+    "received_events_url": "https://api.github.com/users/jieter/received_events",
+    "repos_url": "https://api.github.com/users/jieter/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/jieter/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/jieter/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/jieter",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jieter/django-tables2/commits/90e563067353ec7e216473abc77b8ad04ed08504/comments",
+   "commit": {
+    "author": {
+     "date": "2025-11-22T13:32:52Z",
+     "email": "jieter@waarneming.nl",
+     "name": "Jan Pieter Waagmeester"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2025-11-22T13:32:52Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Upgrade pre-commit dependencies (#1017)",
+    "tree": {
+     "sha": "6fbcc073304b94e5d357493fcf2cd0d74a27606a",
+     "url": "https://api.github.com/repos/jieter/django-tables2/git/trees/6fbcc073304b94e5d357493fcf2cd0d74a27606a"
+    },
+    "url": "https://api.github.com/repos/jieter/django-tables2/git/commits/90e563067353ec7e216473abc77b8ad04ed08504",
+    "verification": {
+     "payload": "tree 6fbcc073304b94e5d357493fcf2cd0d74a27606a\nparent d7077b45633a408adc8e7263191c4f355fa425ff\nauthor Jan Pieter Waagmeester <jieter@waarneming.nl> 1763818372 +0100\ncommitter GitHub <noreply@github.com> 1763818372 +0100\n\nUpgrade pre-commit dependencies (#1017)\n\n",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJpIbuECRC1aQ7uu5UhlAAAe6wQAIMjnPxTykKZnZ/Jsip9lOry\nZGHuzTM2IBqLH2yQxwT3bsZvtUtI1MYPzUueM4O6zVI0TEpgrHRYve5pwzIc0pSA\nX8KvQfkuS0utoNXy40tleAsUJxgBkzaZuiT174jN6VV3mYlAWGMnStQjQ2OkLC2O\nimcMQGYcPpWwCMhhlNhmwaaOERbpN3mT8ceVcDJkcon6KeWw8e7peDn6C0jkKdKL\nNfxI4bOz3Uggx03jUZsMJ8bz4pYicLFdJt0Sysq0PJQy2D8n0ZrgADhcpskkrumI\nlnV91Ly6tTKRXv9M/0VjfDexHD4R+j0jqBsJT3zyGbOVKZ8SMtm4Y0tNE1O/QoBZ\nqfJGOOamtwGA0Z7zOsaJwz4Mcs6XW3CWsyh5ZfRB+ZRiqDbMM53f3loUSjduo8u1\npzM2oPsZ6S7qv1EemT3JjkGkhUNf73k6mjqpdhYZkwv5TQ9TWFFBkluGVHFhc9ZB\n9djcPrDjNKcJssSSGp9IW+ReRjPWGzKRJ6/+OydzSqBjACsmtHgcUjj+ayEvl4q2\nqVyUgj6LOqeM+xL+MdVMChtFiqwZ2qekRoWuknwdVZLezR7pW33CjdLkI0ylD30R\nSplxwwZAyyjmCFLpRgo/sfOGOisRox05d3lyq5fzlm+RIzF6dB99xx4He+2/YH+X\n8R5yPyYUDk+EKYZm2ovu\n=5V86\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2025-11-22T13:32:53Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jieter/django-tables2/commit/90e563067353ec7e216473abc77b8ad04ed08504",
+   "node_id": "C_kwDOABF67doAKDkwZTU2MzA2NzM1M2VjN2UyMTY0NzNhYmM3N2I4YWQwNGVkMDg1MDQ",
+   "parents": [
+    {
+     "html_url": "https://github.com/jieter/django-tables2/commit/d7077b45633a408adc8e7263191c4f355fa425ff",
+     "sha": "d7077b45633a408adc8e7263191c4f355fa425ff",
+     "url": "https://api.github.com/repos/jieter/django-tables2/commits/d7077b45633a408adc8e7263191c4f355fa425ff"
+    }
+   ],
+   "sha": "90e563067353ec7e216473abc77b8ad04ed08504",
+   "url": "https://api.github.com/repos/jieter/django-tables2/commits/90e563067353ec7e216473abc77b8ad04ed08504"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1470389?v=4",
+    "events_url": "https://api.github.com/users/jieter/events{/privacy}",
+    "followers_url": "https://api.github.com/users/jieter/followers",
+    "following_url": "https://api.github.com/users/jieter/following{/other_user}",
+    "gists_url": "https://api.github.com/users/jieter/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/jieter",
+    "id": 1470389,
+    "login": "jieter",
+    "node_id": "MDQ6VXNlcjE0NzAzODk=",
+    "organizations_url": "https://api.github.com/users/jieter/orgs",
+    "received_events_url": "https://api.github.com/users/jieter/received_events",
+    "repos_url": "https://api.github.com/users/jieter/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/jieter/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/jieter/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/jieter",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jieter/django-tables2/commits/d7077b45633a408adc8e7263191c4f355fa425ff/comments",
+   "commit": {
+    "author": {
+     "date": "2025-11-22T09:11:25Z",
+     "email": "jieter@waarneming.nl",
+     "name": "Jan Pieter Waagmeester"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2025-11-22T09:11:25Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Remove deprecated RelatedLinkColumn and NullBooleanField support (#1016)\n\nNullBooleanField was removed in django 4.0",
+    "tree": {
+     "sha": "b3f5eb91ec80579e11111dcef519c79706e0bc79",
+     "url": "https://api.github.com/repos/jieter/django-tables2/git/trees/b3f5eb91ec80579e11111dcef519c79706e0bc79"
+    },
+    "url": "https://api.github.com/repos/jieter/django-tables2/git/commits/d7077b45633a408adc8e7263191c4f355fa425ff",
+    "verification": {
+     "payload": "tree b3f5eb91ec80579e11111dcef519c79706e0bc79\nparent ffcc921b379f025ff24df494b7882c81be1a2598\nauthor Jan Pieter Waagmeester <jieter@waarneming.nl> 1763802685 +0100\ncommitter GitHub <noreply@github.com> 1763802685 +0100\n\nRemove deprecated RelatedLinkColumn and NullBooleanField support (#1016)\n\nNullBooleanField was removed in django 4.0",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJpIX49CRC1aQ7uu5UhlAAABCYQABPjny7O/mB//++AzQq6Kf/Y\nuuj8WuFJe/HYvrKKhG/dBuo/d7mpIO32bLy6DMVu4CWsXdVzRJzZyptpaCvIuKym\nuartgc1UgvizZv7Drd/fusDWAIgxdz4fNFusD90MdWqhbtXxdgILgiVnVlG4RJ/N\nvwamVJSlqKWnxez6o1GCYehRCovqT3Hvy0GcMDi91C8swgIQYeKwciotgCpTD3mw\nW+7DAbt9SD4FC4sXvFRsxNK6DPpMPxSByp9E83op0I+KfUWzapF6xCgupxQEo6GG\nytfpkCg2mekORRJEeRtunA01y51kvXRWmofK3Uma4C3V7ZbsmBPN+IYIwhO/hNLj\n03PbJPN09HQEWUzTzylaqyuDZAfN5D1oZIwdg+6Z/483+TOTRadEofIF4hqP9sQP\n+7KqxhiYzPKH/Jnj6RTQKzPgSL4IOOG5LycD7Ev8ISlJTExUhmYxnmvIGU0nC0j1\nzi1qMk7TgoPr2m3e81VAuWNKTywtzQX4BVh07L0NPZ7/wd2QgGsDSj3qNmPgJP3t\nT/pp81P1GzxQZ+UCWCuWZcJfTiRrCvgu7gU5+iInHBFdHreQ073YlV7l9PpEaHQf\n0utjkPD4TfiOrvFYt1MSl3ehZ5+LkZN+WoK2hAkRfX5Ipbx/lXtJf4asWjiU2WWV\nuBDW7HbnfmsO8+01pUJV\n=LyYx\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2025-11-22T09:11:26Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jieter/django-tables2/commit/d7077b45633a408adc8e7263191c4f355fa425ff",
+   "node_id": "C_kwDOABF67doAKGQ3MDc3YjQ1NjMzYTQwOGFkYzhlNzI2MzE5MWM0ZjM1NWZhNDI1ZmY",
+   "parents": [
+    {
+     "html_url": "https://github.com/jieter/django-tables2/commit/ffcc921b379f025ff24df494b7882c81be1a2598",
+     "sha": "ffcc921b379f025ff24df494b7882c81be1a2598",
+     "url": "https://api.github.com/repos/jieter/django-tables2/commits/ffcc921b379f025ff24df494b7882c81be1a2598"
+    }
+   ],
+   "sha": "d7077b45633a408adc8e7263191c4f355fa425ff",
+   "url": "https://api.github.com/repos/jieter/django-tables2/commits/d7077b45633a408adc8e7263191c4f355fa425ff"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1470389?v=4",
+    "events_url": "https://api.github.com/users/jieter/events{/privacy}",
+    "followers_url": "https://api.github.com/users/jieter/followers",
+    "following_url": "https://api.github.com/users/jieter/following{/other_user}",
+    "gists_url": "https://api.github.com/users/jieter/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/jieter",
+    "id": 1470389,
+    "login": "jieter",
+    "node_id": "MDQ6VXNlcjE0NzAzODk=",
+    "organizations_url": "https://api.github.com/users/jieter/orgs",
+    "received_events_url": "https://api.github.com/users/jieter/received_events",
+    "repos_url": "https://api.github.com/users/jieter/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/jieter/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/jieter/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/jieter",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jieter/django-tables2/commits/ffcc921b379f025ff24df494b7882c81be1a2598/comments",
+   "commit": {
+    "author": {
+     "date": "2025-11-21T10:18:06Z",
+     "email": "jieter@jieter.nl",
+     "name": "Jan Pieter Waagmeester"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2025-11-21T10:18:06Z",
+     "email": "jieter@jieter.nl",
+     "name": "Jan Pieter Waagmeester"
+    },
+    "message": "Remove historical delete command",
+    "tree": {
+     "sha": "4ae30b83cc640cc649173785f21458645f1f1c12",
+     "url": "https://api.github.com/repos/jieter/django-tables2/git/trees/4ae30b83cc640cc649173785f21458645f1f1c12"
+    },
+    "url": "https://api.github.com/repos/jieter/django-tables2/git/commits/ffcc921b379f025ff24df494b7882c81be1a2598",
+    "verification": {
+     "payload": "tree 4ae30b83cc640cc649173785f21458645f1f1c12\nparent 9bb1a06b46099ebec732bb0152209746fffe25ee\nauthor Jan Pieter Waagmeester <jieter@jieter.nl> 1763720286 +0100\ncommitter Jan Pieter Waagmeester <jieter@jieter.nl> 1763720286 +0100\n\nRemove historical delete command\n",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCAAdFiEE9BCtyJpvCnfXZDrMn0kSyH7jhKIFAmkgPF8ACgkQn0kSyH7j\nhKJv6A/9EmRO72cU3t4jnKKtD4ebv3UwNS5jhabpHFeY/W2206gMWg2OcLLLWs6F\nB7BAY05FV1e6SBMnyNGB14ShGrteqDpu5og0gFgzQJp8qN+ZmKWTJKQMu7pGtY5X\nSshNbZPST7nZDczlFlU58m4yuu1bbLa+FOT7fwNowqFNbdXcygvfj6bqAwWJXLc4\niRlK77v7IbIQkbkopAm2mlbu/Jcj/OoQBPEfcB9p8WtSRc9F8R50YYeKaOYwqSgY\neUz84Mm/FfytVjggPyb9+5bTxG1wNdfZL3UR2HNgaLmBSBolD2jtGXfPlz4uerIl\nnPGF09SZHDFT24DloIarVYsdZ1qC3jnYf8qo3ouQeAX4xXa2NeZjO0VxZZgk+JJC\nZ75tsEl3OM4vpBIH76kZFCYIdBzwAdnLTeOnM1NTzpeqQHrw9GG7HS+MyC8CrZww\nVwH4jGhaxuqA9SpYXxDq35T/WWDJJ+i08iH7UWmpN3EYZcUK4NE8Xyudr58utnWT\nxajXUh7mwDEs2qLrZD1kqLzUBooQjvVUW23uvjfBiPUjii0rMsOkeGLsOff5jtx9\nIyujn5Yzgg4w7oy7jg9fpqVm/etneWMa7FI6D8Pgf3Ff/oIY3/yj6JvmC14ZeZlH\nPvw5nk1HHy8xgJhSaCAH56+TJFUwKUWiUfzgodRWV9hkPwDrfYc=\n=JPpR\n-----END PGP SIGNATURE-----",
+     "verified": true,
+     "verified_at": "2025-11-21T10:18:14Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1470389?v=4",
+    "events_url": "https://api.github.com/users/jieter/events{/privacy}",
+    "followers_url": "https://api.github.com/users/jieter/followers",
+    "following_url": "https://api.github.com/users/jieter/following{/other_user}",
+    "gists_url": "https://api.github.com/users/jieter/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/jieter",
+    "id": 1470389,
+    "login": "jieter",
+    "node_id": "MDQ6VXNlcjE0NzAzODk=",
+    "organizations_url": "https://api.github.com/users/jieter/orgs",
+    "received_events_url": "https://api.github.com/users/jieter/received_events",
+    "repos_url": "https://api.github.com/users/jieter/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/jieter/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/jieter/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/jieter",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jieter/django-tables2/commit/ffcc921b379f025ff24df494b7882c81be1a2598",
+   "node_id": "C_kwDOABF67doAKGZmY2M5MjFiMzc5ZjAyNWZmMjRkZjQ5NGI3ODgyYzgxYmUxYTI1OTg",
+   "parents": [
+    {
+     "html_url": "https://github.com/jieter/django-tables2/commit/9bb1a06b46099ebec732bb0152209746fffe25ee",
+     "sha": "9bb1a06b46099ebec732bb0152209746fffe25ee",
+     "url": "https://api.github.com/repos/jieter/django-tables2/commits/9bb1a06b46099ebec732bb0152209746fffe25ee"
+    }
+   ],
+   "sha": "ffcc921b379f025ff24df494b7882c81be1a2598",
+   "url": "https://api.github.com/repos/jieter/django-tables2/commits/ffcc921b379f025ff24df494b7882c81be1a2598"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1470389?v=4",
+    "events_url": "https://api.github.com/users/jieter/events{/privacy}",
+    "followers_url": "https://api.github.com/users/jieter/followers",
+    "following_url": "https://api.github.com/users/jieter/following{/other_user}",
+    "gists_url": "https://api.github.com/users/jieter/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/jieter",
+    "id": 1470389,
+    "login": "jieter",
+    "node_id": "MDQ6VXNlcjE0NzAzODk=",
+    "organizations_url": "https://api.github.com/users/jieter/orgs",
+    "received_events_url": "https://api.github.com/users/jieter/received_events",
+    "repos_url": "https://api.github.com/users/jieter/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/jieter/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/jieter/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/jieter",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jieter/django-tables2/commits/9bb1a06b46099ebec732bb0152209746fffe25ee/comments",
+   "commit": {
+    "author": {
+     "date": "2025-11-21T10:14:43Z",
+     "email": "jieter@jieter.nl",
+     "name": "Jan Pieter Waagmeester"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2025-11-21T10:14:43Z",
+     "email": "jieter@jieter.nl",
+     "name": "Jan Pieter Waagmeester"
+    },
+    "message": "Prepare django-tables2 2.8.0",
+    "tree": {
+     "sha": "fdf72de6bf6a8edfeaf5b87c2036ab888fddbf98",
+     "url": "https://api.github.com/repos/jieter/django-tables2/git/trees/fdf72de6bf6a8edfeaf5b87c2036ab888fddbf98"
+    },
+    "url": "https://api.github.com/repos/jieter/django-tables2/git/commits/9bb1a06b46099ebec732bb0152209746fffe25ee",
+    "verification": {
+     "payload": "tree fdf72de6bf6a8edfeaf5b87c2036ab888fddbf98\nparent 0820e778df862dd8b1506294509a724a0dd426f3\nauthor Jan Pieter Waagmeester <jieter@jieter.nl> 1763720083 +0100\ncommitter Jan Pieter Waagmeester <jieter@jieter.nl> 1763720083 +0100\n\nPrepare django-tables2 2.8.0\n",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCAAdFiEE9BCtyJpvCnfXZDrMn0kSyH7jhKIFAmkgO5UACgkQn0kSyH7j\nhKKlpw//ejxHGR4sPqtn09sFWGYQHtmAoNZhc++qC5w8XpSVY+d+IbpkP1f1/wpK\nVz0BFtapO/6If7haKNnc+CPl566d/iFeViddG09/T3yHmRyG9Tl/Fu8q8sOszW30\nsRX/ZdVujuCr7aMDtPbV8lM4Pu/QVWVX2uJP0p6PdfCtODQuORgB6++1nqHMKpQO\n9oxwjZoZybGlvErg++PwlHOi5bF0VOig0DSB/9agWMyxJKaPuKgUs8aQvIIE2+0z\nLFGUdYqpW2JfA3bRqQtgpUNGnxj9d4xzJGKkgm7b3aDcx9UcEPA0SMQBLqgPMPqG\nE3PCZNyDlW9iyOoHdvWBdxN3CoD3XYyelBAMhmcTEBGy94S9q1X1BHVbyIrh4QxJ\n86hlA0htLCBBqt2ru26vCMCGypdI7thL4kBDY9yd5xEhvza7wSM83Pw/Ojp15c37\n20IeoQIvPfQnd2ntUO3sPOfTnLOy2wx7OR29Lf7+fk5lbJbvTRFmsFs3PgqngTNN\nDmRPhg5871scs/MalEiW/lArwCxhmHQx68xmHXhMlYkr3faZ2bF4lmxVyi1fHelJ\nkb1+gZ4BiHdS4O9oHNrAKiOQvNjWM7blGhxlZc+m0lbcDEXk52RD0v3pUqPNQ22h\nVNeQgHj38f6ldJOTyt4yHh6U86isxmcHPAFlbs9y2qSiBl+Ba8o=\n=Tmo8\n-----END PGP SIGNATURE-----",
+     "verified": true,
+     "verified_at": "2025-11-21T10:14:54Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1470389?v=4",
+    "events_url": "https://api.github.com/users/jieter/events{/privacy}",
+    "followers_url": "https://api.github.com/users/jieter/followers",
+    "following_url": "https://api.github.com/users/jieter/following{/other_user}",
+    "gists_url": "https://api.github.com/users/jieter/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/jieter",
+    "id": 1470389,
+    "login": "jieter",
+    "node_id": "MDQ6VXNlcjE0NzAzODk=",
+    "organizations_url": "https://api.github.com/users/jieter/orgs",
+    "received_events_url": "https://api.github.com/users/jieter/received_events",
+    "repos_url": "https://api.github.com/users/jieter/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/jieter/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/jieter/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/jieter",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jieter/django-tables2/commit/9bb1a06b46099ebec732bb0152209746fffe25ee",
+   "node_id": "C_kwDOABF67doAKDliYjFhMDZiNDYwOTllYmVjNzMyYmIwMTUyMjA5NzQ2ZmZmZTI1ZWU",
+   "parents": [
+    {
+     "html_url": "https://github.com/jieter/django-tables2/commit/0820e778df862dd8b1506294509a724a0dd426f3",
+     "sha": "0820e778df862dd8b1506294509a724a0dd426f3",
+     "url": "https://api.github.com/repos/jieter/django-tables2/commits/0820e778df862dd8b1506294509a724a0dd426f3"
+    }
+   ],
+   "sha": "9bb1a06b46099ebec732bb0152209746fffe25ee",
+   "url": "https://api.github.com/repos/jieter/django-tables2/commits/9bb1a06b46099ebec732bb0152209746fffe25ee"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/1470389?v=4",
+    "events_url": "https://api.github.com/users/jieter/events{/privacy}",
+    "followers_url": "https://api.github.com/users/jieter/followers",
+    "following_url": "https://api.github.com/users/jieter/following{/other_user}",
+    "gists_url": "https://api.github.com/users/jieter/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/jieter",
+    "id": 1470389,
+    "login": "jieter",
+    "node_id": "MDQ6VXNlcjE0NzAzODk=",
+    "organizations_url": "https://api.github.com/users/jieter/orgs",
+    "received_events_url": "https://api.github.com/users/jieter/received_events",
+    "repos_url": "https://api.github.com/users/jieter/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/jieter/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/jieter/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/jieter",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jieter/django-tables2/commits/0820e778df862dd8b1506294509a724a0dd426f3/comments",
+   "commit": {
+    "author": {
+     "date": "2025-11-17T16:28:19Z",
+     "email": "jieter@waarneming.nl",
+     "name": "Jan Pieter Waagmeester"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2025-11-17T16:28:19Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Pass `request` to the template rendered in TemplateColumn (#1014)\n\nFixes: #1008",
+    "tree": {
+     "sha": "ea6553fe5962a9b63e16599060437169fc09e5f7",
+     "url": "https://api.github.com/repos/jieter/django-tables2/git/trees/ea6553fe5962a9b63e16599060437169fc09e5f7"
+    },
+    "url": "https://api.github.com/repos/jieter/django-tables2/git/commits/0820e778df862dd8b1506294509a724a0dd426f3",
+    "verification": {
+     "payload": "tree ea6553fe5962a9b63e16599060437169fc09e5f7\nparent c8c3a0936ca6606b7bdba3cb957dfc3ccffdaf96\nauthor Jan Pieter Waagmeester <jieter@waarneming.nl> 1763396899 +0100\ncommitter GitHub <noreply@github.com> 1763396899 +0100\n\nPass `request` to the template rendered in TemplateColumn (#1014)\n\nFixes: #1008",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJpG00jCRC1aQ7uu5UhlAAAwvAQADCmaEuJDE63+tet7Zv0f/SY\ns55WcsKfFNFCPdnqO68ZZo6ZFNF5X8eIjUW2YnB9KlZcN2l8sG5Dp6tkYVOr4ei7\nZB3QsQqGEo9oQ8eCLH8Bec3rH1QEGPNpUQIHDWQEWwWw4hf8qdTZAGFMjcxnPZAg\ntpY7ONe7ma5kbBMw5GsZYR38W44gyZdqE3XL38PwjeNo/tNK0ZmVE6v1LXB4Pc6J\nh6pZPUU5gSzxyN5NLKFiSdeGK3T+XUsJugx3NpKaTFNcJ8ReVWeT92bzlqQSeXgZ\nPn+GvQiTpKbCqDY5+USy/h/Fjk3orfZN7YDbA+NbAVRHrFksb01tsFHpV0NSPARI\n4zyvAZfFsyhgoangYxNGwYHRuqe0wA5iskv/FsEUcFUIhHuGhIeJP04apI5OeMfA\nwIQ+kcIw9vRiBTVeDNVRs7gncZ8eXiIsaM8Rq5Fsrru25XCVyoUJ5Fvb95ARyInW\nlFHNKt/KvNZr6hAhwdQN8D8W2SHxv6f6iZOJl6dSuYeJMuTMHRzJfV1rvCQ6HN/T\n6kazEHP4EYbSiErKtw9WBoHpb+HsEGWsVVSMCSHHqNPeDb42WMtnmaHVT2GSqzE9\nM1m2gzoAjd9X1Sr7/dVnD+ae0egIEun7Fp+GK5iGbGHO0vGVadId39hx22KS1VqC\nSH5xL4p5tR+JadUnRvvM\n=VSa8\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2025-11-17T16:28:20Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jieter/django-tables2/commit/0820e778df862dd8b1506294509a724a0dd426f3",
+   "node_id": "C_kwDOABF67doAKDA4MjBlNzc4ZGY4NjJkZDhiMTUwNjI5NDUwOWE3MjRhMGRkNDI2ZjM",
+   "parents": [
+    {
+     "html_url": "https://github.com/jieter/django-tables2/commit/c8c3a0936ca6606b7bdba3cb957dfc3ccffdaf96",
+     "sha": "c8c3a0936ca6606b7bdba3cb957dfc3ccffdaf96",
+     "url": "https://api.github.com/repos/jieter/django-tables2/commits/c8c3a0936ca6606b7bdba3cb957dfc3ccffdaf96"
+    }
+   ],
+   "sha": "0820e778df862dd8b1506294509a724a0dd426f3",
+   "url": "https://api.github.com/repos/jieter/django-tables2/commits/0820e778df862dd8b1506294509a724a0dd426f3"
+  },
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/7838469?v=4",
+    "events_url": "https://api.github.com/users/sjoerdjob/events{/privacy}",
+    "followers_url": "https://api.github.com/users/sjoerdjob/followers",
+    "following_url": "https://api.github.com/users/sjoerdjob/following{/other_user}",
+    "gists_url": "https://api.github.com/users/sjoerdjob/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/sjoerdjob",
+    "id": 7838469,
+    "login": "sjoerdjob",
+    "node_id": "MDQ6VXNlcjc4Mzg0Njk=",
+    "organizations_url": "https://api.github.com/users/sjoerdjob/orgs",
+    "received_events_url": "https://api.github.com/users/sjoerdjob/received_events",
+    "repos_url": "https://api.github.com/users/sjoerdjob/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/sjoerdjob/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/sjoerdjob/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/sjoerdjob",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/jieter/django-tables2/commits/c8c3a0936ca6606b7bdba3cb957dfc3ccffdaf96/comments",
+   "commit": {
+    "author": {
+     "date": "2025-11-17T07:22:11Z",
+     "email": "sjoerdjob@sjec.nl",
+     "name": "Sjoerd Job Postmus"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2025-11-17T07:22:11Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Do not generate error when table data model is subclass of table model (#1015)\n\nFixes #1010",
+    "tree": {
+     "sha": "d1e83b727cdf388e7a2503e897dcca4a2aae9bbc",
+     "url": "https://api.github.com/repos/jieter/django-tables2/git/trees/d1e83b727cdf388e7a2503e897dcca4a2aae9bbc"
+    },
+    "url": "https://api.github.com/repos/jieter/django-tables2/git/commits/c8c3a0936ca6606b7bdba3cb957dfc3ccffdaf96",
+    "verification": {
+     "payload": "tree d1e83b727cdf388e7a2503e897dcca4a2aae9bbc\nparent 5b4be2644c7945598d33bce05c7274680f2232c8\nauthor Sjoerd Job Postmus <sjoerdjob@sjec.nl> 1763364131 +0100\ncommitter GitHub <noreply@github.com> 1763364131 +0100\n\nDo not generate error when table data model is subclass of table model (#1015)\n\nFixes #1010",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJpGs0jCRC1aQ7uu5UhlAAAIhMQAC/v27CNNfqDGDSVLcWfzzq1\nPSI4DdUEeiRcd4BLgZkMoox+YblMQEyrlpqcUfC66tmMd6vcAVsLE11EgKfDLXkm\nroMAcUP4fQPO1XJd/RqkYF3+Wy2snodX7qCMUcrRRjvlI7aas1/bsiwyWJabwPaI\nPkZh+gusO49Z4dUK1Il/gxddbGB2H51lb2uwsyAf21d2IW0lj6fHWLTTNaxjjpvt\n5RkLam6VvoQhFkM8DxB9q93MNGDexdbz+Fs8LbrywYnWG9IO6RM12kxw+z4UdqJk\nmuwkggU+xKZULMjD94FI5QBYjDyz5iyTik5fVw+zlUsg2ec4tKYpmIo6YJ+hkPTV\njU5UYeoM2D+p5CsjxEBb5kdehrSemPpPvMxbpgYjl6qO7wOPyMs1Wn20rKZ039XE\nMQ8qZMTXuCiyWtldVRGJfomuBBV6g5uomFEbz1sArKS8wIQtqlvpUuDD1kI9qVZq\n9jz64x9CIhYcTuFD/S22pkeqfKSr52xBNJ2JZRb5GEpz9ps3MIyjAYG3/tGA+NRy\nrazCMWDsZVL2dxWMC8twozuHZNuCYE5j+raXt/6sk+KQpRLmL++G8eT+v5xb6xE7\nPzXWHT6fRPtmKR20azSFP1+x1pLzdfL2NNX+vs9QFn4GJQa6iEmxpF2bZRH56S/2\njTAOfTo2APCYoM3HhZZg\n=uoRW\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2025-11-17T07:22:12Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/jieter/django-tables2/commit/c8c3a0936ca6606b7bdba3cb957dfc3ccffdaf96",
+   "node_id": "C_kwDOABF67doAKGM4YzNhMDkzNmNhNjYwNmI3YmRiYTNjYjk1N2RmYzNjY2ZmZGFmOTY",
+   "parents": [
+    {
+     "html_url": "https://github.com/jieter/django-tables2/commit/5b4be2644c7945598d33bce05c7274680f2232c8",
+     "sha": "5b4be2644c7945598d33bce05c7274680f2232c8",
+     "url": "https://api.github.com/repos/jieter/django-tables2/commits/5b4be2644c7945598d33bce05c7274680f2232c8"
+    }
+   ],
+   "sha": "c8c3a0936ca6606b7bdba3cb957dfc3ccffdaf96",
+   "url": "https://api.github.com/repos/jieter/django-tables2/commits/c8c3a0936ca6606b7bdba3cb957dfc3ccffdaf96"
+  }
+ ],
+ "recorded_at": "2026-11-16T18:38:46Z",
+ "recorded_with": "deadledger 0.1.0",
+ "status": 200,
+ "url": "https://api.github.com/repos/jieter/django-tables2/commits?since=<window>&per_page=100"
+}

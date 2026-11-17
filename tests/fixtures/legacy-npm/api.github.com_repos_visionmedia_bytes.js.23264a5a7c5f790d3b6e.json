@@ -1,0 +1,15 @@
+{
+ "body": {
+  "archived": false,
+  "default_branch": "master",
+  "full_name": "visionmedia/bytes.js",
+  "html_url": "https://github.com/visionmedia/bytes.js",
+  "open_issues_count": 17,
+  "pushed_at": "2024-07-05T20:46:24Z",
+  "stargazers_count": 474
+ },
+ "recorded_at": "2026-11-16T18:12:21Z",
+ "recorded_with": "deadledger 0.1.0",
+ "status": 200,
+ "url": "https://api.github.com/repos/visionmedia/bytes.js"
+}

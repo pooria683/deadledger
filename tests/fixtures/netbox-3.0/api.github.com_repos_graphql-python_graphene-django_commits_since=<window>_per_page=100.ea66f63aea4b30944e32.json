@@ -1,0 +1,90 @@
+{
+ "body": [
+  {
+   "author": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/26854828?v=4",
+    "events_url": "https://api.github.com/users/superlevure/events{/privacy}",
+    "followers_url": "https://api.github.com/users/superlevure/followers",
+    "following_url": "https://api.github.com/users/superlevure/following{/other_user}",
+    "gists_url": "https://api.github.com/users/superlevure/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/superlevure",
+    "id": 26854828,
+    "login": "superlevure",
+    "node_id": "MDQ6VXNlcjI2ODU0ODI4",
+    "organizations_url": "https://api.github.com/users/superlevure/orgs",
+    "received_events_url": "https://api.github.com/users/superlevure/received_events",
+    "repos_url": "https://api.github.com/users/superlevure/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/superlevure/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/superlevure/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/superlevure",
+    "user_view_type": "public"
+   },
+   "comments_url": "https://api.github.com/repos/graphql-python/graphene-django/commits/0e6ef22a87dfaa3c22fce62ddcd7d91d6fe1a830/comments",
+   "commit": {
+    "author": {
+     "date": "2026-06-24T23:46:53Z",
+     "email": "laurent.riviere.pro@gmail.com",
+     "name": "Laurent Rivière"
+    },
+    "comment_count": 0,
+    "committer": {
+     "date": "2026-06-24T23:46:53Z",
+     "email": "noreply@github.com",
+     "name": "GitHub"
+    },
+    "message": "Restrict Django version to <6 (#1560)\n\nFixes the CI.",
+    "tree": {
+     "sha": "8793e892949d40793dfb0076db7dd9b13c61502b",
+     "url": "https://api.github.com/repos/graphql-python/graphene-django/git/trees/8793e892949d40793dfb0076db7dd9b13c61502b"
+    },
+    "url": "https://api.github.com/repos/graphql-python/graphene-django/git/commits/0e6ef22a87dfaa3c22fce62ddcd7d91d6fe1a830",
+    "verification": {
+     "payload": "tree 8793e892949d40793dfb0076db7dd9b13c61502b\nparent f02ea337a23df06d166d463d6f92cb7505fbb435\nauthor Laurent Rivière <laurent.riviere.pro@gmail.com> 1782344813 +0200\ncommitter GitHub <noreply@github.com> 1782344813 -0700\n\nRestrict Django version to <6 (#1560)\n\nFixes the CI.",
+     "reason": "valid",
+     "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqPGxtCRC1aQ7uu5UhlAAAuvsQAHMYr+pa272ry9ERmUzfATq0\nwKa/StACU9pXfYkfwBPnvT8r+bFMqiKW8sfDTNlpa6hKwtOK1Q4iyagIhIPClZBL\nS4h0WhyZO+kqlcFHzixkpByldfFNRnLecNua73BMrGXcPnsbe7Rkjd5uTboL2Z66\nKpuiil3MUDXMdO1+4jDwWpTEKB9iU2ksDdP0CPfkl/ghQznYitzaGVcuKTKWa1tP\nE7IfK5BefDZ6RHDBaXHf7A3VC6iYIfej4Sap+0efsP/+ESBqigX3WOHaYYdPwtxA\ngNS2xLQfOyJc6E7CRMKMmuorFzohIN228HWXzhTSTP0TZExZy81gkd2y/ayWJFIv\ns7EUF8Za+YEN/JkBHh4MSm2/RE4v9Rp5ipl9hujcm616/gn4xaM/MkQcnYuzBulr\nn9kG2G3eBFt8B8UVHcRh0QsDpFtMhUWXeGQrjpbz/LxGQrImj1Q7RguQZrQ+bFjB\nXN3w5u0G5aWZ2qgcIKOmhX9xD9dU4RS5hnYLBS1AjB+fTpABS38aNAnpS+d3UxQK\nLSX/gh65rJJ2ClWqGgdZdq9kjFl8YIa1PuHT+r03CDX0MGUMfNtLboZiX1PFlxGu\nNXRlYZCsKXFMFs7m1yuRuqNqLrJXljRAn4oHj4mkPKFnDGqtvTSpL947VA31i4Md\nyXgg5T6ftUXHwleSm3Fj\n=dji9\n-----END PGP SIGNATURE-----\n",
+     "verified": true,
+     "verified_at": "2026-06-24T23:46:53Z"
+    }
+   },
+   "committer": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "gravatar_id": "",
+    "html_url": "https://github.com/web-flow",
+    "id": 19864447,
+    "login": "web-flow",
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "site_admin": false,
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "type": "User",
+    "url": "https://api.github.com/users/web-flow",
+    "user_view_type": "public"
+   },
+   "html_url": "https://github.com/graphql-python/graphene-django/commit/0e6ef22a87dfaa3c22fce62ddcd7d91d6fe1a830",
+   "node_id": "C_kwDOBBT5JdoAKDBlNmVmMjJhODdkZmFhM2MyMmZjZTYyZGRjZDdkOTFkNmZlMWE4MzA",
+   "parents": [
+    {
+     "html_url": "https://github.com/graphql-python/graphene-django/commit/f02ea337a23df06d166d463d6f92cb7505fbb435",
+     "sha": "f02ea337a23df06d166d463d6f92cb7505fbb435",
+     "url": "https://api.github.com/repos/graphql-python/graphene-django/commits/f02ea337a23df06d166d463d6f92cb7505fbb435"
+    }
+   ],
+   "sha": "0e6ef22a87dfaa3c22fce62ddcd7d91d6fe1a830",
+   "url": "https://api.github.com/repos/graphql-python/graphene-django/commits/0e6ef22a87dfaa3c22fce62ddcd7d91d6fe1a830"
+  }
+ ],
+ "recorded_at": "2026-11-16T18:38:46Z",
+ "recorded_with": "deadledger 0.1.0",
+ "status": 200,
+ "url": "https://api.github.com/repos/graphql-python/graphene-django/commits?since=<window>&per_page=100"
+}

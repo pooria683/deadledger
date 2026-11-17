@@ -1,0 +1,15 @@
+{
+ "body": {
+  "archived": false,
+  "default_branch": "master",
+  "full_name": "django-commons/django-prometheus",
+  "html_url": "https://github.com/django-commons/django-prometheus",
+  "open_issues_count": 106,
+  "pushed_at": "2026-11-02T13:36:42Z",
+  "stargazers_count": 1678
+ },
+ "recorded_at": "2026-11-16T18:38:46Z",
+ "recorded_with": "deadledger 0.1.0",
+ "status": 200,
+ "url": "https://api.github.com/repos/korfuri/django-prometheus"
+}
