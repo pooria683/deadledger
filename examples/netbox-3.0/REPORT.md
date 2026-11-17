@@ -10,15 +10,15 @@ Audited `examples/netbox-3.0/requirements.txt`. The report describes the tree as
 - **3 dead**, **2 dormant**, 9 coasting, 13 thriving, 1 unknown.
 - **5 critical package(s) need a decision**: `markdown-include` (dormant), `netaddr` (dormant), `django-graphiql-debug-toolbar` (dead), `django-pglocks` (dead), `svgwrite` (dead).
 - **2 package(s) have a bus factor of 1** in the last 12 months of commits.
-- Ledger: First recorded run: the whole baseline is new..
+- Ledger: no new mortality since the last run.
 
 ### The headline
 
-- `markdown-include` **dormant** (critical) — The newest stable release is 3.8y old (2023-02-07); the project has not published for two years. [src 1]
-- `netaddr` **dormant** (critical) — The newest stable release is 2.5y old (2024-05-28); the project has not published for two years. [src 2]
-- `django-graphiql-debug-toolbar` **dead** (critical) — The newest stable release is 5.2y old (2021-08-28); nothing has shipped in 4+ years. [src 3]
-- `django-pglocks` **dead** (critical) — The package is deprecated: PyPI classifier: Development Status :: 7 - Inactive. [src 4] [src 5] [src 6]
-- `svgwrite` **dead** (critical) — The repository mozman/svgwrite is archived, so no further commits or releases can land without a deliberate revival. [src 7] [src 8]
+- `django-graphiql-debug-toolbar` **dead** (critical) — The newest stable release is 5.2y old (2021-08-28); nothing has shipped in 4+ years. [src 1]
+- `django-pglocks` **dead** (critical) — The package is deprecated: PyPI classifier: Development Status :: 7 - Inactive. [src 2] [src 3] [src 4]
+- `svgwrite` **dead** (critical) — The repository mozman/svgwrite is archived, so no further commits or releases can land without a deliberate revival. [src 5] [src 6]
+- `markdown-include` **dormant** (critical) — The newest stable release is 3.8y old (2023-02-07); the project has not published for two years. [src 7]
+- `netaddr` **dormant** (critical) — The newest stable release is 2.5y old (2024-05-28); the project has not published for two years. [src 8]
 
 ## What is dead or dying
 
@@ -30,9 +30,9 @@ Django Debug Toolbar for GraphiQL IDE.
 
 **Evidence**
 
-- The newest stable release is 5.2y old (2021-08-28); nothing has shipped in 4+ years. [src 3]
+- The newest stable release is 5.2y old (2021-08-28); nothing has shipped in 4+ years. [src 1]
   - `last_release_age_days`=1905
-- The registry lists a single owner (mongkok); the forge was not readable. [src 3]
+- The registry lists a single owner (mongkok); the forge was not readable. [src 1]
   - `maintainers`=1
 - Orphan check (approximate): About 0 files contain it (github code search); an approximate reach signal only. _(basis: files containing '"import django_graphiql_debug_toolbar" in:file')_ [src 9]
 
@@ -53,9 +53,9 @@ DEPRECATED — consolidated into django-pgware. Context managers for PostgreSQL 
 
 **Evidence**
 
-- The package is deprecated: PyPI classifier: Development Status :: 7 - Inactive. [src 4]
+- The package is deprecated: PyPI classifier: Development Status :: 7 - Inactive. [src 2]
   - `deprecated`=True
-- Exactly one person has committed in the last year (Xof, last commit 2026-06-21 — 4.9mo ago). [src 5] [src 6]
+- Exactly one person has committed in the last year (Xof, last commit 2026-06-21 — 4.9mo ago). [src 3] [src 4]
   - `committers_12mo`=1, `lead_committer_last_activity`=2026-06-21, `lead_committer_last_activity_days`=148
 - Orphan check (approximate): About 2 files contain it (github code search); an approximate reach signal only. _(basis: files containing '"import django_pglocks" in:file')_ [src 10]
 
@@ -77,13 +77,13 @@ A Python library to create SVG drawings.
 
 **Evidence**
 
-- The repository mozman/svgwrite is archived, so no further commits or releases can land without a deliberate revival. [src 7]
+- The repository mozman/svgwrite is archived, so no further commits or releases can land without a deliberate revival. [src 5]
   - `archived`=True
-- The package is deprecated: PyPI classifier: Development Status :: 7 - Inactive. [src 8]
+- The package is deprecated: PyPI classifier: Development Status :: 7 - Inactive. [src 6]
   - `deprecated`=True
-- The newest stable release is 4.3y old (2022-07-14); nothing has shipped in 4+ years. [src 8]
+- The newest stable release is 4.3y old (2022-07-14); nothing has shipped in 4+ years. [src 6]
   - `last_release_age_days`=1586
-- The registry lists a single owner (mozman); the forge was not readable. [src 8]
+- The registry lists a single owner (mozman); the forge was not readable. [src 6]
   - `maintainers`=1
 - Orphan check: no source published a usage or dependent count.
 
@@ -106,7 +106,7 @@ A Python-Markdown extension which provides an 'include' function
 
 **Evidence**
 
-- The newest stable release is 3.8y old (2023-02-07); the project has not published for two years. [src 1]
+- The newest stable release is 3.8y old (2023-02-07); the project has not published for two years. [src 7]
   - `last_release_age_days`=1378
 - Orphan check: no source published a usage or dependent count.
 
@@ -115,7 +115,7 @@ A Python-Markdown extension which provides an 'include' function
 - usage: pypistats did not answer (download counts unknown)
 - usage: GitHub code search did not answer
 - usage: no download or dependent counts available
-- forge: no repository URL in registry metadata
+- forge: repository is not on GitHub (https://pypi.org/project/markdown-include/), so commit and issue history cannot be read
 
 **What to do**
 
@@ -129,7 +129,7 @@ A network address manipulation library for Python
 
 **Evidence**
 
-- The newest stable release is 2.5y old (2024-05-28); the project has not published for two years. [src 2]
+- The newest stable release is 2.5y old (2024-05-28); the project has not published for two years. [src 8]
   - `last_release_age_days`=901
 - Orphan check: no source published a usage or dependent count.
 
@@ -150,7 +150,7 @@ A package appears here when exactly one account committed to its public reposito
 
 | package | critical | last commit by that person | commits |
 |---|---|---|---|
-| `django-pglocks` [src 5] [src 6] | yes | Xof, 2026-06-21 | 11 |
+| `django-pglocks` [src 3] [src 4] | yes | Xof, 2026-06-21 | 11 |
 | `graphene-django` [src 11] [src 12] | yes | superlevure, 2026-06-24 | 1 |
 
 ## Orphan simulation: if this dies, who else uses it?
@@ -322,7 +322,7 @@ No dead or dormant *critical* dependency has an entry in the alternatives map ye
 - `markdown-include`: usage: pypistats did not answer (download counts unknown)
 - `markdown-include`: usage: GitHub code search did not answer
 - `markdown-include`: usage: no download or dependent counts available
-- `markdown-include`: forge: no repository URL in registry metadata
+- `markdown-include`: forge: repository is not on GitHub (https://pypi.org/project/markdown-include/), so commit and issue history cannot be read
 - `netaddr`: usage: pypistats did not answer (download counts unknown)
 - `netaddr`: usage: GitHub code search did not answer
 - `netaddr`: usage: no download or dependent counts available
@@ -342,14 +342,14 @@ Verdicts follow rubric v1.0 (`docs/verdicts.md`). Dormant means no stable releas
 
 | # | Source | Retrieved |
 |---|---|---|
-| 1 | <https://pypi.org/pypi/markdown-include/json> | 2026-11-16T18:38:46Z |
-| 2 | <https://pypi.org/pypi/netaddr/json> | 2026-11-16T18:38:46Z |
-| 3 | <https://pypi.org/pypi/django-graphiql-debug-toolbar/json> | 2026-11-16T18:38:46Z |
-| 4 | <https://pypi.org/pypi/django-pglocks/json> | 2026-11-16T18:38:46Z |
-| 5 | <https://api.github.com/repos/Xof/django-pglocks/commits> | 2026-11-16T18:38:46Z |
-| 6 | <https://github.com/Xof> | 2026-11-16T18:38:46Z |
-| 7 | <https://github.com/mozman/svgwrite> | 2026-11-16T18:38:46Z |
-| 8 | <https://pypi.org/pypi/svgwrite/json> | 2026-11-16T18:38:46Z |
+| 1 | <https://pypi.org/pypi/django-graphiql-debug-toolbar/json> | 2026-11-16T18:38:46Z |
+| 2 | <https://pypi.org/pypi/django-pglocks/json> | 2026-11-16T18:38:46Z |
+| 3 | <https://api.github.com/repos/Xof/django-pglocks/commits> | 2026-11-16T18:38:46Z |
+| 4 | <https://github.com/Xof> | 2026-11-16T18:38:46Z |
+| 5 | <https://github.com/mozman/svgwrite> | 2026-11-16T18:38:46Z |
+| 6 | <https://pypi.org/pypi/svgwrite/json> | 2026-11-16T18:38:46Z |
+| 7 | <https://pypi.org/pypi/markdown-include/json> | 2026-11-16T18:38:46Z |
+| 8 | <https://pypi.org/pypi/netaddr/json> | 2026-11-16T18:38:46Z |
 | 9 | <https://api.github.com/search/code?q=%22import+django_graphiql_debug_toolbar%22+in%3Afile&per_page=1> | 2026-11-16T18:38:46Z |
 | 10 | <https://api.github.com/search/code?q=%22import+django_pglocks%22+in%3Afile&per_page=1> | 2026-11-16T18:38:46Z |
 | 11 | <https://api.github.com/repos/graphql-python/graphene-django/commits> | 2026-11-16T18:38:46Z |

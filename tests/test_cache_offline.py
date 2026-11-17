@@ -227,3 +227,66 @@ def test_playback_matches_commit_windows_across_different_clocks():
         "https://api.github.com/repos/a/b/commits?since=2025-06-01T00:00:00Z&per_page=100"
     )
     assert later.payload == [{"sha": "abc"}]
+
+
+def test_only_github_has_budgets():
+    """PyPI has no request quota for us; filing it under 'github' was a bug.
+
+    The failure mode was spectacular: 206 PyPI lookups decremented GitHub's
+    5,000-request core budget, the run decided GitHub was exhausted, and every
+    remaining package was reported as "PyPI did not answer" -- which looked
+    exactly like a registry outage.
+    """
+    from deadledger.http import _budget_for
+
+    assert _budget_for("https://pypi.org/pypi/lxml/json") is None
+    assert _budget_for("https://pypistats.org/api/packages/lxml/overall") is None
+    assert _budget_for("https://registry.npmjs.org/express") is None
+    assert _budget_for("https://crates.io/api/v1/crates/serde") is None
+
+
+def test_a_pypi_error_does_not_disable_pypi(cache):
+    """One 4xx from a registry must not end the registry for the whole run."""
+    from deadledger.http import CachingClient, PlaybackClient
+
+    client = CachingClient(
+        PlaybackClient(
+            {
+                "https://pypi.org/pypi/gone/json": {"info": {}},
+                "https://pypi.org/pypi/alive/json": {"info": {"name": "alive"}},
+            }
+        ),
+        cache,
+        mode="record",
+        profile="t",
+    )
+    # A response that reports "0 remaining" -- PyPI's rate headers are not a
+    # budget we track, so this must be ignored rather than latched.
+    client.rate_limits = {"pypi": {"remaining": 0, "reset": 0}}
+    client.exhausted_profiles = {"pypi"}  # simulate the old poisoned state
+
+    assert client.budget("https://pypi.org/pypi/alive/json") is None
+    assert not client._exhausted("https://pypi.org/pypi/alive/json")
+    assert client.get_json("https://pypi.org/pypi/alive/json").payload["info"]["name"] == "alive"
+
+
+def test_learned_budgets_are_keyed_by_bucket_not_profile(cache):
+    """`learn` writes what `budget` reads; they used different keys."""
+    from datetime import datetime, timezone
+
+    from deadledger.http import CachingClient, Fetched, PlaybackClient
+
+    client = CachingClient(PlaybackClient({}), cache, mode="record", profile="t")
+    client._learn_rate_limit(
+        "github",
+        Fetched(
+            url="https://api.github.com/search/issues?q=x",
+            payload={},
+            fetched_at=datetime(2026, 1, 1, tzinfo=timezone.utc),
+            headers={"x-ratelimit-remaining": "7", "x-ratelimit-reset": "0"},
+        ),
+    )
+    # The search bucket learned 7; core is untouched (unknown), not 0.
+    assert client.rate_limits["github-search"]["remaining"] == 7
+    assert client.budget("https://api.github.com/search/issues?q=y") == 7
+    assert client.budget("https://api.github.com/repos/a/b") is None

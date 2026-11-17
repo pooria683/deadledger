@@ -142,3 +142,20 @@ def test_source_index_ignores_empty_citations():
     index = SourceIndex()
     assert index.add(None) == ""
     assert index.rows == []
+
+
+def test_headline_leads_with_critical_findings(replay_audit):
+    """The headline must not open with a transitive package.
+
+    On the Saleor tree, severity-only ordering introduced the section with
+    `colorama` (dormant, depth 1) while twelve dead direct dependencies sat
+    below it. The headline is the only part most readers read.
+    """
+    markdown = render_markdown(replay_audit)
+    headline = markdown.split("### The headline")[1].split("## What is dead")[0]
+    bullets = [line for line in headline.splitlines() if line.startswith("- `")]
+    assert bullets, "the demo tree has deaths; the headline cannot be empty"
+    assert all("(critical)" in line for line in bullets), bullets
+    # Deaths outrank dormancy within the critical set.
+    verdicts = [line.split("**")[1] for line in bullets]
+    assert verdicts == sorted(verdicts, key=lambda v: {"dead": 0, "dormant": 1}[v])

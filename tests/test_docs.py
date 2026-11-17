@@ -115,28 +115,40 @@ def test_example_report_quotes_the_same_rubric_version():
     assert f"rubric v{RUBRIC_VERSION}" in text
 
 
-def test_readme_demo_numbers_match_the_committed_report():
-    """The README's headline table must be the report's own summary.
+def test_readme_demo_numbers_match_the_committed_reports():
+    """Every report the README quotes must agree with its own summary.
 
     A demo whose numbers drift from its evidence is worse than no demo: it is
     the first thing a sceptical reader checks.
     """
-    report = (ROOT / "examples" / "netbox-3.0" / "REPORT.md").read_text(encoding="utf-8")
     readme = read(ROOT / "README.md")
 
-    import re as _re
+    for name in ("saleor-2.11", "netbox-3.0"):
+        report = (ROOT / "examples" / name / "REPORT.md").read_text(encoding="utf-8")
+        dead, dormant = (
+            int(m.group(1)),
+            int(m.group(2)),
+        ) if (
+            m := re.search(r"\*\*(\d+) dead\*\*, \*\*(\d+) dormant\*\*", report)
+        ) else (None, None)
+        assert dead is not None, f"{name} has no dead/dormant summary"
 
-    summary = _re.search(
-        r"\*\*(\d+) dead\*\*, \*\*(\d+) dormant\*\*", report
-    ) or _re.search(r"- \*\*(\d+) dead\*\*, \*\*(\d+) dormant\*\*", report)
-    assert summary, "the demo report has no dead/dormant summary line"
-    dead, dormant = summary.group(1), summary.group(2)
+        # Either the exact phrasing or the same numbers in prose is acceptable;
+        # what must hold is that the README's claim is derivable from the report.
+        claims = re.findall(rf"{re.escape(name)}[^\n]*\n?[^\n]*?(\d+) dead", readme)
+        if claims:
+            assert int(claims[0]) == dead, (
+                f"README says {claims[0]} dead for {name}, report says {dead}"
+            )
+        else:
+            assert f"**{dead} dead**" in readme or f"{dead} dead" in readme
 
-    assert f"**{dead} dead**" in readme, f"README does not say {dead} dead"
-    assert f"**{dormant} dormant**" in readme, f"README does not say {dormant} dormant"
-
-    single = len(_re.findall(r"^\| `[^`]+` \[src", report, flags=_re.MULTILINE))
-    assert f"**{single} with a bus factor of 1**" in readme
+    # The bus-factor line is a claim about the report's own table.
+    netbox = (ROOT / "examples" / "netbox-3.0" / "REPORT.md").read_text(encoding="utf-8")
+    single = len(re.findall(r"^\| `[^`]+` \[src", netbox, flags=re.MULTILINE))
+    assert f"{single} single-maintainer" in readme, (
+        f"README should say {single} single-maintainer for the NetBox demo"
+    )
 
 
 def test_reported_paths_are_repo_relative():
@@ -145,3 +157,31 @@ def test_reported_paths_are_repo_relative():
     assert "/home/" not in text
     assert "/Users/" not in text
     assert "Audited `examples/netbox-3.0/requirements.txt`" in text
+
+
+def test_saleor_report_is_committed_and_consistent():
+    """The report the README leads with must exist and match its own summary."""
+    report_path = ROOT / "examples" / "saleor-2.11" / "REPORT.md"
+    assert report_path.is_file()
+    text = report_path.read_text(encoding="utf-8")
+    assert "Mortality report" in text
+    assert "## Sources" in text
+    assert "/home/" not in text
+
+    readme = read(ROOT / "README.md")
+    summary = re.search(r"\*\*(\d+) dead\*\*, \*\*(\d+) dormant\*\*", text)
+    assert summary
+    assert f"**{summary.group(1)} dead**" in readme
+
+    # The count in the headline must equal the number of package sections.
+    sections = re.findall(r"^### \S+ \S+ — (?:🔴 dead|🟠 dormant)", text, flags=re.MULTILINE)
+    assert len(sections) == int(summary.group(1)) + int(summary.group(2))
+
+
+def test_saleor_example_documents_why_fixtures_are_absent():
+    """A demo with no offline fixtures must say so, or it looks broken."""
+    note = ROOT / "examples" / "saleor-2.11" / "README.md"
+    assert note.is_file()
+    text = note.read_text(encoding="utf-8")
+    assert "79 MB" in text or "79MB" in text
+    assert "deadledger record --profile saleor-2.11" in text

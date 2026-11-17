@@ -32,29 +32,36 @@ Built for three questions people actually ask:
 
 ---
 
-## Demo: a real legacy tree
+## Demo: 37 dead dependencies in a production app
 
-[`examples/netbox-3.0/REPORT.md`](examples/netbox-3.0/REPORT.md) is a full
-report for [NetBox v3.0.0](https://github.com/netbox-community/netbox/blob/v3.0.0/requirements.txt)
-(August 2021) — 28 packages, the Django 3.2 LTS era. The findings:
+[`examples/saleor-2.11/REPORT.md`](examples/saleor-2.11/REPORT.md) is a full
+report for [Saleor 2.11.1](https://github.com/saleor/saleor/blob/2.11.1/poetry.lock)
+— a real, large Django e-commerce platform, audited at the tag as it shipped.
+206 packages, 56 of them direct:
 
 | | |
 |---|---|
-| **3 dead** | `django-graphiql-debug-toolbar` (no release in 5 years), `django-pglocks` and `svgwrite` (both marked *Inactive* by their maintainers) |
-| **2 dormant** | `markdown-include`, `netaddr` (no stable release in 2+ years) |
-| **2 with a bus factor of 1** | `django-pglocks` (Xof, last commit 2026-06-21) and `graphene-django` (superlevure) — both also stuck at their 2023-era release |
-| **honest gaps** | pypistats was unreachable while recording; every download figure says "unknown" rather than zero |
+| **37 dead** | 18 % of the tree, including **12 direct** dependencies. |
+| **17 dormant** | `openpyxl`, `google-i18n-address`, `django-versatileimagefield` … |
+| **15 critical packages need a decision** | `jaeger-client` and `opentracing` are archived upstream; `draftjs-sanitizer`, `html-to-draftjs`, `prices`, `purl`, `text-unidecode` have not shipped in 4+ years; `maxminddb-geolite2` in 8 |
+| **15 packages with a bus factor of 1** | e.g. `django-storages`, one committer in twelve months |
+| **0 unknown** | every package resolved, so every verdict has evidence behind it |
 
-That is the shape of the problem DeadLedger exists to find: not a tree that is
-obviously rotten, but a tree where a handful of pinned packages quietly stopped
-shipping years ago, and nobody noticed because they still work.
+Read the whole thing: [`REPORT.md`](examples/saleor-2.11/REPORT.md) — 2,500
+lines, a citation on every claim.
 
-The report is regenerated from recorded API responses, so it is reproducible
-with no network:
+There is a smaller, fully offline demo too:
+[`examples/netbox-3.0/REPORT.md`](examples/netbox-3.0/REPORT.md) (28 packages,
+3 dead, 2 single-maintainer), and an npm one in
+[`examples/legacy-npm/REPORT.md`](examples/legacy-npm/REPORT.md) where
+`left-pad` is caught by the archived-repository rule and `request` by its
+deprecation.
 
-```sh
-deadledger --replay netbox-3.0 audit --lockfile examples/netbox-3.0/requirements.txt --include-dev -o examples/netbox-3.0/REPORT.md
-```
+None of this is a scandal about those projects. Every package in the Saleor
+tree was a reasonable choice in 2020, most of them still work, and several were
+replaced years ago by maintainers who moved on. That is exactly the point: a
+dependency does not stop working when it dies, so the decay is invisible until
+you look for it.
 
 ---
 
@@ -234,7 +241,7 @@ collector that cannot make verdicts.
 ```sh
 git clone https://github.com/pooria683/deadledger && cd deadledger
 python -m venv .venv && .venv/bin/pip install -e '.[dev]'
-.venv/bin/pytest          # 195 tests, no network required
+.venv/bin/pytest          # 204 tests, no network required
 ```
 
 Adapter tests replay recorded registry responses from `tests/fixtures/`. Refresh

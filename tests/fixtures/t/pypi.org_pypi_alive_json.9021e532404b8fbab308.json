@@ -1,0 +1,24 @@
+{
+ "body": {
+  "info": {
+   "bugtrack_url": null,
+   "classifiers": null,
+   "home_page": null,
+   "license": null,
+   "license_expression": null,
+   "name": "alive",
+   "project_url": null,
+   "project_urls": null,
+   "summary": null,
+   "version": null,
+   "yanked": null,
+   "yanked_reason": null
+  },
+  "ownership": null,
+  "releases": {}
+ },
+ "recorded_at": "2026-11-17T04:19:28Z",
+ "recorded_with": "deadledger 0.1.0",
+ "status": 200,
+ "url": "https://pypi.org/pypi/alive/json"
+}

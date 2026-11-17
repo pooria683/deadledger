@@ -13,11 +13,8 @@ Audited `examples/legacy-npm/package-lock.json`. The report describes the tree a
 
 ### The headline
 
-- `accepts` **dormant** (transitive, depth 1) — The newest stable release is 2.2y old (2024-08-31); the project has not published for two years. [src 1]
-- `bytes` **dead** (transitive, depth 2) — The newest stable release is 4.8y old (2022-01-28); nothing has shipped in 4+ years. [src 2]
-- `left-pad` **dead** (critical) — The repository left-pad/left-pad is archived, so no further commits or releases can land without a deliberate revival. [src 3] [src 4]
-- `request` **dead** (critical) — The package is deprecated: request has been deprecated, see https://github.com/request/request/issues/3142. [src 5]
-- `uuid` **dead** (transitive, depth 1) — The package is deprecated: uuid@10 and below is no longer supported.  For ESM codebases, update to uuid@latest.  For CommonJS codebases, use uuid@11 (but be aware this version will likely be deprecated in 2028).. [src 6] [src 7] [src 8]
+- `left-pad` **dead** (critical) — The repository left-pad/left-pad is archived, so no further commits or releases can land without a deliberate revival. [src 1] [src 2]
+- `request` **dead** (critical) — The package is deprecated: request has been deprecated, see https://github.com/request/request/issues/3142. [src 3]
 
 ## What is dead or dying
 
@@ -29,11 +26,11 @@ String left pad
 
 **Evidence**
 
-- The repository left-pad/left-pad is archived, so no further commits or releases can land without a deliberate revival. [src 3]
+- The repository left-pad/left-pad is archived, so no further commits or releases can land without a deliberate revival. [src 1]
   - `archived`=True
-- The package is deprecated: use String.prototype.padStart(). [src 4]
+- The package is deprecated: use String.prototype.padStart(). [src 2]
   - `deprecated`=True
-- The newest stable release is 8.6y old (2018-04-09); nothing has shipped in 4+ years. [src 4]
+- The newest stable release is 8.6y old (2018-04-09); nothing has shipped in 4+ years. [src 2]
   - `last_release_age_days`=3143
 - Orphan check: no source published a usage or dependent count.
 
@@ -56,9 +53,9 @@ Simplified HTTP request client.
 
 **Evidence**
 
-- The package is deprecated: request has been deprecated, see https://github.com/request/request/issues/3142. [src 5]
+- The package is deprecated: request has been deprecated, see https://github.com/request/request/issues/3142. [src 3]
   - `deprecated`=True
-- The newest stable release is 6.8y old (2020-02-11); nothing has shipped in 4+ years. [src 5]
+- The newest stable release is 6.8y old (2020-02-11); nothing has shipped in 4+ years. [src 3]
   - `last_release_age_days`=2470
 - Orphan check: no source published a usage or dependent count.
 
@@ -81,7 +78,7 @@ Utility to parse a string bytes to bytes and vice-versa
 
 **Evidence**
 
-- The newest stable release is 4.8y old (2022-01-28); nothing has shipped in 4+ years. [src 2]
+- The newest stable release is 4.8y old (2022-01-28); nothing has shipped in 4+ years. [src 4]
   - `last_release_age_days`=1753
 
 **Gaps**
@@ -103,9 +100,9 @@ RFC9562 UUIDs
 
 **Evidence**
 
-- The package is deprecated: uuid@10 and below is no longer supported.  For ESM codebases, update to uuid@latest.  For CommonJS codebases, use uuid@11 (but be aware this version will likely be deprecated in 2028).. [src 6]
+- The package is deprecated: uuid@10 and below is no longer supported.  For ESM codebases, update to uuid@latest.  For CommonJS codebases, use uuid@11 (but be aware this version will likely be deprecated in 2028).. [src 5]
   - `deprecated`=True
-- Actively maintained: 8 release(s) in 12 months, last commit 15d ago. [src 6] [src 7] [src 8]
+- Actively maintained: 8 release(s) in 12 months, last commit 15d ago. [src 5] [src 6] [src 7]
   - `releases_12mo`=8, `last_commit_age_days`=15
 
 **Gaps**
@@ -127,7 +124,7 @@ Higher-level content negotiation
 
 **Evidence**
 
-- The newest stable release is 2.2y old (2024-08-31); the project has not published for two years. [src 1]
+- The newest stable release is 2.2y old (2024-08-31); the project has not published for two years. [src 8]
   - `last_release_age_days`=807
 
 **Gaps**
@@ -244,13 +241,13 @@ Verdicts follow rubric v1.0 (`docs/verdicts.md`). Dormant means no stable releas
 
 | # | Source | Retrieved |
 |---|---|---|
-| 1 | <https://registry.npmjs.org/accepts> | 2026-11-16T18:12:21Z |
-| 2 | <https://registry.npmjs.org/bytes> | 2026-11-16T18:12:21Z |
-| 3 | <https://github.com/left-pad/left-pad> | 2026-11-16T18:12:21Z |
-| 4 | <https://registry.npmjs.org/left-pad> | 2026-11-16T18:12:21Z |
-| 5 | <https://registry.npmjs.org/request> | 2026-11-16T18:12:21Z |
-| 6 | <https://registry.npmjs.org/uuid> | 2026-11-16T18:12:21Z |
-| 7 | <https://github.com/uuidjs/uuid> | 2026-11-16T18:12:21Z |
-| 8 | <https://api.github.com/repos/uuidjs/uuid/commits> | 2026-11-16T18:12:21Z |
+| 1 | <https://github.com/left-pad/left-pad> | 2026-11-16T18:12:21Z |
+| 2 | <https://registry.npmjs.org/left-pad> | 2026-11-16T18:12:21Z |
+| 3 | <https://registry.npmjs.org/request> | 2026-11-16T18:12:21Z |
+| 4 | <https://registry.npmjs.org/bytes> | 2026-11-16T18:12:21Z |
+| 5 | <https://registry.npmjs.org/uuid> | 2026-11-16T18:12:21Z |
+| 6 | <https://github.com/uuidjs/uuid> | 2026-11-16T18:12:21Z |
+| 7 | <https://api.github.com/repos/uuidjs/uuid/commits> | 2026-11-16T18:12:21Z |
+| 8 | <https://registry.npmjs.org/accepts> | 2026-11-16T18:12:21Z |
 
 _Retrieved-at dates are when DeadLedger first stored each response. Re-running offline reuses those dates rather than pretending the world was re-observed._

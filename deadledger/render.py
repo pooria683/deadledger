@@ -343,7 +343,11 @@ def _markdown_summary(
     lines.append("")
     lines.append("### The headline")
     lines.append("")
-    headline = [r for r in result.packages if r.verdict_name in (DEAD, DORMANT)]
+    # Critical-first, then severity. `result.packages` is sorted by severity
+    # alone, so listing it directly led the report with a dormant transitive
+    # dependency while a dead direct one sat further down -- and the headline
+    # is the only part many readers read.
+    headline = result.headline_findings(limit=5)
     if not headline:
         lines.append(
             "Nothing in this tree is dead by the rubric. The most interesting risk "
@@ -787,8 +791,19 @@ def _display_path(path: Any) -> str:
     holding a ``.git`` or ``pyproject.toml``), falling back to the bare name.
     """
     resolved = Path(path).resolve()
-    for parent in [resolved.parent, *resolved.parents]:
-        if (parent / ".git").exists() or (parent / "pyproject.toml").is_file():
+    ancestry = [resolved.parent, *resolved.parents]
+    # A `.git` boundary is authoritative; a bare pyproject.toml is a weaker
+    # signal, and inside a checkout the demo trees carry the *original*
+    # project's pyproject.toml (that is the point of a demo), which would
+    # otherwise win and reduce the path to "poetry.lock".
+    for parent in ancestry:
+        if (parent / ".git").exists():
+            try:
+                return str(resolved.relative_to(parent))
+            except ValueError:
+                break
+    for parent in ancestry:
+        if (parent / "pyproject.toml").is_file():
             try:
                 return str(resolved.relative_to(parent))
             except ValueError:

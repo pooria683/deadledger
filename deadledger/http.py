@@ -322,8 +322,10 @@ class CachingClient:
                 self.stale_urls.append(url)
                 self.cache_hits += 1
                 return _from_entry(entry, url, profile_name)
-            self.failed_urls[url] = f"{profile_name} rate limit exhausted"
-            raise SourceUnavailable(url, f"{profile_name} rate limit exhausted", status=429)
+            bucket = _budget_for(url) or profile_name
+            detail = f"{bucket} quota exhausted for this run"
+            self.failed_urls[url] = detail
+            raise SourceUnavailable(url, detail, status=429)
 
         try:
             fetched = self._live(url, headers=headers, accept=accept)
@@ -417,7 +419,10 @@ class CachingClient:
         talks itself into cache-only mode on a budget it never touched, so the
         mapping lives in one function and is tested.
         """
-        block = self.rate_limits.get(_budget_for(url))
+        name = _budget_for(url)
+        if name is None:
+            return None
+        block = self.rate_limits.get(name)
         if block is None:
             return None
         remaining = block.get("remaining")
@@ -428,6 +433,8 @@ class CachingClient:
         if hit_cache:
             return
         name = _budget_for(url)
+        if name is None:
+            return
         block = self.rate_limits.get(name)
         if block is None:
             return
@@ -448,20 +455,31 @@ class CachingClient:
     def _exhausted(self, url: str) -> bool:
         """Is *this specific bucket* spent?  (Not the whole profile.)"""
         name = _budget_for(url)
-        return name in self.exhausted_profiles
+        return name is not None and name in self.exhausted_profiles
 
     def _learn_rate_limit(self, profile: str, fetched: Fetched) -> None:
+        """Record what a response says about the quota it was billed to.
+
+        Keyed by *bucket*, not by profile, because that is how ``budget()`` and
+        ``spend()`` look it up.  Filing it under the profile name meant a
+        learned "github: 4999 left" was invisible to the code that was checking
+        "github-search: 30" -- and, worse, a single 4xx from PyPI taught us
+        "pypi: 0 remaining", which then blocked every subsequent PyPI lookup
+        for the rest of the run.
+        """
         remaining = fetched.rate_limit_remaining
         if remaining is None:
             return
-        self.rate_limits[profile] = {
+        bucket = _budget_for(fetched.url)
+        if bucket is None:
+            return
+        self.rate_limits[bucket] = {
             "remaining": remaining,
             "reset": fetched.rate_limit_reset,
         }
         if remaining <= 0:
-            # A 0 recorded on a real response is authoritative for the bucket
-            # the URL belongs to.
-            self.exhausted_profiles.add(profile if profile != "github" else "github")
+            # A 0 recorded on a real response is authoritative for its bucket.
+            self.exhausted_profiles.add(bucket)
 
     # -- modes --------------------------------------------------------------
 
@@ -539,7 +557,19 @@ class CachingClient:
         }
 
 
-def _budget_for(url: str) -> str:
+#: Profiles that publish a request quota in their response headers.
+#: Everything else is unlimited for our purposes, and pretending otherwise is
+#: how PyPI's 206 lookups once drained GitHub's 5,000-request budget: every
+#: non-GitHub URL used to be filed under "github".
+RATE_LIMITED_PROFILES = frozenset({"github"})
+
+
+def _budget_for(url: str) -> str | None:
+    """Which quota bucket does this URL spend from?  ``None`` means unbounded."""
+    resolved = profile_for_url(url)
+    profile = resolved.name if resolved else None
+    if profile not in RATE_LIMITED_PROFILES:
+        return None
     if "/search/code" in url:
         return "github-code-search"
     if "/search/" in url:
