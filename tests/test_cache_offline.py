@@ -290,3 +290,33 @@ def test_learned_budgets_are_keyed_by_bucket_not_profile(cache):
     assert client.rate_limits["github-search"]["remaining"] == 7
     assert client.budget("https://api.github.com/search/issues?q=y") == 7
     assert client.budget("https://api.github.com/repos/a/b") is None
+
+
+def test_network_deadline_stops_a_firewalled_source(monkeypatch):
+    """A source that hangs must not hang the audit.
+
+    The first GitHub Actions run of the dogfood workflow sat in "Mortality
+    check" for twenty minutes with an empty log: every package was waiting out
+    pypistats timeouts, three attempts at 25 seconds each, fourteen times over.
+    """
+    from deadledger.http import HttpxClient, NETWORK_DEADLINE_SECONDS
+
+    client = HttpxClient()
+    client.deadline = 0.0  # already past
+    with pytest.raises(Exception) as excinfo:
+        client.get_json("https://pypistats.org/api/packages/x/overall")
+    assert "deadline" in str(excinfo.value)
+    assert NETWORK_DEADLINE_SECONDS <= 300, "a deadline longer than five minutes is not a deadline"
+
+
+def test_deadline_is_configurable_and_can_be_disabled(monkeypatch):
+    from deadledger.http import network_deadline_seconds
+
+    monkeypatch.delenv("DEADLEDGER_NETWORK_DEADLINE", raising=False)
+    assert network_deadline_seconds() == 180.0
+    monkeypatch.setenv("DEADLEDGER_NETWORK_DEADLINE", "0")
+    assert network_deadline_seconds() is None   # `record` disables it
+    monkeypatch.setenv("DEADLEDGER_NETWORK_DEADLINE", "45")
+    assert network_deadline_seconds() == 45.0
+    monkeypatch.setenv("DEADLEDGER_NETWORK_DEADLINE", "nonsense")
+    assert network_deadline_seconds() == 180.0

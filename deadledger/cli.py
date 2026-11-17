@@ -887,6 +887,9 @@ def _cmd_record(args: argparse.Namespace) -> int:
         nodes = nodes[: args.max_packages]
 
     # ---- pass 1: live, remembering responses ---------------------------------
+    # Recording is a deliberate, human-attended crawl of hundreds of URLs; the
+    # per-audit network deadline that keeps CI from hanging does not apply.
+    os.environ.setdefault("DEADLEDGER_NETWORK_DEADLINE", "0")
     live = _build(cache=cache, mode="online")
     documents: dict[str, Any] = {}
     failures: dict[str, str] = {}

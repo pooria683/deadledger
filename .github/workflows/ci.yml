@@ -70,7 +70,11 @@ jobs:
           key: deadledger-ledger-${{ github.ref_name }}
           restore-keys: deadledger-ledger-
 
+      # A hard outer timeout as well as the tool's own network deadline: a CI
+      # job that hangs forever is worse than one that fails, because nothing
+      # ever tells you it failed.
       - name: Mortality check
+        timeout-minutes: 8
         run: |
           mkdir -p .deadledger
           deadledger ci --report mortality.md --fail-on critical || status=$?

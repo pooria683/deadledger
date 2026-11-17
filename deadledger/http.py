@@ -30,6 +30,37 @@ from .util import iso, utcnow
 DEFAULT_TIMEOUT = 25.0
 MAX_RETRIES = 2
 
+#: Wall-clock ceiling for one audit's *network* phase.
+#:
+#: Retries are worth having -- a 502 from a registry is usually weather -- but
+#: three attempts at a 25-second timeout, multiplied by a source that is firewalled
+#: rather than merely slow, is how a CI job turns into a hung job. The first
+#: GitHub Actions run of the dogfood workflow sat in "Mortality check" for
+#: twenty minutes with nothing in the log, because every one of fourteen
+#: packages was waiting out pypistats timeouts.
+#:
+#: After the deadline, sources are not attempted; the rest of the audit runs
+#: from cache and the report says the evidence is missing. An incomplete report
+#: in two minutes beats a complete one that never arrives.
+NETWORK_DEADLINE_SECONDS = 180.0
+
+
+def network_deadline_seconds(default: float | None = NETWORK_DEADLINE_SECONDS) -> float | None:
+    """The deadline for this process, overridable for long recordings.
+
+    ``DEADLEDGER_NETWORK_DEADLINE=0`` disables it (``record`` does that: it is a
+    deliberate, human-attended operation over hundreds of URLs). ``--offline``
+    and ``--replay`` never touch the network and ignore it entirely.
+    """
+    raw = os.environ.get("DEADLEDGER_NETWORK_DEADLINE")
+    if raw is None or raw == "":
+        return default
+    try:
+        value = float(raw)
+    except ValueError:
+        return default
+    return None if value <= 0 else value
+
 
 @dataclass(frozen=True)
 class Fetched:
@@ -96,8 +127,11 @@ class HttpxClient:
         self._client = httpx.Client(
             timeout=timeout, follow_redirects=True, headers=default_headers
         )
+        self.deadline: float | None = None
 
     def get_json(self, url: str, *, headers: dict[str, str] | None = None, **_: Any) -> Fetched:
+        if self.deadline is not None and time.monotonic() > self.deadline:
+            raise SourceUnavailable(url, "network deadline for this run has passed")
         last_error: Exception | None = None
         for attempt in range(MAX_RETRIES + 1):
             try:
@@ -863,6 +897,8 @@ def build_client(
             inner = HttpxClient()
         except Exception:  # pragma: no cover - httpx missing
             inner = UrllibClient()
+        budget = network_deadline_seconds()
+        inner.deadline = time.monotonic() + budget if budget else None
     return CachingClient(
         inner,
         cache,
