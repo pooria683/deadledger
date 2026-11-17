@@ -52,14 +52,18 @@ jobs:
           python-version: "3.11"
       - run: pip install -e '.[dev]'
 
-      # Baseline a ledger on the first run, then fail only on NEW deaths.
-      # `--offline` first so a registry outage cannot fail the build; the
-      # ledger is what makes a repeated run quiet.
+      # This repository audits itself (requirements.txt is its own pinned
+      # dependency list). The first run baselines the ledger and never fails;
+      # after that it fails only on NEW critical mortality.
+      #
+      # `|| status=$?` is deliberate: the report and the step summary must be
+      # written even when the gate fails, otherwise a red build tells you that
+      # something died but not what.
       - name: Mortality check
         run: |
           mkdir -p .deadledger
           deadledger ci --report mortality.md --fail-on critical || status=$?
-          cat mortality.md >> "$GITHUB_STEP_SUMMARY"
+          if [ -f mortality.md ]; then cat mortality.md >> "$GITHUB_STEP_SUMMARY"; fi
           exit ${status:-0}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
