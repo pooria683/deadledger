@@ -211,7 +211,15 @@ class Runner:
                 )
                 attach_repo_facts(evidence, facts)
             elif self.forge and not evidence.repository:
-                evidence.add_gap("forge: no repository URL in registry metadata")
+                # Two different facts, and conflating them is a lie a reader
+                # can check in one click.
+                if evidence.homepage:
+                    evidence.add_gap(
+                        f"forge: repository is not on GitHub ({evidence.homepage}), "
+                        f"so commit and issue history cannot be read"
+                    )
+                else:
+                    evidence.add_gap("forge: no repository URL in registry metadata")
             evidence_by_key[node.key] = evidence
 
         effective_now = as_of or self._clock_from(evidence_by_key) or self._cache_clock() or utcnow()

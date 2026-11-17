@@ -112,6 +112,7 @@ class PyPIAdapter(Adapter):
             info.get("home_page"),
         )
         evidence.repository = repository_from_info(info)
+        evidence.homepage = any_repo_url(info)
 
         evidence.releases = _release_points(releases)
         stable = evidence.stable_releases()
@@ -301,6 +302,30 @@ def first_line(value: Any) -> str | None:
         return None
     line = text.strip().splitlines()[0].strip()
     return line[:120] or None
+
+
+def any_repo_url(info: dict[str, Any]) -> str | None:
+    """The project's source/homepage URL, whichever forge hosts it.
+
+    ``repository`` is the *GitHub* slug, because that is the only forge we can
+    read.  When a project is hosted elsewhere (openpyxl lives on Heptapod,
+    many others on GitLab or SourceHut) the report must say "we cannot read
+    this forge", not "there is no repository" -- the latter is simply false and
+    a reader will catch it.
+    """
+    urls = info.get("project_urls") or {}
+    for preferred in ("Source", "Source Code", "Repository", "Code", "Homepage"):
+        value = urls.get(preferred)
+        if value:
+            return str(value)
+    for key, value in urls.items():
+        if any(word in str(key).lower() for word in ("source", "repo", "code", "home")):
+            if value:
+                return str(value)
+    for value in (info.get("home_page"), info.get("project_url")):
+        if value:
+            return str(value)
+    return None
 
 
 def repository_from_info(info: dict[str, Any]) -> str | None:

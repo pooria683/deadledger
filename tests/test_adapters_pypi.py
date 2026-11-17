@@ -114,3 +114,39 @@ def test_owner_roles_are_captured_when_present(replay):
             assert observation.value == len(evidence.maintainers)
             assert all(m.name for m in evidence.maintainers)
     assert captured >= 1, "the recorded profile should contain a package with owners"
+
+
+def test_non_github_homepage_is_reported_as_such():
+    """'Not on GitHub' and 'no repository' are different facts.
+
+    openpyxl is developed on Heptapod. The first version of the forge gap said
+    "no repository URL in registry metadata", which is false and is exactly the
+    kind of claim a reader checks in one click.
+    """
+    from deadledger.adapters.pypi import any_repo_url, repository_from_info
+
+    info = {
+        "project_urls": {"Source": "https://foss.heptapod.net/openpyxl/openpyxl"},
+        "home_page": "https://openpyxl.readthedocs.io",
+    }
+    assert repository_from_info(info) is None          # not a GitHub slug
+    assert any_repo_url(info) == "https://foss.heptapod.net/openpyxl/openpyxl"
+
+
+def test_explain_only_audits_the_requested_package(tmp_path):
+    """`explain` must not spend the whole GitHub budget on the other 139."""
+    from deadledger.audit import Runner
+    from deadledger.cache import Cache
+    from deadledger.http import CachingClient
+    from deadledger.lockfiles import parse_lockfile
+
+    requirements = tmp_path / "requirements.txt"
+    requirements.write_text("django==3.2.6\ndjango-pglocks==1.0.4\n")
+    inventory = parse_lockfile(requirements)
+    node = inventory.nodes["django-pglocks@1.0.4"]
+    inventory.nodes = {node.key: node}
+    inventory.direct &= {node.key}
+
+    client = CachingClient(None, Cache(":memory:"), mode="replay", profile="netbox-3.0")
+    result = Runner(client).run(inventory)
+    assert [r.name for r in result.packages] == ["django-pglocks"]

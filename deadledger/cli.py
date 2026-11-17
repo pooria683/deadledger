@@ -559,8 +559,21 @@ def _cmd_explain(args: argparse.Namespace) -> int:
         return EXIT_USAGE
 
     node = matches[0]
+    # `explain` is a question about one package. Auditing the whole tree first
+    # made it take minutes on a 140-package lockfile -- and spend the entire
+    # GitHub search budget answering a question nobody asked.
+    inventory.nodes = {node.key: node}
+    inventory.direct &= {node.key}
+    inventory.edges = [
+        edge for edge in inventory.edges if edge.child == node.key or edge.parent == node.key
+    ]
     cache = Cache(_cache_path(args), create=True)
-    client = build_client(cache=cache, offline=args.offline)
+    client = build_client(
+        cache=cache,
+        offline=args.offline,
+        mode="replay" if getattr(args, "replay", None) else "online",
+        fixture_profile=getattr(args, "replay", None),
+    )
     runner = Runner(client, alternatives=load_map())
     result = runner.run(inventory)
     cache.close()
