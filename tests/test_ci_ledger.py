@@ -200,3 +200,23 @@ def test_ci_summary_first_run_has_no_previous_timestamp(tmp_path):
     summary = _ci_summary(result, diff)
     assert "first run: baseline recorded" in summary
     assert "last run" not in summary
+
+
+def test_removing_a_dead_package_does_not_resurrect_an_alarm(tmp_path):
+    """A ledger keyed on the lockfile would re-baseline; we key on the project.
+
+    Removing a dependency must not make its old entry look like a new finding,
+    and re-adding it must not look like a new death either (it was recorded).
+    """
+    ledger = Ledger(project="demo")
+    ledger.record([report("deadpkg", "dead"), report("alive", "thriving")], when=NOW)
+
+    # Tree no longer contains deadpkg.
+    after_removal = diff_against(ledger, [report("alive", "thriving")])
+    assert after_removal.new_deaths == []
+    assert not after_removal.has_new_risk
+
+    # Re-added later: the ledger still knows it, so it is not new mortality.
+    after_readd = diff_against(ledger, [report("deadpkg", "dead"), report("alive", "thriving")])
+    assert after_readd.new_deaths == []
+    assert not after_readd.has_new_risk

@@ -59,6 +59,17 @@ jobs:
       # `|| status=$?` is deliberate: the report and the step summary must be
       # written even when the gate fails, otherwise a red build tells you that
       # something died but not what.
+      # Restore the ledger. Keyed on the branch, never on the lockfile: a
+      # ledger keyed on the lockfile re-baselines whenever a dependency is
+      # added, and a baseline cannot fail -- which would forgive the exact
+      # event this check exists to catch.
+      - name: Restore ledger
+        uses: actions/cache@v4
+        with:
+          path: .deadledger
+          key: deadledger-ledger-${{ github.ref_name }}
+          restore-keys: deadledger-ledger-
+
       - name: Mortality check
         run: |
           mkdir -p .deadledger

@@ -168,10 +168,16 @@ jobs:
         with: { name: mortality-report, path: mortality.md }
 
       # The ledger is the memory: commit it back, or cache it.
+      #
+      # Do NOT put the lockfile hash in this key. A ledger keyed on the
+      # lockfile becomes a fresh baseline every time someone adds a dependency,
+      # and the first run on a fresh baseline cannot fail -- so "we added a
+      # package that is already dead" would be silently forgiven. Key the cache
+      # on the branch, and let the ledger itself decide what is new.
       - uses: actions/cache@v4
         with:
           path: .deadledger
-          key: deadledger-${{ hashFiles('**/requirements.txt') }}
+          key: deadledger-${{ github.ref_name }}
           restore-keys: deadledger-
 ```
 
@@ -180,9 +186,15 @@ Notes on the example:
 * `GITHUB_TOKEN` gives 5,000 core requests/hour and 30 search requests/minute.
   Without it, DeadLedger still runs, but bus factor and triage become gaps —
   and the report says so rather than guessing.
-* The cache key includes the lockfile hash so a changed lockfile starts a new
-  ledger only when the tree actually changed. Delete the `key` line if you
-  would rather have one ledger for the life of the repository.
+* The ledger is keyed by branch, not by lockfile. Changing the lockfile must
+  *not* reset the memory: adopting a new dependency that is already dead is
+  precisely the event this check exists to catch, and a reset baseline is
+  unable to report it. The ledger stores per-package verdicts, so packages that
+  disappeared from the tree do not linger as false alarms.
+* `actions/cache` is not a durable store -- entries are evicted after ~7 days
+  of not being touched, and a cache miss is a baseline run that cannot fail.
+  For a check you intend to rely on, commit `.deadledger/` to the repository,
+  or restore it from an artifact. The tool is designed for either.
 * `security-events: write` is only needed for the SARIF upload.
 
 ## Exit codes
