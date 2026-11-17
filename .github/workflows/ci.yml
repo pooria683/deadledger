@@ -73,13 +73,23 @@ jobs:
       # A hard outer timeout as well as the tool's own network deadline: a CI
       # job that hangs forever is worse than one that fails, because nothing
       # ever tells you it failed.
+      - name: Environment
+        run: |
+          deadledger --version
+          deadledger doctor || true
+          deadledger cache info || true
+
       - name: Mortality check
         timeout-minutes: 8
         run: |
           mkdir -p .deadledger
-          deadledger ci --report mortality.md --fail-on critical || status=$?
+          set +e
+          deadledger ci --report mortality.md --fail-on critical --format text
+          status=$?
+          set -e
+          echo "--- exit status: $status"
           if [ -f mortality.md ]; then cat mortality.md >> "$GITHUB_STEP_SUMMARY"; fi
-          exit ${status:-0}
+          exit $status
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
